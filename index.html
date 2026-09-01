@@ -341,6 +341,21 @@ fetch("news.json?t=" + Date.now())
       'and run the "Update news" workflow once to create it.</p>' +
       "<p>Details: " + escape(err.message) + "</p></div>";
   });
+  // Light/dark theme toggle
+const themeToggle = document.getElementById("theme-toggle");
+const html = document.documentElement;
+const saved = localStorage.getItem("theme") || "light";
+
+html.setAttribute("data-theme", saved);
+themeToggle.textContent = saved === "dark" ? "☀️" : "🌙";
+
+themeToggle.addEventListener("click", () => {
+  const current = html.getAttribute("data-theme");
+  const next = current === "dark" ? "light" : "dark";
+  html.setAttribute("data-theme", next);
+  localStorage.setItem("theme", next);
+  themeToggle.textContent = next === "dark" ? "☀️" : "🌙";
+});
 </script>
 
 </body>
