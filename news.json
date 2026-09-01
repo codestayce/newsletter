@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:57:52.405406+00:00",
+  "generated_at": "2026-09-01T20:25:54.756417+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,354 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 111,
+  "item_count": 113,
   "items": [
+    {
+      "id": "79ccbf4b32f9",
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Justine Calma",
+      "published": "2026-09-01T19:43:39+00:00",
+      "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become…",
+      "tags": [
+        "Apple",
+        "Climate",
+        "Energy",
+        "Environment",
+        "News",
+        "Science"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "49ae63348aa2",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Russell Brandom",
+      "published": "2026-09-01T19:39:22+00:00",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "fable",
+        "Mythos"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fcb9ff15cb8f",
+      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-09-01T19:30:24+00:00",
+      "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+      "tags": [
+        "TC",
+        "Venture",
+        "fifa",
+        "Thrive Capital"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "123fd05b4f2a",
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-01T19:03:01+00:00",
+      "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime , including a full Python installation, a…",
+      "tags": [
+        "codex",
+        "generative-ai",
+        "openai",
+        "ai",
+        "llms",
+        "openoffice"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "95180dea72b1",
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-01T19:02:54+00:00",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a…",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Security",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d4e4c8d0cfad",
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-01T18:19:26+00:00",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the…",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI",
+        "Policy",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "277d4475b349",
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-09-01T18:02:00+00:00",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "ceo",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c3eef50e9010",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "denysvitali",
+      "published": "2026-09-01T17:53:53+00:00",
+      "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 556 # Comments: 510",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d640857d5a6b",
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "steveklabnik",
+      "published": "2026-09-01T17:46:21+00:00",
+      "summary": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 115 # Comments: 94",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a5ab9354f6b7",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-01T17:35:37+00:00",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "tags": [
+        "AI",
+        "Apps",
+        "canva",
+        "Google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c147d52fa533",
+      "title": "The Pragmatic Engineer: Five years",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+      "source": "The Pragmatic Engineer — Gergely Orosz",
+      "source_id": "pragmatic_engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-09-01T17:14:34+00:00",
+      "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the ‘How Software Engineering is Changing’ essay contest",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "94473e635fd4",
+      "title": "Quoting Tarn Adams",
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-01T17:01:11+00:00",
+      "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
+      "tags": [
+        "ai",
+        "game-design"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "de425f98bc3e",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Ivan Mehta",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3b5f2688fec1",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "tags": [
+        "AI Adoption"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "30d6176b6132",
+      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sean O'Kane",
+      "published": "2026-09-01T16:49:12+00:00",
+      "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+      "tags": [
+        "Transportation",
+        "Tesla",
+        "Waymo",
+        "robotaxis",
+        "cybercab"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2d0c68e6d78e",
+      "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’",
+      "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Sean Hollister",
+      "published": "2026-09-01T16:46:08+00:00",
+      "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company…",
+      "tags": [
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e69dad8044e2",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-09-01T16:31:04+00:00",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Sequoia Capital",
+        "SREs"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "10e1c97e0937",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-09-01T16:00:52+00:00",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment…",
+      "tags": [
+        "AI",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "eafd89ecb2f4",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Jess Weatherbed",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed…",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ab183206da80",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "source_id": "google_ai",
+      "author": "Meg Whittenberger",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "tags": [
+        "Google Workspace",
+        "Google One",
+        "AI"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
     {
       "id": "2418d900670f",
       "title": "GoPro to be acquired for $285M, will remain a public company",
@@ -36,6 +382,19 @@
         "Mergers and Acquisitions",
         "Nick Woodman"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0a52bf1dddc2",
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "erikvanoosten",
+      "published": "2026-09-01T15:55:53+00:00",
+      "summary": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 Comments URL: https://news.ycombinator.com/item?id=49523754 Points: 382 # Comments: 153",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -57,6 +416,19 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d1bfe22b3e8d",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Limb",
+      "published": "2026-09-01T15:53:42+00:00",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 149 # Comments:…",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -87,15 +459,28 @@
       "source_id": "techcrunch",
       "author": "Ram Iyer",
       "published": "2026-09-01T15:45:51+00:00",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
       "tags": [
         "AI",
         "Security",
+        "Startups",
         "AI agents",
         "ai security",
-        "Greenoaks Capital",
-        "Sequoia Capital"
+        "Greenoaks Capital"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "efeea330601b",
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kikkupico",
+      "published": "2026-09-01T15:35:11+00:00",
+      "summary": "Article URL: https://ambientcss.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49523387 Points: 135 # Comments: 53",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -150,7 +535,28 @@
         "Fundraising",
         "Startups",
         "Transportation",
+        "cargo ship",
         "Exclusive"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6cf3a91f6d97",
+      "title": "It turns out that Orion's much-maligned heat shield performed really well",
+      "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Eric Berger",
+      "published": "2026-09-01T14:46:28+00:00",
+      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
+      "tags": [
+        "Space",
+        "heat shield",
+        "NASA",
+        "nasa leadership",
+        "orion",
+        "safety"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -203,24 +609,6 @@
       "region": "global"
     },
     {
-      "id": "7be26dbd48ab",
-      "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-      "url": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "John.Higgins",
-      "published": "2026-09-01T14:00:00+00:00",
-      "summary": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest…",
-      "tags": [
-        "News",
-        "Sonos",
-        "Speakers",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c43838030bf5",
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
       "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
@@ -231,9 +619,24 @@
       "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
       "tags": [
         "Startups",
+        "EdTech",
+        "Mergers and Acquisitions",
         "Unacademy",
         "UpGrad"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "96f425af28bd",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "HieronymusBosch",
+      "published": "2026-09-01T13:46:49+00:00",
+      "summary": "Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/ Comments URL: https://news.ycombinator.com/item?id=49521973 Points: 204 # Comments: 79",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -282,8 +685,8 @@
       "id": "87a21f5f9227",
       "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
       "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Jay Peters",
       "published": "2026-09-01T13:00:00+00:00",
       "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX…",
@@ -295,44 +698,22 @@
         "PC Gaming",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
-      "id": "82079b820a56",
-      "title": "Nvidia’s DLSS 5, explained",
-      "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sean Hollister",
+      "id": "309be27bdcfe",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
       "published": "2026-09-01T13:00:00+00:00",
-      "summary": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm…",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "tags": [
-        "Gaming",
-        "Nvidia",
-        "PC Gaming",
-        "Report",
-        "Tech"
+        "Safety"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dc6c202cbed6",
-      "title": "Roku’s first OLED TVs undercut the midrange competition",
-      "url": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "John.Higgins",
-      "published": "2026-09-01T13:00:00+00:00",
-      "summary": "Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next…",
-      "tags": [
-        "Gadgets",
-        "News",
-        "Tech",
-        "TVs"
-      ],
-      "tier": "startup_news",
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -349,6 +730,21 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "50e05f9b472e",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-01T12:00:00+00:00",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "tags": [
+        "Product"
+      ],
+      "tier": "labs",
+      "region": "global"
     },
     {
       "id": "d46c81da924e",
@@ -389,7 +785,7 @@
       "source_id": "hacker_news",
       "author": "hexa555",
       "published": "2026-09-01T10:11:02+00:00",
-      "summary": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 537 # Comments: 146",
+      "summary": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 740 # Comments: 209",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -411,13 +807,13 @@
     },
     {
       "id": "44526c1223b0",
-      "title": "44% on ARC-AGI-1 in 67 cents",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "porridgeraisin",
       "published": "2026-09-01T09:52:45+00:00",
-      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 245 # Comments: 70",
+      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 444 # Comments: 132",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -607,20 +1003,7 @@
       "source_id": "hacker_news",
       "author": "jcalx",
       "published": "2026-09-01T03:23:48+00:00",
-      "summary": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 268 # Comments: 61",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "18f3241c147c",
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "simonpure",
-      "published": "2026-09-01T03:16:36+00:00",
-      "summary": "Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 342 # Comments: 205",
+      "summary": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 348 # Comments: 80",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -659,7 +1042,7 @@
       "source_id": "hacker_news",
       "author": "nreece",
       "published": "2026-09-01T02:52:14+00:00",
-      "summary": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 669 # Comments: 425",
+      "summary": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 774 # Comments: 503",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -694,19 +1077,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "02e3f36427f0",
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "url": "https://github.com/fregacmols/RotaryCell",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jombib",
-      "published": "2026-09-01T02:29:23+00:00",
-      "summary": "Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 129 # Comments: 36",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "fc543f32f754",
@@ -752,41 +1122,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "7fd9f553ae26",
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-09-01T00:30:00+00:00",
-      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "Lachy Groom",
-        "Together Fund"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6a3db8bac480",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-09-01T00:13:00+00:00",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "58ab3fce0342",
@@ -857,55 +1192,6 @@
       "region": "global"
     },
     {
-      "id": "9046a513626a",
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-08-31T23:41:10+00:00",
-      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-      "tags": [
-        "Fundraising",
-        "In Brief",
-        "Polymarket",
-        "prediction markets"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e5ddf4d17ba4",
-      "title": "Tmp.0ut Volume 5",
-      "url": "https://tmpout.sh/5/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ghuntley",
-      "published": "2026-08-31T23:26:08+00:00",
-      "summary": "Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 156 # Comments: 33",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "50b111d2d231",
-      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-      "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-08-31T23:14:14+00:00",
-      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-      "tags": [
-        "Venture",
-        "a16z",
-        "Andreessen Horowitz",
-        "In Brief"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7208295a84e0",
       "title": "Murmell",
       "url": "https://www.producthunt.com/products/murmell",
@@ -931,24 +1217,6 @@
         "kakapo"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "4ea64796dbea",
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-08-31T22:14:05+00:00",
-      "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-      "tags": [
-        "Government & Policy",
-        "Venture",
-        "Andreessen Horowitz",
-        "greg brockman"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -992,23 +1260,6 @@
       "region": "global"
     },
     {
-      "id": "bef216b73739",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Kirsten Korosec",
-      "published": "2026-08-31T20:13:45+00:00",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "Grok"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a2a8cf7f5885",
       "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
       "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
@@ -1024,37 +1275,6 @@
         "films",
         "Ketchup Entertainment"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9ebf79eedf56",
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-08-31T19:32:21+00:00",
-      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "tags": [
-        "Social",
-        "Startups",
-        "TechCrunch Disrupt",
-        "TechCrunch Disrupt 2026"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f54622c92da4",
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "keithcarolus",
-      "published": "2026-08-31T18:21:33+00:00",
-      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 374 # Comments: 55",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1113,19 +1333,6 @@
       "region": "global"
     },
     {
-      "id": "a622eb96d8e7",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "speckx",
-      "published": "2026-08-31T16:47:11+00:00",
-      "summary": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 572 # Comments: 151",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6b0631a0e10f",
       "title": "TrustedRouter",
       "url": "https://www.producthunt.com/products/trustedrouter",
@@ -1172,19 +1379,6 @@
         "google maps",
         "government"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8b39e5a09eec",
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "cutoff",
-      "published": "2026-08-31T14:52:26+00:00",
-      "summary": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 704 # Comments: 221",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1360,19 +1554,6 @@
       "region": "india"
     },
     {
-      "id": "9a5f1851944b",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "thm",
-      "published": "2026-08-31T12:41:22+00:00",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 472 # Comments: 546",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "36e93c431dae",
       "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
@@ -1532,19 +1713,6 @@
       "region": "global"
     },
     {
-      "id": "ede1a8d40bf6",
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "matthewsinclair",
-      "published": "2026-08-30T22:37:01+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 545 # Comments: 72",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d0eb0464ee03",
       "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
       "url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
@@ -1585,19 +1753,6 @@
       "region": "global"
     },
     {
-      "id": "12bd4fc69979",
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vinnyglennon",
-      "published": "2026-08-30T17:05:32+00:00",
-      "summary": "https://archive.is/zUA3D Comments URL: https://news.ycombinator.com/item?id=49500504 Points: 195 # Comments: 202",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "81c500704937",
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
@@ -1613,26 +1768,6 @@
         "Politics"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2295fda68b4a",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Paresh Dave, WIRED.com",
-      "published": "2026-08-30T11:03:47+00:00",
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "tags": [
-        "AI",
-        "Biz & IT",
-        "ai data centers",
-        "data centers",
-        "Shoot Many Robots",
-        "syndication"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1710,91 +1845,13 @@
     },
     {
       "id": "df42191bbe6c",
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "NaOH",
       "published": "2026-08-29T21:25:17+00:00",
-      "summary": "Article URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ Comments URL: https://news.ycombinator.com/item?id=49493468 Points: 251 # Comments: 99",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "96a7353eb870",
-      "title": "oMLX",
-      "url": "https://www.producthunt.com/products/omlx",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Rabnoor Singh",
-      "published": "2026-08-29T20:17:05+00:00",
-      "summary": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1ddc1543e757",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "url": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Sana Hassan",
-      "published": "2026-08-29T18:57:26+00:00",
-      "summary": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial…",
-      "tags": [
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Staff",
-        "Technology",
-        "Tutorials"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "734058f6b7eb",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Terrence O’Brien",
-      "published": "2026-08-29T18:19:53+00:00",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Entertainment",
-        "Law",
-        "Music",
-        "News"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "7f677f01f80b",
-      "title": "Orato",
-      "url": "https://www.producthunt.com/products/orato-speech-coach",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Petros Tepoyan",
-      "published": "2026-08-29T17:02:44+00:00",
-      "summary": "Practice speaking with AI. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ae2b2fea109f",
-      "title": "Sourclip 2.0",
-      "url": "https://www.producthunt.com/products/sourclip",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Aditya Kumar",
-      "published": "2026-08-29T16:48:32+00:00",
-      "summary": "The research workspace built around Gemini Notebook Discussion | Link",
+      "summary": "Article URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ Comments URL: https://news.ycombinator.com/item?id=49493468 Points: 342 # Comments: 142",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
