@@ -1,0 +1,239 @@
+# Source list for AI / tech-startup newsletter
+#
+# status: verified  = I fetched this endpoint and it returned recent items
+#         unchecked = sourced from cross-referenced lists, run check_feeds.py to confirm
+#
+# full_text: true  = feed contains the whole article
+#            false = excerpt only, reader must click through
+#
+# Start with tier 1, 2 and 4. Add the rest once the pipeline works.
+
+tiers:
+
+  # ---------------------------------------------------------------
+  # TIER 1 — Global startup news. Funding rounds, launches, exits.
+  # This is the daily spine of the newsletter.
+  # ---------------------------------------------------------------
+  - name: startup_news
+    region: global
+    feeds:
+      - id: techcrunch
+        title: TechCrunch
+        url: https://techcrunch.com/feed/
+        status: verified
+        full_text: true
+        volume: 20-40/day
+        note: >
+          Fastest on funding rounds. Carries category tags (AI, Startups,
+          Fintech) in the RSS itself, so you can filter without keyword
+          matching. Highest-value feed in the whole list.
+
+      - id: hacker_news
+        title: Hacker News (100+ points)
+        url: https://hnrss.org/frontpage?points=100
+        status: unchecked
+        full_text: false
+        volume: 10-20/day
+        note: >
+          Not a publication, a filter. The points threshold cuts most of
+          the noise. Titles and links only.
+
+      - id: the_verge
+        title: The Verge
+        url: https://www.theverge.com/rss/index.xml
+        status: unchecked
+        full_text: false
+        volume: 30-50/day
+        note: High volume. Consider the AI-only feed below instead.
+
+      - id: ars_technica
+        title: Ars Technica
+        url: https://feeds.arstechnica.com/arstechnica/index
+        status: unchecked
+        full_text: false
+        volume: 15-25/day
+
+      - id: product_hunt
+        title: Product Hunt
+        url: https://www.producthunt.com/feed
+        status: unchecked
+        full_text: false
+        volume: daily leaderboard
+        note: What is actually shipping. Rankings are gameable, treat loosely.
+
+  # ---------------------------------------------------------------
+  # TIER 2 — AI-specific coverage
+  # ---------------------------------------------------------------
+  - name: ai_news
+    region: global
+    feeds:
+      - id: mit_tech_review_ai
+        title: MIT Technology Review (AI)
+        url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+        status: unchecked
+        full_text: false
+        note: Editorial and policy angle rather than launch coverage.
+
+      - id: verge_ai
+        title: The Verge — AI
+        url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+        status: unchecked
+        full_text: false
+        note: Use this instead of the main Verge feed if volume is a problem.
+
+      - id: marktechpost
+        title: MarkTechPost
+        url: https://www.marktechpost.com/feed/
+        status: unchecked
+        full_text: true
+        volume: high
+        note: Fast paper and model-release summaries. Watch the volume.
+
+      - id: tldr_ai
+        title: TLDR AI
+        url: https://tldr.tech/api/rss/ai
+        status: unchecked
+        full_text: false
+        volume: weekdays
+        note: Already-summarised daily digest. Good sanity check on your own output.
+
+      - id: huggingface
+        title: Hugging Face Blog
+        url: https://huggingface.co/blog/feed.xml
+        status: unchecked
+        full_text: true
+        note: Open-source model and tooling releases.
+
+  # ---------------------------------------------------------------
+  # TIER 3 — Primary sources. Announcements straight from the labs,
+  # before anyone reports on them.
+  # ---------------------------------------------------------------
+  - name: labs
+    region: global
+    feeds:
+      - id: openai
+        title: OpenAI News
+        url: https://openai.com/news/rss.xml
+        status: unchecked
+        full_text: true
+
+      - id: google_ai
+        title: Google AI Blog
+        url: https://blog.google/technology/ai/rss/
+        status: unchecked
+        full_text: true
+        note: Covers DeepMind releases too.
+
+    # Anthropic publishes at anthropic.com/news but exposes no RSS feed.
+    # Same for DeepLearning.AI's The Batch. Email-only for both.
+
+  # ---------------------------------------------------------------
+  # TIER 4 — Author newsletters. This is the part that makes your
+  # newsletter different from a wire-service scrape.
+  # ---------------------------------------------------------------
+  - name: authors
+    region: global
+    feeds:
+      - id: import_ai
+        title: Import AI — Jack Clark
+        url: https://importai.substack.com/feed
+        status: verified
+        full_text: true
+        volume: weekly
+        note: >
+          Research and policy analysis. Dense, opinionated. Note the feed
+          moved to Substack; the old jack-clark.net/rss endpoint is dead
+          and several published feed lists still have the wrong URL.
+
+      - id: simon_willison
+        title: Simon Willison's Weblog
+        url: https://simonwillison.net/atom/everything/
+        status: unchecked
+        full_text: true
+        volume: near-daily
+        note: Hands-on practitioner notes on LLM tooling. Very high signal.
+
+      - id: ahead_of_ai
+        title: Ahead of AI — Sebastian Raschka
+        url: https://magazine.sebastianraschka.com/feed
+        status: unchecked
+        full_text: true
+        volume: monthly-ish
+        note: Technical deep dives on LLM architecture.
+
+      - id: stratechery
+        title: Stratechery — Ben Thompson
+        url: https://stratechery.com/feed/
+        status: unchecked
+        full_text: false
+        note: >
+          Business strategy. Mostly paywalled, so you get headline plus
+          teaser. Still worth having as a pointer.
+
+      - id: pragmatic_engineer
+        title: The Pragmatic Engineer — Gergely Orosz
+        url: https://newsletter.pragmaticengineer.com/feed
+        status: unchecked
+        full_text: false
+        note: One free deep dive per week. Engineering-org reality checks.
+
+      - id: bens_bites
+        title: Ben's Bites — Ben Tossell
+        url: https://bensbites.beehiiv.com/feed
+        status: unchecked
+        full_text: true
+        volume: 2x/week
+        note: Builder-and-investor lens on AI launches.
+
+      - id: last_week_in_ai
+        title: Last Week in AI
+        url: https://lastweekin.ai/feed
+        status: unchecked
+        full_text: true
+        volume: weekly
+
+      - id: the_gradient
+        title: The Gradient
+        url: https://thegradient.pub/rss/
+        status: unchecked
+        full_text: true
+        volume: low
+        note: Long-form essays. Infrequent but substantial.
+
+      - id: a16z
+        title: a16z
+        url: https://a16z.com/feed/
+        status: unchecked
+        full_text: true
+        note: VC thesis content. Read as positioning, not neutral analysis.
+
+  # ---------------------------------------------------------------
+  # TIER 5 — India. Smaller weight per your brief, but these two
+  # break most Indian funding news before anyone else.
+  # ---------------------------------------------------------------
+  - name: india
+    region: india
+    feeds:
+      - id: inc42
+        title: Inc42
+        url: https://inc42.com/feed/
+        status: verified
+        full_text: true
+        volume: 10-20/day
+        note: Broadest Indian startup coverage. Funding, IPOs, shutdowns, policy.
+
+      - id: entrackr
+        title: Entrackr
+        url: https://entrackr.com/feed/
+        status: unchecked
+        full_text: true
+        note: >
+          Smaller team, but frequently first on Indian deal news — Inc42
+          and ET regularly credit them on scoops.
+
+      - id: yourstory
+        title: YourStory
+        url: https://yourstory.com/feed
+        status: unchecked
+        full_text: false
+        note: Founder stories and profiles more than breaking news.

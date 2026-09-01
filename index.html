@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Signal — AI and startup news, refreshed every six hours</title>
+<meta name="description" content="A running digest of global AI and tech-startup news, plus writing from people worth reading. Rebuilt every six hours.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #ffffff;
+    --ink: #14161a;
+    --muted: #5c6673;
+    --faint: #8b94a1;
+    --rule: #e6e8ec;
+    --accent: #1b44d8;
+    --band: #14161a;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 720px; margin: 0 auto; padding: 0 20px; }
+
+  a { color: inherit; }
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  /* --- masthead: the one place with weight --- */
+
+  .band { background: var(--band); color: #fff; padding: 40px 0 0; }
+
+  .band h1 {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  .tagline {
+    margin: 6px 0 28px;
+    color: #a7aeb9;
+    font-size: 15px;
+    max-width: 46ch;
+  }
+
+  .status {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    font-size: 13px;
+    color: #a7aeb9;
+    padding-bottom: 10px;
+  }
+
+  .status strong { color: #fff; font-weight: 500; }
+
+  .meter { height: 2px; background: #2c3038; }
+  .meter span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: #6f8dff;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .meter span { transition: width .6s ease; }
+  }
+
+  /* --- tabs --- */
+
+  .tabs {
+    display: flex;
+    gap: 26px;
+    border-bottom: 1px solid var(--rule);
+    position: sticky;
+    top: 0;
+    background: var(--paper);
+    z-index: 5;
+  }
+
+  .tabs button {
+    appearance: none;
+    background: none;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    padding: 16px 0;
+    font: inherit;
+    font-size: 15px;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .tabs button[aria-selected="true"] {
+    color: var(--ink);
+    font-weight: 500;
+    border-bottom-color: var(--ink);
+  }
+
+  .tabs .count { color: var(--faint); font-weight: 400; margin-left: 6px; }
+
+  /* --- feed --- */
+
+  .day {
+    margin: 36px 0 14px;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--faint);
+  }
+
+  article { padding: 20px 0; border-bottom: 1px solid var(--rule); }
+
+  .byline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+    font-size: 13px;
+  }
+
+  .source { color: var(--accent); font-weight: 500; }
+  .when, .who { color: var(--faint); }
+
+  article h2 {
+    margin: 0 0 6px;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 1.35;
+    letter-spacing: -0.01em;
+    max-width: 34ch;
+  }
+
+  article h2 a { text-decoration: none; }
+  article h2 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  article p { margin: 0; color: var(--muted); font-size: 15px; max-width: 62ch; }
+
+  /* --- states --- */
+
+  .note { padding: 56px 0; color: var(--muted); max-width: 52ch; }
+  .note h2 { font-size: 18px; font-weight: 500; color: var(--ink); margin: 0 0 8px; }
+  .note code {
+    background: #f2f3f5;
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+
+  footer {
+    margin: 48px 0;
+    padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    font-size: 13px;
+    color: var(--faint);
+  }
+
+  @media (max-width: 560px) {
+    .band h1 { font-size: 25px; }
+    article h2 { font-size: 18px; max-width: none; }
+    .tabs { gap: 18px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="band">
+  <div class="wrap">
+    <h1>Signal</h1>
+    <p class="tagline">Global AI and startup news, alongside writing from people worth reading. Rebuilt every six hours.</p>
+    <div class="status">
+      <span id="updated">Loading\u2026</span>
+      <span id="next"></span>
+    </div>
+  </div>
+  <div class="meter"><span id="meter"></span></div>
+</header>
+
+<div class="wrap">
+  <nav class="tabs" id="tabs" role="tablist" hidden></nav>
+  <main id="feed">
+    <div class="note"><h2>Loading the feed</h2><p>One moment.</p></div>
+  </main>
+  <footer id="footer"></footer>
+</div>
+
+<script>
+// Which tiers belong under which tab. Edit here if you add a tier to feeds.yaml.
+const TABS = [
+  { id: "global",       label: "Top stories",  match: it => it.region === "global" && it.tier !== "authors" },
+  { id: "perspectives", label: "Perspectives", match: it => it.tier === "authors" },
+  { id: "india",        label: "India",        match: it => it.region === "india" },
+];
+
+const REFRESH_HOURS = 6;
+const feedEl = document.getElementById("feed");
+const tabsEl = document.getElementById("tabs");
+
+let items = [];
+let active = TABS[0].id;
+
+function istDay(iso) {
+  return new Date(iso).toLocaleDateString("en-IN", {
+    timeZone: "Asia/Kolkata", weekday: "long", day: "numeric", month: "long",
+  });
+}
+
+function ago(iso) {
+  const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (mins < 60) return mins <= 1 ? "just now" : mins + " min ago";
+  const hrs = Math.round(mins / 60);
+  if (hrs < 24) return hrs + (hrs === 1 ? " hour ago" : " hours ago");
+  const days = Math.round(hrs / 24);
+  return days + (days === 1 ? " day ago" : " days ago");
+}
+
+function escape(text) {
+  const div = document.createElement("div");
+  div.textContent = text || "";
+  return div.innerHTML;
+}
+
+function renderStatus(generatedAt) {
+  const built = new Date(generatedAt);
+  const next = new Date(built.getTime() + REFRESH_HOURS * 3600 * 1000);
+  const elapsed = Date.now() - built;
+  const span = REFRESH_HOURS * 3600 * 1000;
+
+  document.getElementById("updated").innerHTML =
+    "Updated <strong>" + ago(generatedAt) + "</strong>";
+
+  const mins = Math.max(0, Math.round((next - Date.now()) / 60000));
+  document.getElementById("next").textContent = mins > 60
+    ? "Next update in about " + Math.round(mins / 60) + " hours"
+    : "Next update in about " + mins + " minutes";
+
+  document.getElementById("meter").style.width =
+    Math.min(100, Math.max(0, (elapsed / span) * 100)) + "%";
+}
+
+function renderTabs() {
+  tabsEl.hidden = false;
+  tabsEl.innerHTML = "";
+  TABS.forEach(tab => {
+    const n = items.filter(tab.match).length;
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.role = "tab";
+    btn.setAttribute("aria-selected", tab.id === active);
+    btn.innerHTML = escape(tab.label) + '<span class="count">' + n + "</span>";
+    btn.onclick = () => { active = tab.id; renderTabs(); renderFeed(); };
+    tabsEl.appendChild(btn);
+  });
+}
+
+function renderFeed() {
+  const tab = TABS.find(t => t.id === active);
+  const list = items.filter(tab.match);
+
+  if (!list.length) {
+    feedEl.innerHTML = '<div class="note"><h2>Nothing here yet</h2>' +
+      "<p>No stories matched this section in the last run. If it stays empty, " +
+      "check that the feeds for this section are alive by running " +
+      "<code>python check_feeds.py</code>.</p></div>";
+    return;
+  }
+
+  let html = "";
+  let day = null;
+
+  list.forEach(item => {
+    const d = istDay(item.published);
+    if (d !== day) { day = d; html += '<h2 class="day">' + escape(d) + "</h2>"; }
+
+    html += "<article>" +
+      '<div class="byline">' +
+        '<span class="source">' + escape(item.source) + "</span>" +
+        (item.author ? '<span class="who">' + escape(item.author) + "</span>" : "") +
+        '<span class="when">' + ago(item.published) + "</span>" +
+      "</div>" +
+      "<h2><a href=\"" + escape(item.url) + "\" target=\"_blank\" rel=\"noopener\">" +
+        escape(item.title) + "</a></h2>" +
+      (item.summary ? "<p>" + escape(item.summary) + "</p>" : "") +
+      "</article>";
+  });
+
+  feedEl.innerHTML = html;
+}
+
+// Cache-bust so a stale copy of news.json is never shown.
+fetch("news.json?t=" + Date.now())
+  .then(r => { if (!r.ok) throw new Error("news.json returned " + r.status); return r.json(); })
+  .then(data => {
+    items = data.items || [];
+    renderStatus(data.generated_at);
+    renderTabs();
+    renderFeed();
+
+    const failed = (data.sources_failed || []).length;
+    document.getElementById("footer").textContent =
+      data.item_count + " stories from " + data.sources_ok + " sources" +
+      (failed ? ", " + failed + " feed(s) unreachable" : "") +
+      ". Times shown in IST. Headlines and excerpts link to the original publishers.";
+  })
+  .catch(err => {
+    document.getElementById("updated").textContent = "Not loaded";
+    feedEl.innerHTML = '<div class="note"><h2>No news file found</h2>' +
+      "<p>The page could not read <code>news.json</code>. Go to the Actions tab " +
+      'and run the "Update news" workflow once to create it.</p>' +
+      "<p>Details: " + escape(err.message) + "</p></div>";
+  });
+</script>
+
+</body>
+</html>
