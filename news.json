@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:50:44.960350+00:00",
+  "generated_at": "2026-09-02T20:25:33.151158+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,370 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "13c4ef216462",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Russell Brandom",
+      "published": "2026-09-02T20:19:14+00:00",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "tags": [
+        "AI",
+        "ai safety",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "83b5117b8275",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-09-02T20:11:40+00:00",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as…",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1f0bc63a7a56",
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Zack Whittaker",
+      "published": "2026-09-02T19:35:09+00:00",
+      "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "tags": [
+        "Security",
+        "age verification",
+        "cybersecurity",
+        "data breach",
+        "identity theft",
+        "identity verification"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "909f8830f649",
+      "title": "1Password wades into a right-wing mess after funding a Linux project",
+      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jacob Kastrenakes",
+      "published": "2026-09-02T18:48:14+00:00",
+      "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in…",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "529b8798afb0",
+      "title": "Adobe Acquires Peak XV-Backed AI Martech Startup Rilo",
+      "url": "https://inc42.com/buzz/adobe-acquires-peak-xv-backed-ai-martech-startup-rilo/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-09-02T18:29:33+00:00",
+      "summary": "Software giant Adobe has acquired Peak XV Partners-backed martech startup Rilo for an undisclosed amount. An Adobe spokesperson confirmed the…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ca2980465003",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ryan Whitwam",
+      "published": "2026-09-02T18:13:54+00:00",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "tags": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "gemini",
+        "generative ai",
+        "google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c35364a7d0db",
+      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
+      "url": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-02T18:05:52+00:00",
+      "summary": "NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "a723b72506e3",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-09-02T17:58:33+00:00",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+      "tags": [
+        "AI",
+        "Policy",
+        "AI safety",
+        "Anthropic",
+        "cybersecurity",
+        "Donald Trump"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3aa3d7e1b7a3",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-02T17:52:56+00:00",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and…",
+      "tags": [
+        "AI",
+        "Amazon",
+        "Amazon Alexa",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e9b43b0860d4",
+      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
+      "url": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-02T17:20:24+00:00",
+      "summary": "Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ca762fc3e9d8",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "judah",
+      "published": "2026-09-02T17:18:39+00:00",
+      "summary": "Article URL: https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/ Comments URL: https://news.ycombinator.com/item?id=49539389 Points: 134 # Comments: 112",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9eff64c42b6e",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Theresa Loconsolo",
+      "published": "2026-09-02T17:18:13+00:00",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to…",
+      "tags": [
+        "AI",
+        "Startups",
+        "AI detection",
+        "Equity Video",
+        "Substack"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bbb8279bdef1",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-02T17:12:27+00:00",
+      "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "payments",
+        "X"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1996dc084d25",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-09-02T17:09:06+00:00",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "82b6b5feea4d",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-09-02T16:54:23+00:00",
+      "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "tags": [
+        "Climate",
+        "Fervo Energy",
+        "geothermal energy",
+        "Google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "867593e6e2dc",
+      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-02T16:40:50+00:00",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "43c216d63c8b",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-02T16:39:38+00:00",
+      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Tags: llm , gemini",
+      "tags": [
+        "llm",
+        "gemini"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "75fde16a17c3",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Hayden Field",
+      "published": "2026-09-02T16:12:25+00:00",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times…",
+      "tags": [
+        "AI",
+        "Copyright",
+        "Law",
+        "News",
+        "OpenAI",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f95dfcb0a242",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Ram Iyer",
+      "published": "2026-09-02T16:04:10+00:00",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "Forward deployed engineers",
+        "wonderful"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "40d5f1d8eb31",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-09-02T16:01:48+00:00",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "jio",
+        "JioPC",
+        "reliance jio"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "47ce74941c29",
       "title": "Google is sending MrBeast into the wilderness, armed with AI",
@@ -91,6 +455,19 @@
       "region": "india"
     },
     {
+      "id": "7bf309317e3e",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bratao",
+      "published": "2026-09-02T15:12:40+00:00",
+      "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 650 # Comments: 387",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4f5cb1e3be05",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
@@ -98,7 +475,7 @@
       "source_id": "techcrunch",
       "author": "Ram Iyer",
       "published": "2026-09-02T15:01:23+00:00",
-      "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "tags": [
         "AI",
         "Fundraising",
@@ -106,23 +483,6 @@
         "Delta-v Capital",
         "HiddenLayer",
         "M12"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dede7ee3a0dd",
-      "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-      "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Cameron Faulkner",
-      "published": "2026-09-02T14:58:15+00:00",
-      "summary": "Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extra hardware. Readers…",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -162,8 +522,8 @@
       "id": "3f755cb7de04",
       "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-02T14:35:03+00:00",
       "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California…",
@@ -173,15 +533,15 @@
         "OpenAI",
         "Policy"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
       "id": "281245409d26",
       "title": "NYC bans AI use for students until they reach high school",
       "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Jess Weatherbed",
       "published": "2026-09-02T14:30:00+00:00",
       "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and…",
@@ -190,6 +550,19 @@
         "News",
         "Policy"
       ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b47c11d25c24",
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "akkartik",
+      "published": "2026-09-02T14:16:45+00:00",
+      "summary": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 156 # Comments: 39",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -211,25 +584,6 @@
         "claude"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "b6c392ba1a18",
-      "title": "Tado’s new thermostat is designed as a Nest killer",
-      "url": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jennifer Pattison Tuohy",
-      "published": "2026-09-02T14:15:00+00:00",
-      "summary": "When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd gen), and aiming to attract European Nest users who haven't already jumped ship.…",
-      "tags": [
-        "Google",
-        "IFA 2026",
-        "News",
-        "Smart Home",
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -276,7 +630,7 @@
       "source_id": "hacker_news",
       "author": "jakobgreenfeld",
       "published": "2026-09-02T13:59:59+00:00",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 111 # Comments: 58",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 244 # Comments: 111",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -321,6 +675,19 @@
       "region": "global"
     },
     {
+      "id": "b45316071de9",
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vismit2000",
+      "published": "2026-09-02T13:47:49+00:00",
+      "summary": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 101 # Comments: 15",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "239ca552d2c9",
       "title": "[Update] Pernia’s Pop-Up Shop Parent IPO Closes With 1.29X Oversubscription",
       "url": "https://inc42.com/buzz/pernias-pop-up-shop-parent-ipo-subscribed-37-on-final-bidding-day/",
@@ -336,14 +703,27 @@
       "region": "india"
     },
     {
+      "id": "f409e799968b",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "randycupertino",
+      "published": "2026-09-02T13:40:29+00:00",
+      "summary": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 206 # Comments: 56",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "aca19a64dc0f",
-      "title": "A Note from LWN",
+      "title": "A note on subscription prices from LWN",
       "url": "https://lwn.net/Articles/1090585/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "rwky",
       "published": "2026-09-02T13:17:12+00:00",
-      "summary": "Article URL: https://lwn.net/Articles/1090585/ Comments URL: https://news.ycombinator.com/item?id=49535752 Points: 382 # Comments: 76",
+      "summary": "Article URL: https://lwn.net/Articles/1090585/ Comments URL: https://news.ycombinator.com/item?id=49535752 Points: 645 # Comments: 127",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -382,44 +762,27 @@
       "region": "india"
     },
     {
-      "id": "8d720c9b344b",
-      "title": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
-      "url": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jess Weatherbed",
-      "published": "2026-09-02T13:00:00+00:00",
-      "summary": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every Wednesday, each featuring \"a twist\" on games like Wordle, Strands, Connections, and…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "News"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "bae21da978fc",
-      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
-      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "id": "49c13dde39f2",
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "TechTechTech",
-      "published": "2026-09-02T12:55:40+00:00",
-      "summary": "Article URL: https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability Comments URL: https://news.ycombinator.com/item?id=49535526 Points: 140 # Comments: 116",
+      "author": "mdp2021",
+      "published": "2026-09-02T12:59:09+00:00",
+      "summary": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 155 # Comments: 65",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "441ed5a219b2",
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "teekert",
       "published": "2026-09-02T12:30:39+00:00",
-      "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 127 # Comments: 69",
+      "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 319 # Comments: 137",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -527,19 +890,6 @@
       "region": "india"
     },
     {
-      "id": "1d990f15f58a",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "amunozo",
-      "published": "2026-09-02T10:02:41+00:00",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 102 # Comments: 84",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d69c6b16e876",
       "title": "Fable 5.1, Enterprise Frontier Safeguards",
       "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
@@ -590,7 +940,7 @@
       "source_id": "hacker_news",
       "author": "giuliomagnifico",
       "published": "2026-09-02T08:36:43+00:00",
-      "summary": "Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 228 # Comments: 116",
+      "summary": "Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 293 # Comments: 149",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -761,19 +1111,6 @@
       "region": "global"
     },
     {
-      "id": "c4a33f02a535",
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "schmuhblaster",
-      "published": "2026-09-02T04:15:56+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 232 # Comments: 80",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a3d2e13760ef",
       "title": "Edtech’s Big Consolidation, ESDS’ Bumper IPO & More",
       "url": "https://inc42.com/buzz/edtechs-big-consolidation-esds-bumper-ipo-more/",
@@ -907,24 +1244,6 @@
       "region": "global"
     },
     {
-      "id": "46741aa0d646",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-09-01T22:08:24+00:00",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "tags": [
-        "AI",
-        "Venture",
-        "In Brief",
-        "Y Combinator"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f8f3841e3720",
       "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
       "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
@@ -955,23 +1274,6 @@
       "region": "global"
     },
     {
-      "id": "5e1133ac4fdd",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-09-01T21:06:24+00:00",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "efa55c1d2258",
       "title": "Claude Fable 5.1",
       "url": "https://www.producthunt.com/products/claude-fable-5-1",
@@ -981,44 +1283,6 @@
       "published": "2026-09-01T21:04:24+00:00",
       "summary": "Claude’s most advanced models for coding and knowledge work Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "57e5f01f44e5",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lauren Forristal",
-      "published": "2026-09-01T20:53:05+00:00",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Hardware",
-        "Android",
-        "Google"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0fb8d2131037",
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-01T20:48:32+00:00",
-      "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-      "tags": [
-        "Security",
-        "Social",
-        "hacks",
-        "X",
-        "x money"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1079,42 +1343,6 @@
       "region": "global"
     },
     {
-      "id": "49ae63348aa2",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Russell Brandom",
-      "published": "2026-09-01T19:39:22+00:00",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "fable",
-        "Mythos"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fcb9ff15cb8f",
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-09-01T19:30:24+00:00",
-      "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
-      "tags": [
-        "TC",
-        "Venture",
-        "fifa",
-        "Thrive Capital"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3f2700564b40",
       "title": "Research roundup: 7 cool science stories we almost missed",
       "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
@@ -1155,43 +1383,6 @@
       "region": "global"
     },
     {
-      "id": "95180dea72b1",
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-09-01T19:02:54+00:00",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a…",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Security",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "d4e4c8d0cfad",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-01T18:19:26+00:00",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the…",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI",
-        "Policy",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "5c2753a2624a",
       "title": "GeoJSON Map Viewer",
       "url": "https://simonwillison.net/2026/Sep/1/geojson/",
@@ -1210,43 +1401,6 @@
       "region": "global"
     },
     {
-      "id": "277d4475b349",
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-09-01T18:02:00+00:00",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "ceo",
-        "John Ternus",
-        "Tim Cook"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a5ab9354f6b7",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-01T17:35:37+00:00",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "tags": [
-        "AI",
-        "Apps",
-        "canva",
-        "Google"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c147d52fa533",
       "title": "The Pragmatic Engineer: Five years",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
@@ -1257,19 +1411,6 @@
       "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the ‘How Software Engineering is Changing’ essay contest",
       "tags": [],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "169a83d4d285",
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Alephinitesimal",
-      "published": "2026-09-01T17:12:15+00:00",
-      "summary": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 209 # Comments: 198",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1289,24 +1430,6 @@
       "region": "global"
     },
     {
-      "id": "de425f98bc3e",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-09-01T17:00:00+00:00",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3b5f2688fec1",
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows",
@@ -1319,41 +1442,6 @@
         "AI Adoption"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "10e1c97e0937",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-09-01T16:00:52+00:00",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment…",
-      "tags": [
-        "AI",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "eafd89ecb2f4",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jess Weatherbed",
-      "published": "2026-09-01T16:00:00+00:00",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed…",
-      "tags": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1802,21 +1890,15 @@
       "region": "global"
     },
     {
-      "id": "a2a8cf7f5885",
-      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-08-31T20:02:16+00:00",
-      "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-      "tags": [
-        "Culture",
-        "Coyote vs Acme",
-        "film reviews",
-        "films",
-        "Ketchup Entertainment"
-      ],
+      "id": "f7aabbf58c8e",
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "1970-01-01",
+      "published": "2026-08-31T19:25:44+00:00",
+      "summary": "Article URL: https://clui.org/collections/los-alamos-business-cards/selection-cards Comments URL: https://news.ycombinator.com/item?id=49513856 Points: 112 # Comments: 24",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1830,26 +1912,6 @@
       "published": "2026-08-31T18:52:42+00:00",
       "summary": "The AI that really does things Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fc94637995a4",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-08-31T18:10:45+00:00",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "tags": [
-        "AI",
-        "Policy",
-        "AI music",
-        "Anthropic",
-        "Claude",
-        "EMI"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1869,22 +1931,6 @@
         "The Algorithm"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3f04d91992a6",
-      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-      "url": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jacek Krywko",
-      "published": "2026-08-31T17:11:48+00:00",
-      "summary": "Finding reveals an overlooked way that water can damage surfaces.",
-      "tags": [
-        "Science",
-        "raindrops"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1926,47 +1972,6 @@
         "Daily Update"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "86d65d7eaaf3",
-      "title": "LWiAI Podcast #255 - Gemini 3.7, Jalapeño, Qwen 3.8, Drones",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno",
-      "source": "Last Week in AI",
-      "source_id": "last_week_in_ai",
-      "author": "Last Week in AI",
-      "published": "2026-08-31T08:20:04+00:00",
-      "summary": "Google announces Gemini 3.7 Flash, Jalapeño’s first results show industry-leading speed, A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "505cdffb5885",
-      "title": "Monid",
-      "url": "https://www.producthunt.com/products/monid",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ryan Hoover",
-      "published": "2026-08-31T07:07:32+00:00",
-      "summary": "OpenRouter for agent tools Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0703988e3a33",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
       "region": "global"
     }
   ]
