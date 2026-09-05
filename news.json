@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:34:59.071283+00:00",
+  "generated_at": "2026-09-05T09:51:16.575115+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,95 @@
   "item_count": 120,
   "items": [
     {
+      "id": "f94b0a2637c4",
+      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+      "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-05T06:48:29+00:00",
+      "summary": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Dataset",
+        "Editors Pick",
+        "New Releases"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "217a709ce297",
+      "title": "NoPaperForms files updated draft papers for IPO; eyes Rs 375 Cr via fresh issue",
+      "url": "https://yourstory.com/2026/09/nopaperforms-updated-draft-papers-ipo-rs-375-cr-fresh-issue",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-05T05:51:53+00:00",
+      "summary": "Education tech infrastructure firm NoPaperForms is set to tap the public markets with a Rs 375 crore fresh issue, alongside an OFS of 3.84 crore shares.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "1c4e30688853",
+      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+      "url": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-05T04:37:25+00:00",
+      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "59cd0110f9c2",
+      "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+      "url": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-05T03:52:23+00:00",
+      "summary": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "bc18547ae89f",
+      "title": "From Ultrahuman To Comet — Indian Startups Raised Over $177 Mn This Week",
+      "url": "https://inc42.com/buzz/from-ultrahuman-to-comet-indian-startups-raised-over-177-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-09-05T03:30:51+00:00",
+      "summary": "India’s startup funding market opened September on a softer note, extending its decline for a second straight week. Between August…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
       "id": "0e8a51ed8c86",
       "title": "Microsoft’s Puneet Chandok calls learning AI a ‘full contact body sport; Shaping the new tech order",
       "url": "https://yourstory.com/2026/09/microsofts-puneet-chandok-on-navigating-the-modern-tech-race",
@@ -33,6 +122,32 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "f541ae83479e",
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Cider9986",
+      "published": "2026-09-05T00:04:16+00:00",
+      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 211 # Comments: 72",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2d1aff01ef67",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "nojs",
+      "published": "2026-09-05T00:04:14+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 118 # Comments: 41",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "b3b9e98febac",
@@ -52,6 +167,19 @@
         "gpt-6-astra"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "44a6c9acd9ce",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "cebert",
+      "published": "2026-09-04T23:38:50+00:00",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 133 # Comments: 58",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -118,7 +246,7 @@
       "source_id": "hacker_news",
       "author": "karakoram",
       "published": "2026-09-04T22:03:16+00:00",
-      "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 208 # Comments: 143",
+      "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 419 # Comments: 318",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -131,7 +259,7 @@
       "source_id": "hacker_news",
       "author": "negura",
       "published": "2026-09-04T21:52:01+00:00",
-      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 259 # Comments: 147",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 491 # Comments: 270",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -144,7 +272,7 @@
       "source_id": "hacker_news",
       "author": "Topfi",
       "published": "2026-09-04T21:39:19+00:00",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 131 # Comments: 69",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 223 # Comments: 131",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -195,7 +323,7 @@
       "source_id": "hacker_news",
       "author": "p4bl0",
       "published": "2026-09-04T20:34:49+00:00",
-      "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 177 # Comments: 56",
+      "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 286 # Comments: 111",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -208,7 +336,7 @@
       "source_id": "hacker_news",
       "author": "iopapa",
       "published": "2026-09-04T19:48:29+00:00",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 176 # Comments: 114",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 260 # Comments: 153",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -278,6 +406,19 @@
       "region": "global"
     },
     {
+      "id": "2ed23ceecfed",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "aaraujo002",
+      "published": "2026-09-04T18:57:32+00:00",
+      "summary": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 108 # Comments: 21",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "bd3db53c80f8",
       "title": "Shutting down our public encrypted DNS",
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
@@ -285,7 +426,7 @@
       "source_id": "hacker_news",
       "author": "mywacaday",
       "published": "2026-09-04T18:50:28+00:00",
-      "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 260 # Comments: 104",
+      "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 345 # Comments: 157",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -298,7 +439,7 @@
       "source_id": "hacker_news",
       "author": "jlebar",
       "published": "2026-09-04T18:42:56+00:00",
-      "summary": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 508 # Comments: 323",
+      "summary": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 617 # Comments: 385",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -398,7 +539,7 @@
       "source_id": "hacker_news",
       "author": "acusti",
       "published": "2026-09-04T17:49:09+00:00",
-      "summary": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 116 # Comments: 22",
+      "summary": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 138 # Comments: 31",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -647,7 +788,7 @@
       "source_id": "hacker_news",
       "author": "gurjeet",
       "published": "2026-09-04T15:38:58+00:00",
-      "summary": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 116 # Comments: 41",
+      "summary": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 131 # Comments: 46",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -745,6 +886,19 @@
       "region": "global"
     },
     {
+      "id": "20f12ad361be",
+      "title": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Zac Zuo",
+      "published": "2026-09-04T14:18:13+00:00",
+      "summary": "Make new code the last resort Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "dbc032332995",
       "title": "Inside Urban Company’s Marketplace Model: What It Earns From Every Booking",
       "url": "https://inc42.com/features/inside-urban-companys-marketplace-model-what-it-keeps-from-every-booking/",
@@ -835,7 +989,7 @@
       "source_id": "hacker_news",
       "author": "artpar",
       "published": "2026-09-04T12:50:29+00:00",
-      "summary": "Article URL: https://bob.ibm.com/ Comments URL: https://news.ycombinator.com/item?id=49563851 Points: 230 # Comments: 265",
+      "summary": "Article URL: https://bob.ibm.com/ Comments URL: https://news.ycombinator.com/item?id=49563851 Points: 270 # Comments: 289",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -897,7 +1051,7 @@
       "source_id": "hacker_news",
       "author": "moultano",
       "published": "2026-09-04T11:54:53+00:00",
-      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1500 # Comments: 1195",
+      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1709 # Comments: 1316",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1088,6 +1242,19 @@
       "region": "global"
     },
     {
+      "id": "5a4d931021fc",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gioscarab",
+      "published": "2026-09-04T09:03:00+00:00",
+      "summary": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber. I…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "413a824669bc",
       "title": "Medulance Raises ₹24 Cr To Expand Emergency Response Network",
       "url": "https://inc42.com/buzz/medulance-raises-%e2%82%b924-cr-to-expand-emergency-response-network/",
@@ -1183,6 +1350,19 @@
       "region": "india"
     },
     {
+      "id": "2ac4e18fbc91",
+      "title": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Michał Wrzosek",
+      "published": "2026-09-04T05:02:54+00:00",
+      "summary": "Review code with your coding agents before committing Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a27c3a17b490",
       "title": "Ultrahuman bags $70M from Qualcomm Ventures, Alpha Wave, and others",
       "url": "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others",
@@ -1209,6 +1389,19 @@
         "Exclusive",
         "Generative AI"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5678112d2b7d",
+      "title": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Garry Tan",
+      "published": "2026-09-04T03:10:57+00:00",
+      "summary": "Open source AI gateway turning traffic into a better model Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1616,19 +1809,6 @@
       "region": "india"
     },
     {
-      "id": "8364010c7bb3",
-      "title": "Government-school teachers are ready for AI, survey finds",
-      "url": "https://yourstory.com/2026/09/government-school-teachers-ai-readiness-janai-survey",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-03T15:36:02+00:00",
-      "summary": "A JanAI survey finds 72% of government-school teachers support AI, while gaps in training, privacy and institutional support remain.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "b41f3a2ffd6d",
       "title": "WeatherNext 3",
       "url": "https://www.producthunt.com/products/weathernext-3",
@@ -1640,34 +1820,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "7a8effac3771",
-      "title": "HDB region can drive Karnataka’s tech-led growth, says Priyank Kharge",
-      "url": "https://yourstory.com/2026/09/hdb-region-karnataka-tech-led-growth-priyank-kharge",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-03T14:43:04+00:00",
-      "summary": "The HDB region is being positioned as a technology and manufacturing corridor under Karnataka’s Beyond Bengaluru push, with focus on startups, deep tech, ESDM, EVs and advanced engineering.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b798fb9ad60c",
-      "title": "KKR Backs BookMyShow As Live Entertainment Becomes Its Next Growth Engine",
-      "url": "https://inc42.com/features/kkr-backs-bookmyshow-as-live-entertainment-becomes-its-next-growth-engine/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Debarghya Sil",
-      "published": "2026-09-03T13:42:36+00:00",
-      "summary": "India’s live entertainment market is entering a new phase, and BookMyShow is at the centre of it. The company has…",
-      "tags": [
-        "In-Depth"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "98674a7dba32",
@@ -1741,6 +1893,21 @@
       "region": "global"
     },
     {
+      "id": "0f3b76bc480d",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "tags": [
+        "Research"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "ffcbb1046418",
       "title": "Inline",
       "url": "https://www.producthunt.com/products/inline-5",
@@ -1774,195 +1941,16 @@
       "region": "global"
     },
     {
-      "id": "6f31fc7acd4c",
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Najmuzzaman Mohammad",
-      "published": "2026-09-03T03:04:36+00:00",
-      "summary": "Claude Cowork for high-volume GTM workflows Discussion | Link",
+      "id": "c96fe31bf709",
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "samyok",
+      "published": "2026-09-03T05:35:31+00:00",
+      "summary": "https://lilting.ch/en/articles/rsa-260-factored-how-computed https://www.scientificamerican.com/article/whats-the-tech-be... https://en.wikipedia.org/wiki/RSA_numbers#RSA-260 Comments URL: https://news.ycombinator.com/item?id=49546284 Points: 114 # Comments: 61",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "85443373cca2",
-      "title": "Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊",
-      "url": "https://tldr.tech/ai/2026-09-03",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "45020768fad9",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "86b47b47cb74",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b844bdeeb825",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2e155b11d809",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "tags": [
-        "Safety"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "159a7dc922f8",
-      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
-      "url": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-02T23:48:47+00:00",
-      "summary": "We look at zg (zvec-grep), the local-first search layer that Qwen Developers just open-sourced under Apache 2.0. We explain how it puts ripgrep, BM25, and vector search behind a single interface, so an agent can move from a plain-language description to an exact line span…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "c35364a7d0db",
-      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
-      "url": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-02T18:05:52+00:00",
-      "summary": "NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Machine Learning",
-        "New Releases"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e9b43b0860d4",
-      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
-      "url": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-02T17:20:24+00:00",
-      "summary": "Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "43c216d63c8b",
-      "title": "llm-gemini 0.34",
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-02T16:39:38+00:00",
-      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber,…",
-      "tags": [
-        "ai",
-        "generative-ai",
-        "llms",
-        "llm",
-        "gemini",
-        "pelican-riding-a-bicycle"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "89955c6df582",
-      "title": "Google Gemini 3.8 Flash and Cyber",
-      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Rohan Chaubey",
-      "published": "2026-09-02T15:45:58+00:00",
-      "summary": "Next-gen Gemini for agents, reasoning, and cyber security Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7f0cad5ff04b",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "source_id": "google_ai",
-      "author": "Four Flynn",
-      "published": "2026-09-02T15:40:00+00:00",
-      "summary": "Introducing Fairwind Program",
-      "tags": [
-        "Gemini models",
-        "Safety & Security",
-        "AI"
-      ],
-      "tier": "labs",
       "region": "global"
     }
   ]
