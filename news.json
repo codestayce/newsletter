@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:08:30.928330+00:00",
+  "generated_at": "2026-09-06T14:48:01.663631+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,120 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 117,
   "items": [
+    {
+      "id": "07a080969bec",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-06T14:40:07+00:00",
+      "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling…",
+      "tags": [
+        "dns",
+        "scams",
+        "terence-eden"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "660840ab1ee6",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Allison Johnson",
+      "published": "2026-09-06T13:00:00+00:00",
+      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones…",
+      "tags": [
+        "Gadgets",
+        "Mobile",
+        "Phone Reviews",
+        "Reviews",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d0a872fac5b1",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Kallie Plagge",
+      "published": "2026-09-06T13:00:00+00:00",
+      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally…",
+      "tags": [
+        "Entertainment",
+        "Gaming",
+        "Pokemon",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5fe1fed39e99",
+      "title": "DIY plug-in solar gains momentum in the US",
+      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Thomas Ricker",
+      "published": "2026-09-06T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it…",
+      "tags": [
+        "Column",
+        "Energy",
+        "Science",
+        "Tech",
+        "The Stepback"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0c4cbb7ffcc5",
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "cyb0rg0",
+      "published": "2026-09-06T11:56:43+00:00",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 195 # Comments: 116",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b2298b008e38",
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "shubhamjain",
+      "published": "2026-09-06T11:53:40+00:00",
+      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 139 # Comments: 83",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6e2b5b86816b",
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jllyhill",
+      "published": "2026-09-06T10:39:44+00:00",
+      "summary": "Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 109 # Comments: 124",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "b0e2d5854a26",
       "title": "Quoting Zach Kehs",
@@ -44,10 +156,26 @@
       "source_id": "hacker_news",
       "author": "mpweiher",
       "published": "2026-09-06T07:21:06+00:00",
-      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 124 # Comments: 10",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 367 # Comments: 105",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
+    },
+    {
+      "id": "3af165114c50",
+      "title": "Indian Startup IPO Tracker 2026",
+      "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-09-06T07:00:54+00:00",
+      "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
+      "tags": [
+        "In-Depth",
+        "Listicle"
+      ],
+      "tier": "india",
+      "region": "india"
     },
     {
       "id": "f398f5c8c000",
@@ -170,6 +298,19 @@
       "region": "india"
     },
     {
+      "id": "4bff9357fa92",
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "firexcy",
+      "published": "2026-09-06T02:12:46+00:00",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 104 # Comments: 46",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "3901d7a20d0f",
       "title": "AI gets smarter, but can we control what’s next?",
       "url": "https://yourstory.com/2026/09/ai-gets-smarter-but-can-we-control-whats-next",
@@ -183,19 +324,6 @@
       "region": "india"
     },
     {
-      "id": "ae0c2e3335c6",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Anon84",
-      "published": "2026-09-06T01:52:45+00:00",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 181 # Comments: 136",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "fbaa403a36b2",
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "url": "https://cloudinabottle.org/blog/launch-post",
@@ -203,7 +331,7 @@
       "source_id": "hacker_news",
       "author": "zplizzi",
       "published": "2026-09-06T00:03:29+00:00",
-      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 403 # Comments: 189",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 510 # Comments: 256",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -216,7 +344,7 @@
       "source_id": "hacker_news",
       "author": "ExMachina73",
       "published": "2026-09-05T23:39:47+00:00",
-      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 403 # Comments: 60",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 502 # Comments: 88",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -268,7 +396,7 @@
       "source_id": "hacker_news",
       "author": "chmaynard",
       "published": "2026-09-05T21:37:49+00:00",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 357 # Comments: 147",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 470 # Comments: 220",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -310,19 +438,6 @@
       "region": "global"
     },
     {
-      "id": "68c8814ad49d",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "bookmtn",
-      "published": "2026-09-05T20:31:38+00:00",
-      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 605 # Comments: 318",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b6a75cdb30da",
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
@@ -330,7 +445,7 @@
       "source_id": "hacker_news",
       "author": "canjobear",
       "published": "2026-09-05T20:02:35+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 272 # Comments: 198",
+      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 333 # Comments: 226",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -434,7 +549,7 @@
       "source_id": "hacker_news",
       "author": "elvis70",
       "published": "2026-09-05T16:45:02+00:00",
-      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 255 # Comments: 93",
+      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 289 # Comments: 121",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -567,20 +682,7 @@
       "source_id": "hacker_news",
       "author": "networked",
       "published": "2026-09-05T13:36:38+00:00",
-      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 343 # Comments: 99",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0fa6201892d0",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "torutofu",
-      "published": "2026-09-05T13:31:05+00:00",
-      "summary": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 173 # Comments: 33",
+      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 361 # Comments: 106",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -628,25 +730,6 @@
         "AI",
         "OpenAI",
         "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "20c9948098c4",
-      "title": "Robotaxis enter their villain era",
-      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Rani Molla",
-      "published": "2026-09-05T11:00:00+00:00",
-      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present…",
-      "tags": [
-        "Autonomous Cars",
-        "Entertainment",
-        "Film",
-        "Report",
-        "Transportation"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -770,19 +853,6 @@
       "region": "india"
     },
     {
-      "id": "f541ae83479e",
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Cider9986",
-      "published": "2026-09-05T00:04:16+00:00",
-      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 679 # Comments: 345",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b3b9e98febac",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
@@ -859,19 +929,6 @@
       "region": "global"
     },
     {
-      "id": "0bd764270a92",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "negura",
-      "published": "2026-09-04T21:52:01+00:00",
-      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 775 # Comments: 467",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b329dd0f22f8",
       "title": "DocsAlot Visual Editor",
       "url": "https://www.producthunt.com/products/docsalot-2",
@@ -881,25 +938,6 @@
       "published": "2026-09-04T21:26:52+00:00",
       "summary": "Create beautiful docs, by typing. No AI required. Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "748384e8996f",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-04T21:23:50+00:00",
-      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more…",
-      "tags": [
-        "Apps",
-        "Entertainment",
-        "Music",
-        "News",
-        "Tech"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -936,23 +974,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "dd0ea52766ac",
-      "title": "The White House is making arcade games racist",
-      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Gaby Del Valle",
-      "published": "2026-09-04T19:42:54+00:00",
-      "summary": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded…",
-      "tags": [
-        "Gaming",
-        "Policy",
-        "Politics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "79ee9d272212",
@@ -1469,7 +1490,7 @@
       "source_id": "hacker_news",
       "author": "moultano",
       "published": "2026-09-04T11:54:53+00:00",
-      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2187 # Comments: 1545",
+      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2227 # Comments: 1564",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1761,22 +1782,6 @@
       "region": "global"
     },
     {
-      "id": "bad023ae8410",
-      "title": "RentoMojo Files RHP, Uber India Axes 200 Jobs & More",
-      "url": "https://inc42.com/buzz/rentomojo-files-rhp-uber-india-axes-200-jobs-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-04T02:30:43+00:00",
-      "summary": "RentoMojo Gears Up For IPO RentoMojo is just weeks away from its D-Street debut. The furniture and appliance rental startup…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "0c7ceada13b7",
       "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
       "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
@@ -1946,47 +1951,6 @@
       "summary": "Our most advanced and accurate global weather AI model Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "98674a7dba32",
-      "title": "Omarchy",
-      "url": "https://www.producthunt.com/products/omarchy-3",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Zac Zuo",
-      "published": "2026-09-03T13:35:00+00:00",
-      "summary": "The malleable OS for the age of agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5190d2a1dccd",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "tags": [
-        "Security"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "96a3500c5a4b",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-03T13:13:48+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
