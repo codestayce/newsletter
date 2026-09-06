@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:48:01.663631+00:00",
+  "generated_at": "2026-09-06T19:53:52.267222+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,103 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 117,
+  "item_count": 113,
   "items": [
+    {
+      "id": "10da54c7425a",
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Cider9986",
+      "published": "2026-09-06T17:51:23+00:00",
+      "summary": "Article URL: https://github.com/zedeus/nitter Comments URL: https://news.ycombinator.com/item?id=49589003 Points: 213 # Comments: 49",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e752bff20023",
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "zImPatrick",
+      "published": "2026-09-06T17:49:47+00:00",
+      "summary": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 153 # Comments: 41",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "102c9d67ffb9",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-06T16:45:00+00:00",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "AI",
+        "Travis Kalanick",
+        "Uber",
+        "atoms"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "157f2bfe6782",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-06T16:28:58+00:00",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back…",
+      "tags": [
+        "Gadgets",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a8e8f9dc895a",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tosh",
+      "published": "2026-09-06T16:27:05+00:00",
+      "summary": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 171 # Comments: 116",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7239456ba953",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Kirsten Korosec",
+      "published": "2026-09-06T16:08:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "Tesla",
+        "robotaxi",
+        "techcrunch mobility",
+        "cybercab"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "07a080969bec",
       "title": "The purpose of DNS is to spread scams",
@@ -36,6 +131,45 @@
         "terence-eden"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "7737bba1b986",
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "captainmuon",
+      "published": "2026-09-06T14:34:34+00:00",
+      "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 378 # Comments: 256",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bd0fa233af77",
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mdp2021",
+      "published": "2026-09-06T14:08:59+00:00",
+      "summary": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 210 # Comments: 134",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "652de82a1473",
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mraniki",
+      "published": "2026-09-06T13:02:41+00:00",
+      "summary": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 1123 # Comments: 226",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -96,13 +230,13 @@
     },
     {
       "id": "0c4cbb7ffcc5",
-      "title": "Intellectual Fly Is Open (2025)",
+      "title": "Your intellectual fly is open (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "cyb0rg0",
       "published": "2026-09-06T11:56:43+00:00",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 195 # Comments: 116",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 364 # Comments: 246",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -115,22 +249,25 @@
       "source_id": "hacker_news",
       "author": "shubhamjain",
       "published": "2026-09-06T11:53:40+00:00",
-      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 139 # Comments: 83",
+      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 279 # Comments: 195",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "6e2b5b86816b",
-      "title": "I Changed My License",
-      "url": "https://bergie.iki.fi/blog/eupl/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jllyhill",
-      "published": "2026-09-06T10:39:44+00:00",
-      "summary": "Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 109 # Comments: 124",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "fe2b1af47af1",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-06T09:08:06+00:00",
+      "summary": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning…",
+      "tags": [
+        "migrations",
+        "technical-debt"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -149,6 +286,21 @@
       "region": "global"
     },
     {
+      "id": "19672c4832d4",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-06T08:00:00+00:00",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "tags": [
+        "Research"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "2b97fcb19707",
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
@@ -156,7 +308,7 @@
       "source_id": "hacker_news",
       "author": "mpweiher",
       "published": "2026-09-06T07:21:06+00:00",
-      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 367 # Comments: 105",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 477 # Comments: 153",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -298,19 +450,6 @@
       "region": "india"
     },
     {
-      "id": "4bff9357fa92",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "firexcy",
-      "published": "2026-09-06T02:12:46+00:00",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 104 # Comments: 46",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3901d7a20d0f",
       "title": "AI gets smarter, but can we control what’s next?",
       "url": "https://yourstory.com/2026/09/ai-gets-smarter-but-can-we-control-whats-next",
@@ -331,20 +470,7 @@
       "source_id": "hacker_news",
       "author": "zplizzi",
       "published": "2026-09-06T00:03:29+00:00",
-      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 510 # Comments: 256",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5a28257a7646",
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ExMachina73",
-      "published": "2026-09-05T23:39:47+00:00",
-      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 502 # Comments: 88",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 579 # Comments: 283",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -396,7 +522,7 @@
       "source_id": "hacker_news",
       "author": "chmaynard",
       "published": "2026-09-05T21:37:49+00:00",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 470 # Comments: 220",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 538 # Comments: 252",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -434,19 +560,6 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b6a75cdb30da",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "canjobear",
-      "published": "2026-09-05T20:02:35+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 333 # Comments: 226",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -538,19 +651,6 @@
         "Music",
         "News"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "48bf78e14a07",
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "elvis70",
-      "published": "2026-09-05T16:45:02+00:00",
-      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 289 # Comments: 121",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -675,36 +775,6 @@
       "region": "global"
     },
     {
-      "id": "aaafcecdd919",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "networked",
-      "published": "2026-09-05T13:36:38+00:00",
-      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 361 # Comments: 106",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "078ec9bd2925",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "John.Higgins",
-      "published": "2026-09-05T13:00:00+00:00",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack…",
-      "tags": [
-        "Gadgets",
-        "Headphones",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "bc73374e782d",
       "title": "Nykaa completes acquisition of additional 24.2% stake in Earth Rhythm",
       "url": "https://yourstory.com/2026/09/nykaa-completes-acquisition-additional-stake-earth-rhythm",
@@ -721,8 +791,8 @@
       "id": "4a5a0bab7a3e",
       "title": "OpenAI admits to German wiki ‘incident’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Robert Hart",
       "published": "2026-09-05T11:15:55+00:00",
       "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki…",
@@ -731,7 +801,7 @@
         "OpenAI",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1483,19 +1553,6 @@
       "region": "india"
     },
     {
-      "id": "df15784065a9",
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "moultano",
-      "published": "2026-09-04T11:54:53+00:00",
-      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2227 # Comments: 1564",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "ce28291cac65",
       "title": "[Update] ESDS Shares End Market Debut 112% Above Issue Price On NSE",
       "url": "https://inc42.com/buzz/esds-software-makes-stellar-debut-lists-at-76-premium-on-nse/",
@@ -1752,23 +1809,6 @@
       "region": "global"
     },
     {
-      "id": "5eac92faee23",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-09-04T04:21:03+00:00",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "tags": [
-        "AI",
-        "Exclusive",
-        "Generative AI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5678112d2b7d",
       "title": "Experiential Labs",
       "url": "https://www.producthunt.com/products/experiential-labs",
@@ -1799,25 +1839,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "9f51bb0bfc69",
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-09-04T00:48:42+00:00",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "tags": [
-        "AI",
-        "Venture",
-        "crusoe",
-        "data centers",
-        "In Brief"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1873,84 +1894,6 @@
         "gpt-6-astra"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "cd975a75458b",
-      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
-      "url": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-03T19:46:59+00:00",
-      "summary": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "33adca7d5041",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Hayden Field",
-      "published": "2026-09-03T18:00:00+00:00",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as…",
-      "tags": [
-        "AI",
-        "Analysis",
-        "News",
-        "OpenAI",
-        "Report"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "dec831e363ff",
-      "title": "The Pulse: tech companies move to open AI models",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-09-03T17:00:14+00:00",
-      "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "455ca887342f",
-      "title": "Clockwork",
-      "url": "https://www.producthunt.com/products/clockwork-5",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Vimox Shah",
-      "published": "2026-09-03T15:55:16+00:00",
-      "summary": "The calendar where your AI agents show up for work Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b41f3a2ffd6d",
-      "title": "WeatherNext 3",
-      "url": "https://www.producthunt.com/products/weathernext-3",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ankit Sharma",
-      "published": "2026-09-03T15:17:27+00:00",
-      "summary": "Our most advanced and accurate global weather AI model Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
