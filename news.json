@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:53:52.267222+00:00",
+  "generated_at": "2026-09-07T02:29:00.594515+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,30 +19,184 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 113,
+  "item_count": 111,
   "items": [
     {
-      "id": "10da54c7425a",
-      "title": "Following legal advice, the Nitter project will continue",
-      "url": "https://github.com/zedeus/nitter",
+      "id": "a13367218555",
+      "title": "Ola Electric clears Rs 1,500 Cr fundraise; COO exits",
+      "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fundraise-coo-exits",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-07T02:00:00+00:00",
+      "summary": "Ola Electric’s board approved a fund raise of up to Rs 1,500 crore, while Shradha Sharma and Manoj Kumar Kohli were approved for re-appointment as independent directors.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "575ebe895a28",
+      "title": "Zerodha Moves To The Other Side Of The IPO Table",
+      "url": "https://inc42.com/features/zerodha-moves-to-the-other-side-of-the-ipo-table/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Debarghya Sil",
+      "published": "2026-09-07T00:30:45+00:00",
+      "summary": "Zerodha does not want to go public itself. But it wants to be involved in almost everything that happens when…",
+      "tags": [
+        "In-Depth",
+        "Inc42 Markets"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "bb23b6936a6a",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-06T23:57:40+00:00",
+      "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother…",
+      "tags": [
+        "ai",
+        "openai",
+        "generative-ai",
+        "chatgpt",
+        "llms",
+        "coding-agents"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "00a508e12afb",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-06T23:36:04+00:00",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting…",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "News",
+        "OpenAI",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e1b24dec0e9a",
+      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+      "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-06T21:06:41+00:00",
+      "summary": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "fa7cd6ac5819",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-06T20:56:38+00:00",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the…",
+      "tags": [
+        "Amazon",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c552c9e7d810",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-06T20:47:37+00:00",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "tags": [
+        "AI",
+        "Media & Entertainment"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0a7fab88510e",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "xena",
+      "published": "2026-09-06T20:32:38+00:00",
+      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 149 # Comments: 90",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "04c961206c67",
+      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+      "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-06T20:25:17+00:00",
+      "summary": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d240cb834695",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "Cider9986",
-      "published": "2026-09-06T17:51:23+00:00",
-      "summary": "Article URL: https://github.com/zedeus/nitter Comments URL: https://news.ycombinator.com/item?id=49589003 Points: 213 # Comments: 49",
+      "published": "2026-09-06T20:24:00+00:00",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 204 # Comments: 135",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "e752bff20023",
-      "title": "Nitter is unarchived and will continue",
+      "title": "Nitter and XCancel resume service after legal advice",
       "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "zImPatrick",
       "published": "2026-09-06T17:49:47+00:00",
-      "summary": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 153 # Comments: 41",
+      "summary": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 481 # Comments: 251",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -92,7 +246,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-09-06T16:27:05+00:00",
-      "summary": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 171 # Comments: 116",
+      "summary": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 336 # Comments: 288",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -117,6 +271,19 @@
       "region": "global"
     },
     {
+      "id": "f7f9058dd478",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jaypatelani",
+      "published": "2026-09-06T15:44:24+00:00",
+      "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 109 # Comments: 8",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "07a080969bec",
       "title": "The purpose of DNS is to spread scams",
       "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
@@ -135,39 +302,26 @@
     },
     {
       "id": "7737bba1b986",
-      "title": "A/I shuts down – Stay human",
+      "title": "A/I shuts down",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "captainmuon",
       "published": "2026-09-06T14:34:34+00:00",
-      "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 378 # Comments: 256",
+      "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 530 # Comments: 415",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "bd0fa233af77",
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "id": "4eb97e7acd82",
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "mdp2021",
       "published": "2026-09-06T14:08:59+00:00",
-      "summary": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 210 # Comments: 134",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "652de82a1473",
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mraniki",
-      "published": "2026-09-06T13:02:41+00:00",
-      "summary": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 1123 # Comments: 226",
+      "summary": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 360 # Comments: 205",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -230,26 +384,26 @@
     },
     {
       "id": "0c4cbb7ffcc5",
-      "title": "Your intellectual fly is open (2025)",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "cyb0rg0",
       "published": "2026-09-06T11:56:43+00:00",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 364 # Comments: 246",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 534 # Comments: 345",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "b2298b008e38",
-      "title": "Doomscrolling Ourselves to Death",
+      "title": "Doomscrolling ourselves to death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "shubhamjain",
       "published": "2026-09-06T11:53:40+00:00",
-      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 279 # Comments: 195",
+      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 369 # Comments: 269",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -286,21 +440,6 @@
       "region": "global"
     },
     {
-      "id": "19672c4832d4",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-06T08:00:00+00:00",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "tags": [
-        "Research"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
       "id": "2b97fcb19707",
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
@@ -308,7 +447,7 @@
       "source_id": "hacker_news",
       "author": "mpweiher",
       "published": "2026-09-06T07:21:06+00:00",
-      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 477 # Comments: 153",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 561 # Comments: 179",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -463,19 +602,6 @@
       "region": "india"
     },
     {
-      "id": "fbaa403a36b2",
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "zplizzi",
-      "published": "2026-09-06T00:03:29+00:00",
-      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 579 # Comments: 283",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b8133850cc19",
       "title": "Introducing GPT-6 Astra for developers",
       "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
@@ -511,19 +637,6 @@
         "Newsday",
         "OpenAI"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f22b7f9b64e2",
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "chmaynard",
-      "published": "2026-09-05T21:37:49+00:00",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 538 # Comments: 252",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -721,24 +834,6 @@
       "region": "india"
     },
     {
-      "id": "ac6f8944f131",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-05T15:00:00+00:00",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's…",
-      "tags": [
-        "Entertainment",
-        "Interview",
-        "Report",
-        "Sports"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2c2a335ddf65",
       "title": "Ola Electric Board Approves Fresh ₹1,500 Cr Fundraise After ₹780 Cr QIP",
       "url": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
@@ -753,26 +848,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "11870741553d",
-      "title": "Content creators drop the ball",
-      "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Charles Pulliam-Moore",
-      "published": "2026-09-05T14:00:16+00:00",
-      "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down.…",
-      "tags": [
-        "Analysis",
-        "Creators",
-        "Entertainment",
-        "Report",
-        "Sports",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "bc73374e782d",
@@ -1753,34 +1828,6 @@
       "region": "india"
     },
     {
-      "id": "b4a05a88fef7",
-      "title": "Indian-origin Anil Chakravarthy to take over as Adobe CEO",
-      "url": "https://yourstory.com/2026/09/indian-origin-anil-chakravarthy-to-take-over-as-adobe-ceo",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-04T07:40:03+00:00",
-      "summary": "Adobe has named Indian-origin executive Anil Chakravarthy as CEO, succeeding Shantanu Narayen as the software giant enters a new AI-driven phase of growth.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "bc905234b0a1",
-      "title": "RentoMojo Sets Price Band At ₹384-₹404 For ₹1,256 Cr IPO",
-      "url": "https://inc42.com/buzz/rentomojo-sets-price-band-at-%e2%82%b9384-%e2%82%b9404-for-%e2%82%b91256-cr-ipo/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-09-04T05:58:57+00:00",
-      "summary": "Furniture and appliance rental company RentoMojo has set a price band of ₹384-₹404 per share for its upcoming IPO. At…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "3e9af61cc03a",
       "title": "August newsletter is out",
       "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
@@ -1819,81 +1866,6 @@
       "summary": "Open source AI gateway turning traffic into a better model Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0c7ceada13b7",
-      "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
-      "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-04T01:21:49+00:00",
-      "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared…",
-      "tags": [
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2f299bad012a",
-      "title": "GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎",
-      "url": "https://tldr.tech/ai/2026-09-04",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-04T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6af0ac1fdf0a",
-      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
-      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-03T21:16:11+00:00",
-      "summary": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "d7b11e781758",
-      "title": "GPT‑6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-03T20:18:41+00:00",
-      "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a…",
-      "tags": [
-        "ai",
-        "openai",
-        "generative-ai",
-        "llms",
-        "llm-release",
-        "gpt-6-astra"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
