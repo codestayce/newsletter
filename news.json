@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:05:34.967937+00:00",
+  "generated_at": "2026-09-07T21:01:41.219371+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,114 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 105,
+  "item_count": 91,
   "items": [
+    {
+      "id": "d3b79588d4e9",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew J. Hawkins",
+      "published": "2026-09-07T20:03:41+00:00",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the…",
+      "tags": [
+        "Audi",
+        "Cars",
+        "Electric Cars",
+        "News",
+        "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "375e038f05f3",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+      "published": "2026-09-07T19:24:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "59c1bfe9bc4e",
+      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+      "url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-09-07T19:18:07+00:00",
+      "summary": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and…",
+      "tags": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "1776212fbe79",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rustywasm",
+      "published": "2026-09-07T18:52:06+00:00",
+      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 100 # Comments: 34",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0310756d4352",
+      "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
+      "url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-07T18:38:47+00:00",
+      "summary": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "98c2fef38626",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-09-07T18:02:29+00:00",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "tags": [
+        "Media & Entertainment",
+        "TC"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "83c2d84a2678",
       "title": "AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief",
@@ -86,6 +192,19 @@
       "region": "india"
     },
     {
+      "id": "60e372c20cb5",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "highfrequency",
+      "published": "2026-09-07T15:27:03+00:00",
+      "summary": "Article URL: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker Comments URL: https://news.ycombinator.com/item?id=49599481 Points: 281 # Comments: 183",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "34bda5b4bef8",
       "title": "Dronetech Startup AITMC’s FY26 Profit Remains Flat At ₹14.2 Cr, Revenue Up 26%",
       "url": "https://inc42.com/buzz/dronetech-startup-aitmcs-fy26-profit-remains-flat-at-%e2%82%b914-2-cr-revenue-up-26/",
@@ -134,7 +253,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-09-07T13:35:13+00:00",
-      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 166 # Comments: 53",
+      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 332 # Comments: 95",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -163,32 +282,6 @@
       "summary": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work, and more!",
       "tags": [],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "0b5ef84ae511",
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DanielVZ",
-      "published": "2026-09-07T13:00:48+00:00",
-      "summary": "Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/ Comments URL: https://news.ycombinator.com/item?id=49597907 Points: 344 # Comments: 139",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d8a34bc7cc4f",
-      "title": "Splash-free urinals (2025)",
-      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "u1hcw9nx",
-      "published": "2026-09-07T12:58:57+00:00",
-      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false Comments URL: https://news.ycombinator.com/item?id=49597895 Points: 160 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -280,19 +373,6 @@
       "region": "india"
     },
     {
-      "id": "1444d34605ce",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mdp2021",
-      "published": "2026-09-07T11:46:37+00:00",
-      "summary": "Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532 Comments URL: https://news.ycombinator.com/item?id=49597189 Points: 191 # Comments: 110",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7e83c438bbee",
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
@@ -330,19 +410,6 @@
       "region": "global"
     },
     {
-      "id": "c7bb1162481f",
-      "title": "Tiny $70 Xteink X3 e-reader",
-      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "samizdis",
-      "published": "2026-09-07T10:41:29+00:00",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ Comments URL: https://news.ycombinator.com/item?id=49596629 Points: 148 # Comments: 148",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5e6760b72a66",
       "title": "NoPaperForms DRHP: A Look At Shareholding Pattern & Key Executives",
       "url": "https://inc42.com/buzz/nopaperforms-drhp-a-look-at-shareholding-pattern-key-executives/",
@@ -358,19 +425,6 @@
       "region": "india"
     },
     {
-      "id": "ccd03e9e655f",
-      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "cianmm",
-      "published": "2026-09-07T09:33:39+00:00",
-      "summary": "Article URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/ Comments URL: https://news.ycombinator.com/item?id=49596119 Points: 257 # Comments: 179",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "38c2ab651ad7",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
@@ -378,7 +432,20 @@
       "source_id": "hacker_news",
       "author": "astroanax",
       "published": "2026-09-07T09:26:53+00:00",
-      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 140 # Comments: 29",
+      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 195 # Comments: 60",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8fb31a39b25a",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ankitg12",
+      "published": "2026-09-07T09:26:41+00:00",
+      "summary": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comments URL: https://news.ycombinator.com/item?id=49596054 Points: 123 # Comments: 40",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -391,7 +458,7 @@
       "source_id": "hacker_news",
       "author": "coinfused",
       "published": "2026-09-07T09:02:47+00:00",
-      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 136 # Comments: 61",
+      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 169 # Comments: 72",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -480,19 +547,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "bbac755a04bf",
-      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "chris_overseas",
-      "published": "2026-09-07T07:03:20+00:00",
-      "summary": "https://www.youtube.com/watch?v=6IFVTcM28KA Comments URL: https://news.ycombinator.com/item?id=49594878 Points: 848 # Comments: 419",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "359b6a088d1d",
@@ -636,7 +690,7 @@
       "source_id": "hacker_news",
       "author": "sonicrocketman",
       "published": "2026-09-07T03:29:51+00:00",
-      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 779 # Comments: 197",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 905 # Comments: 223",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -699,6 +753,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "628c4606b414",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "treve",
+      "published": "2026-09-07T00:22:04+00:00",
+      "summary": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 290 # Comments: 608",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "063fd7bcfc30",
@@ -783,32 +850,6 @@
       "region": "global"
     },
     {
-      "id": "b8daa0a9e9fb",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "azhenley",
-      "published": "2026-09-06T23:14:08+00:00",
-      "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 288 # Comments: 100",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "233023e6a5b3",
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "_alternator_",
-      "published": "2026-09-06T23:02:11+00:00",
-      "summary": "Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/ Comments URL: https://news.ycombinator.com/item?id=49591793 Points: 102 # Comments: 120",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a9ac064d0b99",
       "title": "Tucky",
       "url": "https://www.producthunt.com/products/tucky",
@@ -869,21 +910,10 @@
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "tags": [
         "AI",
-        "Media & Entertainment"
+        "Media & Entertainment",
+        "Anthropic",
+        "copyright infringement"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0a7fab88510e",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "xena",
-      "published": "2026-09-06T20:32:38+00:00",
-      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 332 # Comments: 168",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -908,32 +938,6 @@
       "region": "global"
     },
     {
-      "id": "d240cb834695",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Cider9986",
-      "published": "2026-09-06T20:24:00+00:00",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 367 # Comments: 232",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9e6309ef0f5c",
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "imadtaieber",
-      "published": "2026-09-06T19:27:10+00:00",
-      "summary": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things. Comments URL:…",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "102c9d67ffb9",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -943,12 +947,12 @@
       "published": "2026-09-06T16:45:00+00:00",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "tags": [
+        "AI",
         "Startups",
         "Transportation",
-        "AI",
-        "Travis Kalanick",
-        "Uber",
-        "atoms"
+        "atoms",
+        "In Brief",
+        "Travis Kalanick"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1017,25 +1021,6 @@
         "terence-eden"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "660840ab1ee6",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Allison Johnson",
-      "published": "2026-09-06T13:00:00+00:00",
-      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones…",
-      "tags": [
-        "Gadgets",
-        "Mobile",
-        "Phone Reviews",
-        "Reviews",
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1187,6 +1172,7 @@
       "tags": [
         "AI",
         "Media & Entertainment",
+        "In Brief",
         "Microsoft",
         "Newsday",
         "OpenAI"
@@ -1226,7 +1212,8 @@
       "tags": [
         "AI",
         "gemini",
-        "Google"
+        "Google",
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1389,46 +1376,6 @@
       "region": "global"
     },
     {
-      "id": "1c4e30688853",
-      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-      "url": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-05T04:37:25+00:00",
-      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost .",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "59cd0110f9c2",
-      "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
-      "url": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-05T03:52:23+00:00",
-      "summary": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "b3b9e98febac",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
@@ -1450,7 +1397,7 @@
     },
     {
       "id": "d7b2d01e2750",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
@@ -1477,9 +1424,8 @@
       "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
       "tags": [
         "AI",
-        "breach",
-        "OpenAI",
-        "Hugging Face"
+        "Hugging Face",
+        "OpenAI"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1532,170 +1478,6 @@
         "In Brief",
         "compute",
         "nscale"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "836e6a043916",
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-09-04T19:01:02+00:00",
-      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "tags": [
-        "Science",
-        "medieval manuscripts",
-        "virology"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7cccdbfe5204",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "MIT Technology Review Insights",
-      "published": "2026-09-04T18:39:19+00:00",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs…",
-      "tags": [
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "86b9311d3c3d",
-      "title": "2026.36: Friction and Feedback",
-      "url": "https://stratechery.com/2026/friction-and-feedback/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-09-04T17:55:39+00:00",
-      "summary": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
-      "tags": [
-        "This Week in Stratechery"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "1115b0321b29",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-04T17:52:05+00:00",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Twitter",
-        "X"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fc75f575fc53",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-04T17:51:35+00:00",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed…",
-      "tags": [
-        "AI",
-        "Apps",
-        "Entertainment",
-        "Music",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "5ba31ce361d2",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-04T17:38:48+00:00",
-      "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research…",
-      "tags": [
-        "django",
-        "perl",
-        "wikis",
-        "ai",
-        "openai",
-        "generative-ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "a14f9fda6dd2",
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Scharon Harding",
-      "published": "2026-09-04T17:35:02+00:00",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "tags": [
-        "Biz & IT",
-        "Broadcom",
-        "virtualization",
-        "vmware"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dd6fb7a794ea",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Dan Goodin",
-      "published": "2026-09-04T17:18:12+00:00",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "tags": [
-        "AI",
-        "Biz & IT",
-        "Security",
-        "ascii smuggling",
-        "prompt injections",
-        "spam filter evasion"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8387f1efcfcf",
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Theresa Loconsolo",
-      "published": "2026-09-04T17:18:00+00:00",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in.…",
-      "tags": [
-        "AI",
-        "Apple",
-        "John Ternus",
-        "nvidia",
-        "Tesla",
-        "Tim Cook"
       ],
       "tier": "startup_news",
       "region": "global"
