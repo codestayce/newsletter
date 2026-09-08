@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:01:41.219371+00:00",
+  "generated_at": "2026-09-08T02:42:00.483850+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,153 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 91,
+  "item_count": 93,
   "items": [
+    {
+      "id": "05aac53e80e3",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-09-08T02:16:39+00:00",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million…",
+      "tags": [
+        "Real estate",
+        "TC",
+        "Eric Wu",
+        "OpenDoor"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7e7cf4f0f37c",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Sean Hollister",
+      "published": "2026-09-08T02:00:00+00:00",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After…",
+      "tags": [
+        "Gaming",
+        "Mobile",
+        "News",
+        "Report",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e3ae08566cef",
+      "title": "Pixxel bags $100M in India’s biggest spacetech fundraise; Food delivery app Swish to raise Rs 225 Cr",
+      "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-08T02:00:00+00:00",
+      "summary": "Dear Reader, eB2B platform Udaan is set to acquire Swiggy’s distribution business Lynk Logistics for Rs 500 crore. The transaction involves a share swap agreement following which Swiggy will have a minority stake in Udaan. The deal strengthens Udaan’s distribution network and…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "0387d4cd01fb",
+      "title": "GalaxEye Secures US Patent for Satellite Imaging Tech",
+      "url": "https://inc42.com/buzz/galaxeye-secures-us-patent-for-satellite-imaging-tech/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-09-08T00:30:09+00:00",
+      "summary": "In a first for an Indian spacetech startup, GalaxEye has got a US patent for satellite imaging technology, securing its…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "1bfd7f6e1b29",
+      "title": "llm 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-07T23:54:54+00:00",
+      "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+      "tags": [
+        "openai",
+        "llm",
+        "gpt-6-astra"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "71b69b68bdd2",
+      "title": "Creepy crawlies",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-07T23:08:58+00:00",
+      "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we…",
+      "tags": [
+        "crawling",
+        "git",
+        "linux",
+        "datasette",
+        "ai-ethics"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "86ca6d285b30",
+      "title": "Quoting Jakub Pachocki",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-07T22:26:25+00:00",
+      "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real…",
+      "tags": [
+        "ai-ethics",
+        "openai",
+        "ai"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "8b5f7f93181f",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "CMDDestory",
+      "published": "2026-09-07T22:12:38+00:00",
+      "summary": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 106 # Comments: 34",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "877888d4d8b1",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "josephcsible",
+      "published": "2026-09-07T20:32:55+00:00",
+      "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 100 # Comments: 49",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "d3b79588d4e9",
       "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
@@ -86,7 +231,7 @@
       "source_id": "hacker_news",
       "author": "rustywasm",
       "published": "2026-09-07T18:52:06+00:00",
-      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 100 # Comments: 34",
+      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 225 # Comments: 112",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -109,6 +254,26 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d4c2f1884bb0",
+      "title": "Video compressor",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-07T18:29:07+00:00",
+      "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of…",
+      "tags": [
+        "ffmpeg",
+        "video",
+        "webassembly",
+        "claude",
+        "claude-code",
+        "claude-mythos-fable"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -141,6 +306,24 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "b206cff9a692",
+      "title": "Mercator ↔ Equal Earth",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-07T16:24:16+00:00",
+      "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding ,…",
+      "tags": [
+        "geospatial",
+        "d3",
+        "vibe-coding",
+        "gpt-6-astra"
+      ],
+      "tier": "authors",
+      "region": "global"
     },
     {
       "id": "1a24d8a8dcd5",
@@ -192,19 +375,6 @@
       "region": "india"
     },
     {
-      "id": "60e372c20cb5",
-      "title": "Bill Gates tries to install MovieMaker (2003)",
-      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "highfrequency",
-      "published": "2026-09-07T15:27:03+00:00",
-      "summary": "Article URL: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker Comments URL: https://news.ycombinator.com/item?id=49599481 Points: 281 # Comments: 183",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "34bda5b4bef8",
       "title": "Dronetech Startup AITMC’s FY26 Profit Remains Flat At ₹14.2 Cr, Revenue Up 26%",
       "url": "https://inc42.com/buzz/dronetech-startup-aitmcs-fy26-profit-remains-flat-at-%e2%82%b914-2-cr-revenue-up-26/",
@@ -253,7 +423,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-09-07T13:35:13+00:00",
-      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 332 # Comments: 95",
+      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 387 # Comments: 110",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -432,20 +602,7 @@
       "source_id": "hacker_news",
       "author": "astroanax",
       "published": "2026-09-07T09:26:53+00:00",
-      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 195 # Comments: 60",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8fb31a39b25a",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ankitg12",
-      "published": "2026-09-07T09:26:41+00:00",
-      "summary": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comments URL: https://news.ycombinator.com/item?id=49596054 Points: 123 # Comments: 40",
+      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 232 # Comments: 82",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -458,7 +615,7 @@
       "source_id": "hacker_news",
       "author": "coinfused",
       "published": "2026-09-07T09:02:47+00:00",
-      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 169 # Comments: 72",
+      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 187 # Comments: 77",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -690,7 +847,7 @@
       "source_id": "hacker_news",
       "author": "sonicrocketman",
       "published": "2026-09-07T03:29:51+00:00",
-      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 905 # Comments: 223",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 958 # Comments: 247",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -708,19 +865,6 @@
         "News",
         "Inc42 Daily Brief"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a13367218555",
-      "title": "Ola Electric clears Rs 1,500 Cr fundraise; Startup funding dips marginally",
-      "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fundraise-coo-exits",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-07T02:00:00+00:00",
-      "summary": "Ola Electric’s board approved a fund raise of up to Rs 1,500 crore, while Shradha Sharma and Manoj Kumar Kohli were approved for re-appointment as independent directors.",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -762,7 +906,7 @@
       "source_id": "hacker_news",
       "author": "treve",
       "published": "2026-09-07T00:22:04+00:00",
-      "summary": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 290 # Comments: 608",
+      "summary": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 549 # Comments: 742",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -958,23 +1102,6 @@
       "region": "global"
     },
     {
-      "id": "157f2bfe6782",
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-06T16:28:58+00:00",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back…",
-      "tags": [
-        "Gadgets",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4df8709e9ec6",
       "title": "Remind",
       "url": "https://www.producthunt.com/products/remind-7",
@@ -1021,6 +1148,19 @@
         "terence-eden"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "a7bae0d3d5c0",
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "worldvoyageur",
+      "published": "2026-09-06T13:07:52+00:00",
+      "summary": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 137 # Comments: 13",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1323,20 +1463,17 @@
       "region": "india"
     },
     {
-      "id": "2c2a335ddf65",
-      "title": "Ola Electric Board Approves Fresh ₹1,500 Cr Fundraise After ₹780 Cr QIP",
-      "url": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-09-05T14:52:11+00:00",
-      "summary": "Listed EV maker Ola Electric’s board has approved a fresh fundraise of up to ₹1,500 Cr, three months after the…",
-      "tags": [
-        "News",
-        "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
+      "id": "b5638f4ce3a9",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "signa11",
+      "published": "2026-09-05T11:25:18+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 159 # Comments: 35",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "4a5a0bab7a3e",
@@ -1373,113 +1510,6 @@
         "New Releases"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b3b9e98febac",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-04T23:59:05+00:00",
-      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol,…",
-      "tags": [
-        "ai",
-        "openai",
-        "generative-ai",
-        "llms",
-        "pelican-riding-a-bicycle",
-        "gpt-6-astra"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "d7b2d01e2750",
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-09-04T23:36:14+00:00",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Startups",
-        "8VC"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fe3e9affeeaa",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Rebecca Bellan",
-      "published": "2026-09-04T23:15:11+00:00",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b7783d569ea3",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Dan Goodin",
-      "published": "2026-09-04T22:17:36+00:00",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "tags": [
-        "AI",
-        "Biz & IT",
-        "Security",
-        "AI agents",
-        "ai insecurity",
-        "openai"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b329dd0f22f8",
-      "title": "DocsAlot Visual Editor",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "faizan khan",
-      "published": "2026-09-04T21:26:52+00:00",
-      "summary": "Create beautiful docs, by typing. No AI required. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "886491e995a1",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-09-04T21:12:11+00:00",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "tags": [
-        "AI",
-        "nvidia",
-        "In Brief",
-        "compute",
-        "nscale"
-      ],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
