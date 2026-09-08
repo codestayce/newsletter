@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-08T10:28:02.604822+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-08T15:54:17.964410+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "Hacker News (100+ points)",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -19,8 +23,371 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 102,
+  "item_count": 98,
   "items": [
+    {
+      "id": "26bcca068ce7",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-09-08T15:25:35+00:00",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+      "tags": [
+        "Climate",
+        "Google",
+        "NextEra Energy",
+        "nuclear power"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e9d47611d6c5",
+      "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
+      "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-08T15:08:14+00:00",
+      "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "1b1e8f9ae6c4",
+      "title": "Pusheen’s first game is coming to Apple Arcade",
+      "url": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-08T15:07:13+00:00",
+      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the…",
+      "tags": [
+        "Apple",
+        "Apps",
+        "Entertainment",
+        "Gaming",
+        "Mobile",
+        "News"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3cdd08c8d223",
+      "title": "Tazapay to be acquired by Circle in $400M stock deal",
+      "url": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-08T15:05:22+00:00",
+      "summary": "US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "2819dceb517b",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-08T15:04:09+00:00",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "tags": [
+        "Security",
+        "Chrome",
+        "AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d020aefb04c6",
+      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+      "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Cameron Faulkner",
+      "published": "2026-09-08T15:03:07+00:00",
+      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge…",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "798827054994",
+      "title": "Nintendo’s Ocarina of Time remake launches in November",
+      "url": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-09-08T14:26:02+00:00",
+      "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few…",
+      "tags": [
+        "Entertainment",
+        "Gaming",
+        "News",
+        "Nintendo"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4f420d1c5cd0",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_id": "huggingface",
+      "author": null,
+      "published": "2026-09-08T14:23:07+00:00",
+      "summary": "",
+      "tags": [],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "94816f485172",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anna Heim",
+      "published": "2026-09-08T14:17:48+00:00",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "tags": [
+        "AI",
+        "Mistral AI",
+        "Samsung Electronics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "60dede43bd73",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-09-08T14:10:17+00:00",
+      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "bluecore",
+        "nuclear energy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "45ec8aab6cf7",
+      "title": "Microsoft breaks another patch Tuesday record",
+      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Tom Warren",
+      "published": "2026-09-08T14:00:00+00:00",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software…",
+      "tags": [
+        "Microsoft",
+        "Notepad",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f5d6ebe96433",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-08T14:00:00+00:00",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called…",
+      "tags": [
+        "AI",
+        "Google",
+        "Health",
+        "Science",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fd94fc146d75",
+      "title": "EV batteries last longer than drivers feared",
+      "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Kana Inagaki and Clara Murray in London",
+      "published": "2026-09-08T13:56:38+00:00",
+      "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
+      "tags": [
+        "Cars",
+        "EVs",
+        "syndication"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8aea78fedbbd",
+      "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
+      "url": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-09-08T13:50:00+00:00",
+      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to…",
+      "tags": [
+        "Entertainment",
+        "Gaming",
+        "News",
+        "Nintendo"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "16a729ab2e85",
+      "title": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI",
+      "url": "https://inc42.com/buzz/bajaj-finance-picks-up-5-stake-in-ai-video-startup-truefan-ai/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-09-08T13:03:52+00:00",
+      "summary": "Bajaj Finance, the NBFC arm of Bajaj Finserv, has acquired a 5% stake in Delhi NCR-based AI video generation platform…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ed08e997c10f",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sean O'Kane",
+      "published": "2026-09-08T13:00:00+00:00",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "airborne cargo",
+        "autonomous aircraft",
+        "aviation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8171e789e2b9",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Thomas Ricker",
+      "published": "2026-09-08T13:00:00+00:00",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves…",
+      "tags": [
+        "Adobe",
+        "AI",
+        "Creators",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T13:00:00+00:00",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "0365b1347deb",
+      "title": "Startup news and updates: Daily roundup (September 8, 2026)",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-8-2026",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-08T11:32:26+00:00",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, September 8, 2026.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7678bea5dff2",
+      "title": "Indian Soonicorn Tracker: List Of India’s Unicorns Of Tomorrow",
+      "url": "https://inc42.com/features/indian-soonicorn-tracker-list-of-indias-unicorns-of-tomorrow/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Akshit Pushkarna",
+      "published": "2026-09-08T10:45:33+00:00",
+      "summary": "The days when almost every other fast-growing startup could attract large investor cheques are over. After multiple instances of corporate…",
+      "tags": [
+        "In-Depth",
+        "Listicle"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7bbc61b9f7d8",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "Mat Honan",
+      "published": "2026-09-08T10:34:00+00:00",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks…",
+      "tags": [
+        "Artificial intelligence",
+        "App",
+        "TR35 2026"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "c6dc597a9039",
+      "title": "Vara Kumar appointed Whatfix CEO",
+      "url": "https://yourstory.com/2026/09/vara-kumar-appointed-as-ceo-whatfix-khadim-batti",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-08T10:28:49+00:00",
+      "summary": "Kumar assumes leadership following the death of Co-founder Khadim Batti on September 1, 2026. Batti had served as CEO since the pair established the business in 2014.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "49461085c40c",
       "title": "Write Things Down",
@@ -104,6 +471,25 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "a00b8d456a7c",
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-09-08T09:00:00+00:00",
+      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "tags": [
+        "Fundraising",
+        "Space",
+        "SpaceX",
+        "rockets",
+        "stoke space"
+      ],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "3e9498e2b80e",
@@ -196,19 +582,6 @@
       "region": "india"
     },
     {
-      "id": "6d05cbe635d4",
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "procedurecall",
-      "published": "2026-09-08T05:42:28+00:00",
-      "summary": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf Comments URL: https://news.ycombinator.com/item?id=49605915 Points: 262 # Comments: 128",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0b00af107ddb",
       "title": "The 90-Day Festive Season Marketing Test",
       "url": "https://inc42.com/features/the-90-day-festive-season-marketing-test/",
@@ -225,32 +598,6 @@
       "region": "india"
     },
     {
-      "id": "4af414073544",
-      "title": "My Feed, My Way",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dotcoma",
-      "published": "2026-09-08T05:10:36+00:00",
-      "summary": "Article URL: https://www.pm.gov.au/media/my-feed-my-way Comments URL: https://news.ycombinator.com/item?id=49605782 Points: 123 # Comments: 96",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "55085dd14800",
-      "title": "Mistral raises €3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kuberwastaken",
-      "published": "2026-09-08T05:06:23+00:00",
-      "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ Comments URL: https://news.ycombinator.com/item?id=49605767 Points: 473 # Comments: 332",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "638f4ab44221",
       "title": "W Health Ventures Marks Close Of Fund II At ₹700 Cr",
       "url": "https://inc42.com/buzz/w-health-ventures-marks-close-of-fund-ii-at-%e2%82%b9700-cr/",
@@ -264,19 +611,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "8a4b2ca6eb49",
-      "title": "We have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "saikatsg",
-      "published": "2026-09-08T04:48:10+00:00",
-      "summary": "Article URL: https://jyn.dev/a-year-to-fix-security/ Comments URL: https://news.ycombinator.com/item?id=49605691 Points: 232 # Comments: 201",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "f9474260202c",
@@ -372,25 +706,6 @@
       "region": "global"
     },
     {
-      "id": "7e7cf4f0f37c",
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sean Hollister",
-      "published": "2026-09-08T02:00:00+00:00",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After…",
-      "tags": [
-        "Gaming",
-        "Mobile",
-        "News",
-        "Report",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e3ae08566cef",
       "title": "Pixxel bags $100M in India’s biggest spacetech fundraise; Food delivery app Swish to raise Rs 225 Cr",
       "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr",
@@ -402,45 +717,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "4af081f7a15d",
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pizzaiolo",
-      "published": "2026-09-08T01:57:23+00:00",
-      "summary": "Article URL: https://weirdgloop.org/blog/google-jail Comments URL: https://news.ycombinator.com/item?id=49604870 Points: 162 # Comments: 56",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1451192dde04",
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "0xC0ncord",
-      "published": "2026-09-08T01:56:35+00:00",
-      "summary": "Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/ Comments URL: https://news.ycombinator.com/item?id=49604861 Points: 381 # Comments: 158",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7dca434f16ba",
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ahlCVA",
-      "published": "2026-09-08T01:16:59+00:00",
-      "summary": "Article URL: https://mcpherrin.ca/2026/09/07/rsa.html Comments URL: https://news.ycombinator.com/item?id=49604637 Points: 339 # Comments: 59",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "0387d4cd01fb",
@@ -459,6 +735,36 @@
       "region": "india"
     },
     {
+      "id": "442511b9715a",
+      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
+      "url": "https://tldr.tech/ai/2026-09-08",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "671a9fed35e2",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "1bfd7f6e1b29",
       "title": "llm 0.35",
       "url": "https://simonwillison.net/2026/Sep/7/llm/",
@@ -473,19 +779,6 @@
         "gpt-6-astra"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "0859f97a65cc",
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "alixanderwang",
-      "published": "2026-09-07T23:37:42+00:00",
-      "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 229 # Comments: 16",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -525,51 +818,6 @@
       "region": "global"
     },
     {
-      "id": "877888d4d8b1",
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "josephcsible",
-      "published": "2026-09-07T20:32:55+00:00",
-      "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 201 # Comments: 83",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0ce44559a272",
-      "title": "Emacs Bedrock 2.0",
-      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ashton314",
-      "published": "2026-09-07T20:12:12+00:00",
-      "summary": "Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/ Comments URL: https://news.ycombinator.com/item?id=49602490 Points: 121 # Comments: 27",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d3b79588d4e9",
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew J. Hawkins",
-      "published": "2026-09-07T20:03:41+00:00",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the…",
-      "tags": [
-        "Audi",
-        "Cars",
-        "Electric Cars",
-        "News",
-        "Transportation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "375e038f05f3",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -605,19 +853,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1776212fbe79",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "rustywasm",
-      "published": "2026-09-07T18:52:06+00:00",
-      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 296 # Comments: 145",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -723,25 +958,6 @@
       "region": "global"
     },
     {
-      "id": "1a24d8a8dcd5",
-      "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "John.Higgins",
-      "published": "2026-09-07T16:00:00+00:00",
-      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great…",
-      "tags": [
-        "Gadgets",
-        "Headphones",
-        "News",
-        "Sony",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "bc4a947bf6e9",
       "title": "What we expect from the upcoming Apple launch",
       "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
@@ -826,19 +1042,6 @@
       "region": "india"
     },
     {
-      "id": "71d9b5f77fbb",
-      "title": "Startup news and updates: Daily roundup (September 7, 2026)",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-7-2026",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-07T13:08:15+00:00",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, September 7, 2026.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "9209c29d15bd",
       "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
       "url": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
@@ -897,49 +1100,6 @@
       "region": "india"
     },
     {
-      "id": "efa1a50f03a8",
-      "title": "The real reason your phone is getting more expensive",
-      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Rani Molla",
-      "published": "2026-09-07T12:00:00+00:00",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the…",
-      "tags": [
-        "Apple",
-        "iPhone",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "63988f85540a",
-      "title": "India's battery industry set to generate up to 2M jobs by FY30: Adecco India",
-      "url": "https://yourstory.com/2026/09/india-battery-industry-to-generate-up-to-2m-jobs-by-fy30-adecco-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-07T11:53:09+00:00",
-      "summary": "The industry's evolution from import dependency to a fully integrated cell-to-recycling industrial ecosystem is expected to create several jobs, says talent company Adecco India.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "2e46aeedf9ba",
-      "title": "Karnataka plans immediate AI skilling ahead of proposed AI University",
-      "url": "https://yourstory.com/2026/09/karnataka-ai-university-ai-skilling-roadmap",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-07T11:51:10+00:00",
-      "summary": "Karnataka’s proposed AI University will take a phased approach, with the state planning to launch AI skilling programmes before the full-fledged institution is established.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "7e83c438bbee",
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
@@ -952,26 +1112,6 @@
         "AI",
         "Features",
         "ai data centers"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ea3ce74ee377",
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Peter Nelson",
-      "published": "2026-09-07T11:00:00+00:00",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the…",
-      "tags": [
-        "Cars",
-        "Electric Cars",
-        "Hands-on",
-        "Reviews",
-        "Tech",
-        "Transportation"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -992,69 +1132,6 @@
       "region": "india"
     },
     {
-      "id": "1e4dd3a02fb7",
-      "title": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
-      "url": "https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-09-07T08:23:08+00:00",
-      "summary": "Voice AI startup Navana.ai has raised ₹40 Cr ($4.2 Mn) in a Series A funding round led by existing investor…",
-      "tags": [
-        "News",
-        "AI Economy"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "5176bb39ef9a",
-      "title": "D2C Pet Food Startup Lickicious Raises ₹19 Cr To Expand Operations",
-      "url": "https://inc42.com/buzz/d2c-pet-food-startup-lickicious-raises-%e2%82%b919-cr-to-expand-operations/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-09-07T08:05:45+00:00",
-      "summary": "D2C pet food startup Lickicious has raised ₹19 Cr (about $2.1 Mn) through a mix of equity and institutional debt…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "89d3fc5f1f7f",
-      "title": "ISRO Rules Out Privatisation, Says Spacetech Startups Will Expand Ecosystem",
-      "url": "https://inc42.com/buzz/isro-rules-out-privatisation-says-spacetech-startups-will-expand-ecosystem/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-09-07T07:54:21+00:00",
-      "summary": "The Indian Space Research Organisation (ISRO) has dismissed concerns that the Centre’s push to expand private participation in the space…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "9f07fed4e678",
-      "title": "ESDS Shares Hit 20% Upper Circuit For Second Straight Session",
-      "url": "https://inc42.com/buzz/esds-shares-hit-20-upper-circuit-for-second-straight-session/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-09-07T06:23:23+00:00",
-      "summary": "Shares of enterprise cloud and AI company ESDS Software Solution hit the 20% upper circuit for the second consecutive trading…",
-      "tags": [
-        "News",
-        "AI Economy",
-        "Markets"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "88926ea8fdd4",
       "title": "Knockin'",
       "url": "https://www.producthunt.com/products/knockin",
@@ -1062,7 +1139,7 @@
       "source_id": "product_hunt",
       "author": "Zac Zuo",
       "published": "2026-09-07T05:02:45+00:00",
-      "summary": "Turns your static bio into an AI business card that replies. Discussion | Link",
+      "summary": "Turns your static bio into an AI business card that replies Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1154,8 +1231,8 @@
       "id": "00a508e12afb",
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-09-06T23:36:04+00:00",
       "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting…",
@@ -1166,7 +1243,7 @@
         "OpenAI",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1213,23 +1290,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "fa7cd6ac5819",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-06T20:56:38+00:00",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the…",
-      "tags": [
-        "Amazon",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1337,19 +1397,6 @@
         "terence-eden"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "a7bae0d3d5c0",
-      "title": "Icy Moons Are Ocean Worlds",
-      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "worldvoyageur",
-      "published": "2026-09-06T13:07:52+00:00",
-      "summary": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 183 # Comments: 24",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1550,19 +1597,6 @@
       "region": "global"
     },
     {
-      "id": "2db1d75f23cc",
-      "title": "We built our house for LAN parties",
-      "url": "https://lanparty.house/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "fittingopposite",
-      "published": "2026-09-05T18:44:40+00:00",
-      "summary": "Article URL: https://lanparty.house/ Comments URL: https://news.ycombinator.com/item?id=49579443 Points: 100 # Comments: 41",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "1cb48b3f4151",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -1577,56 +1611,6 @@
         "OpenAI"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "22aacec03e46",
-      "title": "Using Blender with coding agents on macOS",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-05T15:51:09+00:00",
-      "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install…",
-      "tags": [
-        "ai",
-        "generative-ai",
-        "llms",
-        "blender",
-        "pelican-riding-a-bicycle",
-        "coding-agents"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "b5638f4ce3a9",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "signa11",
-      "published": "2026-09-05T11:25:18+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 210 # Comments: 47",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4a5a0bab7a3e",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-09-05T11:15:55+00:00",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki…",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
