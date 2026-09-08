@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-09-08T15:54:17.964410+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-09-08T20:36:11.287207+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "Hacker News (100+ points)",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -23,8 +19,393 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 98,
+  "item_count": 120,
   "items": [
+    {
+      "id": "00bd69990546",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-09-08T20:16:09+00:00",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7d44aa305347",
+      "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+      "url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-08T19:51:54+00:00",
+      "summary": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "fdfa315dd9e2",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "yks",
+      "published": "2026-09-08T19:25:00+00:00",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 121 # Comments: 103",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ce00418e542b",
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-09-08T19:12:53+00:00",
+      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+      "tags": [
+        "Tech",
+        "ai data centers",
+        "ASML",
+        "china",
+        "Chip manufacturing",
+        "Chipmakers"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5755f7b7e24b",
+      "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
+      "url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-08T19:00:09+00:00",
+      "summary": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on…",
+      "tags": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "cfde25b01186",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-08T19:00:00+00:00",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "TC",
+        "ai apps",
+        "consumer apps"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "19ea2b7ec0a3",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-08T19:00:00+00:00",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing…",
+      "tags": [
+        "AI",
+        "Meta",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b0bc6955e9d3",
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jennifer Ouellette",
+      "published": "2026-09-08T18:53:23+00:00",
+      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+      "tags": [
+        "Culture",
+        "entertainment",
+        "film trailers",
+        "Godzilla Minus Zero",
+        "Toho",
+        "Trailers"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8e182e0e8e3e",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-09-08T18:43:09+00:00",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "tags": [
+        "AI",
+        "Policy",
+        "ai csam",
+        "csam",
+        "Facebook",
+        "Instagram"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "305f03a4aa6a",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vertigoruntime",
+      "published": "2026-09-08T18:37:51+00:00",
+      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/ Comments URL: https://news.ycombinator.com/item?id=49614720 Points: 204 # Comments: 262",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "12bd95b765d1",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Scott K. Johnson",
+      "published": "2026-09-08T18:00:56+00:00",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "tags": [
+        "AI",
+        "Google",
+        "Science",
+        "machine learning",
+        "weather models"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3edaa7e8b22e",
+      "title": "IPO-Bound RentoMojo Nets ₹376 Cr From Anchor Investors",
+      "url": "https://inc42.com/buzz/ipo-bound-rentomojo-nets-%e2%82%b9376-cr-from-anchor-investors/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-09-08T17:56:43+00:00",
+      "summary": "Ahead of the commencement of the bidding for its public issue on September 9, furniture and appliance rental platform RentMojo…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "917b521aa1cb",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Russell Brandom",
+      "published": "2026-09-08T17:32:15+00:00",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "tags": [
+        "AI",
+        "mathematics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6e89e61a94b0",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Hayden Field",
+      "published": "2026-09-08T17:27:31+00:00",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Exclusive",
+        "Law",
+        "Policy",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "470675720579",
+      "title": "Nintendo isn’t scared of GTA VI",
+      "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-09-08T17:13:51+00:00",
+      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 30-minute showcase…",
+      "tags": [
+        "Analysis",
+        "Entertainment",
+        "Gaming",
+        "Nintendo",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fbb79928f7d9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tedsanders",
+      "published": "2026-09-08T17:13:21+00:00",
+      "summary": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 787 # Comments: 579",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "167bce5d47e7",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T17:00:00+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "tags": [
+        "Applied AI"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "8fca408ec7e0",
+      "title": "What is happening with code reviews?",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+      "source": "The Pragmatic Engineer — Gergely Orosz",
+      "source_id": "pragmatic_engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-09-08T16:32:01+00:00",
+      "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "982632e3196b",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-09-08T16:20:31+00:00",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Accenture",
+        "Enterprise AI",
+        "FDE",
+        "Google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6c11cd8b5bf7",
+      "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
+      "url": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Lee Hutchinson",
+      "published": "2026-09-08T16:05:32+00:00",
+      "summary": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
+      "tags": [
+        "Gaming",
+        "children of infinity",
+        "dan gerstein",
+        "demo",
+        "fred ford",
+        "free stars"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a7a1acf85d19",
+      "title": "The White House pulls its racist Tetris clone",
+      "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-08T16:00:51+00:00",
+      "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to prevent a \"zombie border siege.\" It's not…",
+      "tags": [
+        "Entertainment",
+        "Gaming",
+        "News",
+        "Policy",
+        "Politics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "628e503a55b0",
+      "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
+      "url": "https://inc42.com/buzz/pm-modi-urges-fintechs-to-step-up-cybersecurity-consumer-protection/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Akshit Pushkarna",
+      "published": "2026-09-08T15:59:14+00:00",
+      "summary": "Prime Minister (PM) Narendra Modi has directed Indian fintech startups to strengthen cybersecurity and consumer protection as the sector moves…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "26bcca068ce7",
       "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
@@ -33,7 +414,7 @@
       "source_id": "techcrunch",
       "author": "Tim De Chant",
       "published": "2026-09-08T15:25:35+00:00",
-      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
       "tags": [
         "Climate",
         "Google",
@@ -100,8 +481,8 @@
       "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "tags": [
         "Security",
-        "Chrome",
-        "AI"
+        "AI",
+        "Chrome"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -120,6 +501,71 @@
         "Gadgets",
         "Verge Shopping"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "93b4203e0c53",
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "utiiiD",
+      "published": "2026-09-08T14:55:45+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 394 # Comments: 101",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a221931bfe78",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "stared",
+      "published": "2026-09-08T14:49:19+00:00",
+      "summary": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 163 # Comments: 86",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8678c220c3a1",
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "surprisetalk",
+      "published": "2026-09-08T14:44:25+00:00",
+      "summary": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 164 # Comments: 97",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9499ff014c42",
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "abraham",
+      "published": "2026-09-08T14:40:30+00:00",
+      "summary": "Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/ Comments URL: https://news.ycombinator.com/item?id=49610988 Points: 292 # Comments: 160",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5ab90d14e44a",
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "hn_acker",
+      "published": "2026-09-08T14:33:52+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/ Comments URL: https://news.ycombinator.com/item?id=49610900 Points: 286 # Comments: 95",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -162,12 +608,25 @@
       "source_id": "techcrunch",
       "author": "Anna Heim",
       "published": "2026-09-08T14:17:48+00:00",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
       "tags": [
         "AI",
         "Mistral AI",
         "Samsung Electronics"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "16169d530ca6",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "domhudson",
+      "published": "2026-09-08T14:13:26+00:00",
+      "summary": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 202 # Comments: 157",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -190,28 +649,11 @@
       "region": "global"
     },
     {
-      "id": "45ec8aab6cf7",
-      "title": "Microsoft breaks another patch Tuesday record",
-      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Tom Warren",
-      "published": "2026-09-08T14:00:00+00:00",
-      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software…",
-      "tags": [
-        "Microsoft",
-        "Notepad",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f5d6ebe96433",
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Robert Hart",
       "published": "2026-09-08T14:00:00+00:00",
       "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called…",
@@ -222,7 +664,7 @@
         "Science",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -231,7 +673,7 @@
       "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
       "source": "Ars Technica",
       "source_id": "ars_technica",
-      "author": "Kana Inagaki and Clara Murray in London",
+      "author": "Kana Inagaki and Clara Murray, Financial Times",
       "published": "2026-09-08T13:56:38+00:00",
       "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
       "tags": [
@@ -243,20 +685,28 @@
       "region": "global"
     },
     {
-      "id": "8aea78fedbbd",
-      "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
-      "url": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew Webster",
-      "published": "2026-09-08T13:50:00+00:00",
-      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "News",
-        "Nintendo"
-      ],
+      "id": "0b1ba0dd184b",
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tosh",
+      "published": "2026-09-08T13:36:53+00:00",
+      "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 298 # Comments: 133",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9e33219072ea",
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "url": "https://copperhead.sh/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "animeshchouhan",
+      "published": "2026-09-08T13:26:45+00:00",
+      "summary": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 175 # Comments: 70",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -299,8 +749,8 @@
       "id": "8171e789e2b9",
       "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
       "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Thomas Ricker",
       "published": "2026-09-08T13:00:00+00:00",
       "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves…",
@@ -311,7 +761,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -404,6 +854,19 @@
       "region": "global"
     },
     {
+      "id": "c04fad488146",
+      "title": "Getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "HatchedLake721",
+      "published": "2026-09-08T09:48:24+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator.com/item?id=49608023 Points: 190 # Comments: 163",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "0069824e6be5",
       "title": "Whatfix Cofounder Vara Kumar Namburu Takes Over As CEO",
       "url": "https://inc42.com/buzz/whatfix-cofounder-vara-kumar-namburu-takes-over-as-ceo/",
@@ -484,11 +947,26 @@
       "tags": [
         "Fundraising",
         "Space",
-        "SpaceX",
         "rockets",
+        "SpaceX",
         "stoke space"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "99c22bc85dd5",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T09:00:00+00:00",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "tags": [
+        "Safety"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -580,6 +1058,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "6d05cbe635d4",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "procedurecall",
+      "published": "2026-09-08T05:42:28+00:00",
+      "summary": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf Comments URL: https://news.ycombinator.com/item?id=49605915 Points: 743 # Comments: 363",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "0b00af107ddb",
@@ -719,6 +1210,19 @@
       "region": "india"
     },
     {
+      "id": "4af081f7a15d",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pizzaiolo",
+      "published": "2026-09-08T01:57:23+00:00",
+      "summary": "Article URL: https://weirdgloop.org/blog/google-jail Comments URL: https://news.ycombinator.com/item?id=49604870 Points: 496 # Comments: 206",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "0387d4cd01fb",
       "title": "GalaxEye Secures US Patent for Satellite Imaging Tech",
       "url": "https://inc42.com/buzz/galaxeye-secures-us-patent-for-satellite-imaging-tech/",
@@ -761,6 +1265,19 @@
       "tags": [
         "Company"
       ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "9816f5beea82",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "tags": [],
       "tier": "labs",
       "region": "global"
     },
@@ -906,7 +1423,9 @@
       "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
       "tags": [
         "Media & Entertainment",
-        "TC"
+        "elizabeth holmes",
+        "In Brief",
+        "Theranos"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -920,6 +1439,19 @@
       "author": "Surya Sekhar Datta",
       "published": "2026-09-07T17:45:34+00:00",
       "summary": "The Cloud for AI Agents Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4a29ce7801ae",
+      "title": "The Helicopter with Radioactive Blades",
+      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "zdw",
+      "published": "2026-09-07T17:44:33+00:00",
+      "summary": "Article URL: https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/ Comments URL: https://news.ycombinator.com/item?id=49600901 Points: 117 # Comments: 27",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1070,36 +1602,6 @@
       "region": "india"
     },
     {
-      "id": "d324f3cc9ec1",
-      "title": "Swiggy To Sell Lynk To Udaan For ₹500 Cr, Pick Up 3.2% Stake In B2B Unicorn",
-      "url": "https://inc42.com/buzz/swiggy-to-sell-lynk-to-udaan-for-%e2%82%b9500-cr-pick-up-3-2-stake-in-b2b-unicorn/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-09-07T12:09:13+00:00",
-      "summary": "Swiggy’s subsidiary, Swiggy Networks Ltd, has entered a share acquisition agreement with B2B ecommerce unicorn Udaan to acquire Swiggy-owned retail…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ef6ee3de816c",
-      "title": "[Update] Pernia’s Pop-Up Shop Parent Ends Debut Session 1.2% Below Issue Price",
-      "url": "https://inc42.com/buzz/pernias-pop-up-shop-parent-purple-style-labs-lists-at-7-discount/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-09-07T12:00:26+00:00",
-      "summary": "Update | September 7, 17:30 IST Shares of Pernia’s Pop-Up Shop parent Purple Style Labs closed their maiden trading session…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "7e83c438bbee",
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
@@ -1115,21 +1617,6 @@
       ],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "5e6760b72a66",
-      "title": "NoPaperForms DRHP: A Look At Shareholding Pattern & Key Executives",
-      "url": "https://inc42.com/buzz/nopaperforms-drhp-a-look-at-shareholding-pattern-key-executives/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-09-07T10:11:48+00:00",
-      "summary": "Education-focused SaaS platform Meritto’s parent NoPaperForms filed its updated draft IPO papers with market regulator SEBI for a proposed public…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "88926ea8fdd4",
@@ -1441,176 +1928,6 @@
         "Safety"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "b0e2d5854a26",
-      "title": "Quoting Zach Kehs",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-06T08:42:49+00:00",
-      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. — Zach Kehs , There's No Limit to How Bad Code Can Get…",
-      "tags": [
-        "technical-debt"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "f398f5c8c000",
-      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
-      "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-06T06:11:02+00:00",
-      "summary": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "de3406d0b9f2",
-      "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
-      "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-06T03:20:47+00:00",
-      "summary": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b8133850cc19",
-      "title": "Introducing GPT-6 Astra for developers",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-05T23:27:48+00:00",
-      "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at…",
-      "tags": [
-        "ai",
-        "openai",
-        "generative-ai",
-        "llms",
-        "pelican-riding-a-bicycle",
-        "gpt-6-astra"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "1d3d4d76fcdc",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-05T22:49:55+00:00",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "In Brief",
-        "Microsoft",
-        "Newsday",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4486689e6cfe",
-      "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
-      "url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-05T19:40:11+00:00",
-      "summary": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "05d8db6c1707",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-05T19:35:24+00:00",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "tags": [
-        "AI",
-        "gemini",
-        "Google",
-        "In Brief"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8398761b6a8b",
-      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
-      "url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-05T19:12:02+00:00",
-      "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "Editors Pick",
-        "New Releases",
-        "Software Engineering",
-        "Staff"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1cb48b3f4151",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-05T18:05:27+00:00",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "tags": [
-        "AI",
-        "Security",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
