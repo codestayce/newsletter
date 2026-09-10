@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-10T02:44:17.290484+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-10T10:26:21.779557+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "MarkTechPost",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -22,24 +26,231 @@
   "item_count": 120,
   "items": [
     {
-      "id": "47cce1b466f6",
-      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-      "url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T02:13:12+00:00",
-      "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse…",
+      "id": "dd758a4d449f",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "source": "Stratechery — Ben Thompson",
+      "source_id": "stratechery",
+      "author": "Ben Thompson",
+      "published": "2026-09-10T10:00:00+00:00",
+      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
       "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
+        "Daily Update"
       ],
-      "tier": "ai_news",
+      "tier": "authors",
       "region": "global"
+    },
+    {
+      "id": "7f752553308b",
+      "title": "Another Day, Another Upper Circuit: ESDS Now Up 269% From IPO Price",
+      "url": "https://inc42.com/buzz/another-day-another-upper-circuit-esds-now-up-269-from-ipo-price/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Vinaykumar Rai",
+      "published": "2026-09-10T09:39:56+00:00",
+      "summary": "The seemingly unstoppable rally in ESDS Software Solution continued today, with the stock hitting the upper circuit for the fifth…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7b23436f5ab4",
+      "title": "D2C Fashion Startup Theater Bags ₹75 Cr To Expand Offline",
+      "url": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-09-10T09:11:22+00:00",
+      "summary": "D2C fashion and accessories startup Theater has raised ₹75 Cr (around $7.8 Mn) in a Series A funding round led…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "fc107f544e37",
+      "title": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay",
+      "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T08:54:36+00:00",
+      "summary": "Founded in 2021 by Sarthak Aggarwal, Vikram Jain, Karan Jain, and Shruti Aggarwal, Theater is positioned as a mass-premium brand selling footwear, stockings, perfumes and bags.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7f2934260341",
+      "title": "TechSparks 2026: Sridhar Vembu, Ambarish Kenghe, Mukund Jha, Chandrika Deb, and more join the lineup",
+      "url": "https://yourstory.com/2026/09/techsparks-2026-sridhar-vembu-ambarish-kenghe-mukund-jha-chandrika-deb",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T08:54:05+00:00",
+      "summary": "Policymakers, founders, investors, and technology and culture leaders will come together at YourStory’s flagship TechSparks summit this October to discuss India’s next phase of innovation.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "bd610ba05123",
+      "title": "RentoMojo IPO Subscribed 2.82X On Day 2 So Far, NII Portion Booked 6.13X",
+      "url": "https://inc42.com/buzz/rentomojo-ipo-subscribed-2-82x-on-day-2-so-far-nii-portion-booked-6-13x/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-09-10T07:24:09+00:00",
+      "summary": "Furniture and appliance rental startup RentoMojo’s IPO was subscribed 2.82X on the second day of bidding, with investors placing bids…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "5a70bf26460f",
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew J. Hawkins",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it…",
+      "tags": [
+        "Cars",
+        "Electric Cars",
+        "News",
+        "Transportation",
+        "Volvo"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c599ab837d38",
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Liwink",
+      "published": "2026-09-10T06:11:05+00:00",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash Comments URL: https://news.ycombinator.com/item?id=49639090 Points: 386 # Comments: 167",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "834bc8e9130d",
+      "title": "Swish Raises $24 Mn To Expand Quick Food Delivery Network",
+      "url": "https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-09-10T05:59:40+00:00",
+      "summary": "Quick food delivery startup Swish has raised $24 Mn (about ₹228.4 Cr) in a funding round led by Bertelsmann India…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "99dc492ff5be",
+      "title": "Suno v6",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Zac Zuo",
+      "published": "2026-09-10T05:13:30+00:00",
+      "summary": "The first Suno model built with the music industry Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a8d2dbadd87e",
+      "title": "Apple expands wearable ecosystem with AirPods 5, Watch Series 12, Ultra 4",
+      "url": "https://yourstory.com/2026/09/apple-expands-wearable-ecosystem-with-airpods-5-watch-series-12-ultra-4",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T05:00:32+00:00",
+      "summary": "Apple has expanded its wearable lineup with AirPods 5, featuring open-ear noise cancellation, alongside Apple Watch Series 12 and Ultra 4, introducing advanced health-sensing technology and S11 silicon.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "893e35f271b5",
+      "title": "Apple enters foldable era with iPhone Duo",
+      "url": "https://yourstory.com/2026/09/apple-enters-foldable-era-with-iphone-duo",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T04:20:04+00:00",
+      "summary": "Apple has unveiled its first foldable handset, iPhone Duo, alongside the iPhone 18 Pro lineup, introducing 2-nanometer A20 Pro chips, variable aperture camera optics, and enhanced AI capabilities.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "90a257e6ed2c",
+      "title": "Adani Airports emerges as world's third most valuable airport operator after $1B fundraise",
+      "url": "https://yourstory.com/2026/09/adani-airports-emerges-worlds-third-most-valuable-airport-operators-1-b-fundraise",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T04:14:43+00:00",
+      "summary": "With the new capital, the implied post-money equity value is about $19 billion, putting the Indian airport operator around third globally among major listed and recently valued airport operators by equity value, behind Spain's Aena and Airports of Thailand, according to market…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d59e00a72362",
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "yurivish",
+      "published": "2026-09-10T04:04:38+00:00",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 175 # Comments: 130",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "405da02d0a50",
+      "title": "Modeinspect",
+      "url": "https://www.producthunt.com/products/modeinspect-1-0",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Alex",
+      "published": "2026-09-10T03:31:49+00:00",
+      "summary": "99 Days Free AI Credits - Design product UI in your codebase Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "33b6ab85c1ea",
+      "title": "GFF 2026 Highlights, The Estate Planning Question & More",
+      "url": "https://inc42.com/buzz/gff-2026-highlights-the-estate-planning-question-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-09-10T02:30:25+00:00",
+      "summary": "Global Fintech Fest 2026 Kicks Off Indian startups basked in the spotlight as the Global Fintech Festival 2026 kicked off…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
     },
     {
       "id": "0b33824dc743",
@@ -53,6 +264,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "e4164c681db4",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dmitrybrant",
+      "published": "2026-09-10T01:58:00+00:00",
+      "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 343 #…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "e09c59999fdb",
@@ -115,20 +339,14 @@
     },
     {
       "id": "ea16adfbbd02",
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
       "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort, Sarah Perez",
-      "published": "2026-09-09T23:14:29+00:00",
-      "summary": "Mullenweg said in a company Slack message that it was against his will.",
-      "tags": [
-        "Apps",
-        "Commerce",
-        "TC",
-        "Automattic",
-        "WordPress"
-      ],
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "LeoPanthera",
+      "published": "2026-09-09T23:49:29+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 275 # Comments: 193",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -149,26 +367,6 @@
         "Tech"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6535c04da3bc",
-      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-      "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-09T22:58:29+00:00",
-      "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -207,19 +405,6 @@
       "region": "global"
     },
     {
-      "id": "7ecd4aaa93fe",
-      "title": "Blizzard Workers Win Historic Union Contract",
-      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dbg31415",
-      "published": "2026-09-09T22:22:53+00:00",
-      "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 105 # Comments: 24",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c3939f84f726",
       "title": "Automattic CEO Matt Mullenweg placed on leave",
       "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
@@ -248,6 +433,7 @@
       "tags": [
         "AI",
         "Climate",
+        "Government & Policy",
         "clean energy",
         "data centers",
         "massachusetts"
@@ -272,6 +458,19 @@
         "News",
         "Reviews"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6b556e4c61b9",
+      "title": "AirPods 5",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Rohan Chaubey",
+      "published": "2026-09-09T21:18:06+00:00",
+      "summary": "1.5x Active Noise Cancellation, AI Siri, Live Translation Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -332,26 +531,6 @@
       "region": "global"
     },
     {
-      "id": "97d607539560",
-      "title": "How the new Apple Watches compare to the last-gen models",
-      "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Brad Bourque",
-      "published": "2026-09-09T20:42:51+00:00",
-      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "Phones",
-        "Smartwatch",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "be60902fd8fd",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -367,6 +546,19 @@
         "Apple Watch",
         "privacy"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b14d66f9fb75",
+      "title": "hob",
+      "url": "https://www.producthunt.com/products/hob-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "fmerian",
+      "published": "2026-09-09T20:07:52+00:00",
+      "summary": "The professional workspace for your whole agent stack Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -424,6 +616,19 @@
         "Apple",
         "iPhone"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8c5122606e1d",
+      "title": "Desert Ant Labs",
+      "url": "https://www.producthunt.com/products/desert-ant-labs",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Rohan Chaubey",
+      "published": "2026-09-09T19:54:29+00:00",
+      "summary": "Small specialized AI models for speech, text, vision Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -547,7 +752,7 @@
       "source_id": "hacker_news",
       "author": "thecosmicfrog",
       "published": "2026-09-09T18:15:43+00:00",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 919 # Comments: 1717",
+      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1218 # Comments: 2133",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -630,20 +835,7 @@
       "source_id": "hacker_news",
       "author": "Lealen",
       "published": "2026-09-09T17:56:17+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 217 # Comments: 260",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "59946fe33202",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "awad",
-      "published": "2026-09-09T17:39:24+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 381 # Comments: 309",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 258 # Comments: 321",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -674,7 +866,7 @@
       "source_id": "hacker_news",
       "author": "meetpateltech",
       "published": "2026-09-09T17:33:20+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 286 # Comments: 297",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 366 # Comments: 399",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -687,7 +879,7 @@
       "source_id": "hacker_news",
       "author": "wsxiaoys",
       "published": "2026-09-09T17:24:28+00:00",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 178 # Comments: 73",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 216 # Comments: 85",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -700,7 +892,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-09-09T17:14:59+00:00",
-      "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 220 # Comments: 423",
+      "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 350 # Comments: 607",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -896,32 +1088,6 @@
       "region": "global"
     },
     {
-      "id": "4a094d330912",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "davidfischer",
-      "published": "2026-09-09T15:55:53+00:00",
-      "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 161 # Comments: 53",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8977bb1e0a96",
-      "title": "GNU Radio in the browser",
-      "url": "https://gnuradioworld.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kristianpaul",
-      "published": "2026-09-09T15:53:06+00:00",
-      "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 175 # Comments: 23",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "fb9069bb94a1",
       "title": "No Man's Sky Cosmos",
       "url": "https://www.nomanssky.com/cosmos-update/",
@@ -929,20 +1095,7 @@
       "source_id": "hacker_news",
       "author": "Limb",
       "published": "2026-09-09T15:47:42+00:00",
-      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 306 # Comments: 328",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1664695e28d3",
-      "title": "Planet Labs' open satellite feed",
-      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "marklit",
-      "published": "2026-09-09T15:44:09+00:00",
-      "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 147 # Comments: 27",
+      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 391 # Comments: 401",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1010,7 +1163,7 @@
       "source_id": "hacker_news",
       "author": "ModelForge",
       "published": "2026-09-09T14:37:47+00:00",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 355 # Comments: 124",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 436 # Comments: 142",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1061,19 +1214,6 @@
       "region": "india"
     },
     {
-      "id": "cb301330a0e6",
-      "title": "What will our economic future look like?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "oumua_don17",
-      "published": "2026-09-09T13:38:23+00:00",
-      "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 181 # Comments: 350",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d8c538a3f0ca",
       "title": "Samtel Avionics, BULL explore joint approach to space debris",
       "url": "https://yourstory.com/2026/09/samtel-avionics-bull-explore-joint-approach-to-space-debris",
@@ -1107,7 +1247,7 @@
       "source_id": "hacker_news",
       "author": "EdwinHoksberg",
       "published": "2026-09-09T13:27:11+00:00",
-      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 902 # Comments: 357",
+      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 1043 # Comments: 397",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1224,7 +1364,7 @@
       "source_id": "hacker_news",
       "author": "xlii",
       "published": "2026-09-09T11:43:21+00:00",
-      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 361 # Comments: 220",
+      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 410 # Comments: 247",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1237,7 +1377,7 @@
       "source_id": "hacker_news",
       "author": "willwhitedc",
       "published": "2026-09-09T11:39:46+00:00",
-      "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/ Comments URL: https://news.ycombinator.com/item?id=49624823 Points: 404 # Comments: 93",
+      "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/ Comments URL: https://news.ycombinator.com/item?id=49624823 Points: 449 # Comments: 96",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1370,19 +1510,6 @@
       "region": "global"
     },
     {
-      "id": "e44f26fcf847",
-      "title": "Claude, change the “Add to Cart” button to blue",
-      "url": "https://opusfived.dev/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "matthieu_bl",
-      "published": "2026-09-09T09:39:46+00:00",
-      "summary": "Article URL: https://opusfived.dev/ Comments URL: https://news.ycombinator.com/item?id=49623754 Points: 1024 # Comments: 401",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "34e29067b558",
       "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
       "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
@@ -1407,26 +1534,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "ea16d20a3cb2",
-      "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
-      "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-09T07:29:13+00:00",
-      "summary": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning…",
-      "tags": [
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "New Releases",
-        "Staff",
-        "Technology"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "5bf0b97576b5",
@@ -1457,42 +1564,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "8f04ab6dd1f0",
-      "title": "Indian Fintech Moves Beyond AI Demos",
-      "url": "https://inc42.com/features/indian-fintech-moves-beyond-ai-demos/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-09-09T05:30:07+00:00",
-      "summary": "AI is all set to take centre stage at the Global Fintech Fest (GFF) in Mumbai this week, with product…",
-      "tags": [
-        "In-Depth",
-        "The AI Shift"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b9983806a31e",
-      "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
-      "url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-09T04:38:13+00:00",
-      "summary": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "13321b4661ea",
@@ -1526,35 +1597,6 @@
       "region": "global"
     },
     {
-      "id": "dbbdf7a8b5ec",
-      "title": "Instant Help’s Ground Reality, Shiprocket’s Second Act & More",
-      "url": "https://inc42.com/buzz/instant-helps-ground-reality-shiprockets-second-act-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-09T02:30:48+00:00",
-      "summary": "The Cost Of India’s Convenience Economy Fuelled by massive capital and discounting wars, India’s instant service platforms are preparing for…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b760279a566c",
-      "title": "Tazapay to be acquired by Circle in $400M stock deal; GalaxEye wins US patent for satellite imaging",
-      "url": "https://yourstory.com/2026/09/galaxeye-wins-us-patent-for-satellite-imaging",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-09T02:00:00+00:00",
-      "summary": "US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay; GalaxEye’s US patent for its OptoSAR satellite imaging technology strengthens its intellectual-property position as India’s private Earth-observation sector…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "01fc5bdad7e4",
       "title": "AlphaGenome Atlas",
       "url": "https://www.producthunt.com/products/alphagenome-atlas",
@@ -1566,21 +1608,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "34c6202d4b9f",
-      "title": "Quantum Cybersecurity Startup QNu Labs Nets ₹200 Cr To Scale R&D",
-      "url": "https://inc42.com/buzz/quantum-cybersecurity-startup-qnu-labs-nets-%e2%82%b9200-cr-to-scale-rd/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-09-09T00:30:35+00:00",
-      "summary": "Quantum cybersecurity startup QNu Labs has raised ₹200 Cr (around $21 Mn) in its Series A1 funding round co-led by…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "928ae2e79333",
@@ -1774,26 +1801,6 @@
       "region": "global"
     },
     {
-      "id": "7d44aa305347",
-      "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
-      "url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-08T19:51:54+00:00",
-      "summary": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "c70e9f449112",
       "title": "ChatGPT Images 2.5",
       "url": "https://www.producthunt.com/products/openai",
@@ -1820,26 +1827,6 @@
       "region": "global"
     },
     {
-      "id": "5755f7b7e24b",
-      "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
-      "url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-08T19:00:09+00:00",
-      "summary": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on…",
-      "tags": [
-        "Agentic AI",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer Vision"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "df30ec5afdd0",
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "url": "https://tautology.town/2026/06/01/card-networks.html",
@@ -1847,25 +1834,10 @@
       "source_id": "hacker_news",
       "author": "evakhoury",
       "published": "2026-09-08T18:11:05+00:00",
-      "summary": "Article URL: https://tautology.town/2026/06/01/card-networks.html Comments URL: https://news.ycombinator.com/item?id=49614280 Points: 389 # Comments: 227",
+      "summary": "Article URL: https://tautology.town/2026/06/01/card-networks.html Comments URL: https://news.ycombinator.com/item?id=49614280 Points: 538 # Comments: 318",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "3edaa7e8b22e",
-      "title": "IPO-Bound RentoMojo Nets ₹376 Cr From Anchor Investors",
-      "url": "https://inc42.com/buzz/ipo-bound-rentomojo-nets-%e2%82%b9376-cr-from-anchor-investors/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-08T17:56:43+00:00",
-      "summary": "Ahead of the commencement of the bidding for its public issue on September 9, furniture and appliance rental platform RentMojo…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "16839ef6fd95",
@@ -1909,32 +1881,6 @@
       "region": "global"
     },
     {
-      "id": "e9d47611d6c5",
-      "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
-      "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-08T15:08:14+00:00",
-      "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3cdd08c8d223",
-      "title": "Tazapay to be acquired by Circle in $400M stock deal",
-      "url": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-08T15:05:22+00:00",
-      "summary": "US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "4f420d1c5cd0",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -1945,6 +1891,21 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-08T13:00:00+00:00",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
       "region": "global"
     }
   ]
