@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-09-09T20:18:50.394368+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-09-10T02:44:17.290484+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "MarkTechPost",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -25,6 +21,375 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "47cce1b466f6",
+      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+      "url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-10T02:13:12+00:00",
+      "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0b33824dc743",
+      "title": "Private equity firm Motilal Oswal’s PPE bet; Samtel Avionics, Japanese firm BULL Co sign deal for space debris",
+      "url": "https://yourstory.com/2026/09/15-crypto-platforms-hit-by-indias-crackdown",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-10T02:00:00+00:00",
+      "summary": "Founded in 1998, KARAM Safety will use the capital infusion to bolster product R&D, expand manufacturing capacities, and pursue strategic inorganic acquisitions across global markets.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "e09c59999fdb",
+      "title": "Quoting Calif Research",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-10T00:56:41+00:00",
+      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still…",
+      "tags": [
+        "ai-security-research",
+        "ai",
+        "llms",
+        "security",
+        "generative-ai"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "9fe83622350f",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-09-10T00:00:37+00:00",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "tags": [
+        "AI",
+        "Venture",
+        "customer research",
+        "M&A",
+        "menlo ventures",
+        "Salesforce"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8df2f50f6f23",
+      "title": ".blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-09T23:58:32+00:00",
+      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the…",
+      "tags": [
+        "3d",
+        "javascript",
+        "tools",
+        "ai",
+        "generative-ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "ea16adfbbd02",
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort, Sarah Perez",
+      "published": "2026-09-09T23:14:29+00:00",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "tags": [
+        "Apps",
+        "Commerce",
+        "TC",
+        "Automattic",
+        "WordPress"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4ab023fdf9d3",
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "John.Higgins",
+      "published": "2026-09-09T23:00:04+00:00",
+      "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model,…",
+      "tags": [
+        "Apple",
+        "Apple Event 2026",
+        "Gadgets",
+        "Headphones",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6535c04da3bc",
+      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+      "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-09T22:58:29+00:00",
+      "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "20da0f492de5",
+      "title": "The black iPhone Pro returns",
+      "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-09-09T22:37:51+00:00",
+      "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray)…",
+      "tags": [
+        "Apple",
+        "Apple Event 2026",
+        "iPhone",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1989dffc439f",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-09-09T22:25:22+00:00",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7ecd4aaa93fe",
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dbg31415",
+      "published": "2026-09-09T22:22:53+00:00",
+      "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 105 # Comments: 24",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c3939f84f726",
+      "title": "Automattic CEO Matt Mullenweg placed on leave",
+      "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-09T22:15:52+00:00",
+      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place…",
+      "tags": [
+        "News",
+        "Tech",
+        "Web"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b91d50ad4627",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-09-09T21:43:34+00:00",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "tags": [
+        "AI",
+        "Climate",
+        "clean energy",
+        "data centers",
+        "massachusetts"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a709112d1cd2",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-09T21:42:19+00:00",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes…",
+      "tags": [
+        "AI",
+        "Entertainment",
+        "Hands-on",
+        "Music",
+        "News",
+        "Reviews"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b7eed786ce35",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-09T21:16:34+00:00",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before…",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "85322fd12a87",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-09-09T20:55:02+00:00",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "tags": [
+        "Biz & IT",
+        "Security",
+        "chrome",
+        "chromium",
+        "exploits",
+        "Windows"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b96e6b0be6cd",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-09-09T20:44:43+00:00",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI…",
+      "tags": [
+        "AI",
+        "Apple",
+        "Apple Event 2026",
+        "News",
+        "Privacy",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "97d607539560",
+      "title": "How the new Apple Watches compare to the last-gen models",
+      "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Brad Bourque",
+      "published": "2026-09-09T20:42:51+00:00",
+      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case…",
+      "tags": [
+        "Apple",
+        "Apple Event 2026",
+        "Gadgets",
+        "Phones",
+        "Smartwatch",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "be60902fd8fd",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-09T20:24:48+00:00",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Apple",
+        "Apple Watch",
+        "privacy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "af7f7254a10c",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-09-09T20:06:28+00:00",
+      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "tags": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "china",
+        "Distillation",
+        "Donald Trump"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "fd4e31736141",
       "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
@@ -66,8 +431,8 @@
       "id": "ef8927268a2a",
       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
       "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-09T19:30:12+00:00",
       "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The…",
@@ -79,7 +444,7 @@
         "Mobile",
         "News"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -95,65 +460,44 @@
         "AI",
         "Apple",
         "Duo",
-        "phones"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a789b9eb0373",
-      "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-      "url": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-09-09T18:53:48+00:00",
-      "summary": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "Hands-on",
-        "Reviews",
-        "Smartwatch"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "62fadf400089",
-      "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
-      "url": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Cameron Faulkner",
-      "published": "2026-09-09T18:53:43+00:00",
-      "summary": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So this post is focused just on the new the 18 Pro and…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "iPhone",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f3bd0601d722",
-      "title": "Hands-on with the foldable iPhone Duo",
-      "url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Dominic Preston",
-      "published": "2026-09-09T18:38:40+00:00",
-      "summary": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Foldable Phones",
-        "Gadgets",
-        "Hands-on",
+        "In Brief",
         "iPhone"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ad7fcf3f7bf3",
+      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jon Brodkin",
+      "published": "2026-09-09T19:09:20+00:00",
+      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+      "tags": [
+        "Policy",
+        "Amazon"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0eafb300895f",
+      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-09-09T18:58:24+00:00",
+      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+      "tags": [
+        "Apple",
+        "Tech",
+        "airpods",
+        "airpods 5",
+        "apple",
+        "earphones"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -170,45 +514,8 @@
       "tags": [
         "Fundraising",
         "Startups",
-        "TC",
-        "Harvey"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2d8626883200",
-      "title": "Apple is raising iPhone prices by $100 on all of its old models",
-      "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Cameron Faulkner",
-      "published": "2026-09-09T18:30:24+00:00",
-      "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7bf84da865c2",
-      "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
-      "url": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Emma Roth",
-      "published": "2026-09-09T18:24:59+00:00",
-      "summary": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch. Here's a roundup of all the biggest…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "iPhone",
-        "Tech",
-        "Wearable"
+        "Harvey",
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -240,7 +547,7 @@
       "source_id": "hacker_news",
       "author": "thecosmicfrog",
       "published": "2026-09-09T18:15:43+00:00",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 433 # Comments: 1002",
+      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 919 # Comments: 1717",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -265,7 +572,7 @@
     },
     {
       "id": "8a014c7311a0",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
@@ -299,6 +606,23 @@
       "region": "global"
     },
     {
+      "id": "78e41b51a2b2",
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Ivan Mehta",
+      "published": "2026-09-09T17:58:14+00:00",
+      "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
+      "tags": [
+        "Gadgets",
+        "Apple",
+        "iPhone"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "48b5ae600d9b",
       "title": "Apple Watch Series 12",
       "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
@@ -306,7 +630,7 @@
       "source_id": "hacker_news",
       "author": "Lealen",
       "published": "2026-09-09T17:56:17+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 129 # Comments: 114",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 217 # Comments: 260",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -319,7 +643,7 @@
       "source_id": "hacker_news",
       "author": "awad",
       "published": "2026-09-09T17:39:24+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 208 # Comments: 162",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 381 # Comments: 309",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -335,7 +659,9 @@
       "summary": "The company also argued that its on-device models offer consumers more privacy.",
       "tags": [
         "AI",
-        "Apple"
+        "Apple",
+        "iPhone",
+        "John Ternus"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -348,7 +674,33 @@
       "source_id": "hacker_news",
       "author": "meetpateltech",
       "published": "2026-09-09T17:33:20+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 137 # Comments: 94",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 286 # Comments: 297",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e8ac74305a29",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "wsxiaoys",
+      "published": "2026-09-09T17:24:28+00:00",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 178 # Comments: 73",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0b06c749b548",
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bookofjoe",
+      "published": "2026-09-09T17:14:59+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 220 # Comments: 423",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -387,6 +739,26 @@
       "region": "global"
     },
     {
+      "id": "b53871784e28",
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Kyle Orland",
+      "published": "2026-09-09T16:59:40+00:00",
+      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
+      "tags": [
+        "AI",
+        "alignment",
+        "Anthropic",
+        "civilization",
+        "humanity",
+        "threat"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "63dc59de93ae",
       "title": "DOJ wants more answers on Fox’s $22B Roku deal",
       "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
@@ -394,12 +766,33 @@
       "source_id": "techcrunch",
       "author": "Lauren Forristal",
       "published": "2026-09-09T16:44:21+00:00",
-      "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a…",
+      "summary": "The investigation also comes as the DOJ has faced criticism over how it handles major mergers, including questions about political influence.",
       "tags": [
         "Government & Policy",
         "Media & Entertainment",
+        "Fox",
         "Mergers and Acquisitions",
         "roku"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f398f25e55bf",
+      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+      "url": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jennifer Ouellette",
+      "published": "2026-09-09T16:40:45+00:00",
+      "summary": "\"All I ever wanted was to go to school.\"",
+      "tags": [
+        "Culture",
+        "Carrie reboot",
+        "entertainment",
+        "Mike Flanagan",
+        "Netflix",
+        "stephen king"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -418,6 +811,26 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "d4ec602d6e75",
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "John Timmer",
+      "published": "2026-09-09T16:34:18+00:00",
+      "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+      "tags": [
+        "AI",
+        "Google",
+        "Science",
+        "AlphaGenome",
+        "Biology",
+        "gene regulation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "aee3d99c2112",
@@ -490,7 +903,7 @@
       "source_id": "hacker_news",
       "author": "davidfischer",
       "published": "2026-09-09T15:55:53+00:00",
-      "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 105 # Comments: 34",
+      "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 161 # Comments: 53",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -503,7 +916,7 @@
       "source_id": "hacker_news",
       "author": "kristianpaul",
       "published": "2026-09-09T15:53:06+00:00",
-      "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 131 # Comments: 16",
+      "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 175 # Comments: 23",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -516,7 +929,7 @@
       "source_id": "hacker_news",
       "author": "Limb",
       "published": "2026-09-09T15:47:42+00:00",
-      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 172 # Comments: 189",
+      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 306 # Comments: 328",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -529,7 +942,7 @@
       "source_id": "hacker_news",
       "author": "marklit",
       "published": "2026-09-09T15:44:09+00:00",
-      "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 103 # Comments: 21",
+      "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 147 # Comments: 27",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -548,23 +961,6 @@
       "region": "global"
     },
     {
-      "id": "0722e2233185",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-09T15:13:12+00:00",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "tags": [
-        "AI",
-        "AI assistant",
-        "instinct"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "061f2451c337",
       "title": "10 Self-help books for people navigating life with ADHD",
       "url": "https://yourstory.com/2026/09/self-help-book-adhd",
@@ -576,24 +972,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "cc35acf005ca",
-      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-09-09T15:10:41+00:00",
-      "summary": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-      "tags": [
-        "Transportation",
-        "Exclusive",
-        "indrive",
-        "Uber"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "470f50f3c82c",
@@ -625,64 +1003,6 @@
       "region": "india"
     },
     {
-      "id": "019efd9eee18",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Rebecca Bellan",
-      "published": "2026-09-09T15:02:47+00:00",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Security",
-        "Anthropic",
-        "existential risk",
-        "Recursive Self-Improvement"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "466d8455c970",
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aisha Malik",
-      "published": "2026-09-09T14:51:45+00:00",
-      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-      "tags": [
-        "AI",
-        "Apps",
-        "AI shopping assistant",
-        "In Brief",
-        "shipt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cf2630f9a191",
-      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-      "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-09-09T14:38:41+00:00",
-      "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "fleet management",
-        "ride-hailing",
-        "Uber"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "44084287147f",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
@@ -690,25 +1010,8 @@
       "source_id": "hacker_news",
       "author": "ModelForge",
       "published": "2026-09-09T14:37:47+00:00",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 246 # Comments: 95",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 355 # Comments: 124",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b69346a1157c",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-09-09T14:18:34+00:00",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "tags": [
-        "AI",
-        "ai tokens",
-        "Ramp"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -765,7 +1068,7 @@
       "source_id": "hacker_news",
       "author": "oumua_don17",
       "published": "2026-09-09T13:38:23+00:00",
-      "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 114 # Comments: 174",
+      "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 181 # Comments: 350",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -804,7 +1107,7 @@
       "source_id": "hacker_news",
       "author": "EdwinHoksberg",
       "published": "2026-09-09T13:27:11+00:00",
-      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 703 # Comments: 295",
+      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 902 # Comments: 357",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -839,6 +1142,21 @@
         "Tech"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "9786c92a289d",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-09T13:00:00+00:00",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "tags": [
+        "Global Affairs"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -906,7 +1224,7 @@
       "source_id": "hacker_news",
       "author": "xlii",
       "published": "2026-09-09T11:43:21+00:00",
-      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 309 # Comments: 188",
+      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 361 # Comments: 220",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -919,7 +1237,7 @@
       "source_id": "hacker_news",
       "author": "willwhitedc",
       "published": "2026-09-09T11:39:46+00:00",
-      "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/ Comments URL: https://news.ycombinator.com/item?id=49624823 Points: 334 # Comments: 85",
+      "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/ Comments URL: https://news.ycombinator.com/item?id=49624823 Points: 404 # Comments: 93",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -942,6 +1260,21 @@
         "chatbot"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "587a70348a73",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-09T11:00:00+00:00",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "tags": [
+        "Product"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -987,19 +1320,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "678879ef2f22",
-      "title": "Lotus Notes and the dangers of starting from scratch",
-      "url": "https://buttondown.com/blog/lotus-notes-email",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "maguay",
-      "published": "2026-09-09T10:01:15+00:00",
-      "summary": "Article URL: https://buttondown.com/blog/lotus-notes-email Comments URL: https://news.ycombinator.com/item?id=49623937 Points: 143 # Comments: 106",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "5145d2b6e9a3",
@@ -1057,7 +1377,7 @@
       "source_id": "hacker_news",
       "author": "matthieu_bl",
       "published": "2026-09-09T09:39:46+00:00",
-      "summary": "Article URL: https://opusfived.dev/ Comments URL: https://news.ycombinator.com/item?id=49623754 Points: 841 # Comments: 347",
+      "summary": "Article URL: https://opusfived.dev/ Comments URL: https://news.ycombinator.com/item?id=49623754 Points: 1024 # Comments: 401",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1087,6 +1407,26 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "ea16d20a3cb2",
+      "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
+      "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-09T07:29:13+00:00",
+      "summary": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning…",
+      "tags": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Staff",
+        "Technology"
+      ],
+      "tier": "ai_news",
+      "region": "global"
     },
     {
       "id": "5bf0b97576b5",
@@ -1133,6 +1473,26 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "b9983806a31e",
+      "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
+      "url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-09T04:38:13+00:00",
+      "summary": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
     },
     {
       "id": "13321b4661ea",
@@ -1414,23 +1774,23 @@
       "region": "global"
     },
     {
-      "id": "f9627b28908c",
-      "title": "NIH to use part of its budget to pay for Department of Defense research",
-      "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "John Timmer",
-      "published": "2026-09-08T20:06:44+00:00",
-      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "id": "7d44aa305347",
+      "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+      "url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-08T19:51:54+00:00",
+      "summary": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile…",
       "tags": [
-        "Policy",
-        "Science",
-        "budget",
-        "Defense Department",
-        "emerging diseases",
-        "NIH"
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1443,39 +1803,6 @@
       "published": "2026-09-08T19:47:45+00:00",
       "summary": "Sharper visuals, faster flow, better creative control Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fdfa315dd9e2",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "yks",
-      "published": "2026-09-08T19:25:00+00:00",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 619 # Comments: 676",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ce00418e542b",
-      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jeremy Hsu",
-      "published": "2026-09-08T19:12:53+00:00",
-      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
-      "tags": [
-        "Tech",
-        "ai data centers",
-        "ASML",
-        "china",
-        "Chip manufacturing",
-        "Chipmakers"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1493,61 +1820,23 @@
       "region": "global"
     },
     {
-      "id": "19ea2b7ec0a3",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-09-08T19:00:00+00:00",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing…",
+      "id": "5755f7b7e24b",
+      "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
+      "url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-08T19:00:09+00:00",
+      "summary": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on…",
       "tags": [
-        "AI",
-        "Meta",
-        "News",
-        "Tech"
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b0bc6955e9d3",
-      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
-      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-09-08T18:53:23+00:00",
-      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
-      "tags": [
-        "Culture",
-        "entertainment",
-        "film trailers",
-        "Godzilla Minus Zero",
-        "Toho",
-        "Trailers"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8e182e0e8e3e",
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-09-08T18:43:09+00:00",
-      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-      "tags": [
-        "AI",
-        "Policy",
-        "ai csam",
-        "csam",
-        "Facebook",
-        "Instagram"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1558,27 +1847,8 @@
       "source_id": "hacker_news",
       "author": "evakhoury",
       "published": "2026-09-08T18:11:05+00:00",
-      "summary": "Article URL: https://tautology.town/2026/06/01/card-networks.html Comments URL: https://news.ycombinator.com/item?id=49614280 Points: 182 # Comments: 92",
+      "summary": "Article URL: https://tautology.town/2026/06/01/card-networks.html Comments URL: https://news.ycombinator.com/item?id=49614280 Points: 389 # Comments: 227",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "12bd95b765d1",
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Scott K. Johnson",
-      "published": "2026-09-08T18:00:56+00:00",
-      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-      "tags": [
-        "AI",
-        "Google",
-        "Science",
-        "machine learning",
-        "weather models"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1596,26 +1866,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "6e89e61a94b0",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Hayden Field",
-      "published": "2026-09-08T17:27:31+00:00",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Exclusive",
-        "Law",
-        "Policy",
-        "Report"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "16839ef6fd95",
@@ -1659,26 +1909,6 @@
       "region": "global"
     },
     {
-      "id": "6c11cd8b5bf7",
-      "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
-      "url": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Lee Hutchinson",
-      "published": "2026-09-08T16:05:32+00:00",
-      "summary": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
-      "tags": [
-        "Gaming",
-        "children of infinity",
-        "dan gerstein",
-        "demo",
-        "fred ford",
-        "free stars"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e9d47611d6c5",
       "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
       "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
@@ -1715,203 +1945,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "f5d6ebe96433",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-09-08T14:00:00+00:00",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called…",
-      "tags": [
-        "AI",
-        "Google",
-        "Health",
-        "Science",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "fd94fc146d75",
-      "title": "EV batteries last longer than drivers feared",
-      "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Kana Inagaki and Clara Murray, Financial Times",
-      "published": "2026-09-08T13:56:38+00:00",
-      "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
-      "tags": [
-        "Cars",
-        "EVs",
-        "syndication"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "aaada63e998e",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-08T13:00:00+00:00",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "7bbc61b9f7d8",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "Mat Honan",
-      "published": "2026-09-08T10:34:00+00:00",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks…",
-      "tags": [
-        "Artificial intelligence",
-        "App",
-        "TR35 2026"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "49461085c40c",
-      "title": "Write Things Down",
-      "url": "https://stratechery.com/2026/write-things-down/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-09-08T10:00:00+00:00",
-      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
-      "tags": [
-        "Articles"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "99c22bc85dd5",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-08T09:00:00+00:00",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "tags": [
-        "Safety"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "f9474260202c",
-      "title": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Juandi Sanchez",
-      "published": "2026-09-08T03:23:07+00:00",
-      "summary": "AI messenger that builds shared apps inside your group chats Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b03f24c5e44d",
-      "title": "Catenary",
-      "url": "https://www.producthunt.com/products/catenary",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Giorgio Nícolas",
-      "published": "2026-09-08T02:32:49+00:00",
-      "summary": "Spatial canvas IDE for AI coding agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c657536c8d32",
-      "title": "Trancy Air",
-      "url": "https://www.producthunt.com/products/trancy-air",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Elidi Martin",
-      "published": "2026-09-08T02:16:29+00:00",
-      "summary": "Translate anything you see, write, or say with one hotkey Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "442511b9715a",
-      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
-      "url": "https://tldr.tech/ai/2026-09-08",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "671a9fed35e2",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "9816f5beea82",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "1bfd7f6e1b29",
-      "title": "llm 0.35",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-07T23:54:54+00:00",
-      "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
-      "tags": [
-        "openai",
-        "llm",
-        "gpt-6-astra"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
