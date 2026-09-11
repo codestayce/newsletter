@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:28:59.632287+00:00",
+  "generated_at": "2026-09-11T15:43:45.979688+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,21 +22,441 @@
   "item_count": 120,
   "items": [
     {
-      "id": "589526358ce9",
-      "title": "Apple addresses iPhone Duo copycats",
-      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "id": "e6fdeb2b90ea",
+      "title": "Where to preorder the Apple AirPods 5",
+      "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
       "source": "The Verge",
       "source_id": "the_verge",
-      "author": "Thomas Ricker",
-      "published": "2026-09-11T10:02:58+00:00",
-      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share…",
+      "author": "Brad Bourque",
+      "published": "2026-09-11T15:31:00+00:00",
+      "summary": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Series 12 and Ultra 4, as well as the iPhone 18 Pro and Pro…",
       "tags": [
         "Apple",
         "Apple Event 2026",
-        "iPhone",
+        "Gadgets",
+        "Headphones",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "11e9c583bfdb",
+      "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-11T15:19:00+00:00",
+      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "Automattic",
+        "Exclusive",
+        "matt mullenweg"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b59915a10df8",
+      "title": "Anime reaction YouTubers are at war with copyright enforcers",
+      "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Charles Pulliam-Moore",
+      "published": "2026-09-11T15:12:58+00:00",
+      "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Deleted Today\" - Light alleges that he was on the receiving…",
+      "tags": [
+        "Creators",
+        "Entertainment",
+        "Report",
+        "Streaming",
+        "Tech",
+        "TV Shows"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "640425841f61",
+      "title": "Army Design Bureau visits Garuda Aerospace’s Chennai drone facility",
+      "url": "https://yourstory.com/2026/09/army-design-bureau-garuda-aerospace-defence-drone-facility",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T14:58:23+00:00",
+      "summary": "Major General Gopal Kapoor visited Garuda Aerospace’s Chennai facility to review its indigenous defence drone manufacturing, testing and R&D capabilities.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "f9439c2ebac9",
+      "title": "Karnataka launches Rs 25 crore Government First startup initiative",
+      "url": "https://yourstory.com/2026/09/karnataka-government-first-startup-initiative",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T14:57:22+00:00",
+      "summary": "Karnataka’s Government First initiative will support 100 startups with Rs 25 crore, helping them pilot solutions and enter government procurement.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "040d7baa9a66",
+      "title": "Soft-deprecating re.match()",
+      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T14:47:57+00:00",
+      "summary": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15…",
+      "tags": [
+        "python",
+        "regular-expressions"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "a86ce139adeb",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-11T14:25:21+00:00",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the…",
+      "tags": [
+        "AI",
+        "Meta",
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8c80002a0a79",
+      "title": "New York City’s last pickpocket doesn’t need a smartphone",
+      "url": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-09-11T14:15:00+00:00",
+      "summary": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards contenders, indie surprises,…",
+      "tags": [
+        "Entertainment",
+        "Film",
+        "Movie Review",
+        "TIFF"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f9aba8dbddd8",
+      "title": "[Weekly funding roundup Sept 5-11] VC inflow doubles this week",
+      "url": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T13:59:47+00:00",
+      "summary": "Indian startup funding doubled to $392M this week, with Pixxel, Popo Global, and Nua among the biggest deals. Spacetech, restaurants, and women’s wellness drew investor interest, while Series A startups accounted for $104M of the funding.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "05db07f33fba",
+      "title": "Don't sleep on wrapture",
+      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T13:51:32+00:00",
+      "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's…",
+      "tags": [
+        "graham-dumpleton",
+        "open-source",
+        "testing",
+        "python",
+        "observability",
+        "monkey-patching"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "e199989ef7e8",
+      "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+      "url": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Liszewski",
+      "published": "2026-09-11T13:42:35+00:00",
+      "summary": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka isn't designed with portability…",
+      "tags": [
+        "Audio",
+        "Gadgets",
+        "News",
+        "Speakers",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e9fa41919606",
+      "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "doppp",
+      "published": "2026-09-11T13:42:28+00:00",
+      "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/ Comments URL: https://news.ycombinator.com/item?id=49658311 Points: 104 # Comments: 133",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "316791383879",
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "consumer451",
+      "published": "2026-09-11T13:41:38+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/live/cmd683p01eljt Comments URL: https://news.ycombinator.com/item?id=49658299 Points: 209 # Comments: 209",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1e3f10955758",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Zack Whittaker",
+      "published": "2026-09-11T13:32:54+00:00",
+      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "trezor"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "45045b70576f",
+      "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
+      "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T13:26:10+00:00",
+      "summary": "The Navi founder said access to AI will become less of a differentiator as the technology gets easier to use.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9af4424a05ab",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "cromka",
+      "published": "2026-09-11T13:11:04+00:00",
+      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now get zero traction,…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c27b8a46e84b",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Zehra Munir, Financial Times",
+      "published": "2026-09-11T13:02:35+00:00",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Anthropic Claude",
+        "bioweapons",
+        "cybersecurity",
+        "syndication"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "baa0456662e2",
+      "title": "[Update] RentoMojo IPO Ends With 72.88X Subscription, QIB Portion Booked 177X",
+      "url": "https://inc42.com/buzz/rentomojo-ipo-subscription-hits-17-18x-on-final-day-niis-lead-demand/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-09-11T12:40:54+00:00",
+      "summary": "Update | September 11, 2026, 18:05 IST Furniture and appliance rental startup RentoMojo’s IPO closed with an overall subscription of…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "a9b90257a962",
+      "title": "Graph AI raises $13.3M in Series A funding",
+      "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T12:28:43+00:00",
+      "summary": "The tech startup focused on the pharmaceutical industry will use the funding to expand its presence across the US and Europe and accelerate product development.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9e2d216deb94",
+      "title": "Startup news and updates: Daily roundup (September 11, 2026)",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-11-2026",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T12:25:21+00:00",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, September 11, 2026.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "287589d4ba5e",
+      "title": "Fintech Stocks Rally On Report Of 40 Basis Point MDR On UPI, Paytm Touches 52-Week High",
+      "url": "https://inc42.com/buzz/fintech-stocks-rally-on-report-of-40-basis-point-mdr-on-upi-paytm-touches-52-week-high/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-09-11T11:51:52+00:00",
+      "summary": "Fintech company stocks — Paytm, Pine Labs, Mobikwik and AvenuesAI — rallied today amid reports suggesting that the merchant discount…",
+      "tags": [
+        "News",
+        "Inc42 Markets",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "732e70411f4d",
+      "title": "How Rapido’s Super App Model Is Taking Shape",
+      "url": "https://inc42.com/features/how-rapidos-super-app-model-is-taking-shape/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Meha Agarwal",
+      "published": "2026-09-11T11:37:39+00:00",
+      "summary": "In April 2016, a bike taxi startup barely a few months old persuaded some established names in Indian business to…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "3bfbb7794ec5",
+      "title": "GFF 2026: NPCI Unveils Unified Ticketing, Takes RuPay Credit Card On UPI To US, UAE",
+      "url": "https://inc42.com/buzz/gff-2026-npci-unveils-unified-ticketing-takes-rupay-credit-card-on-upi-to-us-uae/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-09-11T11:36:55+00:00",
+      "summary": "Adding to the spree of UPI launches at the Global Fintech Festival (GFF) 2026 in Mumbai, Reserve Bank of India…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7c59c72b9410",
+      "title": "Triptii Dimri Backs D2C Brand Peep Beauty As Investor, Co-Creator",
+      "url": "https://inc42.com/buzz/triptii-dimri-backs-d2c-brand-peep-beauty-as-investor-co-creator/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-09-11T11:22:22+00:00",
+      "summary": "Actor Triptii Dimri has joined D2C eye-focused beauty brand Peep Beauty as an investor and co-creator as the startup looks…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "aadadfed43e1",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "JohnHammersley",
+      "published": "2026-09-11T11:17:50+00:00",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 283 # Comments: 219",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4bd71ffb3cb2",
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Dominic Preston",
+      "published": "2026-09-11T11:07:24+00:00",
+      "summary": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: It can shoot vertical video in 4K. Plus,…",
+      "tags": [
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2430f3399161",
+      "title": "NSE sets IPO price band at Rs 1,700-1,785; issue to open on September 17",
+      "url": "https://yourstory.com/2026/09/nse-sets-ipo-price-band-at-rs-1700-1785-issue-to-open-on-sep-17",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-11T10:50:25+00:00",
+      "summary": "The Rs 22,569-crore IPO will be the country's second-largest public issue after Hyundai Motor India's Rs 27,870-crore IPO. It will be entirely an offer for sale of up to 12.64 crore equity shares by existing shareholders.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "8e10c98735ba",
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Muhammad523",
+      "published": "2026-09-11T10:48:00+00:00",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 275 # Comments: 359",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -78,15 +498,16 @@
       "published": "2026-09-11T08:53:31+00:00",
       "summary": "ESDS Software Solution extended its post-listing surge into a sixth consecutive trading session today, with its shares touching the upper…",
       "tags": [
-        "News"
+        "News",
+        "AI Economy"
       ],
       "tier": "india",
       "region": "india"
     },
     {
-      "id": "77816cfdce3d",
+      "id": "abd2dcc9b231",
       "title": "Exclusive: Ultraviolette To Raise ₹373 Cr As Manufacturing Facility BIGGA Takes Shape",
-      "url": "https://inc42.com/buzz/exclusive-ultraviolette-to-raise-%e2%82%b9373-cr-as-manufacturing-facility-bigga-takes-shape/",
+      "url": "https://inc42.com/buzz/exclusive-ultraviolette-to-raise-inr-373-cr-as-manufacturing-facility-bigga-takes-shape/",
       "source": "Inc42",
       "source_id": "inc42",
       "author": "Anne Florentyna",
@@ -100,19 +521,17 @@
       "region": "india"
     },
     {
-      "id": "baa0456662e2",
-      "title": "RentoMojo IPO Subscription Hits 17.18X On Final Day, NIIs Lead Demand",
-      "url": "https://inc42.com/buzz/rentomojo-ipo-subscription-hits-17-18x-on-final-day-niis-lead-demand/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-09-11T08:24:54+00:00",
-      "summary": "Online furniture and appliance rental platform RentoMojo’s IPO was subscribed 17.18X by 13:27 IST on the final day of bidding…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
+      "id": "315270e30a33",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "andsoitis",
+      "published": "2026-09-11T08:42:04+00:00",
+      "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation Comments URL: https://news.ycombinator.com/item?id=49655286 Points: 158 # Comments: 80",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "9c10b2a5597b",
@@ -139,7 +558,8 @@
       "published": "2026-09-11T07:21:28+00:00",
       "summary": "OpenAI is open to slowing the development of AI systems in coordination with other leading AI companies amid growing concerns…",
       "tags": [
-        "News"
+        "News",
+        "AI Economy"
       ],
       "tier": "india",
       "region": "india"
@@ -182,19 +602,6 @@
         "Artificial Intelligence"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "369127da9acb",
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "manojbajaj95",
-      "published": "2026-09-11T06:23:06+00:00",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/ Comments URL: https://news.ycombinator.com/item?id=49654229 Points: 335 # Comments: 242",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -257,19 +664,6 @@
       "region": "india"
     },
     {
-      "id": "3381444fe818",
-      "title": "Exercise intensity is associated with cardiometabolic health",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "qclibre22",
-      "published": "2026-09-11T03:48:10+00:00",
-      "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2 Comments URL: https://news.ycombinator.com/item?id=49653328 Points: 102 # Comments: 47",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a2193a1e2c9f",
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
@@ -326,7 +720,7 @@
       "source_id": "hacker_news",
       "author": "rguiscard",
       "published": "2026-09-11T01:00:56+00:00",
-      "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 220 # Comments: 79",
+      "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 336 # Comments: 107",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -342,6 +736,21 @@
       "summary": "Give Claude your hours, invoices and contracts Discussion | Link",
       "tags": [],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "98fd5398dba8",
+      "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
+      "url": "https://tldr.tech/ai/2026-09-11",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-09-11T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -376,19 +785,6 @@
       "region": "global"
     },
     {
-      "id": "9da9989ecc0c",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jonifico",
-      "published": "2026-09-10T23:10:06+00:00",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 105 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "14a9ade9c7b7",
       "title": "Nine coding harnesses vs. your laptop",
       "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
@@ -396,7 +792,7 @@
       "source_id": "hacker_news",
       "author": "nasutton12",
       "published": "2026-09-10T22:54:01+00:00",
-      "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 105 # Comments: 29",
+      "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 155 # Comments: 53",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -511,24 +907,11 @@
       "region": "global"
     },
     {
-      "id": "4cc89e143030",
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mckn1ght",
-      "published": "2026-09-10T21:30:55+00:00",
-      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 105 # Comments: 182",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "aa26ca0813f5",
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-10T21:25:21+00:00",
       "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from…",
@@ -538,7 +921,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -672,8 +1055,8 @@
       "id": "42ff3f823971",
       "title": "Schools are catching on to Big Tech’s playbook",
       "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Lauren Feiner",
       "published": "2026-09-10T19:44:20+00:00",
       "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI…",
@@ -684,20 +1067,7 @@
         "Report",
         "Vergecast"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "13371281df95",
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "merybenavente",
-      "published": "2026-09-10T19:44:15+00:00",
-      "summary": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 111 # Comments: 61",
-      "tags": [],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -708,7 +1078,7 @@
       "source_id": "hacker_news",
       "author": "aquir",
       "published": "2026-09-10T19:43:22+00:00",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 271 # Comments: 147",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 313 # Comments: 166",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -721,7 +1091,7 @@
       "source_id": "hacker_news",
       "author": "auberonedu",
       "published": "2026-09-10T19:34:20+00:00",
-      "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 202 # Comments: 123",
+      "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 251 # Comments: 167",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -878,19 +1248,6 @@
       "region": "global"
     },
     {
-      "id": "62bef34aa8f3",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "garo-pro",
-      "published": "2026-09-10T17:23:42+00:00",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 135 # Comments: 200",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "361c9621b577",
       "title": "Music Theory for the 21st-Century Classroom",
       "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
@@ -898,7 +1255,7 @@
       "source_id": "hacker_news",
       "author": "aanet",
       "published": "2026-09-10T17:14:12+00:00",
-      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 230 # Comments: 99",
+      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 271 # Comments: 129",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -979,28 +1336,11 @@
       "summary": "Update | September 10, 22:00 IST Pharmaceutical-sector focused AI startup Graph AI has raised $13.3 Mn (₹127.2 Cr) in its…",
       "tags": [
         "News",
+        "AI Economy",
         "Exclusive"
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "56e528f7e19e",
-      "title": "Electric air taxis get the green light for test flights in Texas",
-      "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew J. Hawkins",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility…",
-      "tags": [
-        "Aviation",
-        "News",
-        "Tech",
-        "Transportation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "014159943e4d",
@@ -1048,32 +1388,6 @@
       "region": "india"
     },
     {
-      "id": "7e78d193a935",
-      "title": "Forgejo <=16.0.3 Critical RCE",
-      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "weierstass",
-      "published": "2026-09-10T15:57:40+00:00",
-      "summary": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 188 # Comments: 68",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "17adfa586ca5",
-      "title": "Neki – Sharded Postgres",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "simon_weber",
-      "published": "2026-09-10T15:43:49+00:00",
-      "summary": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 246 # Comments: 131",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9bb7a9c3c3a7",
       "title": "GFF 2026: Fintech-AI Partnerships Take The Centre Stage On Day 2",
       "url": "https://inc42.com/buzz/gff-2026-fintech-ai-partnerships-take-the-centre-stage-on-day-2/",
@@ -1084,6 +1398,7 @@
       "summary": "After a plethora of new product launches and innovation showcases on day one, the second day of the Global Fintech…",
       "tags": [
         "News",
+        "AI Economy",
         "Others",
         "Spot News"
       ],
@@ -1094,8 +1409,8 @@
       "id": "cf5fc175c965",
       "title": "Universal Music is launching an AI music platform with ElevenLabs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-10T15:38:19+00:00",
       "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a…",
@@ -1105,20 +1420,7 @@
         "Music",
         "News"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "69669daef825",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "seelos",
-      "published": "2026-09-10T15:29:47+00:00",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 419 # Comments: 174",
-      "tags": [],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1129,7 +1431,7 @@
       "source_id": "hacker_news",
       "author": "gumby",
       "published": "2026-09-10T15:29:30+00:00",
-      "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 340 # Comments: 55",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 362 # Comments: 62",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1142,7 +1444,7 @@
       "source_id": "hacker_news",
       "author": "Brajeshwar",
       "published": "2026-09-10T15:27:22+00:00",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 541 # Comments: 352",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 696 # Comments: 420",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1166,49 +1468,11 @@
       "region": "global"
     },
     {
-      "id": "8ee22c2cd712",
-      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-      "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Cameron Faulkner",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "Smartwatch",
-        "Tech",
-        "Verge Shopping"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "858d96000f98",
-      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew Webster",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a…",
-      "tags": [
-        "Entertainment",
-        "Games Review",
-        "Gaming",
-        "PlayStation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "20c8baf0cbde",
       "title": "Meta’s Muse AI works and creeps me out",
       "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-10T15:00:00+00:00",
       "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out…",
@@ -1219,7 +1483,7 @@
         "Report",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1268,26 +1532,6 @@
       "region": "india"
     },
     {
-      "id": "e264b37dbecd",
-      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-      "url": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-09-10T14:34:36+00:00",
-      "summary": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live. In Wednesday night's episode, Kimmel said this was out of concern…",
-      "tags": [
-        "Entertainment",
-        "News",
-        "Policy",
-        "Politics",
-        "Speech",
-        "TV Shows"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "dc2c5ba2eece",
       "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
       "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
@@ -1334,7 +1578,7 @@
       "source_id": "hacker_news",
       "author": "fnthawar2",
       "published": "2026-09-10T14:09:31+00:00",
-      "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 1077 # Comments: 754",
+      "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 1186 # Comments: 876",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1360,19 +1604,6 @@
       "region": "global"
     },
     {
-      "id": "ad1c7d356fc8",
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mmastrac",
-      "published": "2026-09-10T13:39:16+00:00",
-      "summary": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/ Comments URL: https://news.ycombinator.com/item?id=49643546 Points: 679 # Comments: 428",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2e9e8b76fb2f",
       "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
       "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
@@ -1391,43 +1622,6 @@
       "region": "global"
     },
     {
-      "id": "0e158704f9fe",
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
-      "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Zack Whittaker",
-      "published": "2026-09-10T13:21:09+00:00",
-      "summary": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
-      "tags": [
-        "Government & Policy",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "driver's license"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "06e22d76a8e4",
-      "title": "Snapchat takes aim at Partiful with new event-planning features",
-      "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aisha Malik",
-      "published": "2026-09-10T13:00:00+00:00",
-      "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Snapchat"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3fe200162862",
       "title": "Delhi HC Restrains Beco’s ‘War On What’s Hidden’ Ads Targeting HUL Products",
       "url": "https://inc42.com/buzz/delhi-hc-restrains-becos-war-on-whats-hidden-ads-targeting-hul-products/",
@@ -1439,19 +1633,6 @@
       "tags": [
         "News"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "0a2933235cf6",
-      "title": "Startup news and updates: Daily roundup (September 10, 2026)",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-10-2026",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T12:26:18+00:00",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, September 10, 2026.",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -1518,19 +1699,6 @@
       "region": "global"
     },
     {
-      "id": "d0c6c857f254",
-      "title": "Greenwave Circularity raises $31.5M financing from OeEB of Austria",
-      "url": "https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T10:53:16+00:00",
-      "summary": "Greenwave Circularity will use this funding to build out new solutions that will uplift the scrap value chains.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "4b57516e397a",
       "title": "Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani",
       "url": "https://inc42.com/buzz/startups-small-businesses-will-drive-job-creation-in-ai-era-nandan-nilekani/",
@@ -1540,34 +1708,9 @@
       "published": "2026-09-10T10:41:33+00:00",
       "summary": "As AI reshapes the nature of work and raises concerns about job displacement, startups and small businesses will become the…",
       "tags": [
-        "News"
+        "News",
+        "AI Economy"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "fcc185d944d6",
-      "title": "Swish raises $24M led by Bertelsmann India",
-      "url": "https://yourstory.com/2026/09/swish-raises-usd-24m-led-by-bertelsmann-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T10:40:49+00:00",
-      "summary": "The quick-service food delivery platform will use the funds to expand its kitchen network and supply chain infrastructure to meet growing demand.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "abc66632d711",
-      "title": "India Funds Its Startups. Why Won't It Buy From Them?",
-      "url": "https://yourstory.com/2026/09/india-funds-its-startups-why-wont-buy-from-them",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T10:24:17+00:00",
-      "summary": "Grants build prototypes. Purchase orders build companies. India's largest customer still isn't buying from its startups",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -1613,32 +1756,6 @@
       "tags": [
         "News"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "fc107f544e37",
-      "title": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay",
-      "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T08:54:36+00:00",
-      "summary": "Founded in 2021 by Sarthak Aggarwal, Vikram Jain, Karan Jain, and Shruti Aggarwal, Theater is positioned as a mass-premium brand selling footwear, stockings, perfumes and bags.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "7f2934260341",
-      "title": "TechSparks 2026: Sridhar Vembu, Ambarish Kenghe, Mukund Jha, Chandrika Deb, and more join the lineup",
-      "url": "https://yourstory.com/2026/09/techsparks-2026-sridhar-vembu-ambarish-kenghe-mukund-jha-chandrika-deb",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T08:54:05+00:00",
-      "summary": "Policymakers, founders, investors, and technology and culture leaders will come together at YourStory’s flagship TechSparks summit this October to discuss India’s next phase of innovation.",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -1721,21 +1838,6 @@
       "region": "global"
     },
     {
-      "id": "834bc8e9130d",
-      "title": "Swish Raises $24 Mn To Expand Quick Food Delivery Network",
-      "url": "https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-09-10T05:59:40+00:00",
-      "summary": "Quick food delivery startup Swish has raised $24 Mn (about ₹228.4 Cr) in a funding round led by Bertelsmann India…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "99dc492ff5be",
       "title": "Suno v6",
       "url": "https://www.producthunt.com/products/suno",
@@ -1760,22 +1862,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "33b6ab85c1ea",
-      "title": "GFF 2026 Highlights, The Estate Planning Question & More",
-      "url": "https://inc42.com/buzz/gff-2026-highlights-the-estate-planning-question-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-10T02:30:25+00:00",
-      "summary": "Global Fintech Fest 2026 Kicks Off Indian startups basked in the spotlight as the Global Fintech Festival 2026 kicked off…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "47cce1b466f6",
@@ -1857,81 +1943,6 @@
         "Product"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "2b26a8066576",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "8df2f50f6f23",
-      "title": ".blend URL Viewer",
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-09T23:58:32+00:00",
-      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the…",
-      "tags": [
-        "3d",
-        "javascript",
-        "tools",
-        "ai",
-        "generative-ai",
-        "llms"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "6535c04da3bc",
-      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-      "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-09T22:58:29+00:00",
-      "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a709112d1cd2",
-      "title": "Suno releases its first AI music model made with record industry help",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-09T21:42:19+00:00",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Hands-on",
-        "Music",
-        "News",
-        "Reviews"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
