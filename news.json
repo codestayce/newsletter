@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-11T20:21:16.535636+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-12T02:46:42.871527+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "MarkTechPost",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -22,6 +26,268 @@
   "item_count": 120,
   "items": [
     {
+      "id": "12e9dd685180",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-14T00:00:00+00:00",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "tags": [],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "3002ceee4d63",
+      "title": "China’s AI labs siphoned Claude’s intelligence?",
+      "url": "https://yourstory.com/2026/09/chinas-ai-labs-siphoned-claudes-intelligence",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-12T02:28:22+00:00",
+      "summary": "Anthropic’s report reveals that major Chinese AI developers operated illicit proxy networks to harvest Claude’s reasoning capabilities, unintentionally leaking sensitive military, government, and corporate secrets in the process.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6481e999f333",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-12T00:42:25+00:00",
+      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it…",
+      "tags": [
+        "ruby",
+        "security",
+        "ai",
+        "openai",
+        "generative-ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "375ca38a7a7c",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "chao-",
+      "published": "2026-09-11T23:17:42+00:00",
+      "summary": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 376 # Comments: 220",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4c67a72ea8b0",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-09-11T22:58:17+00:00",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Sequoia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "218699288e36",
+      "title": "So you want to use OpenRouter?",
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T22:49:18+00:00",
+      "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider.…",
+      "tags": [
+        "ai",
+        "generative-ai",
+        "llms",
+        "openrouter"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "b9f4c3ae650e",
+      "title": "Random rewards enrich classic game-theory insights",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Chris Lee",
+      "published": "2026-09-11T21:41:16+00:00",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "tags": [
+        "Science",
+        "Behavioral science",
+        "game theory",
+        "math"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5a1fb3a8dc32",
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-09-11T21:19:05+00:00",
+      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+      "tags": [
+        "Venture",
+        "Khosla Ventures"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "df8be383419a",
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Beth Mole",
+      "published": "2026-09-11T21:14:26+00:00",
+      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+      "tags": [
+        "Health",
+        "antibiotics",
+        "bouncy castle",
+        "drug resistance",
+        "infection",
+        "MRSA"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "543492d80546",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-09-11T20:59:47+00:00",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "tags": [
+        "AI",
+        "TC",
+        "Venture",
+        "garry tan",
+        "Y Combinator"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3c9a79c82f31",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-09-11T20:57:36+00:00",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1b7da40542bc",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-11T20:44:02+00:00",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in…",
+      "tags": [
+        "AI",
+        "Law",
+        "News",
+        "OpenAI",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "970271eaf902",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-09-11T20:33:18+00:00",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "Venture"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5ae88bf4e335",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-09-11T20:30:17+00:00",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "Venture"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f3a9431fe454",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "MIT Technology Review",
+      "published": "2026-09-11T20:05:06+00:00",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will…",
+      "tags": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "3d8e4a73da0d",
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
@@ -34,6 +300,24 @@
         "AI",
         "In Brief",
         "moonshot ai"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "713fa14b50f5",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jon Brodkin",
+      "published": "2026-09-11T19:34:09+00:00",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "tags": [
+        "AI",
+        "Policy",
+        "AI hallucination",
+        "ChatGPT"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -73,6 +357,45 @@
       "region": "global"
     },
     {
+      "id": "28a9cb3e9c5b",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "microtonal",
+      "published": "2026-09-11T18:50:36+00:00",
+      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 207 # Comments: 130",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "25968ccc212f",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "stmw",
+      "published": "2026-09-11T18:30:07+00:00",
+      "summary": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 118 # Comments: 56",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b037dd796998",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "nickabe",
+      "published": "2026-09-11T18:24:55+00:00",
+      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 321 # Comments: 175",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "bd1e19734690",
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
@@ -100,7 +423,7 @@
       "source_id": "hacker_news",
       "author": "doener",
       "published": "2026-09-11T18:05:21+00:00",
-      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 165 # Comments: 94",
+      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 369 # Comments: 252",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -133,7 +456,51 @@
       "source_id": "hacker_news",
       "author": "meredydd",
       "published": "2026-09-11T17:45:12+00:00",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 204 # Comments:…",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 672 # Comments:…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "02e13870949f",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dr_kiszonka",
+      "published": "2026-09-11T17:36:11+00:00",
+      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 115 # Comments: 61",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "acad04a359be",
+      "title": "Feeling sad about AI",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T17:28:37+00:00",
+      "summary": "My comment on Feeling sad about AI — Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding…",
+      "tags": [
+        "ai",
+        "generative-ai",
+        "llms",
+        "deep-blue"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "118e804dc5c0",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "geneticdrifts",
+      "published": "2026-09-11T17:25:23+00:00",
+      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 109 # Comments: 77",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -259,19 +626,6 @@
       "region": "global"
     },
     {
-      "id": "db70507e737f",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "otherayden",
-      "published": "2026-09-11T16:08:50+00:00",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 136 # Comments: 56",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "30bdba9275f0",
       "title": "Quoting huggingface.co/security.txt",
       "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
@@ -290,14 +644,27 @@
       "region": "global"
     },
     {
-      "id": "c4863f29fc2b",
-      "title": "Global Glacier Extinction Explorer",
-      "url": "https://glacierextinction.com",
+      "id": "c3aa33826442",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-11T16:00:00+00:00",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "tags": [],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "276ab650ecdc",
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "guillego",
-      "published": "2026-09-11T15:58:06+00:00",
-      "summary": "Article URL: https://glacierextinction.com Comments URL: https://news.ycombinator.com/item?id=49660576 Points: 130 # Comments: 47",
+      "author": "ernestrc",
+      "published": "2026-09-11T15:31:47+00:00",
+      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 148 # Comments: 55",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -405,24 +772,11 @@
       "region": "global"
     },
     {
-      "id": "8a5049d98b35",
-      "title": "HuggingFace: Security.txt",
-      "url": "https://huggingface.co/security.txt",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "yarapavan",
-      "published": "2026-09-11T14:38:13+00:00",
-      "summary": "Article URL: https://huggingface.co/security.txt Comments URL: https://news.ycombinator.com/item?id=49659245 Points: 201 # Comments: 51",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a86ce139adeb",
       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
       "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-11T14:25:21+00:00",
       "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the…",
@@ -432,7 +786,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -466,19 +820,6 @@
         "monkey-patching"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "e9fa41919606",
-      "title": "Measuring the sloppiness of code",
-      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "doppp",
-      "published": "2026-09-11T13:42:28+00:00",
-      "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/ Comments URL: https://news.ycombinator.com/item?id=49658311 Points: 197 # Comments: 209",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -642,7 +983,7 @@
       "source_id": "hacker_news",
       "author": "michalwarda",
       "published": "2026-09-11T11:15:13+00:00",
-      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 128 # Comments: 60",
+      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 148 # Comments: 76",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -668,7 +1009,7 @@
       "source_id": "hacker_news",
       "author": "Muhammad523",
       "published": "2026-09-11T10:48:00+00:00",
-      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 461 # Comments: 509",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 584 # Comments: 605",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -780,46 +1121,6 @@
       "region": "india"
     },
     {
-      "id": "1d4f8e956357",
-      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-      "url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T06:57:22+00:00",
-      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "627b6d8a4a0f",
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T06:34:39+00:00",
-      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "df656f964e9b",
       "title": "Namma Yatri launches retail platform for drivers",
       "url": "https://yourstory.com/2026/09/namma-yatri-launches-retail-platform-namma-santhe-drivers",
@@ -831,26 +1132,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "573d147a7811",
-      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
-      "url": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-11T06:01:25+00:00",
-      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad…",
-      "tags": [
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Machine Learning"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "7322552cf6f9",
@@ -899,6 +1180,22 @@
       "region": "global"
     },
     {
+      "id": "340d6065278f",
+      "title": "datasette-publish-fly 1.4",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T02:58:52+00:00",
+      "summary": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
+      "tags": [
+        "datasette",
+        "fly"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
       "id": "99a1e889b072",
       "title": "GFF 2026 Day 2 Unpacked, RentoMojo’s IPO & More",
       "url": "https://inc42.com/buzz/gff-2026-day-2-unpacked-rentomojos-ipo-more/",
@@ -928,16 +1225,19 @@
       "region": "india"
     },
     {
-      "id": "ee8e97b03821",
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "lukaspetersson",
-      "published": "2026-09-11T00:42:41+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 273 # Comments: 271",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "f7c37a72afda",
+      "title": "github-to-sqlite 2.9.1",
+      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T00:28:39+00:00",
+      "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
+      "tags": [
+        "github",
+        "sqlite"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -951,6 +1251,38 @@
       "summary": "Give Claude the admin tools is missing Discussion | Link",
       "tags": [],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d4bf9ac9c8df",
+      "title": "datasette 0.65.4",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T00:06:55+00:00",
+      "summary": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
+      "tags": [
+        "security",
+        "datasette"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "c7ce4d573100",
+      "title": "datasette 1.0a39",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-11T00:05:54+00:00",
+      "summary": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
+      "tags": [
+        "security",
+        "datasette"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -1013,26 +1345,6 @@
       "region": "global"
     },
     {
-      "id": "eca98526d7c5",
-      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
-      "url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-10T22:34:48+00:00",
-      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "55f84b5dd522",
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -1047,26 +1359,6 @@
         "Thrive Capital"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "58da67c5b855",
-      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
-      "url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T21:57:06+00:00",
-      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1122,26 +1414,6 @@
         "Apps",
         "News",
         "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "ebb8288f71f0",
-      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T21:21:58+00:00",
-      "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
       ],
       "tier": "ai_news",
       "region": "global"
@@ -1324,26 +1596,6 @@
       "region": "global"
     },
     {
-      "id": "dc0e6454efef",
-      "title": "Amazon makes it easier to buy what you see on Prime Video",
-      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-10T18:10:36+00:00",
-      "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
-      "tags": [
-        "Commerce",
-        "Media & Entertainment",
-        "Amazon",
-        "e-commerce",
-        "prime video",
-        "shopping"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6b93703bb0a1",
       "title": "sizeless",
       "url": "https://www.producthunt.com/products/sizeless",
@@ -1353,42 +1605,6 @@
       "published": "2026-09-10T17:55:17+00:00",
       "summary": "Spatial AI for underground infrastructure Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "97f402e75789",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-09-10T17:54:44+00:00",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "tags": [
-        "AI",
-        "AI agents",
-        "Anthropic"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b7ab30d4db8a",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-09-10T17:45:00+00:00",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Startups",
-        "Pocket Entertainment",
-        "Pocket FM"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1437,26 +1653,6 @@
       "region": "global"
     },
     {
-      "id": "f58e13a48a5a",
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jeremy Hsu",
-      "published": "2026-09-10T16:53:52+00:00",
-      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-      "tags": [
-        "Tech",
-        "china",
-        "delivery drones",
-        "dji",
-        "DJI Flycart 100",
-        "drone deliveries"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3f4476b0e7b5",
       "title": "RBI Governor Calls For Fintech To Double Down On Trust And Inclusion",
       "url": "https://inc42.com/buzz/rbi-governor-calls-for-fintech-to-double-down-on-trust-and-inclusion/",
@@ -1470,23 +1666,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "e75c27412982",
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lauren Forristal",
-      "published": "2026-09-10T16:31:25+00:00",
-      "summary": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Instagram"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "b5d141629b17",
@@ -1587,24 +1766,6 @@
       "region": "global"
     },
     {
-      "id": "01d16aed74be",
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sean O'Kane",
-      "published": "2026-09-10T15:07:27+00:00",
-      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "tags": [
-        "Transportation",
-        "Elon Musk",
-        "In Brief",
-        "The Boring Company"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "20c8baf0cbde",
       "title": "Meta’s Muse AI works and creeps me out",
       "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
@@ -1687,19 +1848,6 @@
       "region": "india"
     },
     {
-      "id": "045fa1579305",
-      "title": "Piston raises $15M in Series A led by FPV Ventures",
-      "url": "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T12:08:11+00:00",
-      "summary": "Piston will use this funding round to expand its payments network, product development and hiring.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "81db52e08375",
       "title": "Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest",
       "url": "https://inc42.com/resources/enterprise-ai-is-learning-to-charge-for-work-and-owning-the-outcomes-becomes-the-contest/",
@@ -1764,26 +1912,6 @@
       "region": "global"
     },
     {
-      "id": "f2b571596730",
-      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T07:31:01+00:00",
-      "summary": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "016c3ec9b775",
       "title": "Introducing ChatGPT for Financial Services",
       "url": "https://openai.com/index/introducing-chatgpt-financial-services",
@@ -1824,156 +1952,6 @@
       "summary": "The first Suno model built with the music industry Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "405da02d0a50",
-      "title": "Modeinspect",
-      "url": "https://www.producthunt.com/products/modeinspect-1-0",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Alex",
-      "published": "2026-09-10T03:31:49+00:00",
-      "summary": "99 Days Free AI Credits - Design product UI in your codebase Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "47cce1b466f6",
-      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-      "url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T02:13:12+00:00",
-      "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e09c59999fdb",
-      "title": "Quoting Calif Research",
-      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-10T00:56:41+00:00",
-      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still…",
-      "tags": [
-        "ai-security-research",
-        "ai",
-        "llms",
-        "security",
-        "generative-ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "37a755d43dee",
-      "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
-      "url": "https://tldr.tech/ai/2026-09-10",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "cb50b0c3c856",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4e410dad70fb",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "2b26a8066576",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "8df2f50f6f23",
-      "title": ".blend URL Viewer",
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-09T23:58:32+00:00",
-      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the…",
-      "tags": [
-        "3d",
-        "javascript",
-        "tools",
-        "ai",
-        "generative-ai",
-        "llms"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "6535c04da3bc",
-      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-      "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-09T22:58:29+00:00",
-      "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
