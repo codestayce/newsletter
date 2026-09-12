@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-09-12T02:46:42.871527+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-09-12T09:57:35.142857+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "MarkTechPost",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -36,6 +32,61 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "tags": [],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "6be6ceaafd1d",
+      "title": "Airtel bats for sovereign stack to process data from India",
+      "url": "https://yourstory.com/2026/09/airtel-bats-for-sovereign-stack-to-process-data-from-india",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-12T08:12:07+00:00",
+      "summary": "According to Airtel it would be incorrect to equate local data residency with data sovereignty as it is about controlling the data with a sovereign technology stack.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "751c48670e30",
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rvz",
+      "published": "2026-09-12T04:09:43+00:00",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 162 # Comments: 107",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3f779152ad6f",
+      "title": "From Pixxel To Swish — Indian Startups Raised Over $321.9 Mn This Week",
+      "url": "https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-09-12T03:29:46+00:00",
+      "summary": "Startup funding activity rebounded back sharply in the second week of September. Between September 7 and September 11, Indian startups…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "832871c1946e",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "1e1a",
+      "published": "2026-09-12T03:14:20+00:00",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 422 # Comments: 327",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -79,7 +130,7 @@
       "source_id": "hacker_news",
       "author": "chao-",
       "published": "2026-09-11T23:17:42+00:00",
-      "summary": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 376 # Comments: 220",
+      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 703 # Comments: 395",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -118,6 +169,26 @@
         "openrouter"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "085399a83335",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-11T22:01:08+00:00",
+      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207…",
+      "tags": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -172,6 +243,26 @@
         "MRSA"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "58516072137a",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-11T21:05:55+00:00",
+      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -364,20 +455,7 @@
       "source_id": "hacker_news",
       "author": "microtonal",
       "published": "2026-09-11T18:50:36+00:00",
-      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 207 # Comments: 130",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "25968ccc212f",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "stmw",
-      "published": "2026-09-11T18:30:07+00:00",
-      "summary": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 118 # Comments: 56",
+      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 278 # Comments: 203",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -390,7 +468,7 @@
       "source_id": "hacker_news",
       "author": "nickabe",
       "published": "2026-09-11T18:24:55+00:00",
-      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 321 # Comments: 175",
+      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 529 # Comments: 275",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -416,6 +494,19 @@
       "region": "global"
     },
     {
+      "id": "d35afbac075d",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kennethwolters",
+      "published": "2026-09-11T18:10:20+00:00",
+      "summary": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 137 # Comments: 46",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a8ab16342f9c",
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
@@ -423,7 +514,7 @@
       "source_id": "hacker_news",
       "author": "doener",
       "published": "2026-09-11T18:05:21+00:00",
-      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 369 # Comments: 252",
+      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 463 # Comments: 335",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -456,7 +547,7 @@
       "source_id": "hacker_news",
       "author": "meredydd",
       "published": "2026-09-11T17:45:12+00:00",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 672 # Comments:…",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 927 # Comments:…",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -469,7 +560,7 @@
       "source_id": "hacker_news",
       "author": "dr_kiszonka",
       "published": "2026-09-11T17:36:11+00:00",
-      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 115 # Comments: 61",
+      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 144 # Comments: 83",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -500,7 +591,7 @@
       "source_id": "hacker_news",
       "author": "geneticdrifts",
       "published": "2026-09-11T17:25:23+00:00",
-      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 109 # Comments: 77",
+      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 163 # Comments: 105",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -638,7 +729,8 @@
         "ai-security-research",
         "security",
         "hugging-face",
-        "openai-hugging-face-incident"
+        "openai-hugging-face-incident",
+        "accidental-cyberattacks"
       ],
       "tier": "authors",
       "region": "global"
@@ -664,7 +756,7 @@
       "source_id": "hacker_news",
       "author": "ernestrc",
       "published": "2026-09-11T15:31:47+00:00",
-      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 148 # Comments: 55",
+      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 186 # Comments: 58",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -976,19 +1068,6 @@
       "region": "india"
     },
     {
-      "id": "b19b71063ad7",
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "michalwarda",
-      "published": "2026-09-11T11:15:13+00:00",
-      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 148 # Comments: 76",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2430f3399161",
       "title": "NSE sets IPO price band at Rs 1,700-1,785; issue to open on September 17",
       "url": "https://yourstory.com/2026/09/nse-sets-ipo-price-band-at-rs-1700-1785-issue-to-open-on-sep-17",
@@ -1009,7 +1088,7 @@
       "source_id": "hacker_news",
       "author": "Muhammad523",
       "published": "2026-09-11T10:48:00+00:00",
-      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 584 # Comments: 605",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 644 # Comments: 628",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1121,6 +1200,46 @@
       "region": "india"
     },
     {
+      "id": "1d4f8e956357",
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+      "url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-11T06:57:22+00:00",
+      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "627b6d8a4a0f",
+      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-11T06:34:39+00:00",
+      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "df656f964e9b",
       "title": "Namma Yatri launches retail platform for drivers",
       "url": "https://yourstory.com/2026/09/namma-yatri-launches-retail-platform-namma-santhe-drivers",
@@ -1132,6 +1251,26 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "573d147a7811",
+      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+      "url": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-11T06:01:25+00:00",
+      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad…",
+      "tags": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
     },
     {
       "id": "7322552cf6f9",
@@ -1223,6 +1362,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "ee8e97b03821",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lukaspetersson",
+      "published": "2026-09-11T00:42:41+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 362 # Comments: 324",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "f7c37a72afda",
@@ -1345,6 +1497,26 @@
       "region": "global"
     },
     {
+      "id": "eca98526d7c5",
+      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+      "url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-10T22:34:48+00:00",
+      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "55f84b5dd522",
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -1359,6 +1531,26 @@
         "Thrive Capital"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "58da67c5b855",
+      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
+      "url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-10T21:57:06+00:00",
+      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1414,6 +1606,26 @@
         "Apps",
         "News",
         "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ebb8288f71f0",
+      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
+      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-10T21:21:58+00:00",
+      "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
       ],
       "tier": "ai_news",
       "region": "global"
@@ -1504,6 +1716,19 @@
         "Startups",
         "furo"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f5a39a8e0f87",
+      "title": "ABrush",
+      "url": "https://www.producthunt.com/products/abrush-ai-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Zac Zuo",
+      "published": "2026-09-10T20:18:42+00:00",
+      "summary": "AI Studio for Digital Artists Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1746,213 +1971,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "cf5fc175c965",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-10T15:38:19+00:00",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Music",
-        "News"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "20c8baf0cbde",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out…",
-      "tags": [
-        "AI",
-        "Analysis",
-        "Meta",
-        "Report",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4d4e7920d8a7",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "04b7e5785850",
-      "title": "Why Beijing and New Delhi can’t afford to lose each other",
-      "url": "https://yourstory.com/2026/09/why-beijing-and-new-delhi-cant-afford-to-lose-each-other",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-10T14:38:47+00:00",
-      "summary": "Rivals on the border, partners on the factory floor. As Xi Jinping returns to New Delhi, India and China have pragmatic reasons to stop geopolitical distrust from derailing trade, investment and technology.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "1071b7f31505",
-      "title": "Why the current tech backlash feels different",
-      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Nilay Patel",
-      "published": "2026-09-10T14:00:00+00:00",
-      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day,…",
-      "tags": [
-        "AI",
-        "Decoder",
-        "Podcasts",
-        "Policy",
-        "Politics",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3fe200162862",
-      "title": "Delhi HC Restrains Beco’s ‘War On What’s Hidden’ Ads Targeting HUL Products",
-      "url": "https://inc42.com/buzz/delhi-hc-restrains-becos-war-on-whats-hidden-ads-targeting-hul-products/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-09-10T12:54:32+00:00",
-      "summary": "Delhi High Court (HC) has restrained D2C brand Beco parent entity Kwick Living from continuing its “War on What’s Hidden”…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "81db52e08375",
-      "title": "Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest",
-      "url": "https://inc42.com/resources/enterprise-ai-is-learning-to-charge-for-work-and-owning-the-outcomes-becomes-the-contest/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Pranav Pai",
-      "published": "2026-09-10T11:58:28+00:00",
-      "summary": "The most consequential change in enterprise AI this year is not a model release, it is a change in what…",
-      "tags": [
-        "Resources"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f77366f3c61d",
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-09-10T11:00:57+00:00",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing…",
-      "tags": [
-        "AI",
-        "News",
-        "OpenAI",
-        "Science"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6a06e578f341",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "Ricardo De Azevedo",
-      "published": "2026-09-10T11:00:00+00:00",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60…",
-      "tags": [
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "dd758a4d449f",
-      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
-      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-09-10T10:00:00+00:00",
-      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
-      "tags": [
-        "Daily Update"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "016c3ec9b775",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "1ef5285e671d",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "tags": [
-        "Global Affairs"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "99dc492ff5be",
-      "title": "Suno v6",
-      "url": "https://www.producthunt.com/products/suno",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Zac Zuo",
-      "published": "2026-09-10T05:13:30+00:00",
-      "summary": "The first Suno model built with the music industry Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     }
   ]
 }
