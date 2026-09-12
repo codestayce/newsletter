@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:52:22.298193+00:00",
+  "generated_at": "2026-09-12T20:04:01.738867+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -35,6 +35,171 @@
       "region": "global"
     },
     {
+      "id": "725588a31c85",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-12T19:34:44+00:00",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1da5354014d8",
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "routelastresort",
+      "published": "2026-09-12T19:15:32+00:00",
+      "summary": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/ Comments URL: https://news.ycombinator.com/item?id=49676085 Points: 101 # Comments: 18",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "418ae7784dec",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "url": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-12T18:51:24+00:00",
+      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ee6663ae007e",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-12T18:00:21+00:00",
+      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize…",
+      "tags": [
+        "paul-ford",
+        "generative-ai",
+        "deep-blue",
+        "ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "f25f0ee8f376",
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-12T16:35:00+00:00",
+      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records,…",
+      "tags": [
+        "Entertainment",
+        "Interview",
+        "Music",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "232a181e27c1",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "juliantigler",
+      "published": "2026-09-12T16:25:08+00:00",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 128 # Comments: 42",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7ae9dd7008c4",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-12T16:23:40+00:00",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "News",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c6e895654339",
+      "title": "LG responds to TV spying allegations",
+      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-12T15:19:44+00:00",
+      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage…",
+      "tags": [
+        "Gadgets",
+        "LG",
+        "News",
+        "Privacy",
+        "Tech",
+        "TVs"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ddbc328c9097",
+      "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
+      "url": "https://yourstory.com/2026/09/brics-startup-incubator-network-considers-innovation-fund-new-delhi-declaration",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-12T15:11:14+00:00",
+      "summary": "The grouping also proposed a digital public infrastructure repository, deeper cooperation on AI and faster cross-border payments among member countries.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "140e6d2ff508",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tolugenius",
+      "published": "2026-09-12T15:08:27+00:00",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 229 # Comments: 172",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a96f78fd3c7c",
       "title": "Trump is giving data centers a pass to pollute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
@@ -67,6 +232,19 @@
         "Security",
         "Revolut"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "98264c64ca81",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "apsec112",
+      "published": "2026-09-12T14:10:49+00:00",
+      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 345 # Comments: 466",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -148,7 +326,7 @@
       "source_id": "hacker_news",
       "author": "JayOtter",
       "published": "2026-09-12T11:42:32+00:00",
-      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49671329 Points: 279 # Comments: 214",
+      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49671329 Points: 501 # Comments: 491",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -224,7 +402,7 @@
       "source_id": "hacker_news",
       "author": "zdw",
       "published": "2026-09-12T07:54:03+00:00",
-      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 152 # Comments: 19",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 197 # Comments: 26",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -237,7 +415,7 @@
       "source_id": "hacker_news",
       "author": "rvz",
       "published": "2026-09-12T04:09:43+00:00",
-      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 227 # Comments: 159",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 266 # Comments: 211",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -266,7 +444,7 @@
       "source_id": "hacker_news",
       "author": "1e1a",
       "published": "2026-09-12T03:14:20+00:00",
-      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 515 # Comments: 412",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 582 # Comments: 458",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -302,19 +480,6 @@
         "llms"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "375ca38a7a7c",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "chao-",
-      "published": "2026-09-11T23:17:42+00:00",
-      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 830 # Comments: 481",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -404,6 +569,19 @@
         "Venture",
         "Khosla Ventures"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f7435f51335a",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mhitza",
+      "published": "2026-09-11T21:16:48+00:00",
+      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 136 # Comments: 35",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -543,7 +721,7 @@
     },
     {
       "id": "f3a9431fe454",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Technology Review (AI)",
       "source_id": "mit_tech_review_ai",
@@ -630,19 +808,6 @@
       "region": "global"
     },
     {
-      "id": "b037dd796998",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nickabe",
-      "published": "2026-09-11T18:24:55+00:00",
-      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 630 # Comments: 350",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "bd1e19734690",
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
@@ -659,19 +824,6 @@
         "fuel cells",
         "natural gas"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d35afbac075d",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kennethwolters",
-      "published": "2026-09-11T18:10:20+00:00",
-      "summary": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 159 # Comments: 55",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -696,14 +848,14 @@
       "region": "global"
     },
     {
-      "id": "da05411f0a2d",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
+      "id": "02e13870949f",
+      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "meredydd",
-      "published": "2026-09-11T17:45:12+00:00",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 1061 # Comments:…",
+      "author": "dr_kiszonka",
+      "published": "2026-09-11T17:36:11+00:00",
+      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 166 # Comments: 103",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -724,19 +876,6 @@
         "deep-blue"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "118e804dc5c0",
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "geneticdrifts",
-      "published": "2026-09-11T17:25:23+00:00",
-      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 190 # Comments: 124",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -823,30 +962,11 @@
       "region": "global"
     },
     {
-      "id": "2f508e56ed01",
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Emma Roth",
-      "published": "2026-09-11T16:21:19+00:00",
-      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest…",
-      "tags": [
-        "News",
-        "Policy",
-        "Politics",
-        "Social Media",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5c977a0ddbd3",
       "title": "Anthropic spent this week in hot water over cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Hayden Field",
       "published": "2026-09-11T16:09:14+00:00",
       "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded…",
@@ -856,7 +976,7 @@
         "Anthropic",
         "Report"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1428,19 +1548,6 @@
       "region": "india"
     },
     {
-      "id": "371f01991b59",
-      "title": "Stellar lineup at TechSparks 2026; How Jagriti is helping women build digital businesses",
-      "url": "https://yourstory.com/2026/09/stellar-lineup-techsparks-2026-jagriti-helping-women-build-digital-businesses",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-11T02:00:00+00:00",
-      "summary": "TechSparks 2026, YourStory’s flagship startup-tech summit, returns to Bengaluru from October 13 to 15 with the theme ‘The New Tech Order’ and an stellar lineup of speakers. Meawnhile, Jagriti Sewa Sansthan’s Women’s Centre of Excellence is helping women in eastern UP build…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "f7c37a72afda",
       "title": "github-to-sqlite 2.9.1",
       "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
@@ -1767,23 +1874,6 @@
       "region": "global"
     },
     {
-      "id": "7440622c4ad1",
-      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anna Heim",
-      "published": "2026-09-10T20:48:00+00:00",
-      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "furo"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f5a39a8e0f87",
       "title": "ABrush",
       "url": "https://www.producthunt.com/products/abrush-ai-2",
@@ -1793,24 +1883,6 @@
       "published": "2026-09-10T20:18:42+00:00",
       "summary": "AI Studio for Digital Artists Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "bbdfeaa5dcb8",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-10T19:50:04+00:00",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1906,21 +1978,6 @@
       "region": "global"
     },
     {
-      "id": "3f4476b0e7b5",
-      "title": "RBI Governor Calls For Fintech To Double Down On Trust And Inclusion",
-      "url": "https://inc42.com/buzz/rbi-governor-calls-for-fintech-to-double-down-on-trust-and-inclusion/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-09-10T16:40:38+00:00",
-      "summary": "In his address at the Global Fintech Fest (GFF) 2026 in Mumbai today, RBI Governor Sanjay Malhotra urged businesses in…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "014159943e4d",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -1933,60 +1990,6 @@
         "Applied AI"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "94ad36d7ed05",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "source_id": "google_ai",
-      "author": "Peter Schottenfels",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "tags": [
-        "Search",
-        "Shopping",
-        "AI"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "cf5fc175c965",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-10T15:38:19+00:00",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Music",
-        "News"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "20c8baf0cbde",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out…",
-      "tags": [
-        "AI",
-        "Analysis",
-        "Meta",
-        "Report",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
