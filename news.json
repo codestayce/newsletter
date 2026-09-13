@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:44:54.601615+00:00",
+  "generated_at": "2026-09-13T10:59:26.853073+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -32,6 +32,72 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "tags": [],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "fa3b88123d4b",
+      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+      "url": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-13T08:10:51+00:00",
+      "summary": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d5dcbba8e029",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "taubek",
+      "published": "2026-09-13T07:49:46+00:00",
+      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 137 # Comments: 67",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fd5bfab660b7",
+      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-13T05:56:03+00:00",
+      "summary": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "1f730a08ea4e",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mulmen",
+      "published": "2026-09-13T02:43:57+00:00",
+      "summary": "Article URL: https://icm.museum/ Comments URL: https://news.ycombinator.com/item?id=49679459 Points: 118 # Comments: 13",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -80,6 +146,19 @@
       "region": "global"
     },
     {
+      "id": "ae1c0b143270",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jonifico",
+      "published": "2026-09-13T01:22:31+00:00",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 241 # Comments: 312",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "29a046c34d36",
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
@@ -87,7 +166,7 @@
       "source_id": "hacker_news",
       "author": "xena",
       "published": "2026-09-13T00:30:44+00:00",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 140 # Comments: 53",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 503 # Comments: 305",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -147,6 +226,19 @@
         "matt mullenweg",
         "WordPress"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bffdbd6628a2",
+      "title": "Don't be the out of touch Kung Fu master",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dsubburam",
+      "published": "2026-09-12T21:51:43+00:00",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095 Comments URL: https://news.ycombinator.com/item?id=49677577 Points: 135 # Comments: 149",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -222,7 +314,7 @@
       "source_id": "hacker_news",
       "author": "theanonymousone",
       "published": "2026-09-12T20:25:48+00:00",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 128 # Comments: 65",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 246 # Comments: 136",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -279,19 +371,6 @@
       "region": "global"
     },
     {
-      "id": "8cdcbd75f732",
-      "title": "LG Says We're Fake News [video]",
-      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "HelloUsername",
-      "published": "2026-09-12T19:35:36+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ToP9xfLDSME Comments URL: https://news.ycombinator.com/item?id=49676324 Points: 179 # Comments: 83",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "725588a31c85",
       "title": "Anthropic CEO outlines plan to slow AI development",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
@@ -317,7 +396,7 @@
       "source_id": "hacker_news",
       "author": "encyclopedism",
       "published": "2026-09-12T18:58:57+00:00",
-      "summary": "Article URL: https://hachyderm.io/@simontatham/117201594980991062 Comments URL: https://news.ycombinator.com/item?id=49675902 Points: 206 # Comments: 62",
+      "summary": "Article URL: https://hachyderm.io/@simontatham/117201594980991062 Comments URL: https://news.ycombinator.com/item?id=49675902 Points: 338 # Comments: 110",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -362,6 +441,19 @@
       "region": "global"
     },
     {
+      "id": "fb7919de3292",
+      "title": "Will there be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Betelbuddy",
+      "published": "2026-09-12T17:05:31+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 106 # Comments: 161",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "f25f0ee8f376",
       "title": "Sylvan Esso think you should splurge on good-quality yogurt",
       "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
@@ -387,7 +479,7 @@
       "source_id": "hacker_news",
       "author": "juliantigler",
       "published": "2026-09-12T16:25:08+00:00",
-      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 344 # Comments: 79",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 474 # Comments: 120",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -407,6 +499,19 @@
         "News",
         "Policy"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8f6ac1b8a382",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pwg",
+      "published": "2026-09-12T15:49:52+00:00",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 114 # Comments: 35",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -451,7 +556,20 @@
       "source_id": "hacker_news",
       "author": "tolugenius",
       "published": "2026-09-12T15:08:27+00:00",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 405 # Comments: 273",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 490 # Comments: 343",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b068269f0548",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lalitmaganti",
+      "published": "2026-09-12T14:45:28+00:00",
+      "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 135 # Comments: 25",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -500,7 +618,7 @@
       "source_id": "hacker_news",
       "author": "apsec112",
       "published": "2026-09-12T14:10:49+00:00",
-      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 559 # Comments: 786",
+      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 656 # Comments: 922",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -774,19 +892,6 @@
         "Venture",
         "Khosla Ventures"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f7435f51335a",
-      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mhitza",
-      "published": "2026-09-11T21:16:48+00:00",
-      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 176 # Comments: 44",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1251,19 +1356,6 @@
       "region": "global"
     },
     {
-      "id": "8f1714a87dd1",
-      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sbulaev",
-      "published": "2026-09-11T14:07:08+00:00",
-      "summary": "https://web.archive.org/web/20260911105205/https://www.wired... https://archive.ph/1xTJ3 Comments URL: https://news.ycombinator.com/item?id=49658672 Points: 107 # Comments: 109",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f9aba8dbddd8",
       "title": "[Weekly funding roundup Sept 5-11] VC inflow doubles this week",
       "url": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week",
@@ -1678,22 +1770,6 @@
       "region": "global"
     },
     {
-      "id": "99a1e889b072",
-      "title": "GFF 2026 Day 2 Unpacked, RentoMojo’s IPO & More",
-      "url": "https://inc42.com/buzz/gff-2026-day-2-unpacked-rentomojos-ipo-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-11T02:30:16+00:00",
-      "summary": "AI Takes The Stage At Global Fintech Fest It was an action-packed second day at the Global Fintech Fest 2026…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "f7c37a72afda",
       "title": "github-to-sqlite 2.9.1",
       "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
@@ -1814,26 +1890,6 @@
       "region": "global"
     },
     {
-      "id": "eca98526d7c5",
-      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
-      "url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-10T22:34:48+00:00",
-      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "55f84b5dd522",
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -1851,23 +1907,16 @@
       "region": "global"
     },
     {
-      "id": "58da67c5b855",
-      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
-      "url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-10T21:57:06+00:00",
-      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
+      "id": "85f7411d6e4f",
+      "title": "Cognition's SWE-2",
+      "url": "https://www.producthunt.com/products/cognition-s-swe-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Rohan Chaubey",
+      "published": "2026-09-10T22:19:56+00:00",
+      "summary": "Cognition's coding model, 64% cheaper than Fable 5.1 Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1945,68 +1994,6 @@
         "react"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "550c49c6e24b",
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-09-10T20:55:29+00:00",
-      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-      "tags": [
-        "Policy",
-        "browsergate",
-        "LinkedIn"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f5a39a8e0f87",
-      "title": "ABrush",
-      "url": "https://www.producthunt.com/products/abrush-ai-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Zac Zuo",
-      "published": "2026-09-10T20:18:42+00:00",
-      "summary": "AI Studio for Digital Artists Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "42ff3f823971",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Lauren Feiner",
-      "published": "2026-09-10T19:44:20+00:00",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI…",
-      "tags": [
-        "AI",
-        "Podcasts",
-        "Policy",
-        "Report",
-        "Vergecast"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b47cc8621b57",
-      "title": "Raycast 2.0",
-      "url": "https://www.producthunt.com/products/raycast",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Chris Messina",
-      "published": "2026-09-10T18:31:25+00:00",
-      "summary": "The next generation of Raycast is here Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
