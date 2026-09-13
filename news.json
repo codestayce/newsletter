@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-13T15:30:08.343534+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-13T20:10:27.281991+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "MarkTechPost",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -19,7 +23,7 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 108,
   "items": [
     {
       "id": "12e9dd685180",
@@ -32,6 +36,152 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "tags": [],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "a324b0b8c039",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-13T19:41:48+00:00",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "News",
+        "OpenAI",
+        "Policy",
+        "Politics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7da785bec373",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-13T19:40:15+00:00",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Equity podcast",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "003ff6da8e6d",
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "robinpie",
+      "published": "2026-09-13T18:03:09+00:00",
+      "summary": "Article URL: https://dreamstation.systems/personal/tesla.html Comments URL: https://news.ycombinator.com/item?id=49686766 Points: 286 # Comments: 82",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f4455c9ca63f",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "iamflimflam1",
+      "published": "2026-09-13T17:37:44+00:00",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 227 # Comments: 104",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6a868d48678c",
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-13T17:36:10+00:00",
+      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of…",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4e3f293e3094",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kolanos",
+      "published": "2026-09-13T16:52:33+00:00",
+      "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 143 # Comments: 103",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "71d2a72b149d",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-13T16:30:00+00:00",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Barack Obama",
+        "Donald Trump"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c5829f071c31",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Kirsten Korosec",
+      "published": "2026-09-13T16:04:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "Ford",
+        "Lyft",
+        "Waymo",
+        "robotaxis",
+        "techcrunch mobility"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "543492d80546",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "TheJCDenton",
+      "published": "2026-09-13T15:44:38+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 225 # Comments: 110",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -48,14 +198,40 @@
       "region": "india"
     },
     {
-      "id": "6311bb1ceb7f",
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "id": "4efa155e3cc9",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "SanjayMehta",
-      "published": "2026-09-13T13:35:31+00:00",
-      "summary": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/ Comments URL: https://news.ycombinator.com/item?id=49683853 Points: 235 # Comments: 154",
+      "author": "Levitating",
+      "published": "2026-09-13T14:28:36+00:00",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 279 # Comments: 119",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "15d32d01aaec",
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "chiassedu80",
+      "published": "2026-09-13T14:25:13+00:00",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 101 # Comments: 55",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1850a8756f3e",
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bookofjoe",
+      "published": "2026-09-13T13:45:08+00:00",
+      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 158 # Comments: 95",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -72,10 +248,10 @@
       "tags": [
         "Climate",
         "Government & Policy",
-        "fusion power",
         "defense technology",
-        "Xcimer Energy",
-        "Pacific Fusion"
+        "fusion power",
+        "Pacific Fusion",
+        "Xcimer Energy"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -95,6 +271,19 @@
         "Movie Review",
         "TIFF"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0985bd40d7f5",
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ibobev",
+      "published": "2026-09-13T12:30:15+00:00",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 133 # Comments: 34",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -130,19 +319,6 @@
       "region": "global"
     },
     {
-      "id": "8aabf877d562",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "tdrz",
-      "published": "2026-09-13T09:59:58+00:00",
-      "summary": "Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/ Comments URL: https://news.ycombinator.com/item?id=49682087 Points: 112 # Comments: 74",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f3600c5021fe",
       "title": "Homebrew 7.0.0",
       "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
@@ -150,29 +326,9 @@
       "source_id": "hacker_news",
       "author": "mikemcquaid",
       "published": "2026-09-13T08:41:17+00:00",
-      "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 309 # Comments: 129",
+      "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 486 # Comments: 194",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fa3b88123d4b",
-      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
-      "url": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-13T08:10:51+00:00",
-      "summary": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -183,7 +339,7 @@
       "source_id": "hacker_news",
       "author": "taubek",
       "published": "2026-09-13T07:49:46+00:00",
-      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 325 # Comments: 124",
+      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 447 # Comments: 172",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -203,52 +359,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "fd5bfab660b7",
-      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-13T05:56:03+00:00",
-      "summary": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "378091b40fda",
-      "title": "Aligned to whom?",
-      "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "lopopolo",
-      "published": "2026-09-13T03:17:18+00:00",
-      "summary": "Article URL: https://hyperbo.la/w/aligned-to-whom/ Comments URL: https://news.ycombinator.com/item?id=49679643 Points: 126 # Comments: 66",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1f730a08ea4e",
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mulmen",
-      "published": "2026-09-13T02:43:57+00:00",
-      "summary": "Article URL: https://icm.museum/ Comments URL: https://news.ycombinator.com/item?id=49679459 Points: 144 # Comments: 17",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "840192f14820",
@@ -277,25 +387,6 @@
       "region": "india"
     },
     {
-      "id": "b784025fb982",
-      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
-      "url": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Sana Hassan",
-      "published": "2026-09-13T01:42:58+00:00",
-      "summary": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning…",
-      "tags": [
-        "AI Infrastructure",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Technology",
-        "Tutorials"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "ae1c0b143270",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -303,20 +394,7 @@
       "source_id": "hacker_news",
       "author": "jonifico",
       "published": "2026-09-13T01:22:31+00:00",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 420 # Comments: 496",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "29a046c34d36",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "xena",
-      "published": "2026-09-13T00:30:44+00:00",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 651 # Comments: 381",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 527 # Comments: 612",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -342,26 +420,6 @@
       "region": "global"
     },
     {
-      "id": "380fd559092a",
-      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-      "url": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-12T23:56:03+00:00",
-      "summary": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI’s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main,…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "6bc712f9cf4a",
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -376,19 +434,6 @@
         "matt mullenweg",
         "WordPress"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "bffdbd6628a2",
-      "title": "Don't be the out of touch Kung Fu master",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dsubburam",
-      "published": "2026-09-12T21:51:43+00:00",
-      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095 Comments URL: https://news.ycombinator.com/item?id=49677577 Points: 199 # Comments: 262",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -526,26 +571,6 @@
       "region": "global"
     },
     {
-      "id": "418ae7784dec",
-      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
-      "url": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-12T18:51:24+00:00",
-      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "ee6663ae007e",
       "title": "Quoting Paul Ford",
       "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
@@ -565,24 +590,6 @@
       "region": "global"
     },
     {
-      "id": "f25f0ee8f376",
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-12T16:35:00+00:00",
-      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records,…",
-      "tags": [
-        "Entertainment",
-        "Interview",
-        "Music",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "232a181e27c1",
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
@@ -590,7 +597,7 @@
       "source_id": "hacker_news",
       "author": "juliantigler",
       "published": "2026-09-12T16:25:08+00:00",
-      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 531 # Comments: 133",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 572 # Comments: 138",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -599,8 +606,8 @@
       "id": "7ae9dd7008c4",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-09-12T16:23:40+00:00",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace…",
@@ -610,27 +617,7 @@
         "News",
         "Policy"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c6e895654339",
-      "title": "LG responds to TV spying allegations",
-      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-12T15:19:44+00:00",
-      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage…",
-      "tags": [
-        "Gadgets",
-        "LG",
-        "News",
-        "Privacy",
-        "Tech",
-        "TVs"
-      ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -645,19 +632,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "140e6d2ff508",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "tolugenius",
-      "published": "2026-09-12T15:08:27+00:00",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 525 # Comments: 381",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "a96f78fd3c7c",
@@ -676,6 +650,23 @@
         "Science"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "8aabf877d562",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-09-12T14:40:00+00:00",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "tags": [
+        "Fintech",
+        "Security",
+        "Revolut"
+      ],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -859,26 +850,6 @@
       "region": "global"
     },
     {
-      "id": "085399a83335",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-      "url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T22:01:08+00:00",
-      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207…",
-      "tags": [
-        "Agentic AI",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "b9f4c3ae650e",
       "title": "Random rewards enrich classic game-theory insights",
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -928,45 +899,6 @@
         "drug resistance",
         "infection",
         "MRSA"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "58516072137a",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-      "url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T21:05:55+00:00",
-      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "543492d80546",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-09-11T20:59:47+00:00",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "tags": [
-        "AI",
-        "TC",
-        "Venture",
-        "garry tan",
-        "Y Combinator"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1406,23 +1338,6 @@
       "region": "global"
     },
     {
-      "id": "1e3f10955758",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Zack Whittaker",
-      "published": "2026-09-11T13:32:54+00:00",
-      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "trezor"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "45045b70576f",
       "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
       "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
@@ -1467,19 +1382,6 @@
       "tags": [
         "News"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a9b90257a962",
-      "title": "Graph AI raises $13.3M in Series A funding",
-      "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-11T12:28:43+00:00",
-      "summary": "The tech startup focused on the pharmaceutical industry will use the funding to expand its presence across the US and Europe and accelerate product development.",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -1639,66 +1541,6 @@
       "region": "india"
     },
     {
-      "id": "1d4f8e956357",
-      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-      "url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T06:57:22+00:00",
-      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "627b6d8a4a0f",
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T06:34:39+00:00",
-      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "573d147a7811",
-      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
-      "url": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-11T06:01:25+00:00",
-      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad…",
-      "tags": [
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Machine Learning"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "a2193a1e2c9f",
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
@@ -1855,23 +1697,6 @@
       "region": "global"
     },
     {
-      "id": "55f84b5dd522",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Connie Loizos",
-      "published": "2026-09-10T22:30:00+00:00",
-      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "tags": [
-        "Venture",
-        "Collaborative Fund",
-        "Thrive Capital"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "85f7411d6e4f",
       "title": "Cognition's SWE-2",
       "url": "https://www.producthunt.com/products/cognition-s-swe-2",
@@ -1881,25 +1706,6 @@
       "published": "2026-09-10T22:19:56+00:00",
       "summary": "Cognition's coding model, 64% cheaper than Fable 5.1 Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4de39e00bc8a",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-09-10T21:51:59+00:00",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Jensen Huang",
-        "nvidia"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1967,38 +1773,6 @@
       "author": "Zac Zuo",
       "published": "2026-09-10T20:18:42+00:00",
       "summary": "AI Studio for Digital Artists Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "42ff3f823971",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Lauren Feiner",
-      "published": "2026-09-10T19:44:20+00:00",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI…",
-      "tags": [
-        "AI",
-        "Podcasts",
-        "Policy",
-        "Report",
-        "Vergecast"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b47cc8621b57",
-      "title": "Raycast 2.0",
-      "url": "https://www.producthunt.com/products/raycast",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Chris Messina",
-      "published": "2026-09-10T18:31:25+00:00",
-      "summary": "The next generation of Raycast is here Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
