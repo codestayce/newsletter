@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:29:21.670783+00:00",
+  "generated_at": "2026-09-14T21:19:52.130457+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,382 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 98,
+  "item_count": 110,
   "items": [
+    {
+      "id": "8c13889dc16c",
+      "title": "The contagion of fear",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-14T21:18:13+00:00",
+      "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "bryan-cantrill",
+        "ai-ethics"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "6ac6c8c4a888",
+      "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
+      "url": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-14T21:08:17+00:00",
+      "summary": "Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a…",
+      "tags": [
+        "Editors Pick",
+        "Physical AI",
+        "Robotics",
+        "Staff",
+        "Technology",
+        "Uncategorized"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "bb7a92a0bd02",
+      "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
+      "url": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-14T20:46:16+00:00",
+      "summary": "Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "df05e19ef334",
+      "title": "Trump throws out power plant climate pollution rules",
+      "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Justine Calma",
+      "published": "2026-09-14T20:45:00+00:00",
+      "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic…",
+      "tags": [
+        "Energy",
+        "Environment",
+        "News",
+        "Policy",
+        "Science"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fbf3222df417",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-09-14T20:44:14+00:00",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6fda9df2a11d",
+      "title": "What blog posts influenced your thinking the most?",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-14T20:21:48+00:00",
+      "summary": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under…",
+      "tags": [
+        "joel-spolsky",
+        "software-engineering",
+        "will-larson",
+        "charity-majors"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "befe6aeea420",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-09-14T20:07:37+00:00",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "tags": [
+        "Startups",
+        "In Brief",
+        "nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "67026bb4107c",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-09-14T20:03:37+00:00",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call,…",
+      "tags": [
+        "AI",
+        "News",
+        "Nvidia",
+        "Policy",
+        "Politics",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b6599ce272d3",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-09-14T19:45:13+00:00",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "tags": [
+        "AI",
+        "Policy",
+        "antitrust",
+        "apple",
+        "chatbots",
+        "Elon Musk"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8dae0ac96935",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-09-14T19:38:46+00:00",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "tags": [
+        "AI",
+        "Tech",
+        "china",
+        "chinese robots",
+        "humanoid robots",
+        "robot dog"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7df04c7f4eb4",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Samuel Axon",
+      "published": "2026-09-14T19:28:42+00:00",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "tags": [
+        "AI",
+        "Apple",
+        "AFM",
+        "apple",
+        "apple intelligence",
+        "iOS"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "74b73d1a2e13",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Kyle Orland",
+      "published": "2026-09-14T19:06:13+00:00",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "tags": [
+        "AI",
+        "Tech",
+        "altman",
+        "amodei",
+        "Anthropic",
+        "china"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6860ae25bff9",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "source_id": "google_ai",
+      "author": null,
+      "published": "2026-09-14T19:00:00+00:00",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "tags": [
+        "AI"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "5c1112657d4a",
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "url": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-09-14T18:24:09+00:00",
+      "summary": "US won’t back down from fight to deport technology researchers.",
+      "tags": [
+        "Policy",
+        "ai csam",
+        "child sexual abuse materials",
+        "content moderation",
+        "csam",
+        "Donald Trump"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0ac1d2f445b4",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-14T18:14:29+00:00",
+      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Amazon",
+        "prime video"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6e9ad967d4b5",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "Will Douglas Heaven",
+      "published": "2026-09-14T17:54:22+00:00",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers…",
+      "tags": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "aa3433165d6a",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "throw0101d",
+      "published": "2026-09-14T17:50:29+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 253 # Comments: 259",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "cb99a9e06e57",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-09-14T17:41:20+00:00",
+      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "EVs",
+        "volkswagen"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "78a633820e38",
+      "title": "TIFF 2026: The latest movie reviews from Toronto",
+      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-09-14T17:30:00+00:00",
+      "summary": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for…",
+      "tags": [
+        "Entertainment",
+        "Film",
+        "TIFF"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ea38292b932e",
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bsimpson",
+      "published": "2026-09-14T17:27:55+00:00",
+      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 366 # Comments: 233",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "310d4fd0496b",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lukaspetersson",
+      "published": "2026-09-14T17:16:06+00:00",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 195 # Comments: 215",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "91846d06a460",
       "title": "With iOS 27, I’m actually using Siri again",
@@ -29,12 +403,14 @@
       "source_id": "techcrunch",
       "author": "Ivan Mehta",
       "published": "2026-09-14T17:10:30+00:00",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
       "tags": [
         "AI",
         "Apps",
         "Apple",
-        "iOS"
+        "Apple Intelligence",
+        "iOS",
+        "siri"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -65,7 +441,7 @@
       "source_id": "techcrunch",
       "author": "Ivan Mehta",
       "published": "2026-09-14T17:10:09+00:00",
-      "summary": "macOS 27 Goldgen Gate gets a new Spotlight Search with Siri integrated",
+      "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
       "tags": [
         "Apps",
         "Gadgets",
@@ -134,26 +510,6 @@
       "region": "global"
     },
     {
-      "id": "7750529fa415",
-      "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-      "url": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jay Peters",
-      "published": "2026-09-14T16:48:46+00:00",
-      "summary": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer RGG Studio. The Crazy Taxi movie will…",
-      "tags": [
-        "Entertainment",
-        "Film",
-        "Gaming",
-        "Netflix",
-        "News",
-        "Streaming"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "dcb6185df4cb",
       "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
       "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
@@ -184,6 +540,45 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "f53b5f7e60dd",
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Alephinitesimal",
+      "published": "2026-09-14T16:09:45+00:00",
+      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085 Comments URL: https://news.ycombinator.com/item?id=49699297 Points: 144 # Comments: 65",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0a142cd6a793",
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "url": "https://www.neobrutalism.dev/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "samke-",
+      "published": "2026-09-14T16:02:02+00:00",
+      "summary": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 104 # Comments: 47",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "31fa1fe3afe5",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "grep_it",
+      "published": "2026-09-14T16:02:01+00:00",
+      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 172 # Comments: 36",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "44cc3cd3a8dc",
@@ -229,7 +624,7 @@
       "source_id": "techcrunch",
       "author": "Sarah Perez",
       "published": "2026-09-14T15:34:31+00:00",
-      "summary": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "summary": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
       "tags": [
         "Media & Entertainment",
         "Automattic",
@@ -237,6 +632,32 @@
         "matt mullenweg",
         "WordPress"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "43470249b68c",
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "robinhouston",
+      "published": "2026-09-14T15:33:07+00:00",
+      "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 114 # Comments: 48",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2c4626fc164a",
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "carllerche",
+      "published": "2026-09-14T15:27:56+00:00",
+      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 128 # Comments: 24",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -266,7 +687,7 @@
       "source_id": "techcrunch",
       "author": "Ivan Mehta",
       "published": "2026-09-14T14:45:44+00:00",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "tags": [
         "AI",
         "Apps",
@@ -338,9 +759,9 @@
       "region": "global"
     },
     {
-      "id": "08330fe7ffcd",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "id": "c512ba40efa4",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "author": "Ivan Mehta",
@@ -371,19 +792,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "97679bf9705e",
-      "title": "How to write an effective software design document",
-      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "fagnerbrack",
-      "published": "2026-09-14T13:00:46+00:00",
-      "summary": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/ Comments URL: https://news.ycombinator.com/item?id=49696125 Points: 237 # Comments: 101",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "16d04bac1e00",
@@ -427,7 +835,7 @@
       "source_id": "hacker_news",
       "author": "gregnavis",
       "published": "2026-09-14T12:40:57+00:00",
-      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 147 # Comments: 182",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 284 # Comments: 257",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -511,7 +919,7 @@
       "source_id": "hacker_news",
       "author": "gaganyaan",
       "published": "2026-09-14T09:51:50+00:00",
-      "summary": "Article URL: https://xcancel.com/# Comments URL: https://news.ycombinator.com/item?id=49694296 Points: 127 # Comments: 389",
+      "summary": "Article URL: https://xcancel.com/# Comments URL: https://news.ycombinator.com/item?id=49694296 Points: 320 # Comments: 614",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -565,7 +973,7 @@
       "source_id": "hacker_news",
       "author": "SamuraiLion",
       "published": "2026-09-14T08:25:57+00:00",
-      "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 170 # Comments: 51",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 195 # Comments: 69",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -578,7 +986,7 @@
       "source_id": "hacker_news",
       "author": "NKosmatos",
       "published": "2026-09-14T08:25:47+00:00",
-      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 190 # Comments: 52",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 205 # Comments: 62",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -872,6 +1280,19 @@
       "region": "global"
     },
     {
+      "id": "97e14b967a5d",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "david927",
+      "published": "2026-09-13T17:31:38+00:00",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 276 # Comments: 842",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9a0980f89b57",
       "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
       "url": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
@@ -892,45 +1313,6 @@
       "region": "global"
     },
     {
-      "id": "71d2a72b149d",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-13T16:30:00+00:00",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "ai safety",
-        "Barack Obama",
-        "Donald Trump"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c5829f071c31",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Kirsten Korosec",
-      "published": "2026-09-13T16:04:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Ford",
-        "Lyft",
-        "Waymo",
-        "robotaxis",
-        "techcrunch mobility"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f86833b1a903",
       "title": "India's semiconductor sector gets $1.4 billion: report",
       "url": "https://yourstory.com/2026/09/indias-semiconductor-sector-gets-14-billion-report",
@@ -942,26 +1324,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "9de71b7a2d62",
-      "title": "Fusion power startups find new partners in the defense world",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-09-13T13:15:00+00:00",
-      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "tags": [
-        "Climate",
-        "Government & Policy",
-        "Startups",
-        "defense technology",
-        "fusion power",
-        "Pacific Fusion"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "6ac9a5d3b6d5",
@@ -1149,24 +1511,6 @@
       "region": "global"
     },
     {
-      "id": "6bc712f9cf4a",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-12T23:25:38+00:00",
-      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "tags": [
-        "Media & Entertainment",
-        "Automattic",
-        "matt mullenweg",
-        "WordPress"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6cd179b9cd79",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -1231,26 +1575,6 @@
       "region": "global"
     },
     {
-      "id": "22407f1a50da",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-12T20:19:16+00:00",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "In Brief",
-        "IPO",
-        "OpenAI",
-        "sam altman"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f2355a686a01",
       "title": "After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development",
       "url": "https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/",
@@ -1265,26 +1589,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "418ae7784dec",
-      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
-      "url": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-12T18:51:24+00:00",
-      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "b3388813799c",
@@ -1445,7 +1749,7 @@
       "source_id": "hacker_news",
       "author": "danielmorozoff",
       "published": "2026-09-12T10:13:24+00:00",
-      "summary": "Article URL: https://www.threebodyorbits.com/ Comments URL: https://news.ycombinator.com/item?id=49670852 Points: 237 # Comments: 52",
+      "summary": "Article URL: https://www.threebodyorbits.com/ Comments URL: https://news.ycombinator.com/item?id=49670852 Points: 300 # Comments: 69",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1531,26 +1835,6 @@
       "region": "global"
     },
     {
-      "id": "085399a83335",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-      "url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-11T22:01:08+00:00",
-      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207…",
-      "tags": [
-        "Agentic AI",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "b9f4c3ae650e",
       "title": "Random rewards enrich classic game-theory insights",
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -1566,116 +1850,6 @@
         "math"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "df8be383419a",
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Beth Mole",
-      "published": "2026-09-11T21:14:26+00:00",
-      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-      "tags": [
-        "Health",
-        "antibiotics",
-        "bouncy castle",
-        "drug resistance",
-        "infection",
-        "MRSA"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1b7da40542bc",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-11T20:44:02+00:00",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in…",
-      "tags": [
-        "AI",
-        "Law",
-        "News",
-        "OpenAI",
-        "Policy"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "713fa14b50f5",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-09-11T19:34:09+00:00",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "tags": [
-        "AI",
-        "Policy",
-        "AI hallucination",
-        "ChatGPT"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "40f18b2ca22f",
-      "title": "Juggler",
-      "url": "https://www.producthunt.com/products/juggler",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Julian Storer",
-      "published": "2026-09-11T18:43:38+00:00",
-      "summary": "A visual AI coding harness Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "bd1e19734690",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jeremy Hsu",
-      "published": "2026-09-11T18:22:22+00:00",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "tags": [
-        "Tech",
-        "ai data centers",
-        "Bloom energy",
-        "data centers",
-        "fuel cells",
-        "natural gas"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f6ab17a7f37e",
-      "title": "Quoting Boris Cherny",
-      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T17:47:11+00:00",
-      "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily,…",
-      "tags": [
-        "claude",
-        "ai",
-        "claude-code",
-        "llms",
-        "coding-agents",
-        "ai-assisted-programming"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
