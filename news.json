@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:10:27.281991+00:00",
+  "generated_at": "2026-09-14T02:59:35.394764+00:00",
   "sources_ok": 19,
   "sources_failed": [
     {
@@ -23,8 +23,41 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 108,
+  "item_count": 93,
   "items": [
+    {
+      "id": "9998236d8e6d",
+      "title": "RentoMojo’s Post-IPO Test: Can The Flywheel Keep Going?",
+      "url": "https://inc42.com/features/rentomojos-post-ipo-test-can-the-flywheel-keep-going/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gargi Sarkar",
+      "published": "2026-09-14T00:30:02+00:00",
+      "summary": "One blockbuster listing after another is keeping India’s startup IPO market buzzing. After Shiprocket’s strong debut last month, ESDS extended…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "3dab7f1784c1",
+      "title": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-14T00:28:10+00:00",
+      "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for…",
+      "tags": [
+        "git",
+        "projects",
+        "python",
+        "ai-assisted-programming"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
     {
       "id": "12e9dd685180",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -36,6 +69,113 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "tags": [],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "0fb6fdee2c1a",
+      "title": "shot-scraper 1.12",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-13T23:58:14+00:00",
+      "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without…",
+      "tags": [
+        "playwright",
+        "shot-scraper"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "e73517753a64",
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "elffjs",
+      "published": "2026-09-13T22:38:18+00:00",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 147 # Comments: 112",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4827a6903f84",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Cider9986",
+      "published": "2026-09-13T21:47:04+00:00",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 100 # Comments: 47",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6290f952b112",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-09-13T21:30:00+00:00",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "tags": [
+        "TC",
+        "Venture"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "abc4a3449bb9",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "u1hcw9nx",
+      "published": "2026-09-13T21:06:13+00:00",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 514 # Comments: 226",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "49b84147fedc",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-13T20:49:38+00:00",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "tags": [
+        "Fundraising",
+        "Larry Ellison",
+        "oracle"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "01a56027f5b7",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin, Dominic-Madori Davis",
+      "published": "2026-09-13T20:28:00+00:00",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "deep tech",
+        "Y Combinator",
+        "YC Demo Day"
+      ],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -69,23 +209,10 @@
       "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "tags": [
         "AI",
-        "Anthropic",
+        "OpenAI",
         "Equity podcast",
-        "OpenAI"
+        "Anthropic"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "003ff6da8e6d",
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "robinpie",
-      "published": "2026-09-13T18:03:09+00:00",
-      "summary": "Article URL: https://dreamstation.systems/personal/tesla.html Comments URL: https://news.ycombinator.com/item?id=49686766 Points: 286 # Comments: 82",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -97,7 +224,7 @@
       "source_id": "hacker_news",
       "author": "iamflimflam1",
       "published": "2026-09-13T17:37:44+00:00",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 227 # Comments: 104",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 620 # Comments: 295",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -117,19 +244,6 @@
         "Music",
         "Music Review"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4e3f293e3094",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kolanos",
-      "published": "2026-09-13T16:52:33+00:00",
-      "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 143 # Comments: 103",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -172,19 +286,6 @@
       "region": "global"
     },
     {
-      "id": "543492d80546",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "TheJCDenton",
-      "published": "2026-09-13T15:44:38+00:00",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 225 # Comments: 110",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f86833b1a903",
       "title": "India's semiconductor sector gets $1.4 billion: report",
       "url": "https://yourstory.com/2026/09/indias-semiconductor-sector-gets-14-billion-report",
@@ -205,7 +306,7 @@
       "source_id": "hacker_news",
       "author": "Levitating",
       "published": "2026-09-13T14:28:36+00:00",
-      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 279 # Comments: 119",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 387 # Comments: 176",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -218,7 +319,20 @@
       "source_id": "hacker_news",
       "author": "chiassedu80",
       "published": "2026-09-13T14:25:13+00:00",
-      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 101 # Comments: 55",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 142 # Comments: 72",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "19ac0b6d18d2",
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tosh",
+      "published": "2026-09-13T14:09:53+00:00",
+      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 168 # Comments: 76",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -231,7 +345,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-09-13T13:45:08+00:00",
-      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 158 # Comments: 95",
+      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 322 # Comments: 165",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -282,7 +396,7 @@
       "source_id": "hacker_news",
       "author": "ibobev",
       "published": "2026-09-13T12:30:15+00:00",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 133 # Comments: 34",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 210 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -315,32 +429,6 @@
         "right to repair",
         "syndication"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f3600c5021fe",
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mikemcquaid",
-      "published": "2026-09-13T08:41:17+00:00",
-      "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 486 # Comments: 194",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d5dcbba8e029",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "taubek",
-      "published": "2026-09-13T07:49:46+00:00",
-      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 447 # Comments: 172",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -385,19 +473,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "ae1c0b143270",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jonifico",
-      "published": "2026-09-13T01:22:31+00:00",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 527 # Comments: 612",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "2981ecf752e1",
@@ -587,19 +662,6 @@
         "llms"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "232a181e27c1",
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "juliantigler",
-      "published": "2026-09-12T16:25:08+00:00",
-      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 572 # Comments: 138",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -904,6 +966,25 @@
       "region": "global"
     },
     {
+      "id": "543492d80546",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-09-11T20:59:47+00:00",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "tags": [
+        "AI",
+        "TC",
+        "Venture",
+        "garry tan",
+        "Y Combinator"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "3c9a79c82f31",
       "title": "OpenAI’s feud with mathematicians is only escalating",
       "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
@@ -1050,23 +1131,6 @@
       "region": "global"
     },
     {
-      "id": "da547403dd2a",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-09-11T18:58:01+00:00",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "bd1e19734690",
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
@@ -1140,26 +1204,6 @@
       "region": "global"
     },
     {
-      "id": "3e343d7d31d7",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Kirsten Korosec",
-      "published": "2026-09-11T16:46:25+00:00",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "tags": [
-        "AI",
-        "Fidji Simo",
-        "In Brief",
-        "nscale",
-        "OpenAI",
-        "people moves"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6c481ad51683",
       "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
       "url": "https://inc42.com/buzz/mitti-labs-enters-deal-with-google-for-1-mn-carbon-credits/",
@@ -1222,26 +1266,6 @@
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "tags": [],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "11e9c583bfdb",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-09-11T15:19:00+00:00",
-      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "TC",
-        "Automattic",
-        "Exclusive",
-        "matt mullenweg"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1336,19 +1360,6 @@
       ],
       "tier": "authors",
       "region": "global"
-    },
-    {
-      "id": "45045b70576f",
-      "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
-      "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-11T13:26:10+00:00",
-      "summary": "The Navi founder said access to AI will become less of a differentiator as the technology gets easier to use.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "c27b8a46e84b",
@@ -1525,22 +1536,6 @@
       "region": "india"
     },
     {
-      "id": "5c8ede9e65fc",
-      "title": "OpenAI Open To Slowing AI Development Amid Safety Concerns: Sam Altman",
-      "url": "https://inc42.com/buzz/openai-open-to-slowing-ai-development-amid-safety-concerns-sam-altman/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-09-11T07:21:28+00:00",
-      "summary": "OpenAI is open to slowing the development of AI systems in coordination with other leading AI companies amid growing concerns…",
-      "tags": [
-        "News",
-        "AI Economy"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "a2193a1e2c9f",
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
@@ -1558,223 +1553,6 @@
         "llms"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "340d6065278f",
-      "title": "datasette-publish-fly 1.4",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T02:58:52+00:00",
-      "summary": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-      "tags": [
-        "datasette",
-        "fly"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "f7c37a72afda",
-      "title": "github-to-sqlite 2.9.1",
-      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T00:28:39+00:00",
-      "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-      "tags": [
-        "github",
-        "sqlite"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "be53a863008a",
-      "title": "Accordio",
-      "url": "https://www.producthunt.com/products/accordio",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Roma Bors",
-      "published": "2026-09-11T00:18:55+00:00",
-      "summary": "Give Claude the admin tools is missing Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d4bf9ac9c8df",
-      "title": "datasette 0.65.4",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T00:06:55+00:00",
-      "summary": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "tags": [
-        "security",
-        "datasette"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "c7ce4d573100",
-      "title": "datasette 1.0a39",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T00:05:54+00:00",
-      "summary": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "tags": [
-        "security",
-        "datasette"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "98fd5398dba8",
-      "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
-      "url": "https://tldr.tech/ai/2026-09-11",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-11T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "7e7cf51a2f38",
-      "title": "Any Nix package, live in your browser",
-      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-10T23:44:15+00:00",
-      "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix…",
-      "tags": [
-        "code-review",
-        "linux",
-        "webassembly",
-        "github-actions"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "7de8d810bbd1",
-      "title": "Cadenya",
-      "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Robert Ross",
-      "published": "2026-09-10T23:21:08+00:00",
-      "summary": "A hosted agentic loop to bring agentic possibilities to life Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a7cdfd69543e",
-      "title": "Jackalope",
-      "url": "https://www.producthunt.com/products/jackalope",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Caden Sumner",
-      "published": "2026-09-10T22:46:57+00:00",
-      "summary": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "85f7411d6e4f",
-      "title": "Cognition's SWE-2",
-      "url": "https://www.producthunt.com/products/cognition-s-swe-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Rohan Chaubey",
-      "published": "2026-09-10T22:19:56+00:00",
-      "summary": "Cognition's coding model, 64% cheaper than Fable 5.1 Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "aa26ca0813f5",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-10T21:25:21+00:00",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from…",
-      "tags": [
-        "AI",
-        "Apps",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e67033f01d2d",
-      "title": "Native is now the future of mobile at Shopify",
-      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-10T21:11:15+00:00",
-      "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building…",
-      "tags": [
-        "android",
-        "mobile",
-        "open-source",
-        "ios",
-        "ai",
-        "react"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "550c49c6e24b",
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-09-10T20:55:29+00:00",
-      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-      "tags": [
-        "Policy",
-        "browsergate",
-        "LinkedIn"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f5a39a8e0f87",
-      "title": "ABrush",
-      "url": "https://www.producthunt.com/products/abrush-ai-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Zac Zuo",
-      "published": "2026-09-10T20:18:42+00:00",
-      "summary": "AI Studio for Digital Artists Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
