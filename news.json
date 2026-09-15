@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:19:52.130457+00:00",
+  "generated_at": "2026-09-15T03:01:59.788198+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,148 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 110,
+  "item_count": 113,
   "items": [
+    {
+      "id": "59ddc6a5f16a",
+      "title": "Four Indian startups in Google DeepMind Accelerator; What happens when AI makes thinking cheap? An IISc professor weighs in",
+      "url": "https://yourstory.com/2026/09/amazon-adds-176-facilities-ahead-of-indias-festive-rush",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-15T02:00:00+00:00",
+      "summary": "The four Indian startups selected for the inaugural cohort are applying AI, satellite intelligence, remote sensing and drones to challenges ranging from sustainable agriculture and agroforestry to carbon removal and biodiversity.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "4e9a413fb3ef",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-09-15T01:50:48+00:00",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a7e5903a82b8",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Hayden Field",
+      "published": "2026-09-14T22:59:41+00:00",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "Policy",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bd93fa26cc66",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
+      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jennifer Pattison Tuohy",
+      "published": "2026-09-14T22:28:52+00:00",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and…",
+      "tags": [
+        "Apple",
+        "News",
+        "Smart Home",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ee5e2219ecaa",
+      "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+      "url": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-14T21:54:22+00:00",
+      "summary": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis. The post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "Comparison",
+        "Editors Pick",
+        "Harness",
+        "Staff"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "e957c507988f",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-09-14T21:51:02+00:00",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "96df49bbc31c",
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "thingsilearned",
+      "published": "2026-09-14T21:22:54+00:00",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 116 # Comments: 38",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6f223a8cc3e6",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-09-14T21:21:42+00:00",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "News",
+        "OpenAI",
+        "Policy",
+        "Politics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "8c13889dc16c",
       "title": "The contagion of fear",
@@ -57,6 +197,38 @@
         "Uncategorized"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "dcbc9a79c4e9",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "neom",
+      "published": "2026-09-14T21:05:22+00:00",
+      "summary": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 178 # Comments: 183",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9f1bce286771",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-09-14T21:04:32+00:00",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "tags": [
+        "AI",
+        "Biz & IT",
+        "ilands",
+        "slop",
+        "spam"
+      ],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -173,6 +345,19 @@
       "region": "global"
     },
     {
+      "id": "82404ffdc91b",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "theanonymousone",
+      "published": "2026-09-14T19:56:20+00:00",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 117 # Comments: 114",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "b6599ce272d3",
       "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
       "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
@@ -183,11 +368,11 @@
       "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
       "tags": [
         "AI",
+        "Apple",
         "Policy",
         "antitrust",
         "apple",
-        "chatbots",
-        "Elon Musk"
+        "chatbots"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -329,7 +514,7 @@
       "source_id": "hacker_news",
       "author": "throw0101d",
       "published": "2026-09-14T17:50:29+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 253 # Comments: 259",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 415 # Comments: 476",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -377,7 +562,7 @@
       "source_id": "hacker_news",
       "author": "bsimpson",
       "published": "2026-09-14T17:27:55+00:00",
-      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 366 # Comments: 233",
+      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 531 # Comments: 405",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -390,7 +575,7 @@
       "source_id": "hacker_news",
       "author": "lukaspetersson",
       "published": "2026-09-14T17:16:06+00:00",
-      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 195 # Comments: 215",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 304 # Comments: 340",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -453,25 +638,6 @@
       "region": "global"
     },
     {
-      "id": "779cd4094735",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Tom Warren",
-      "published": "2026-09-14T17:08:49+00:00",
-      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta…",
-      "tags": [
-        "Apple",
-        "iOS",
-        "iPad",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9be430962947",
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
@@ -491,21 +657,15 @@
       "region": "global"
     },
     {
-      "id": "c38188e1f0a8",
-      "title": "Valve’s Steam Frame costs $1,059",
-      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jay Peters",
-      "published": "2026-09-14T17:00:00+00:00",
-      "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of…",
-      "tags": [
-        "Gaming",
-        "News",
-        "PC Gaming",
-        "Tech",
-        "Virtual Reality"
-      ],
+      "id": "b93a7fb305d9",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Betelbuddy",
+      "published": "2026-09-14T16:32:23+00:00",
+      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 110 # Comments: 61",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -523,6 +683,19 @@
         "Microsoft",
         "Anthropic"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8f1d59b543e0",
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "simonmic",
+      "published": "2026-09-14T16:23:16+00:00",
+      "summary": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 157 # Comments: 25",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -549,20 +722,7 @@
       "source_id": "hacker_news",
       "author": "Alephinitesimal",
       "published": "2026-09-14T16:09:45+00:00",
-      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085 Comments URL: https://news.ycombinator.com/item?id=49699297 Points: 144 # Comments: 65",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0a142cd6a793",
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "url": "https://www.neobrutalism.dev/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "samke-",
-      "published": "2026-09-14T16:02:02+00:00",
-      "summary": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 104 # Comments: 47",
+      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085 Comments URL: https://news.ycombinator.com/item?id=49699297 Points: 213 # Comments: 132",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -575,7 +735,7 @@
       "source_id": "hacker_news",
       "author": "grep_it",
       "published": "2026-09-14T16:02:01+00:00",
-      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 172 # Comments: 36",
+      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 247 # Comments: 56",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -643,7 +803,7 @@
       "source_id": "hacker_news",
       "author": "robinhouston",
       "published": "2026-09-14T15:33:07+00:00",
-      "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 114 # Comments: 48",
+      "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 175 # Comments: 102",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -656,7 +816,7 @@
       "source_id": "hacker_news",
       "author": "carllerche",
       "published": "2026-09-14T15:27:56+00:00",
-      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 128 # Comments: 24",
+      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 169 # Comments: 44",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -676,6 +836,19 @@
         "Venture",
         "TechCrunch Disrupt"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e6d6db22ece5",
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "0x5FC3",
+      "published": "2026-09-14T14:50:32+00:00",
+      "summary": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 308 # Comments: 153",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -759,6 +932,19 @@
       "region": "global"
     },
     {
+      "id": "078c69822839",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "0o_MrPatrick_o0",
+      "published": "2026-09-14T13:59:09+00:00",
+      "summary": "Article URL: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/ Comments URL: https://news.ycombinator.com/item?id=49697014 Points: 118 # Comments: 66",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "c512ba40efa4",
       "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
       "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
@@ -775,6 +961,19 @@
         "Music",
         "Spotify"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b3d081257b6b",
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "giuliomagnifico",
+      "published": "2026-09-14T13:23:53+00:00",
+      "summary": "Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ Comments URL: https://news.ycombinator.com/item?id=49696453 Points: 102 # Comments: 173",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -835,7 +1034,7 @@
       "source_id": "hacker_news",
       "author": "gregnavis",
       "published": "2026-09-14T12:40:57+00:00",
-      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 284 # Comments: 257",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 386 # Comments: 328",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -919,7 +1118,7 @@
       "source_id": "hacker_news",
       "author": "gaganyaan",
       "published": "2026-09-14T09:51:50+00:00",
-      "summary": "Article URL: https://xcancel.com/# Comments URL: https://news.ycombinator.com/item?id=49694296 Points: 320 # Comments: 614",
+      "summary": "Article URL: https://xcancel.com/# Comments URL: https://news.ycombinator.com/item?id=49694296 Points: 482 # Comments: 787",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -964,32 +1163,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "d23febd8527a",
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "SamuraiLion",
-      "published": "2026-09-14T08:25:57+00:00",
-      "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 195 # Comments: 69",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f2fd860ab14a",
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "NKosmatos",
-      "published": "2026-09-14T08:25:47+00:00",
-      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 205 # Comments: 62",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "b87032a4a57e",
@@ -1203,25 +1376,6 @@
       "region": "global"
     },
     {
-      "id": "01a56027f5b7",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin, Dominic-Madori Davis",
-      "published": "2026-09-13T20:28:00+00:00",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "deep tech",
-        "Y Combinator",
-        "YC Demo Day"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7555e1ccc728",
       "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
       "url": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
@@ -1262,24 +1416,6 @@
       "region": "global"
     },
     {
-      "id": "7da785bec373",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-09-13T19:40:15+00:00",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Equity podcast",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "97e14b967a5d",
       "title": "Ask HN: What are you working on? (September 2026)",
       "url": "https://news.ycombinator.com/item?id=49686380",
@@ -1287,7 +1423,7 @@
       "source_id": "hacker_news",
       "author": "david927",
       "published": "2026-09-13T17:31:38+00:00",
-      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 276 # Comments: 842",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 302 # Comments: 951",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1488,26 +1624,6 @@
         "chatgpt"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "380fd559092a",
-      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-      "url": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-12T23:56:03+00:00",
-      "summary": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI’s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main,…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1742,19 +1858,6 @@
       "region": "global"
     },
     {
-      "id": "4b69eb704b20",
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "url": "https://www.threebodyorbits.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "danielmorozoff",
-      "published": "2026-09-12T10:13:24+00:00",
-      "summary": "Article URL: https://www.threebodyorbits.com/ Comments URL: https://news.ycombinator.com/item?id=49670852 Points: 300 # Comments: 69",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "1fb283bd7e7b",
       "title": "BRICS should help 100 startups scale across member markets every year: PM Modi",
       "url": "https://yourstory.com/2026/09/brics-should-help-100-startups-scale-across-member-markets-every-year-pm-modi",
@@ -1763,19 +1866,6 @@
       "author": null,
       "published": "2026-09-12T09:47:40+00:00",
       "summary": "The Prime Minister also called on the BRICS Business Council to identify the grouping’s top 10 trade barriers and facilitate 1,000 new business partnerships annually.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "6be6ceaafd1d",
-      "title": "Airtel bats for sovereign stack to process data from India",
-      "url": "https://yourstory.com/2026/09/airtel-bats-for-sovereign-stack-to-process-data-from-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-12T08:12:07+00:00",
-      "summary": "According to Airtel it would be incorrect to equate local data residency with data sovereignty as it is about controlling the data with a sovereign technology stack.",
       "tags": [],
       "tier": "india",
       "region": "india"
@@ -1795,62 +1885,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "6481e999f333",
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-12T00:42:25+00:00",
-      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it…",
-      "tags": [
-        "ruby",
-        "security",
-        "ai",
-        "openai",
-        "generative-ai",
-        "llms"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "218699288e36",
-      "title": "So you want to use OpenRouter?",
-      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-11T22:49:18+00:00",
-      "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider.…",
-      "tags": [
-        "ai",
-        "generative-ai",
-        "llms",
-        "openrouter"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "b9f4c3ae650e",
-      "title": "Random rewards enrich classic game-theory insights",
-      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Chris Lee",
-      "published": "2026-09-11T21:41:16+00:00",
-      "summary": "Simple games gain rich strategies in the face of noise.",
-      "tags": [
-        "Science",
-        "Behavioral science",
-        "game theory",
-        "math"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     }
   ]
 }
