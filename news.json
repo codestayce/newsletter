@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:05:06.420460+00:00",
+  "generated_at": "2026-09-17T20:52:40.265884+00:00",
   "sources_ok": 19,
   "sources_failed": [
     {
@@ -26,6 +26,298 @@
   "item_count": 120,
   "items": [
     {
+      "id": "fa7a6021a71c",
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aditya Mehta",
+      "published": "2026-09-17T20:34:47+00:00",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "tags": [
+        "AI",
+        "TC",
+        "ai safety"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9688f7ffdee8",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-09-17T20:34:24+00:00",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "tags": [
+        "AI",
+        "ai alignment",
+        "gpt-5.6 sol",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fb08b19e3092",
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-09-17T20:19:37+00:00",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "tags": [
+        "AI",
+        "TC",
+        "ai safety",
+        "Anthropic"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8cc4d0e567b1",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-09-17T20:00:00+00:00",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Google",
+        "Google Data Commons",
+        "unicef",
+        "united nations"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "df4ade904b04",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "source_id": "google_ai",
+      "author": "Prem Ramaswami",
+      "published": "2026-09-17T20:00:00+00:00",
+      "summary": "UN System Data Commons Data webpage",
+      "tags": [
+        "AI"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "5ff94f8b654c",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-09-17T19:46:08+00:00",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "copyright",
+        "Microsoft",
+        "new york times",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "932e51d9afca",
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Sean Hollister",
+      "published": "2026-09-17T19:28:24+00:00",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "News",
+        "Nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8c9415c95afc",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-09-17T18:58:05+00:00",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d71c88f55ec5",
+      "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
+      "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-09-17T18:46:52+00:00",
+      "summary": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "5fa2e472f998",
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-09-17T17:26:25+00:00",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "tags": [
+        "AI",
+        "Government & Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f81776d6d410",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aditya Mehta",
+      "published": "2026-09-17T17:15:59+00:00",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "tags": [
+        "AI",
+        "TC",
+        "Hugging Face",
+        "responsible ai"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5fcb31656e57",
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-17T17:15:00+00:00",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Pinterest"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4f7b9eec7ac1",
+      "title": "Save $30 or more on a refurbished Apple TV 4K",
+      "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Brad Bourque",
+      "published": "2026-09-17T17:14:07+00:00",
+      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30…",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "aa502b3f487c",
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jean Bradley, TechCrunch Events",
+      "published": "2026-09-17T16:34:36+00:00",
+      "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+      "tags": [
+        "Social",
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bf5dba8048fd",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bookofjoe",
+      "published": "2026-09-17T16:25:37+00:00",
+      "summary": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 302 # Comments: 100",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5f5120763127",
+      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-09-17T16:09:58+00:00",
+      "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "app tracking transparency",
+        "Apple",
+        "european union"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8aa746a4e736",
+      "title": "Whoisinspace.com/",
+      "url": "https://whoisinspace.com",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Egg-Man",
+      "published": "2026-09-17T15:59:37+00:00",
+      "summary": "Article URL: https://whoisinspace.com Comments URL: https://news.ycombinator.com/item?id=49742714 Points: 114 # Comments: 67",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "2b6f782f2cc6",
       "title": "Roku’s new Labs hub brings experimental apps to the big screen",
       "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
@@ -39,6 +331,32 @@
         "roku",
         "streaming"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bd01112b786e",
+      "title": "CrowdSec Source Code Leak",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "eccgecko",
+      "published": "2026-09-17T15:34:01+00:00",
+      "summary": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 101 # Comments: 30",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "542115d85f24",
+      "title": "Rate limits on GitLab.com are changing",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "darkwater",
+      "published": "2026-09-17T15:33:54+00:00",
+      "summary": "Article URL: https://about.gitlab.com/blog/rate-limit-change-2026/ Comments URL: https://news.ycombinator.com/item?id=49742353 Points: 119 # Comments: 95",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -110,9 +428,9 @@
       "region": "global"
     },
     {
-      "id": "1c24baa96d92",
+      "id": "7783a9dbf238",
       "title": "SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO",
-      "url": "https://inc42.com/buzz/sebi-greenlights-kuku-fms-%e2%82%b93500-cr-ipo/",
+      "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/",
       "source": "Inc42",
       "source_id": "inc42",
       "author": "Gaurav Bagur",
@@ -302,19 +620,28 @@
       "region": "india"
     },
     {
-      "id": "a2013dc1bb86",
-      "title": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
-      "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-17T13:00:00+00:00",
-      "summary": "Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the tools to capitalize on that exposure. Artists added to any…",
-      "tags": [
-        "Entertainment",
-        "News",
-        "Spotify"
-      ],
+      "id": "3fb82e74e680",
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pseudolus",
+      "published": "2026-09-17T13:12:28+00:00",
+      "summary": "https://archive.ph/F77tj Comments URL: https://news.ycombinator.com/item?id=49740260 Points: 140 # Comments: 232",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d129627e0a31",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "steveybrown",
+      "published": "2026-09-17T13:01:44+00:00",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the…",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -353,24 +680,6 @@
       "region": "india"
     },
     {
-      "id": "d74eaaf0ddc5",
-      "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-      "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew Webster",
-      "published": "2026-09-17T12:31:30+00:00",
-      "summary": "After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 songs, which Rockstar describes as \"brand-new, original tracks.\" Based on the…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "Music",
-        "News"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d06bdf389175",
       "title": "7 Roald Dahl books that will reawaken your inner child",
       "url": "https://yourstory.com/2026/09/roald-dahl-books",
@@ -382,24 +691,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "ac7422c196a0",
-      "title": "Spotify expands its partner program for podcasts to 35 new countries",
-      "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
-      "tags": [
-        "Media & Entertainment",
-        "In Brief",
-        "podcasts",
-        "Spotify"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "b6dc36cc1805",
@@ -483,24 +774,6 @@
       "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
       "tags": [],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "4eb50ae9997c",
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-09-17T11:00:00+00:00",
-      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "compliance",
-        "cybersecurity"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -589,6 +862,19 @@
       "region": "india"
     },
     {
+      "id": "8aeb094f5eba",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "simianwords",
+      "published": "2026-09-17T08:51:51+00:00",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 165 # Comments: 211",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "2042f8ada572",
       "title": "India’s top AI teams set to battle in Elastic and AWS's Forge the Future Hackathon finale",
       "url": "https://yourstory.com/2026/09/indias-top-ai-teams-set-battle-elastic-awss-forge-future-hackathon-finale",
@@ -603,26 +889,26 @@
     },
     {
       "id": "96e95b323f03",
-      "title": "GLM Built Its Own Inference Infrastructure",
+      "title": "How GLM built its own inference infrastructure",
       "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "whiteros_e",
       "published": "2026-09-17T08:27:09+00:00",
-      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 225 # Comments: 183",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 326 # Comments: 244",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "a73786220c4c",
-      "title": "One Year of Sponsored Servo Development",
+      "title": "One year of sponsored Servo development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "AshleysBrain",
       "published": "2026-09-17T08:13:54+00:00",
-      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 269 # Comments: 113",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 328 # Comments: 132",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -635,7 +921,7 @@
       "source_id": "hacker_news",
       "author": "antonly",
       "published": "2026-09-17T08:03:54+00:00",
-      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 193 # Comments: 51",
+      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 296 # Comments: 153",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -816,95 +1102,6 @@
       "region": "india"
     },
     {
-      "id": "09b1457162e2",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-09-17T05:00:00+00:00",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "simulation",
-        "Iceland",
-        "voice AI",
-        "Treble"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6426decba2ef",
-      "title": "Cloudflare/Security-Audit-Skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "donk8r",
-      "published": "2026-09-17T04:36:55+00:00",
-      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 157 # Comments: 32",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c8ea58273db8",
-      "title": "NSE raises Rs 6,746 Cr from LIC, Goldman Sachs and others in anchor round ahead of mega IPO",
-      "url": "https://yourstory.com/2026/09/nse-rs-6746-cr-lic-goldman-sachs-others-anchor-round-mega-ipo",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-17T04:32:02+00:00",
-      "summary": "According to a circular uploaded on the BSE website, NSE allotted over 3.77 crore shares to 150 anchor investors at Rs 1,785 apiece, the upper end of its IPO price band. This takes the transaction size to Rs 6,746.2 crore.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "859349cc5a71",
-      "title": "APAII brings 30+ angel funds together to strengthen India’s early-stage capital ecosystem",
-      "url": "https://yourstory.com/2026/09/apaii-brings-30-angel-funds-together-strengthen-indias-early-stage-capital-ecosystem",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-17T04:30:00+00:00",
-      "summary": "The Association of Prolific Angels in India (APAII) aims to expand the country’s angel investor base to 1 million and mobilize $3 billion in early-stage capital over the next five years. India's angel investing ecosystem today saw the launch of the Association of Prolific Angels…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "2853ac2f1108",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-09-17T03:30:00+00:00",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25…",
-      "tags": [
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1990b508cd2f",
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "url": "https://ryan.science/blog/keys-not-included",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Ryan5453",
-      "published": "2026-09-17T03:03:23+00:00",
-      "summary": "Article URL: https://ryan.science/blog/keys-not-included Comments URL: https://news.ycombinator.com/item?id=49735930 Points: 244 # Comments: 108",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e9dfe7325efe",
       "title": "Pitchfire for Startups",
       "url": "https://www.producthunt.com/products/pitchfire-for-startups",
@@ -934,21 +1131,15 @@
       "region": "india"
     },
     {
-      "id": "f3d35ad87d98",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-09-17T00:58:49+00:00",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "SMART Glasses",
-        "Snap",
-        "specs"
-      ],
+      "id": "77c8cb486b0c",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gumby",
+      "published": "2026-09-17T00:28:33+00:00",
+      "summary": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/ Comments URL: https://news.ycombinator.com/item?id=49734929 Points: 158 # Comments: 116",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -965,6 +1156,21 @@
         "Tech"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "363bbead77de",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -1013,44 +1219,6 @@
       "region": "global"
     },
     {
-      "id": "51fdd509c1fe",
-      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-09-16T23:50:07+00:00",
-      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-      "tags": [
-        "Space",
-        "Venture",
-        "In Brief",
-        "SpaceX",
-        "valor equity partners"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a08dafeb17b5",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Connie Loizos",
-      "published": "2026-09-16T23:43:09+00:00",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "tags": [
-        "AI",
-        "Climate",
-        "AI data center",
-        "Al Gore",
-        "Exclusive"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c8c6305d3f8b",
       "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
       "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
@@ -1066,32 +1234,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "ab4a6c2105b2",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "etoxin",
-      "published": "2026-09-16T23:06:39+00:00",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 176 # Comments: 87",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "939479f03aba",
-      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "url": "https://harnesstax.github.io/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "matt_d",
-      "published": "2026-09-16T22:10:13+00:00",
-      "summary": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 197 # Comments: 74",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1111,74 +1253,6 @@
         "apple",
         "apple hardware"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ae4b55916bc0",
-      "title": "Noise wants to help everyday people become paid content creators",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-09-16T21:35:00+00:00",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "tags": [
-        "Media & Entertainment",
-        "Social",
-        "Startups",
-        "influencers"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "80a0cda2bdef",
-      "title": "Pulley, a Carta rival, is shutting down",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-09-16T21:23:19+00:00",
-      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
-      "tags": [
-        "Startups",
-        "Carta",
-        "In Brief",
-        "Pulley"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "858d9ee27e4f",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Rebecca Bellan",
-      "published": "2026-09-16T21:07:24+00:00",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "tags": [
-        "AI",
-        "ai safety",
-        "Anthropic",
-        "dario amodei",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6c3aabdc873f",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "matt_d",
-      "published": "2026-09-16T20:59:24+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 230 # Comments: 36",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1238,32 +1312,6 @@
       "region": "global"
     },
     {
-      "id": "6aa76e4f0b22",
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "afilipovski",
-      "published": "2026-09-16T20:27:16+00:00",
-      "summary": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 311 # Comments: 187",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e93d9e207a8c",
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "krackers",
-      "published": "2026-09-16T20:09:18+00:00",
-      "summary": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 512 # Comments: 146",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "eba92d395c25",
       "title": "Researchers swap in human brain cells for a mouse's cortex",
       "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
@@ -1280,19 +1328,6 @@
         "Mice",
         "Neuroscience"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2a70d59635a9",
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "polyphilz",
-      "published": "2026-09-16T18:50:00+00:00",
-      "summary": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 647 # Comments: 130",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1444,24 +1479,6 @@
       "region": "global"
     },
     {
-      "id": "928144225ccb",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-09-16T16:30:00+00:00",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work,…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "d200db485db2",
       "title": "Quoting Mustafa Suleyman",
       "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
@@ -1525,22 +1542,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "4a3f72cc27f9",
-      "title": "The sexy AI-powered dating app scams are here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Yael Grauer",
-      "published": "2026-09-16T14:45:00+00:00",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She…",
-      "tags": [
-        "AI",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "d65dac989c5b",
@@ -1699,19 +1700,6 @@
       "region": "india"
     },
     {
-      "id": "89bbdfee8976",
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nonmaskable",
-      "published": "2026-09-16T11:15:53+00:00",
-      "summary": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ Comments URL: https://news.ycombinator.com/item?id=49724881 Points: 874 # Comments: 344",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "94c35e4f8c0d",
       "title": "Semiconductor Chips Have An Elemental Problem And Discovered Materials Wants It Fixed",
       "url": "https://inc42.com/startups/semiconductor-chips-have-an-elemental-problem-and-discovered-materials-wants-it-fixed/",
@@ -1758,19 +1746,17 @@
       "region": "india"
     },
     {
-      "id": "163d2c344294",
-      "title": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
-      "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-09-16T09:16:40+00:00",
-      "summary": "Former Haptik CEO Aakrit Vaish-led VC firm Activate has announced the final close of its maiden fund at $105 Mn…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
+      "id": "492163fd6ec1",
+      "title": "Opyt",
+      "url": "https://www.producthunt.com/products/opyt",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "David Maimon",
+      "published": "2026-09-16T09:21:38+00:00",
+      "summary": "Your attention is the context your AI is missing Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "71646fffd914",
@@ -1882,19 +1868,6 @@
       "region": "global"
     },
     {
-      "id": "b0d62f54848d",
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "johnjwang",
-      "published": "2026-09-15T22:15:25+00:00",
-      "summary": "Article URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve Comments URL: https://news.ycombinator.com/item?id=49719596 Points: 254 # Comments: 102",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4b2df3dc7fee",
       "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
       "url": "https://jakeasmith.com/blog/http-build-url/",
@@ -1902,9 +1875,40 @@
       "source_id": "hacker_news",
       "author": "jakeasmith",
       "published": "2026-09-15T20:53:36+00:00",
-      "summary": "Article URL: https://jakeasmith.com/blog/http-build-url/ Comments URL: https://news.ycombinator.com/item?id=49718773 Points: 256 # Comments: 64",
+      "summary": "Article URL: https://jakeasmith.com/blog/http-build-url/ Comments URL: https://news.ycombinator.com/item?id=49718773 Points: 310 # Comments: 87",
       "tags": [],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0308cf18952b",
+      "title": "Gemini 3.8 & 3.8 Live Extended Thinking",
+      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Ankit Sharma",
+      "published": "2026-09-15T18:28:06+00:00",
+      "summary": "Our most advanced Gemini Audio models yet Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4eed05a33e2a",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "MIT Technology Review",
+      "published": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they…",
+      "tags": [
+        "Artificial intelligence",
+        "AI",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "tier": "ai_news",
       "region": "global"
     }
   ]
