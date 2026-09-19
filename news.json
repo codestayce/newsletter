@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-19T02:47:49.728355+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-19T10:10:40.797942+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "MarkTechPost",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -21,6 +25,89 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "0d8d0bf44b7f",
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-09-19T08:30:38+00:00",
+      "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "56aef8f25d59",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "nsoonhui",
+      "published": "2026-09-19T06:41:44+00:00",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 110 # Comments: 51",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "239a0abdd24d",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "emigre",
+      "published": "2026-09-19T05:48:50+00:00",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 226 # Comments: 96",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ca3c146edcf4",
+      "title": "Semicon, India Mobile Congress, electronics summit together? ISM CEO pitches mega gathering",
+      "url": "https://yourstory.com/2026/09/semicon-india-ism-ceo-pitches-mega-gathering",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-19T05:45:39+00:00",
+      "summary": "The proposal is to bring the events together in the same city and around the same location, while allowing each to retain its own identity.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "518a66ddc17f",
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "z-mach9",
+      "published": "2026-09-19T04:23:30+00:00",
+      "summary": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 193 # Comments: 67",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f96430d61de3",
+      "title": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
+      "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Akshit Pushkarna",
+      "published": "2026-09-19T03:30:44+00:00",
+      "summary": "While the introduction of MDR on UPI dominated India’s new-age tech discourse this week, startup funding fell sharply. Fourteen startups…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "78994dfe5686",
       "title": "Design with purpose: How Jaipur’s Saraswati Rugs places Indian craft on the global map",
@@ -142,6 +229,19 @@
       "region": "global"
     },
     {
+      "id": "64adcb8eecb3",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "maxall4",
+      "published": "2026-09-18T23:04:17+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 123 # Comments: 87",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "58f2b0077885",
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
@@ -156,26 +256,6 @@
         "Anthropic"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "52dc3d4a2ffe",
-      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
-      "url": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-18T21:21:59+00:00",
-      "summary": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, and builds on DeepSeek-OCR. A built-in FastMTP speculative decoding head drafts…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -195,19 +275,6 @@
         "OpenAI",
         "Policy"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9b0bea9a8f22",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "datadrivenangel",
-      "published": "2026-09-18T21:00:32+00:00",
-      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 533 # Comments: 189",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -351,7 +418,7 @@
       "source_id": "hacker_news",
       "author": "theanonymousone",
       "published": "2026-09-18T19:03:09+00:00",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 571 # Comments: 272",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 843 # Comments: 413",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -364,7 +431,7 @@
       "source_id": "hacker_news",
       "author": "f311a",
       "published": "2026-09-18T18:51:46+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 246 # Comments: 47",
+      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 360 # Comments: 78",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -383,19 +450,6 @@
         "Startups",
         "typesafe"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a4ee0a750348",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "CameronBanga",
-      "published": "2026-09-18T18:39:31+00:00",
-      "summary": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 117 # Comments: 68",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -435,26 +489,6 @@
         "Streaming"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "98d8123baf4d",
-      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
-      "url": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-18T18:06:36+00:00",
-      "summary": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. PrismML reports that it keeps 98.2% of the parent model’s average across 20 benchmarks. The model accepts text and images and…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Enterprise AI"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -648,7 +682,7 @@
       "source_id": "hacker_news",
       "author": "synack",
       "published": "2026-09-18T16:54:18+00:00",
-      "summary": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 162 # Comments: 56",
+      "summary": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 193 # Comments: 70",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -703,6 +737,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "7c7187ae2983",
+      "title": "Basedash Models",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Max Musing",
+      "published": "2026-09-18T16:18:15+00:00",
+      "summary": "Define it once. Query it like a table. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "f3d600caf4d5",
@@ -815,19 +862,6 @@
       "region": "global"
     },
     {
-      "id": "1ff6e8ad6fa3",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Jimmc414",
-      "published": "2026-09-18T15:12:07+00:00",
-      "summary": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 106 # Comments: 59",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "1d0d86011de0",
       "title": "Startup news and updates: Daily roundup (September 18, 2026)",
       "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-18-2026",
@@ -865,7 +899,7 @@
       "source_id": "hacker_news",
       "author": "jcbhmr",
       "published": "2026-09-18T14:18:41+00:00",
-      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 595 # Comments: 254",
+      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 708 # Comments: 282",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -966,7 +1000,7 @@
     },
     {
       "id": "1321762ff387",
-      "title": "Odisha approves Rs 452 Cr integrated power electronics hub at IIT Bhubaneswar",
+      "title": "Odisha announces 870-acre Silicon Valley, receives Rs 23,600 Cr investment proposals",
       "url": "https://yourstory.com/2026/09/odisha-rs-452-cr-integrated-power-electronics-hub-iit-bhubaneswar",
       "source": "YourStory",
       "source_id": "yourstory",
@@ -989,6 +1023,21 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "559b0cf11197",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-18T12:00:00+00:00",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
+      "region": "global"
     },
     {
       "id": "14225275e6c1",
@@ -1097,26 +1146,6 @@
       "region": "india"
     },
     {
-      "id": "f4e3c22573ef",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "url": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-18T09:44:55+00:00",
-      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in 2026 appeared first on MarkTechPost .",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "Editors Pick",
-        "Harness",
-        "Staff",
-        "Top"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "1bc9b2646faf",
       "title": "OpenJev",
       "url": "https://openjev.com/",
@@ -1124,29 +1153,9 @@
       "source_id": "hacker_news",
       "author": "ilreb",
       "published": "2026-09-18T09:42:22+00:00",
-      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 562 # Comments: 247",
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 628 # Comments: 265",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2e39739c73ad",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-18T08:40:37+00:00",
-      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1161,25 +1170,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "628f3b009f9e",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "url": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Jean-marc Mommessin",
-      "published": "2026-09-18T07:34:06+00:00",
-      "summary": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs,…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "Editors Pick",
-        "New Releases",
-        "Staff"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "c51e4ad6bf0d",
@@ -1202,20 +1192,7 @@
       "source_id": "hacker_news",
       "author": "csmantle",
       "published": "2026-09-18T06:11:17+00:00",
-      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 259 # Comments: 93",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "50960bae5c07",
-      "title": "AEXGrid",
-      "url": "https://www.producthunt.com/products/aexgrid",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "ivan delicio",
-      "published": "2026-09-18T05:42:36+00:00",
-      "summary": "Coordinate AI agents. From anywhere. Discussion | Link",
+      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 300 # Comments: 100",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1234,32 +1211,6 @@
       "region": "global"
     },
     {
-      "id": "466e2cd1a62d",
-      "title": "India needs hundreds of chip companies to build a global ecosystem, says L&T Semiconductor CEO",
-      "url": "https://yourstory.com/2026/09/india-needs-hundreds-of-chip-companies-to-build-global-ecosystem-lt-semiconductor-ceo",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-18T05:32:47+00:00",
-      "summary": "India has strengths in digital compute, analogue and RF technologies, but needs to deepen capabilities in system architecture, memory, optics, high-power chips and manufacturing, said Sandeep Kumar, CEO of L&T Semiconductor Technologies.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "9c023a5ee4f5",
-      "title": "Semicon 2.0 has drawn about $12B in investment commitments: IT minister Vaishnaw",
-      "url": "https://yourstory.com/2026/09/semicon-20-draws-11-12b-in-investment-commitments-it-min-vaishnaw",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-18T04:32:12+00:00",
-      "summary": "The investment commitments span a broad swathe of the semiconductor ecosystem, including equipment, materials, gases, chemicals, assembly, testing, marking and packaging units, substrates and even wafers.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "1352d934f7bf",
       "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
       "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
@@ -1267,7 +1218,7 @@
       "source_id": "hacker_news",
       "author": "succinct_ideas",
       "published": "2026-09-18T02:56:48+00:00",
-      "summary": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 114 # Comments: 31",
+      "summary": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 167 # Comments: 67",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1287,6 +1238,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "15299e3e9f20",
+      "title": "Forma by Caid",
+      "url": "https://www.producthunt.com/products/forma-oss",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Isayah Culbertson",
+      "published": "2026-09-18T02:18:12+00:00",
+      "summary": "build hardware systems end to end Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "58476c5059bb",
@@ -1309,23 +1273,10 @@
       "source_id": "hacker_news",
       "author": "nashashmi",
       "published": "2026-09-18T02:00:25+00:00",
-      "summary": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 196 # Comments: 187",
+      "summary": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 281 # Comments: 227",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "5df2068a1311",
-      "title": "Chandra stays at Tata Sons, but Noel strongly objects; Updates from SEMICON India 2026",
-      "url": "https://yourstory.com/2026/09/chandra-back-at-tata-sons-but-noel-strongly-objects",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-18T02:00:00+00:00",
-      "summary": "N Chandrasekaran has reversed his exit decision and agreed to continue as Executive Chairman of Tata Sons for another five years. The Tata Sons board has approved his reappointment but Noel Tata has opposed the move.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "36b9145120f7",
@@ -1336,19 +1287,6 @@
       "author": "Kamil Kaderbay",
       "published": "2026-09-18T01:28:31+00:00",
       "summary": "Track what AI says about your store, fix it, generate blog Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b492f9984bc6",
-      "title": "M9R",
-      "url": "https://www.producthunt.com/products/m9r",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ayaan Ali",
-      "published": "2026-09-18T00:39:11+00:00",
-      "summary": "Multiplayer space for your AI coding agents and teams Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1453,39 +1391,6 @@
       "region": "global"
     },
     {
-      "id": "d6fc38fe40b2",
-      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-      "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-17T21:21:08+00:00",
-      "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6de6b0d0755f",
-      "title": "How SpaceX streamlined the Raptor engine",
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "JumpCrisscross",
-      "published": "2026-09-17T21:14:19+00:00",
-      "summary": "Article URL: https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor Comments URL: https://news.ycombinator.com/item?id=49746626 Points: 167 # Comments: 43",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e5c37e0d8fd1",
       "title": "Self-generated prompt injections in compaction summaries",
       "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
@@ -1503,52 +1408,6 @@
         "ai-personality"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "e3d4951e99c3",
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ibobev",
-      "published": "2026-09-17T20:52:33+00:00",
-      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops Comments URL: https://news.ycombinator.com/item?id=49746406 Points: 149 # Comments: 206",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cb57a08439bf",
-      "title": "MeshEdit",
-      "url": "https://www.producthunt.com/products/meshedit",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ricardo de Zoete | Hammy",
-      "published": "2026-09-17T20:49:03+00:00",
-      "summary": "Model, rig and animate game assets in your browser Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "edb08744659d",
-      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-17T20:45:04+00:00",
-      "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1716,7 +1575,7 @@
       "source_id": "hacker_news",
       "author": "ohjeez",
       "published": "2026-09-17T18:31:56+00:00",
-      "summary": "https://archive.ph/cgMTM Comments URL: https://news.ycombinator.com/item?id=49744704 Points: 186 # Comments: 64",
+      "summary": "https://archive.ph/cgMTM Comments URL: https://news.ycombinator.com/item?id=49744704 Points: 272 # Comments: 104",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1973,6 +1832,123 @@
         "Interviews"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "af7a95e7102f",
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "source": "Last Week in AI",
+      "source_id": "last_week_in_ai",
+      "author": "Last Week in AI",
+      "published": "2026-09-17T08:02:55+00:00",
+      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "78f95f4dc7b6",
+      "title": "OpenAI & Anthropic Want To Pace Frontier AI, But Who Sets The Rules?",
+      "url": "https://inc42.com/features/openai-anthropic-want-to-pace-frontier-ai-but-who-sets-the-rules/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-09-17T07:00:52+00:00",
+      "summary": "In July this year, OpenAI’s models were being tested in a controlled cybersecurity environment and tasked with spotting and exploiting…",
+      "tags": [
+        "In-Depth",
+        "AI Economy",
+        "Follow Up"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "b713dc2a5d4e",
+      "title": "Practo Leadership Reshuffle: Jagnoor Singh Elevated To CEO, Shashank ND Becomes Chairman",
+      "url": "https://inc42.com/buzz/practo-leadership-reshuffle-jagnoor-singh-replaces-cofounder-shashank-nd-as-ceo/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-09-17T06:47:12+00:00",
+      "summary": "Healthtech startup Practo has overhauled its top leadership, appointing former COO Jagnoor Singh as CEO, while cofounder and former CEO…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "2c2b4fa96db9",
+      "title": "VoiceCap",
+      "url": "https://www.producthunt.com/products/voicecap",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Rokas Jurkenas",
+      "published": "2026-09-17T05:56:36+00:00",
+      "summary": "The AI notetaker for meetings in your language Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b1d0051751f2",
+      "title": "Clean Label Brands Vs FSSAI, PhonePe Eyes 2027 IPO & More",
+      "url": "https://inc42.com/buzz/clean-label-brands-vs-fssai-phonepe-eyes-2027-ipo-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-09-17T02:30:10+00:00",
+      "summary": "The Clean Label Credibility Test India’s clean-label boom is facing its toughest test yet. FSSAI’s recent crackdown on health and…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "801a845f60ff",
+      "title": "Claude + Cowork merge 🛠️, ChatGPT sponsored agents 💰, harness tax 🤖",
+      "url": "https://tldr.tech/ai/2026-09-17",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "363bbead77de",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "1f891ec27ff7",
+      "title": "Bolt Forge",
+      "url": "https://www.producthunt.com/products/bolt-new",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Rohan Chaubey",
+      "published": "2026-09-16T23:59:56+00:00",
+      "summary": "Bolt's new agent with open-source models and 50X usage Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     }
   ]
