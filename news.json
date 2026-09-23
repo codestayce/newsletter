@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-09-22T20:47:05.641104+00:00",
-  "sources_ok": 20,
+  "generated_at": "2026-09-23T02:57:30.664172+00:00",
+  "sources_ok": 19,
   "sources_failed": [
+    {
+      "source": "MarkTechPost",
+      "error": "no entries"
+    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -22,6 +26,174 @@
   "item_count": 120,
   "items": [
     {
+      "id": "0f1cef113d89",
+      "title": "Silence Laboratories is building privacy-first cybersecurity technology",
+      "url": "https://yourstory.com/2026/09/silence-laboratories-is-building-privacy-first-cybersecurity-technology",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-23T02:05:00+00:00",
+      "summary": "Palo Alto-based startup Silence Laboratories works with around 35 clients globally, including a top US bank, and has research published in more than 10 Tier-1 publications.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "441e46f5fc9f",
+      "title": "TechSparks 2026: Meet the speakers shaping conversations around The New Tech Order",
+      "url": "https://yourstory.com/2026/09/techsparks-2026-meet-the-speakers-shaping-conversations-around-the-new-tech-order",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-23T02:00:00+00:00",
+      "summary": "The New Tech Order will bring together leaders from government, academia, startups, technology, and finance at TechSparks 2026, YourStory's flagship summit in Bengaluru from October 13-15.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "47983da93453",
+      "title": "From pits and walkie talkies to AI: Angel One Founder Dinesh Thakkar charts the 30-year-old stock broking company’s stellar growth",
+      "url": "https://yourstory.com/2026/09/pits-walkie-talkies-ai-angel-one-founder-dinesh-thakkar-30-year-old-stock-broking-stellar-growth",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-09-23T01:55:00+00:00",
+      "summary": "Retail broking firm Angel One believes artificial intelligence (AI) can be a disruptive force that personalises an individual’s financial journey. However, the real test will be whether AI can deliver tangible value to users, says Dinesh Thakkar, founder, Chairman and Managing…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "122c91126b73",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-09-23T00:17:17+00:00",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising…",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4a34b417a079",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-22T23:46:41+00:00",
+      "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my…",
+      "tags": [
+        "ai",
+        "openai",
+        "generative-ai",
+        "llms",
+        "anthropic",
+        "claude"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "04cb5c18383a",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-09-22T23:21:49+00:00",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7bfabada65a1",
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Charles Pulliam-Moore",
+      "published": "2026-09-22T22:26:07+00:00",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million…",
+      "tags": [
+        "Business",
+        "Entertainment",
+        "Film",
+        "TV Shows"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e20ec45cd8a0",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-09-22T21:56:43+00:00",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "data labeling",
+        "snorkel ai"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "36af9cf7e260",
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Beth Mole",
+      "published": "2026-09-22T21:42:14+00:00",
+      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "tags": [
+        "Health",
+        "brain worms",
+        "case report",
+        "S. japonicum"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f7a9a3b0af71",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Samuel Axon",
+      "published": "2026-09-22T21:25:18+00:00",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "tags": [
+        "AI",
+        "Agentic workflows",
+        "Anthropic",
+        "frontier models",
+        "GPT-6",
+        "large language models"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "b6b1e4118cdb",
       "title": "Better prompt caching for GPT-6",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -34,6 +206,24 @@
         "Product"
       ],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "2680b543c4bc",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-09-22T20:52:40+00:00",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac,…",
+      "tags": [
+        "AI",
+        "Apps",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -131,6 +321,26 @@
       "region": "global"
     },
     {
+      "id": "df5d53f03b14",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-09-22T19:45:47+00:00",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "tags": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI ATTACK",
+        "chatbots",
+        "spam"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9071faa99f0c",
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
@@ -191,35 +401,44 @@
     },
     {
       "id": "0c1f08af0fbd",
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "devonnull",
       "published": "2026-09-22T19:03:38+00:00",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/ Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 212 # Comments: 111",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 464 # Comments: 237",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "6d30a9d4d588",
-      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-22T18:59:35+00:00",
-      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus 5 on typical workloads at default settings. On Anthropic’s own benchmarks, it…",
+      "id": "5b6b9557cdb4",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "aray07",
+      "published": "2026-09-22T18:57:17+00:00",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 172 # Comments: 95",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1b1371e9ec40",
+      "title": "llm 0.36",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-22T18:48:37+00:00",
+      "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive…",
       "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs"
+        "openai",
+        "llm"
       ],
-      "tier": "ai_news",
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -260,6 +479,19 @@
       "region": "global"
     },
     {
+      "id": "69fbdce8aa59",
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "trollied",
+      "published": "2026-09-22T18:15:53+00:00",
+      "summary": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 141 # Comments: 84",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "bbd1dec96414",
       "title": "Quoting @therealcornpop",
       "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
@@ -284,7 +516,7 @@
       "source_id": "hacker_news",
       "author": "OfficialTurkey",
       "published": "2026-09-22T18:00:34+00:00",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 746 # Comments: 417",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1237 # Comments: 627",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -304,6 +536,19 @@
         "ChatGPT",
         "OpenAI"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c06d46f4c940",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "spenvo",
+      "published": "2026-09-22T17:46:02+00:00",
+      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 447 # Comments: 312",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -341,16 +586,19 @@
       "region": "global"
     },
     {
-      "id": "dc6c07b74f75",
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Cider9986",
-      "published": "2026-09-22T17:12:51+00:00",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117299954135808210 Comments URL: https://news.ycombinator.com/item?id=49804683 Points: 190 # Comments: 80",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "81ac4d38e589",
+      "title": "llm-anthropic 0.29",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-09-22T17:14:55+00:00",
+      "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+      "tags": [
+        "llm",
+        "anthropic"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -381,7 +629,7 @@
       "source_id": "hacker_news",
       "author": "theanonymousone",
       "published": "2026-09-22T16:51:31+00:00",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 157 # Comments: 49",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 243 # Comments: 73",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -390,8 +638,8 @@
       "id": "55764e08c669",
       "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
       "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-22T16:34:08+00:00",
       "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta,…",
@@ -400,7 +648,7 @@
         "Business",
         "News"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -411,7 +659,7 @@
       "source_id": "hacker_news",
       "author": "vntok",
       "published": "2026-09-22T16:33:45+00:00",
-      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 102 # Comments: 53",
+      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 161 # Comments: 84",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -437,8 +685,8 @@
       "id": "4a4a3fb466bb",
       "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-09-22T16:30:00+00:00",
       "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's…",
@@ -449,7 +697,7 @@
         "Security",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -460,7 +708,20 @@
       "source_id": "hacker_news",
       "author": "km144",
       "published": "2026-09-22T16:29:05+00:00",
-      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 846 # Comments: 640",
+      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 1259 # Comments: 839",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f71beb8d8e05",
+      "title": "16-bit Intel 8088 chip (c. 1985)",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rbanffy",
+      "published": "2026-09-22T16:11:34+00:00",
+      "summary": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip Comments URL: https://news.ycombinator.com/item?id=49803635 Points: 111 # Comments: 14",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -626,7 +887,7 @@
       "source_id": "hacker_news",
       "author": "JohnBerryman",
       "published": "2026-09-22T14:42:59+00:00",
-      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points: 211 # Comments: 165",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points: 267 # Comments: 195",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -639,7 +900,7 @@
       "source_id": "hacker_news",
       "author": "MC995",
       "published": "2026-09-22T14:30:12+00:00",
-      "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy Comments URL: https://news.ycombinator.com/item?id=49801939 Points: 498 # Comments: 383",
+      "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy Comments URL: https://news.ycombinator.com/item?id=49801939 Points: 634 # Comments: 463",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -746,7 +1007,7 @@
       "source_id": "hacker_news",
       "author": "sohkamyung",
       "published": "2026-09-22T13:52:15+00:00",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 478 # Comments: 336",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 578 # Comments: 362",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -826,22 +1087,6 @@
       "region": "global"
     },
     {
-      "id": "d68797b924a7",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-09-22T13:00:00+00:00",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "tags": [
-        "AI",
-        "data centers"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0f85327c15ef",
       "title": "Startup news and updates: daily roundup (September 22, 2026)",
       "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-22-2026",
@@ -855,22 +1100,18 @@
       "region": "india"
     },
     {
-      "id": "46a8cb077ff0",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-09-22T12:23:05+00:00",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "id": "ce45d8dc0f6c",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
       "tags": [
-        "AI",
-        "ai data centers",
-        "IPO",
-        "neocloud",
-        "nscale"
+        "Startup"
       ],
-      "tier": "startup_news",
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -1108,6 +1349,19 @@
       "region": "india"
     },
     {
+      "id": "66deb2c0d677",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "networked",
+      "published": "2026-09-22T06:08:39+00:00",
+      "summary": "Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 376 # Comments: 147",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a4ae2cb28d39",
       "title": "Snapdeal parent firm AceVector's IPO to open on September 25",
       "url": "https://yourstory.com/2026/09/ipo-of-snapdeals-parent-firm-acevector-to-open-on-sept-25",
@@ -1119,26 +1373,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "583ed02be942",
-      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
-      "url": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-22T05:04:43+00:00",
-      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops across 535 environments. On EdgeBench, SoL-Pi cuts token traffic by 44.7% to 49.0% and API cost by roughly 33%, while keeping about…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Paper Summary",
-        "Editors Pick",
-        "Harness",
-        "New Releases"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "31a14a896d2a",
@@ -1154,26 +1388,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "58b953e99d92",
-      "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
-      "url": "https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-22T04:10:04+00:00",
-      "summary": "SpaceXAI has released Grok 4.7, its new flagship model for coding, agentic tasks, and knowledge work. Grok 4.7 is built on a larger base model and a longer reinforcement learning run. It still ships at the same price and speed as Grok 4.6. Is it deployable? Yes, as a hosted…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "fc9d4d24d2a0",
@@ -1200,6 +1414,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "f6b1f50f90e5",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Jtsummers",
+      "published": "2026-09-22T03:10:05+00:00",
+      "summary": "Article URL: https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals Comments URL: https://news.ycombinator.com/item?id=49796379 Points: 133 # Comments: 197",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "bf41d35578c7",
@@ -1255,6 +1482,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "806cb0da01b1",
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "alephnerd",
+      "published": "2026-09-22T01:21:20+00:00",
+      "summary": "https://archive.ph/FvOhx Comments URL: https://news.ycombinator.com/item?id=49795686 Points: 118 # Comments: 119",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "3bbac81c0854",
@@ -1410,26 +1650,6 @@
       "region": "global"
     },
     {
-      "id": "0b2f1d428ad6",
-      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
-      "url": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-21T21:42:14+00:00",
-      "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands harness, a fully assembled, general-purpose agent harness. It runs locally or…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "d55b681e0c22",
       "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
       "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
@@ -1537,19 +1757,6 @@
       "region": "global"
     },
     {
-      "id": "b70b807d7c01",
-      "title": "Inside WOI India’s Kashmir Retreat: Founders, MoU and ₹2 Crore Commitment",
-      "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-21T17:16:11+00:00",
-      "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "69455969e5fd",
       "title": "Google confirms Gemini models hacked three companies in May 2026",
       "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
@@ -1583,26 +1790,6 @@
       "region": "global"
     },
     {
-      "id": "9060c90cf885",
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
-      "url": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-21T16:40:44+00:00",
-      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public,…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "1157877c974e",
       "title": "Russel Vought will reportedly be given veto power over all NIH grants",
       "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
@@ -1618,44 +1805,6 @@
         "grants",
         "NIH",
         "OMB"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2501eed235cb",
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-09-21T16:15:26+00:00",
-      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
-      "tags": [
-        "Policy",
-        "California",
-        "Paramount Skydance",
-        "warner bros. discovery"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "321b14a0e00e",
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Alex Rogers and Stephen Morris, Financial Times",
-      "published": "2026-09-21T15:37:56+00:00",
-      "summary": "The president offered few details on what his proposed new AI Force would do.",
-      "tags": [
-        "AI",
-        "AI Czar",
-        "AI Force",
-        "AI regulation",
-        "syndication",
-        "Trump"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1690,19 +1839,6 @@
       "region": "india"
     },
     {
-      "id": "babf60e08c55",
-      "title": "Soach Global to partially exit NSE after decade-long investment",
-      "url": "https://yourstory.com/2026/09/soach-global-to-partially-exit-nse-after-decade-long-investment",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-21T14:15:39+00:00",
-      "summary": "Soach Global will sell 16.5 lakh NSE shares through the IPO for about Rs 280-295 crore, while retaining 66 lakh shares as a long-term investment.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "7c3db1c62d46",
       "title": "Can John Ternus find Apple’s next big thing?",
       "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
@@ -1720,26 +1856,6 @@
         "Podcasts"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "5c0a7165c8d0",
-      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
-      "url": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-09-21T13:53:46+00:00",
-      "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
-      "tags": [
-        "Culture",
-        "entertainment",
-        "Neagley",
-        "prime video",
-        "reviews",
-        "streaming television"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1789,19 +1905,6 @@
       "region": "global"
     },
     {
-      "id": "c832a5b0d248",
-      "title": "Building intelligent enterprises: why developers must bridge code and business reality",
-      "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-21T13:00:27+00:00",
-      "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case that…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "95450c061554",
       "title": "Info Edge-Backed Ascend Capital’s FY26 Profit Up 6X YoY To ₹10 Cr, Revenue Rockets 130%",
       "url": "https://inc42.com/buzz/nbfc-ascend-capitals-fy26-profit-up-6x-yoy-to-%e2%82%b910-cr-revenue-rockets-130/",
@@ -1825,138 +1928,6 @@
       "author": "Akshit Pushkarna",
       "published": "2026-09-21T12:01:29+00:00",
       "summary": "PharmEasy-owned diagnostic chain Thyrocare Technologies has approved the sale of its entire stake in wholly owned subsidiary Nueclear Healthcare Ltd…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "0c7e3393319e",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "James O'Donnell",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between…",
-      "tags": [
-        "Artificial intelligence",
-        "App",
-        "border towers"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "704b11ac89b1",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "James O'Donnell",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by…",
-      "tags": [
-        "Artificial intelligence",
-        "App",
-        "border towers"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4ccbbd5db7a6",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "James O'Donnell, Eileen Guo",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within…",
-      "tags": [
-        "Artificial intelligence",
-        "App",
-        "border towers",
-        "Features and Investigations",
-        "The Big Story"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3fa50898eaf7",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "Lillian Perlmutter",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister…",
-      "tags": [
-        "Artificial intelligence",
-        "App",
-        "border towers"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a7ca59844a94",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "d37f5b2c5927",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "tags": [
-        "Startup"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "36e6ef0a0bfc",
-      "title": "The CFO Code: Decoding How India’s Top CFOs Think, Build And Scale",
-      "url": "https://inc42.com/features/the-cfo-code-decoding-how-indias-top-cfos-think-build-and-scale/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-21T11:30:54+00:00",
-      "summary": "As Indian startups graduate from venture-backed bets to public-market businesses, the finance function is undergoing a sea shift. As startups…",
-      "tags": [
-        "In-Depth",
-        "Exclusive",
-        "Series"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "78c531d1700c",
-      "title": "IPO-Bound Moneyview’s Q1 Profit Jumps 2.6X YoY To ₹173.8 Cr",
-      "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-09-21T11:28:27+00:00",
-      "summary": "Ahead of its IPO, digital lending platform Moneyview reported a 158.8% jump in its consolidated profit to ₹173.8 Cr in…",
       "tags": [
         "News"
       ],
