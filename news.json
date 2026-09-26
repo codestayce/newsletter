@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-09-26T15:36:12.992425+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-09-26T20:33:54.860821+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "MarkTechPost",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -23,8 +19,162 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 114,
+  "item_count": 120,
   "items": [
+    {
+      "id": "dfb2714f0c80",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "url": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-26T19:50:57+00:00",
+      "summary": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with probabilities. The model runs on a CPU and ships under Apache 2.0. It beat Jev reference values on 3 of…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "a5c125d14d41",
+      "title": "Decap is the man behind the drums behind your favorite song",
+      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-26T19:30:00+00:00",
+      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny,…",
+      "tags": [
+        "Entertainment",
+        "Interview",
+        "Music",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "69f557d55327",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-26T17:44:00+00:00",
+      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Alex Gibney",
+        "Elon Musk",
+        "Meta"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1c11c002073b",
+      "title": "Kids turned the comment section of an NPR podcast into a group chat",
+      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-26T17:32:35+00:00",
+      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and…",
+      "tags": [
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "45e30cdc23a0",
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lauren Forristal",
+      "published": "2026-09-26T17:00:00+00:00",
+      "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "pet tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "60ac3b13679c",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-26T16:34:59+00:00",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Security",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "cf39f2b97963",
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "minimaxir",
+      "published": "2026-09-26T16:12:18+00:00",
+      "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip Comments URL: https://news.ycombinator.com/item?id=49857899 Points: 333 # Comments: 138",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "837639d7db39",
+      "title": "New-Age Tech Stocks: Insurtech Sell-Off Drags Combined M-Cap Down By $3.6 Bn This Week",
+      "url": "https://inc42.com/buzz/new-age-tech-stocks-insurtech-sell-off-drags-combined-m-cap-down-by-3-6-bn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Akshit Pushkarna",
+      "published": "2026-09-26T16:11:56+00:00",
+      "summary": "New-age tech stocks saw a bearish week, with a sharp sell-off in PB Fintech and Turtlemint following IRDAI’s proposed commission…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "4160f0c81d03",
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vinni2",
+      "published": "2026-09-26T15:24:08+00:00",
+      "summary": "https://archive.ph/n8Akh Comments URL: https://news.ycombinator.com/item?id=49857442 Points: 123 # Comments: 235",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "dc5183e86bb5",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -179,7 +329,7 @@
       "source_id": "hacker_news",
       "author": "ezst",
       "published": "2026-09-26T10:55:56+00:00",
-      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 344 # Comments: 134",
+      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 578 # Comments: 225",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -211,19 +361,6 @@
       "region": "india"
     },
     {
-      "id": "ab6a90f5d123",
-      "title": "One Month Without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "saibotk",
-      "published": "2026-09-26T10:08:21+00:00",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 140 # Comments: 145",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0d8d0bf44b7f",
       "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
       "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
@@ -239,6 +376,19 @@
       "region": "india"
     },
     {
+      "id": "53c6959c1870",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "signa11",
+      "published": "2026-09-26T09:41:58+00:00",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 101 # Comments: 150",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9191c8293eea",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
@@ -246,7 +396,7 @@
       "source_id": "hacker_news",
       "author": "ksec",
       "published": "2026-09-26T09:13:41+00:00",
-      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 176 # Comments: 25",
+      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 296 # Comments: 63",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -267,6 +417,72 @@
       "region": "india"
     },
     {
+      "id": "73a976e998e8",
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "theanonymousone",
+      "published": "2026-09-26T08:31:02+00:00",
+      "summary": "Article URL: https://floci.io Comments URL: https://news.ycombinator.com/item?id=49854416 Points: 133 # Comments: 27",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7987b7e46fbf",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "url": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-26T08:04:08+00:00",
+      "summary": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "36063428f8e6",
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vira28",
+      "published": "2026-09-26T07:33:12+00:00",
+      "summary": "Article URL: https://safenotsafe.dev/ Comments URL: https://news.ycombinator.com/item?id=49854161 Points: 111 # Comments: 38",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "90efde915990",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "url": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-09-26T07:22:46+00:00",
+      "summary": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio,…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "937e206c2603",
       "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
       "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
@@ -282,19 +498,6 @@
         "Tech",
         "Transportation"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "413244550b59",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "allanrbo",
-      "published": "2026-09-26T04:20:58+00:00",
-      "summary": "Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html Comments URL: https://news.ycombinator.com/item?id=49853175 Points: 111 # Comments: 30",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -322,20 +525,7 @@
       "source_id": "hacker_news",
       "author": "srcreigh",
       "published": "2026-09-26T02:46:54+00:00",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ Comments URL: https://news.ycombinator.com/item?id=49852717 Points: 240 # Comments: 334",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f02076f6c0eb",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pseudolus",
-      "published": "2026-09-26T01:36:50+00:00",
-      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/ Comments URL: https://news.ycombinator.com/item?id=49852302 Points: 320 # Comments: 85",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ Comments URL: https://news.ycombinator.com/item?id=49852717 Points: 322 # Comments: 424",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -358,6 +548,26 @@
         "SMART Glasses"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d79ee276c5a8",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-25T23:11:59+00:00",
+      "summary": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -420,7 +630,7 @@
       "source_id": "hacker_news",
       "author": "fratellobigio",
       "published": "2026-09-25T21:36:56+00:00",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ Comments URL: https://news.ycombinator.com/item?id=49850305 Points: 245 # Comments: 351",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ Comments URL: https://news.ycombinator.com/item?id=49850305 Points: 280 # Comments: 424",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -471,20 +681,7 @@
       "source_id": "hacker_news",
       "author": "specked-citrus",
       "published": "2026-09-25T21:09:27+00:00",
-      "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 590 # Comments: 377",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f597e74dfb85",
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "luispa",
-      "published": "2026-09-25T20:55:00+00:00",
-      "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now... Comments URL: https://news.ycombinator.com/item?id=49849832 Points: 231 # Comments: 156",
+      "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 669 # Comments: 425",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -604,7 +801,7 @@
       "source_id": "hacker_news",
       "author": "Ardakilic",
       "published": "2026-09-25T18:33:50+00:00",
-      "summary": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 525 # Comments: 128",
+      "summary": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 573 # Comments: 138",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -745,26 +942,6 @@
       "region": "global"
     },
     {
-      "id": "2a3dbad8ddf7",
-      "title": "Tesla’s Optimus robot is going through growing pains",
-      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-09-25T17:01:36+00:00",
-      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year.…",
-      "tags": [
-        "Electric Cars",
-        "News",
-        "Robot",
-        "Tech",
-        "Tesla",
-        "Transportation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7f509f81e125",
       "title": "2026.39: Begun, the Aggregator Wars Have",
       "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
@@ -783,8 +960,8 @@
       "id": "10e6db4fa274",
       "title": "Meta makes the Muse filesystem even more accessible",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-09-25T16:49:53+00:00",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told…",
@@ -794,7 +971,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -890,24 +1067,6 @@
       "region": "global"
     },
     {
-      "id": "6adb903e8228",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Connie Loizos",
-      "published": "2026-09-25T15:40:03+00:00",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "In Brief",
-        "IPO"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "603ff4913948",
       "title": "One company is at the center of a wave of rogue AI attacks",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
@@ -925,34 +1084,23 @@
       "region": "global"
     },
     {
-      "id": "c7448f179ae1",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ibobev",
-      "published": "2026-09-25T15:31:02+00:00",
-      "summary": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?id=49845998 Points: 248 # Comments: 192",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4fb7b8b01cde",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-09-25T15:00:00+00:00",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "id": "8cc00ab07601",
+      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+      "url": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-25T15:14:45+00:00",
+      "summary": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI’s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company’s autonomous pentesting appliance for on-prem and…",
       "tags": [
-        "AI",
-        "Startups",
-        "Ricursive Intelligence",
-        "TechCrunch Disrupt"
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -969,6 +1117,26 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "d7f6209ea6a7",
+      "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
+      "url": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-25T14:30:26+00:00",
+      "summary": "Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. The method pairs rejection sampling fine-tuning with hint-guided self-distillation. In a live A/B test, tool-call failures fell…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
     },
     {
       "id": "410e8fbb530e",
@@ -1106,6 +1274,19 @@
         "Medicare",
         "seniors"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "14d6d1760fcc",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Qision",
+      "published": "2026-09-25T10:55:40+00:00",
+      "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe Comments URL: https://news.ycombinator.com/item?id=49842764 Points: 216 # Comments: 101",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1309,6 +1490,59 @@
       "region": "india"
     },
     {
+      "id": "036e16811389",
+      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+      "url": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-09-25T04:46:38+00:00",
+      "summary": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "bd2de20f539d",
+      "title": "Token Forecaster",
+      "url": "https://www.producthunt.com/products/token-forecaster",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Luis Pinto",
+      "published": "2026-09-25T04:40:57+00:00",
+      "summary": "Forecast how long an LLM reply will run, before Enter Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "cae7e3642b82",
+      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
+      "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-25T04:24:01+00:00",
+      "summary": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads camera frames, robot state and a text instruction. It then predicts future video frames and the next…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "562b36ba7368",
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
@@ -1316,7 +1550,7 @@
       "source_id": "hacker_news",
       "author": "jmvldz",
       "published": "2026-09-25T03:59:11+00:00",
-      "summary": "Article URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html Comments URL: https://news.ycombinator.com/item?id=49840054 Points: 439 # Comments: 399",
+      "summary": "Article URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html Comments URL: https://news.ycombinator.com/item?id=49840054 Points: 518 # Comments: 450",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1336,6 +1570,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "acc6cc37c54b",
+      "title": "Jango",
+      "url": "https://www.producthunt.com/products/jango",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Emmanuel Adesola",
+      "published": "2026-09-25T02:16:38+00:00",
+      "summary": "Test multi-user apps with AI agents that act like real users Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "a58162400433",
@@ -1412,6 +1659,19 @@
       "region": "global"
     },
     {
+      "id": "69da3d1e6598",
+      "title": "Once UI 2.0",
+      "url": "https://www.producthunt.com/products/once-ui-for-figma",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Lorant One",
+      "published": "2026-09-24T23:05:08+00:00",
+      "summary": "Builds consistent React apps for developers and AI agents Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "11c05c04d268",
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
@@ -1425,6 +1685,19 @@
         "CDC",
         "COVID-19"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7c7187ae2983",
+      "title": "Basedash MCP write",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Max Musing",
+      "published": "2026-09-24T22:20:29+00:00",
+      "summary": "Build charts and dashboards from Cursor and Claude Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1481,23 +1754,23 @@
       "region": "global"
     },
     {
-      "id": "b5bd6e7f2a30",
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-09-24T18:52:23+00:00",
-      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+      "id": "e8a7fcaf76cd",
+      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
+      "url": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-24T18:58:56+00:00",
+      "summary": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and…",
       "tags": [
-        "Culture",
-        "Alex Gibney",
-        "Bleecker Street",
-        "documentaries",
-        "Elon Musk",
-        "Musk documentary"
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1555,25 +1828,6 @@
       "region": "global"
     },
     {
-      "id": "4d3bafc74a80",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Terrence O’Brien",
-      "published": "2026-09-24T17:14:12+00:00",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system…",
-      "tags": [
-        "AI",
-        "Meta",
-        "News",
-        "Security",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "53a9cbbf3142",
       "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
@@ -1603,6 +1857,19 @@
       "region": "india"
     },
     {
+      "id": "8be22d334809",
+      "title": "Hyperdream",
+      "url": "https://www.producthunt.com/products/hyperdream",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Divy Brahmbhatt",
+      "published": "2026-09-24T15:47:40+00:00",
+      "summary": "The Cursor of AI filmmaking Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ccfebdc726e7",
       "title": "Accel, 360 ONE Offload BlueStone Shares Via ₹513 Cr Block Deals",
       "url": "https://inc42.com/buzz/accel-360-one-offload-bluestone-shares-via-%e2%82%b9513-cr-block-deals/",
@@ -1614,21 +1881,6 @@
       "tags": [
         "News",
         "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "45530c9f0b79",
-      "title": "IPO-Bound AceVector Nets ₹189 Cr From Anchor Investors",
-      "url": "https://inc42.com/buzz/ipo-bound-acevector-nets-%e2%82%b9189-cr-from-anchor-investors/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-09-24T15:34:58+00:00",
-      "summary": "Snapdeal parent AceVector has raised ₹189 Cr from anchor investors ahead of the opening of its initial public offering (IPO)…",
-      "tags": [
-        "News"
       ],
       "tier": "india",
       "region": "india"
@@ -1657,6 +1909,19 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d56071c594a8",
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "url": "https://castle-engine.io/modern_pascal",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "birdculture",
+      "published": "2026-09-24T11:33:56+00:00",
+      "summary": "Article URL: https://castle-engine.io/modern_pascal Comments URL: https://news.ycombinator.com/item?id=49829202 Points: 108 # Comments: 37",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1699,149 +1964,6 @@
       "summary": "Reach your home or work terminal when agents can't or won't Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "76170f5a2368",
-      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
-      "source": "Last Week in AI",
-      "source_id": "last_week_in_ai",
-      "author": "Last Week in AI",
-      "published": "2026-09-24T09:12:28+00:00",
-      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5c20928001b6",
-      "title": "JevForAgents",
-      "url": "https://www.producthunt.com/products/jevforagents",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Amelia Martinez",
-      "published": "2026-09-24T08:16:05+00:00",
-      "summary": "Explore real Jev agent builds, demos, and patterns Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "be1ff2c57dba",
-      "title": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
-      "url": "https://tldr.tech/ai/2026-09-24",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-24T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a70f8ac64edf",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-23T18:41:40+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "c8dc9968ba8b",
-      "title": "Bleetz Network",
-      "url": "https://www.producthunt.com/products/bleetz-network",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Germán Merlo",
-      "published": "2026-09-23T18:37:04+00:00",
-      "summary": "AI agent-to-agent VC fundraising & scouting network Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e896566878a9",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "source_id": "google_ai",
-      "author": "Aaron Luber",
-      "published": "2026-09-23T18:00:00+00:00",
-      "summary": "Google Beam promotional animation",
-      "tags": [
-        "Google Workspace",
-        "Google Research",
-        "AI"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "e61359e960f8",
-      "title": "Gemini 3.8 TTS Playground",
-      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-23T17:12:27+00:00",
-      "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your…",
-      "tags": [
-        "text-to-speech",
-        "gemini"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "3a35425568c4",
-      "title": "Design Engineering with Maggie Appleton",
-      "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-09-23T17:07:22+00:00",
-      "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "4ac08839bdb3",
-      "title": "Shadow roots, explained with live examples",
-      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-23T16:37:18+00:00",
-      "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
-      "tags": [
-        "css"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "9d02eeb8cef1",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-23T16:00:00+00:00",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
       "region": "global"
     }
   ]
