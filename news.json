@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:15:15.851032+00:00",
+  "generated_at": "2026-09-27T20:44:18.164392+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,93 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 111,
+  "item_count": 96,
   "items": [
+    {
+      "id": "63f85032962d",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-27T20:34:28+00:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei",
+        "Donald Trump"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "80032e73c06a",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-27T19:57:30+00:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "tags": [
+        "AI",
+        "Equity podcast",
+        "Meta"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a365d26f319b",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-09-27T17:31:53+00:00",
+      "summary": "Article URL: https://fireworks.ai/blog/ember-1 Comments URL: https://news.ycombinator.com/item?id=49868830 Points: 192 # Comments: 113",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "792afdd7126d",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-09-27T17:21:07+00:00",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "39e6d83733f3",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-09-27T16:30:00+00:00",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Anthropic",
+        "dario amodei",
+        "Saturday night live"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "885d65b180b5",
       "title": "TechCrunch Mobility: AV companies pick their lanes",
@@ -42,6 +127,19 @@
       "region": "global"
     },
     {
+      "id": "1f5ec855707f",
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pxx",
+      "published": "2026-09-27T15:26:40+00:00",
+      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html Comments URL: https://news.ycombinator.com/item?id=49867486 Points: 204 # Comments: 78",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "99ccc39f5f4d",
       "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
       "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
@@ -59,26 +157,39 @@
     },
     {
       "id": "adab374e680b",
-      "title": "\"They had no concept of a duty of care to their users.\"",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
       "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "jandeboevrie",
       "published": "2026-09-27T14:45:07+00:00",
-      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 153 # Comments: 103",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 314 # Comments: 271",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "c219fe8f6b6a",
-      "title": "10 Tells of a Slop UI",
-      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "id": "a520f6105c1b",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "theanonymousone",
-      "published": "2026-09-27T14:41:26+00:00",
-      "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop Comments URL: https://news.ycombinator.com/item?id=49867038 Points: 160 # Comments: 127",
+      "author": "danso",
+      "published": "2026-09-27T14:30:55+00:00",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html Comments URL: https://news.ycombinator.com/item?id=49866951 Points: 169 # Comments: 65",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fd18dee3e0d1",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "surprisetalk",
+      "published": "2026-09-27T13:30:11+00:00",
+      "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/ Comments URL: https://news.ycombinator.com/item?id=49866515 Points: 109 # Comments: 56",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -124,19 +235,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "9fe0a063f817",
-      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "papergirl",
-      "published": "2026-09-27T06:19:33+00:00",
-      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 540 # Comments: 477",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "316691d300fc",
@@ -352,19 +450,6 @@
       "region": "global"
     },
     {
-      "id": "755e3dc914b2",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "shenli3514",
-      "published": "2026-09-26T18:22:41+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 299 # Comments: 94",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "69f557d55327",
       "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
       "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
@@ -400,19 +485,6 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "36075cbc8c0c",
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jpwalsh234",
-      "published": "2026-09-26T17:10:40+00:00",
-      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient…",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -475,7 +547,7 @@
       "source_id": "hacker_news",
       "author": "chmaynard",
       "published": "2026-09-26T14:34:49+00:00",
-      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 308 # Comments: 134",
+      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 355 # Comments: 159",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -609,24 +681,6 @@
       "region": "india"
     },
     {
-      "id": "c92519debf9e",
-      "title": "Pokémon card resellers have turned collecting into an online blood sport",
-      "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Charles Pulliam-Moore",
-      "published": "2026-09-26T12:00:00+00:00",
-      "summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "Nintendo",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b1f9b7145c24",
       "title": "IITM Unicorn Frontier Fund I hits Rs 450 Cr first close",
       "url": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close",
@@ -666,19 +720,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "9191c8293eea",
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ksec",
-      "published": "2026-09-26T09:13:41+00:00",
-      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 421 # Comments: 110",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "b443196d1e71",
@@ -723,7 +764,7 @@
       "source_id": "hacker_news",
       "author": "blutack",
       "published": "2026-09-26T07:50:24+00:00",
-      "summary": "Article URL: https://mitxela.com/projects/flipflip Comments URL: https://news.ycombinator.com/item?id=49854219 Points: 260 # Comments: 17",
+      "summary": "Article URL: https://mitxela.com/projects/flipflip Comments URL: https://news.ycombinator.com/item?id=49854219 Points: 325 # Comments: 22",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -746,19 +787,6 @@
         "Machine Learning"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a922caa29d65",
-      "title": "An agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "apsec112",
-      "published": "2026-09-26T04:14:11+00:00",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ Comments URL: https://news.ycombinator.com/item?id=49853137 Points: 141 # Comments: 141",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -926,6 +954,19 @@
       "region": "global"
     },
     {
+      "id": "bebc23a0e61a",
+      "title": "Writing Efficient C++ Code (2013)",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ibobev",
+      "published": "2026-09-25T20:20:27+00:00",
+      "summary": "Article URL: https://asawicki.info/articles/writing_efficient_cpp_code.php Comments URL: https://news.ycombinator.com/item?id=49849409 Points: 117 # Comments: 62",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "16601d8d6797",
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -997,24 +1038,6 @@
       "region": "global"
     },
     {
-      "id": "43fec3bf6a06",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-09-25T18:33:59+00:00",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "tags": [
-        "AI",
-        "Venture",
-        "In Brief",
-        "nscale"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9366ee5bcbcd",
       "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
       "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
@@ -1030,44 +1053,6 @@
         "laptops",
         "microsoft",
         "Microsoft Surface"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b636277603af",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-09-25T17:30:00+00:00",
-      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "tags": [
-        "Climate",
-        "agriculture",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ca53c408de44",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Zack Whittaker",
-      "published": "2026-09-25T17:29:46+00:00",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "tags": [
-        "AI",
-        "Security",
-        "cybersecurity",
-        "data exposure",
-        "Supabase",
-        "vibe coding"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1218,32 +1203,6 @@
       "region": "global"
     },
     {
-      "id": "3c07e23bdd5f",
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "MC995",
-      "published": "2026-09-25T13:49:06+00:00",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand Comments URL: https://news.ycombinator.com/item?id=49844663 Points: 367 # Comments: 789",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9ce61f616f70",
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "silveraxe93",
-      "published": "2026-09-25T13:48:38+00:00",
-      "summary": "Article URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later Comments URL: https://news.ycombinator.com/item?id=49844657 Points: 456 # Comments: 350",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "410e8fbb530e",
       "title": "Trump administration takes Musk’s side in fight over EU tech rules",
       "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
@@ -1379,19 +1338,6 @@
         "Medicare",
         "seniors"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "14d6d1760fcc",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Qision",
-      "published": "2026-09-25T10:55:40+00:00",
-      "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe Comments URL: https://news.ycombinator.com/item?id=49842764 Points: 466 # Comments: 249",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1592,14 +1538,14 @@
       "region": "india"
     },
     {
-      "id": "1b95e66155e8",
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pseudolus",
-      "published": "2026-09-25T02:11:07+00:00",
-      "summary": "Article URL: https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/ Comments URL: https://news.ycombinator.com/item?id=49839438 Points: 104 # Comments: 41",
+      "id": "acc6cc37c54b",
+      "title": "Jango",
+      "url": "https://www.producthunt.com/products/jango",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Emmanuel Adesola",
+      "published": "2026-09-25T02:16:38+00:00",
+      "summary": "Test multi-user apps with AI agents that act like real users Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1618,19 +1564,6 @@
         "wildlife"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "e3bc8d0fa6a9",
-      "title": "SocialGPT",
-      "url": "https://www.producthunt.com/products/socialgpt",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Nikhil Sharma",
-      "published": "2026-09-25T00:50:36+00:00",
-      "summary": "Edit videos by chatting with your timeline Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1666,19 +1599,6 @@
       "region": "global"
     },
     {
-      "id": "69da3d1e6598",
-      "title": "Once UI 2.0",
-      "url": "https://www.producthunt.com/products/once-ui-for-figma",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Lorant One",
-      "published": "2026-09-24T23:05:08+00:00",
-      "summary": "Builds consistent React apps for developers and AI agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "11c05c04d268",
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
@@ -1693,151 +1613,6 @@
         "COVID-19"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7c7187ae2983",
-      "title": "Basedash MCP write",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Max Musing",
-      "published": "2026-09-24T22:20:29+00:00",
-      "summary": "Build charts and dashboards from Cursor and Claude Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ddf8ab4c5189",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "azhenley",
-      "published": "2026-09-24T20:51:50+00:00",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 264 # Comments: 252",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5ce7db5e400b",
-      "title": "commit-rewriter 0.2",
-      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-24T20:06:53+00:00",
-      "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
-      "tags": [
-        "git"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5b7f2728c5fa",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-09-24T19:59:26+00:00",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini…",
-      "tags": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "f46c8b71254c",
-      "title": "datasette 1.0a41",
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-24T19:15:23+00:00",
-      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components ,…",
-      "tags": [
-        "javascript",
-        "datasette",
-        "web-components",
-        "alex-garcia",
-        "opentelemetry"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "78318d25cec3",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Justine Calma",
-      "published": "2026-09-24T18:04:44+00:00",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil…",
-      "tags": [
-        "AI",
-        "Energy",
-        "Environment",
-        "Nvidia",
-        "Policy",
-        "Science"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "ee3a0116096e",
-      "title": "Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network",
-      "url": "https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-09-24T17:59:38+00:00",
-      "summary": "Pharmacy-focused quick commerce startup Rio Health has raised $4.5 Mn (around ₹43 Cr) in a pre-Series A funding round led…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "6f92b6662220",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-09-24T17:52:29+00:00",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular…",
-      "tags": [
-        "AI",
-        "Gaming",
-        "Meta",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "53a9cbbf3142",
-      "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-09-24T16:44:27+00:00",
-      "summary": "37signals – the creator of Ruby on Rails (RoR) – moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
-      "tags": [],
-      "tier": "authors",
       "region": "global"
     }
   ]
