@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:15:15.796468+00:00",
+  "generated_at": "2026-10-02T03:42:50.546860+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,144 @@
   "item_count": 120,
   "items": [
     {
+      "id": "cc2cd225f928",
+      "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More",
+      "url": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-02T02:30:23+00:00",
+      "summary": "OpenAI Dispute Sparks Academic Panic Last month, OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "80992ca58421",
+      "title": "Meta’s AI could flood the internet; Four Indian brands putting a new spin on khadi",
+      "url": "https://yourstory.com/2026/10/metas-ai-could-flood-the-internet-india-brands-khadi",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-02T02:00:00+00:00",
+      "summary": "A new report on Meta’s latest AI developments explores how the company’s push could accelerate the creation of machine-generated content at a scale that changes what we see—and trust—online.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "55c8ced990f6",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T01:00:41+00:00",
+      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0c1470bbdc10",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-02T00:32:50+00:00",
+      "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime…",
+      "tags": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "89dfbc7baec6",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-10-02T00:03:23+00:00",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "95d0ef58b850",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "luispa",
+      "published": "2026-10-01T23:10:44+00:00",
+      "summary": "Article URL: https://lwn.net/Articles/1097401/ Comments URL: https://news.ycombinator.com/item?id=49928121 Points: 154 # Comments: 83",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f944a9cab05d",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-10-01T22:51:36+00:00",
+      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home…",
+      "tags": [
+        "Apple",
+        "Apple Rumors",
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Smart Home"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3dc23902780a",
+      "title": "Venus' mysterious haze is actually cosmic dust",
+      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Elizabeth Rayne",
+      "published": "2026-10-01T22:27:04+00:00",
+      "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
+      "tags": [
+        "Science",
+        "astronomy",
+        "atmospheric science",
+        "Haze",
+        "planetary science",
+        "Venus"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9f19a257b0be",
       "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
       "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
@@ -34,7 +172,9 @@
         "Fundraising",
         "Security",
         "Startups",
-        "TC"
+        "armadin",
+        "In Brief",
+        "Kevin Mandia"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -54,6 +194,32 @@
         "Elon Musk",
         "In Brief"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1f9ad68eb044",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rafaelc",
+      "published": "2026-10-01T20:23:27+00:00",
+      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 148 # Comments: 142",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5d7cb0335041",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sampsn",
+      "published": "2026-10-01T20:14:23+00:00",
+      "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 152 # Comments: 58",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -104,7 +270,7 @@
       "source_id": "hacker_news",
       "author": "sergiotapia",
       "published": "2026-10-01T19:33:05+00:00",
-      "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 457 # Comments: 159",
+      "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969 Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 866 # Comments: 293",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -117,7 +283,7 @@
       "source_id": "hacker_news",
       "author": "paulsmith",
       "published": "2026-10-01T19:24:08+00:00",
-      "summary": "Article URL: https://earendil.com/posts/pi-durable/ Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 122 # Comments: 10",
+      "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments) Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 268 # Comments: 32",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -252,6 +418,19 @@
       "region": "global"
     },
     {
+      "id": "8fe0f43c8e68",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "stabbles",
+      "published": "2026-10-01T17:32:43+00:00",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 108 # Comments: 115",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4fc2feeb88f5",
       "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
       "url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
@@ -322,6 +501,19 @@
         "Intelligence Age"
       ],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "9f58bc056c1d",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "chmaynard",
+      "published": "2026-10-01T16:57:03+00:00",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256 Comments URL: https://news.ycombinator.com/item?id=49924179 Points: 255 # Comments: 260",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -409,13 +601,13 @@
     },
     {
       "id": "317971da35b1",
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "jasondavies",
       "published": "2026-10-01T16:18:57+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 360 # Comments: 142",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 456 # Comments: 166",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -428,7 +620,7 @@
       "source_id": "hacker_news",
       "author": "razin",
       "published": "2026-10-01T16:01:56+00:00",
-      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 239 # Comments: 63",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 287 # Comments: 78",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -490,7 +682,7 @@
       "source_id": "hacker_news",
       "author": "nkw",
       "published": "2026-10-01T15:07:42+00:00",
-      "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/ Comments URL: https://news.ycombinator.com/item?id=49922674 Points: 133 # Comments: 22",
+      "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/ Comments URL: https://news.ycombinator.com/item?id=49922674 Points: 183 # Comments: 27",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -516,7 +708,20 @@
       "source_id": "hacker_news",
       "author": "spdegabrielle",
       "published": "2026-10-01T14:58:13+00:00",
-      "summary": "Article URL: https://con.racket-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49922515 Points: 117 # Comments: 31",
+      "summary": "Article URL: https://con.racket-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49922515 Points: 126 # Comments: 36",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "83044bac058d",
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "emersonmacro",
+      "published": "2026-10-01T14:51:33+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2609.37725 Comments URL: https://news.ycombinator.com/item?id=49922437 Points: 119 # Comments: 26",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -543,8 +748,8 @@
       "id": "36751599d8f8",
       "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Hayden Field",
       "published": "2026-10-01T14:36:50+00:00",
       "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by…",
@@ -555,7 +760,7 @@
         "Report",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -566,7 +771,7 @@
       "source_id": "hacker_news",
       "author": "elffjs",
       "published": "2026-10-01T14:09:10+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/ Comments URL: https://news.ycombinator.com/item?id=49921923 Points: 168 # Comments: 72",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/ Comments URL: https://news.ycombinator.com/item?id=49921923 Points: 208 # Comments: 86",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -716,7 +921,7 @@
       "source_id": "hacker_news",
       "author": "trickypr",
       "published": "2026-10-01T12:44:38+00:00",
-      "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 216 # Comments: 107",
+      "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 236 # Comments: 120",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -753,26 +958,6 @@
       "region": "india"
     },
     {
-      "id": "29fe7c1feed5",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-10-01T12:00:00+00:00",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "tags": [
-        "AI",
-        "Space",
-        "Exclusive",
-        "Satellites",
-        "satlyt",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f7c3330b4cdd",
       "title": "StreetComplete on iOS is now in public beta",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
@@ -780,7 +965,7 @@
       "source_id": "hacker_news",
       "author": "Snowly",
       "published": "2026-10-01T10:59:57+00:00",
-      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 487 # Comments: 109",
+      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 533 # Comments: 136",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -806,7 +991,7 @@
       "source_id": "hacker_news",
       "author": "giuliomagnifico",
       "published": "2026-10-01T10:21:36+00:00",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 155 # Comments: 90",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 174 # Comments: 102",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1246,46 +1431,6 @@
       "region": "global"
     },
     {
-      "id": "03ed578770df",
-      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
-      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Scharon Harding",
-      "published": "2026-09-30T19:22:19+00:00",
-      "summary": "Boycotting Disney is hard.",
-      "tags": [
-        "Tech",
-        "acquisitions",
-        "Disney",
-        "Hulu",
-        "mergers",
-        "mergers and acquisitions"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "beee353d4f9f",
-      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-09-30T18:47:01+00:00",
-      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
-      "tags": [
-        "AI",
-        "Policy",
-        "AI safety",
-        "ai safety testing",
-        "Anthropic",
-        "Donald Trump"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e3838e76c668",
       "title": "The AI Tamagotchis are coming",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
@@ -1512,19 +1657,6 @@
       "region": "india"
     },
     {
-      "id": "ccdc2cd457b0",
-      "title": "EV two-wheeler maker Simple Energy bags Rs 1,750 Cr funding",
-      "url": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-30T11:30:00+00:00",
-      "summary": "The Bengaluru-based firm plans to deploy the capital to drive its next phase of growth across manufacturing, product development, and retail.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "f350282c12c1",
       "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
       "url": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
@@ -1682,35 +1814,6 @@
       "region": "global"
     },
     {
-      "id": "927a0aad09af",
-      "title": "More Code, More Review: How AI Is Changing Engineering",
-      "url": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-09-30T09:40:31+00:00",
-      "summary": "AI coding tools are generating code faster, shifting more of engineers’ attention towards designing systems, reviewing output, and testing whether…",
-      "tags": [
-        "News",
-        "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "707a320432be",
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sagacity",
-      "published": "2026-09-30T08:43:21+00:00",
-      "summary": "Article URL: https://github.com/maanHimself/OpenDLSS-NR Comments URL: https://news.ycombinator.com/item?id=49906100 Points: 240 # Comments: 111",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "dcd1df050e43",
       "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
       "url": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
@@ -1748,19 +1851,6 @@
         "Artificial Intelligence"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "912658011a43",
-      "title": "CrawlRaven MCP",
-      "url": "https://www.producthunt.com/products/crawlraven-mcp",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ayush Chaturvedi",
-      "published": "2026-09-30T06:51:13+00:00",
-      "summary": "Your SEO work, done from your AI agent Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1848,105 +1938,6 @@
       "summary": "Share what your agents make, get feedback on the exact line Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1e2adcbb126c",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-29T22:20:28+00:00",
-      "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview…",
-      "tags": [
-        "anthropic",
-        "generative-ai",
-        "ai-security-research",
-        "glm",
-        "ai",
-        "ai-in-china"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "c25d172f447b",
-      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
-      "url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-29T21:47:09+00:00",
-      "summary": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "29abd65ced02",
-      "title": "Upsolve Data Models",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ka Ling Wu",
-      "published": "2026-09-29T21:40:33+00:00",
-      "summary": "Teach AI your metric definitions and business vocabulary Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ecfa65be2efa",
-      "title": "Polylane",
-      "url": "https://www.producthunt.com/products/polylane",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Boris Tane",
-      "published": "2026-09-29T21:28:58+00:00",
-      "summary": "AI agents that fix production before you wake up Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e5530f183d64",
-      "title": "Dots by OpenAI",
-      "url": "https://www.producthunt.com/products/dots-by-openai",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "KP",
-      "published": "2026-09-29T18:35:29+00:00",
-      "summary": "Always on agents built to handle everything Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c434eacde0ba",
-      "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
-      "url": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-29T18:30:13+00:00",
-      "summary": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
