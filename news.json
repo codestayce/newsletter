@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-10-03T15:35:44.374060+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-10-03T20:30:17.136994+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "MarkTechPost",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -25,6 +21,127 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "26fd59b86a11",
+      "title": "Jack Dorsey’s Bitchat Goes Offline In India, Apple Cites MeitY Order",
+      "url": "https://inc42.com/buzz/jack-dorseys-bitchat-goes-offline-in-india-apple-cites-meity-order/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-03T19:35:25+00:00",
+      "summary": "Bitchat, the decentralised messaging platform founded by Twitter (now X) cofounder Jack Dorsey, has been removed from Google Play Store…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d442265d4558",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-03T18:43:57+00:00",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "tags": [
+        "AI",
+        "Climate",
+        "Government & Policy",
+        "Amazon",
+        "Amazon Web Services",
+        "data centers"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7f4a55da0872",
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "skeptical1884",
+      "published": "2026-10-03T18:08:28+00:00",
+      "summary": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf Comments URL: https://news.ycombinator.com/item?id=49946403…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c87d5f628b0a",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-03T16:49:10+00:00",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project,…",
+      "tags": [
+        "AI",
+        "Gaming",
+        "News"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f143fce070e1",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-03T16:30:01+00:00",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "tags": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "79390db9e296",
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lexx",
+      "published": "2026-10-03T15:52:07+00:00",
+      "summary": "Article URL: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2 Comments URL: https://news.ycombinator.com/item?id=49945323 Points: 113 # Comments: 109",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9c9db5f053a4",
+      "title": "From K-pop to AI, Karnataka seeks deeper ties with Korea",
+      "url": "https://yourstory.com/2026/10/karnataka-korean-investment-technology-partnerships",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-03T15:40:41+00:00",
+      "summary": "From K-pop to AI, Karnataka is looking to turn India’s growing Korean connection into investment and technology partnerships.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "45d53ae46666",
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "romac",
+      "published": "2026-10-03T15:02:36+00:00",
+      "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 115 # Comments: 49",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "3cdb3f708292",
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -177,19 +294,6 @@
       "region": "india"
     },
     {
-      "id": "2e51c671b1b9",
-      "title": "The Escalation of War in Ethiopia",
-      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mooreds",
-      "published": "2026-10-03T11:54:24+00:00",
-      "summary": "Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia Comments URL: https://news.ycombinator.com/item?id=49943451 Points: 103 # Comments: 86",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "eaa790f272e9",
       "title": "RBI remains cautious on crypto, backs underlying technology: Guv Malhotra",
       "url": "https://yourstory.com/2026/10/rbi-remains-cautious-on-crypto-backs-underlying-technology-guv-malhotra",
@@ -232,27 +336,14 @@
       "region": "india"
     },
     {
-      "id": "9a14422b82b9",
-      "title": "Show HN: Germany's new sovereign AI model Kolibri",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "tejaskumar__",
-      "published": "2026-10-03T10:43:51+00:00",
-      "summary": "Article URL: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 204 # Comments: 103",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a650c74fe354",
-      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "bastitx",
       "published": "2026-10-03T09:36:04+00:00",
-      "summary": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 131 # Comments: 23",
+      "summary": "https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 375 # Comments: 251",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -287,6 +378,46 @@
       "region": "india"
     },
     {
+      "id": "4f21af596d11",
+      "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+      "url": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Jean-marc Mommessin",
+      "published": "2026-10-03T07:05:11+00:00",
+      "summary": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Editors Pick",
+        "For Devs",
+        "Opinion"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b18618f4973a",
+      "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+      "url": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-03T06:55:15+00:00",
+      "summary": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "0d8d0bf44b7f",
       "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
       "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
@@ -317,16 +448,63 @@
       "region": "india"
     },
     {
-      "id": "bb63587cc0f2",
-      "title": "An Update on Orion for Linux and Windows",
-      "url": "https://blog.kagi.com/update-orion-linux-windows",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pentagrama",
-      "published": "2026-10-03T04:53:57+00:00",
-      "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 130 # Comments: 65",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "eb1a249d2e58",
+      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+      "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-03T05:37:18+00:00",
+      "summary": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "debc37c8b0cb",
+      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-03T05:09:53+00:00",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0617bcb0ed35",
+      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+      "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-03T03:31:15+00:00",
+      "summary": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Decision Models",
+        "Editors Pick",
+        "New Releases"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -346,19 +524,6 @@
       "region": "india"
     },
     {
-      "id": "9823867f4865",
-      "title": "Extra Big Ass Intelligence",
-      "url": "https://www.extrabigassintelligence.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "34679",
-      "published": "2026-10-03T03:19:10+00:00",
-      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 387 # Comments: 85",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5e1d1c7f4599",
       "title": "Cloudflare OHTTP gateway",
       "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
@@ -366,7 +531,7 @@
       "source_id": "hacker_news",
       "author": "est",
       "published": "2026-10-03T03:15:05+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 136 # Comments: 57",
+      "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 173 # Comments: 81",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -431,7 +596,7 @@
       "source_id": "hacker_news",
       "author": "azhenley",
       "published": "2026-10-03T00:55:25+00:00",
-      "summary": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 350 # Comments: 96",
+      "summary": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 412 # Comments: 121",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -473,6 +638,22 @@
       "region": "global"
     },
     {
+      "id": "70add7d4c3fc",
+      "title": "Rex's Dino Store",
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-02T22:57:38+00:00",
+      "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
+      "tags": [
+        "art",
+        "new-york"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
       "id": "5113cb653680",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -505,6 +686,19 @@
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "611d65e64b18",
+      "title": "Woking Electrical Control Room (2016)",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "NaOH",
+      "published": "2026-10-02T20:44:38+00:00",
+      "summary": "Article URL: http://www.darbiansphotography.com/woking-electrical-control-room-urbex Comments URL: https://news.ycombinator.com/item?id=49938399 Points: 106 # Comments: 18",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -586,32 +780,6 @@
       "region": "global"
     },
     {
-      "id": "14db68452116",
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "notfirstpost",
-      "published": "2026-10-02T19:37:01+00:00",
-      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 245 # Comments: 166",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9de879129dba",
-      "title": "Make Tmux the OS",
-      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "weaksauce",
-      "published": "2026-10-02T19:29:07+00:00",
-      "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/ Comments URL: https://news.ycombinator.com/item?id=49937540 Points: 126 # Comments: 65",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5d6b83b837ff",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -639,7 +807,7 @@
       "source_id": "hacker_news",
       "author": "soheilpro",
       "published": "2026-10-02T19:06:56+00:00",
-      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 493 # Comments: 299",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 537 # Comments: 320",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -705,16 +873,23 @@
       "region": "global"
     },
     {
-      "id": "3577570198f4",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "fibo",
-      "published": "2026-10-02T18:01:16+00:00",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 296 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "43084abcf4c8",
+      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+      "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Jean-marc Mommessin",
+      "published": "2026-10-02T18:04:56+00:00",
+      "summary": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -760,8 +935,8 @@
       "id": "b1ae46572b34",
       "title": "Breaking up (with Elon Musk) is hard to do",
       "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Elizabeth Lopatto",
       "published": "2026-10-02T17:37:36+00:00",
       "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following…",
@@ -773,7 +948,7 @@
         "Tech",
         "xAI"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -798,7 +973,7 @@
     },
     {
       "id": "f54865cb2ee3",
-      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "title": "This startup pays NYC residents to run air conditioners on free batteries",
       "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
       "source": "Ars Technica",
       "source_id": "ars_technica",
@@ -934,16 +1109,23 @@
       "region": "global"
     },
     {
-      "id": "90e946a5da3e",
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ThibWeb",
-      "published": "2026-10-02T15:29:15+00:00",
-      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 199 # Comments: 155",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "686e8bd7172c",
+      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
+      "url": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T15:23:35+00:00",
+      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1034,19 +1216,6 @@
       "region": "global"
     },
     {
-      "id": "f52e74133e2d",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "PaulHoule",
-      "published": "2026-10-02T14:11:24+00:00",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 254 # Comments: 119",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "12be7b037fd5",
       "title": "IPO-Bound JSW One’s FY26 Loss Narrows 51% YoY To ₹107 Cr, Revenue Jumps 45%",
       "url": "https://inc42.com/buzz/ipo-bound-jsw-ones-fy26-loss-narrows-51-yoy-to-%e2%82%b9107-cr-revenue-jumps-45/",
@@ -1062,42 +1231,6 @@
       "region": "india"
     },
     {
-      "id": "494e2c59e4cf",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-02T14:00:00+00:00",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question…",
-      "tags": [
-        "Startups",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Media & Entertainment"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9fe345df2125",
-      "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-02T14:00:00+00:00",
-      "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your…",
-      "tags": [
-        "TC",
-        "Startups"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "95584c3a2854",
       "title": "eu/jev",
       "url": "https://www.producthunt.com/products/bevel-software",
@@ -1107,24 +1240,6 @@
       "published": "2026-10-02T13:47:50+00:00",
       "summary": "The first Jev-like model hosted in the EU Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2a54ecc1f371",
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sean O'Kane",
-      "published": "2026-10-02T13:39:23+00:00",
-      "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "tags": [
-        "Transportation",
-        "electric vehicles",
-        "EVs",
-        "Tesla"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1230,26 +1345,9 @@
       "source_id": "hacker_news",
       "author": "mariuz",
       "published": "2026-10-02T11:07:17+00:00",
-      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 342 # Comments: 62",
+      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 378 # Comments: 77",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "eca823e07b60",
-      "title": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jess Weatherbed",
-      "published": "2026-10-02T09:42:19+00:00",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers…",
-      "tags": [
-        "AI",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1313,6 +1411,26 @@
       "region": "india"
     },
     {
+      "id": "e29854d839eb",
+      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+      "url": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T06:35:00+00:00",
+      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "a885ed61f54a",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -1323,19 +1441,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "c3530cb12d13",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "usernomdeguerre",
-      "published": "2026-10-02T02:51:27+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 280 # Comments: 105",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1368,16 +1473,43 @@
       "region": "india"
     },
     {
-      "id": "47e64466ac74",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "alstonite",
-      "published": "2026-10-02T00:27:56+00:00",
-      "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 323 # Comments: 101",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "55c8ced990f6",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T01:00:41+00:00",
+      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0c1470bbdc10",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-02T00:32:50+00:00",
+      "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime…",
+      "tags": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1409,6 +1541,19 @@
       "region": "global"
     },
     {
+      "id": "de3ce8b60ddd",
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rramadass",
+      "published": "2026-10-01T23:53:36+00:00",
+      "summary": "Article URL: https://github.com/andreasfertig/cppinsights Comments URL: https://news.ycombinator.com/item?id=49928361 Points: 116 # Comments: 23",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "3dc23902780a",
       "title": "Venus' mysterious haze is actually cosmic dust",
       "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
@@ -1436,20 +1581,7 @@
       "source_id": "hacker_news",
       "author": "hn_acker",
       "published": "2026-10-01T22:23:07+00:00",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 704 # Comments: 336",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cc9eb70adea3",
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "polvi",
-      "published": "2026-10-01T22:22:21+00:00",
-      "summary": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 315 # Comments: 301",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 768 # Comments: 372",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1495,7 +1627,20 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-10-01T20:02:57+00:00",
-      "summary": "https://www.nature.com/articles/s41586-026-10955-0 https://www.cell.com/cell/abstract/S0092-8674(25)00853-0 Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 307 # Comments: 139",
+      "summary": "https://www.nature.com/articles/s41586-026-10955-0 https://www.cell.com/cell/abstract/S0092-8674(25)00853-0 Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 350 # Comments: 166",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "90384a357e2a",
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "CoryOndrejka",
+      "published": "2026-10-01T18:20:18+00:00",
+      "summary": "https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi... Comments URL: https://news.ycombinator.com/item?id=49925184 Points: 632 # Comments: 152",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1526,6 +1671,19 @@
       "summary": "Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more",
       "tags": [],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "37100a0bf0cc",
+      "title": "Finbar",
+      "url": "https://www.producthunt.com/products/finbar-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Garry Tan",
+      "published": "2026-10-01T16:40:49+00:00",
+      "summary": "Agentic investment research Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1779,106 +1937,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "c2268fd4e29a",
-      "title": "Startup news and updates: daily roundup (October 1, 2026)",
-      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup--october-1-2026",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-01T06:41:56+00:00",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 1, 2026.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "422996a91984",
-      "title": "Moxie",
-      "url": "https://www.producthunt.com/products/moxie-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Birju Vachhani",
-      "published": "2026-10-01T06:39:40+00:00",
-      "summary": "Use any AI with Claude Code, switch accounts mid-task Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "89ed10d59c95",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-01T06:29:01+00:00",
-      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared…",
-      "tags": [
-        "accidental-cyberattacks",
-        "ai-misuse",
-        "generative-ai",
-        "ai-security-research",
-        "sandboxing",
-        "ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "2b233dff64d8",
-      "title": "Apple Pay finally launches in India; DBS Foundation’s Karen Ngui on uplifting communities",
-      "url": "https://yourstory.com/2026/10/apple-pay-finally-launches-in-india-simple-energy",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-01T03:08:56+00:00",
-      "summary": "Apple has launched its mobile payments service, Apple Pay, in India after years of waiting. The rollout gives iPhone, iPad, and Apple Watch users a new way to make contactless payments at stores and online.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b5bb15ccaca0",
-      "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
-      "url": "https://tldr.tech/ai/2026-10-01",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3bba52758573",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "0c1a441981c4",
-      "title": "Thanor AI",
-      "url": "https://www.producthunt.com/products/thanor-ai",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Matteo Manco",
-      "published": "2026-09-30T22:07:19+00:00",
-      "summary": "Make your AI-built sites look expensive and not like slop Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     }
   ]
 }
