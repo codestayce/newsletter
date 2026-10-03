@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:27:39.288279+00:00",
+  "generated_at": "2026-10-03T10:59:05.068154+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,220 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "2fb2308e2c6b",
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "source_id": "last_week_in_ai",
+      "author": "Last Week in AI",
+      "published": "2026-10-03T07:32:03+00:00",
+      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "c1008715f2a9",
+      "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+      "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shraddha Goled",
+      "published": "2026-10-03T07:12:53+00:00",
+      "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…",
+      "tags": [
+        "In-Depth",
+        "Follow Up"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "4f21af596d11",
+      "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+      "url": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Jean-marc Mommessin",
+      "published": "2026-10-03T07:05:11+00:00",
+      "summary": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Editors Pick",
+        "For Devs",
+        "Opinion"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b18618f4973a",
+      "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+      "url": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-03T06:55:15+00:00",
+      "summary": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0d8d0bf44b7f",
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-10-03T06:30:38+00:00",
+      "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "24512446e841",
+      "title": "AceVector IPO: SoftBank Pockets ₹88 Cr, Most Selling Shareholders Book Losses",
+      "url": "https://inc42.com/buzz/acevector-ipo-softbank-to-pocket-%e2%82%b988-cr-individual-investors-book-up-to-5-4x-return/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-10-03T06:19:44+00:00",
+      "summary": "Snapdeal parent AceVector’s initial public offering (IPO) provided an exit opportunity to several of its early investors and promoters, with…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "eb1a249d2e58",
+      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+      "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-03T05:37:18+00:00",
+      "summary": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "debc37c8b0cb",
+      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-03T05:09:53+00:00",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0617bcb0ed35",
+      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+      "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-03T03:31:15+00:00",
+      "summary": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Decision Models",
+        "Editors Pick",
+        "New Releases"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "700cb6f742a2",
+      "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+      "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-03T03:30:21+00:00",
+      "summary": "Funding momentum in the Indian startup ecosystem continued through the final week of September. Homegrown new-age tech ventures raised…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9823867f4865",
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "34679",
+      "published": "2026-10-03T03:19:10+00:00",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 306 # Comments: 66",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f862bcf4ca0f",
+      "title": "Sapien",
+      "url": "https://www.producthunt.com/products/sapien-4",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Sulayman Bowles",
+      "published": "2026-10-03T02:30:10+00:00",
+      "summary": "AI market research with synthetic populations Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0ed9822227ed",
+      "title": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Justin Jincaid",
+      "published": "2026-10-03T02:07:11+00:00",
+      "summary": "Meta's open-source kit for building your own AI gadgets Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "bdc59fa0560a",
       "title": "Women power India to Asian Games gold in hockey, boxing",
@@ -48,6 +262,19 @@
       "region": "india"
     },
     {
+      "id": "059fa523f8ba",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "azhenley",
+      "published": "2026-10-03T00:55:25+00:00",
+      "summary": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 240 # Comments: 63",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "2d915e86c260",
       "title": "Meta wants your next gadget to be Muse-infused",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -60,19 +287,6 @@
         "AI",
         "Meta"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1cd9936fc185",
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "timpera",
-      "published": "2026-10-03T00:23:11+00:00",
-      "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer Comments URL: https://news.ycombinator.com/item?id=49940219 Points: 101 # Comments: 40",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -129,19 +343,6 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8ae48c8dd8c5",
-      "title": "Every SaaS business will become a harness around a model",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "iacguy",
-      "published": "2026-10-02T21:06:56+00:00",
-      "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company Comments URL: https://news.ycombinator.com/item?id=49938616 Points: 108 # Comments: 80",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -230,20 +431,7 @@
       "source_id": "hacker_news",
       "author": "notfirstpost",
       "published": "2026-10-02T19:37:01+00:00",
-      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 140 # Comments: 83",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "001fe0e44261",
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "anant",
-      "published": "2026-10-02T19:26:54+00:00",
-      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 146 # Comments: 68",
+      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 207 # Comments: 140",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -276,7 +464,7 @@
       "source_id": "hacker_news",
       "author": "soheilpro",
       "published": "2026-10-02T19:06:56+00:00",
-      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 339 # Comments: 223",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 434 # Comments: 269",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -369,7 +557,7 @@
       "source_id": "hacker_news",
       "author": "fibo",
       "published": "2026-10-02T18:01:16+00:00",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 167 # Comments: 42",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 247 # Comments: 67",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -650,7 +838,7 @@
       "source_id": "hacker_news",
       "author": "ThibWeb",
       "published": "2026-10-02T15:29:15+00:00",
-      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 125 # Comments: 98",
+      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 164 # Comments: 125",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -770,7 +958,7 @@
       "source_id": "hacker_news",
       "author": "signa11",
       "published": "2026-10-02T14:22:12+00:00",
-      "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 132 # Comments: 59",
+      "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 221 # Comments: 149",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -783,7 +971,7 @@
       "source_id": "hacker_news",
       "author": "PaulHoule",
       "published": "2026-10-02T14:11:24+00:00",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 190 # Comments: 91",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 220 # Comments: 109",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -840,6 +1028,19 @@
       "region": "global"
     },
     {
+      "id": "95584c3a2854",
+      "title": "eu/jev",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "fmerian",
+      "published": "2026-10-02T13:47:50+00:00",
+      "summary": "The first Jev-like model hosted in the EU Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "2a54ecc1f371",
       "title": "Tesla sustains its EV sales momentum despite US troubles",
       "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
@@ -885,7 +1086,20 @@
       "source_id": "hacker_news",
       "author": "suopspaces",
       "published": "2026-10-02T13:18:32+00:00",
-      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 251 # Comments: 141",
+      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 286 # Comments: 150",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d35a917819a6",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "RickJWagner",
+      "published": "2026-10-02T13:17:47+00:00",
+      "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/ Comments URL: https://news.ycombinator.com/item?id=49933230 Points: 123 # Comments: 37",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -992,7 +1206,7 @@
       "source_id": "hacker_news",
       "author": "mariuz",
       "published": "2026-10-02T11:07:17+00:00",
-      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 213 # Comments: 50",
+      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 293 # Comments: 57",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1115,7 +1329,7 @@
       "source_id": "hacker_news",
       "author": "usernomdeguerre",
       "published": "2026-10-02T02:51:27+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 192 # Comments: 50",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 243 # Comments: 75",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1197,7 +1411,7 @@
       "source_id": "hacker_news",
       "author": "alstonite",
       "published": "2026-10-02T00:27:56+00:00",
-      "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 215 # Comments: 71",
+      "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 280 # Comments: 89",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1258,7 +1472,7 @@
       "source_id": "hacker_news",
       "author": "hn_acker",
       "published": "2026-10-01T22:23:07+00:00",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 537 # Comments: 235",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 643 # Comments: 295",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1271,7 +1485,7 @@
       "source_id": "hacker_news",
       "author": "polvi",
       "published": "2026-10-01T22:22:21+00:00",
-      "summary": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 224 # Comments: 225",
+      "summary": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 276 # Comments: 260",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1317,7 +1531,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-10-01T20:02:57+00:00",
-      "summary": "Article URL: https://erictopol.substack.com/p/loss-of-cell-identity-drives-human Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 190 # Comments: 49",
+      "summary": "https://www.nature.com/articles/s41586-026-10955-0 https://www.cell.com/cell/abstract/S0092-8674(25)00853-0 Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 262 # Comments: 83",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1349,7 +1563,7 @@
       "source_id": "hacker_news",
       "author": "minimaxir",
       "published": "2026-10-01T19:24:29+00:00",
-      "summary": "Article URL: https://bfl.ai/models/flux-3-image Comments URL: https://news.ycombinator.com/item?id=49925974 Points: 286 # Comments: 62",
+      "summary": "Article URL: https://bfl.ai/models/flux-3-image Comments URL: https://news.ycombinator.com/item?id=49925974 Points: 349 # Comments: 76",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1362,7 +1576,7 @@
       "source_id": "hacker_news",
       "author": "CoryOndrejka",
       "published": "2026-10-01T18:20:18+00:00",
-      "summary": "https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi... Comments URL: https://news.ycombinator.com/item?id=49925184 Points: 330 # Comments: 86",
+      "summary": "https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi... Comments URL: https://news.ycombinator.com/item?id=49925184 Points: 471 # Comments: 109",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1385,26 +1599,6 @@
         "Trailers"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4fc2feeb88f5",
-      "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
-      "url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Sana Hassan",
-      "published": "2026-10-01T17:13:12+00:00",
-      "summary": "Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text,…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Embedding Model"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1542,6 +1736,19 @@
       "region": "india"
     },
     {
+      "id": "46225b89208d",
+      "title": "Singularity",
+      "url": "https://www.producthunt.com/products/singularity-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Antony KERVAZO CANUT",
+      "published": "2026-10-01T13:12:28+00:00",
+      "summary": "Run AI coding agents in parallel, one ticket at a time Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "c69acaed6306",
       "title": "[UPDATE] Moneyview Shares End Market Debut 59% Above Issue Price",
       "url": "https://inc42.com/buzz/moneyview-makes-bumper-debut-lists-at-64-premium-on-the-bse/",
@@ -1571,6 +1778,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "0ccd0d7a388e",
+      "title": "bmux",
+      "url": "https://www.producthunt.com/products/bmux",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Tõnis Tiganik",
+      "published": "2026-10-01T11:34:50+00:00",
+      "summary": "Browser multiplexer for the agentic era Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "fcaf4e3cb8d8",
@@ -1630,6 +1850,19 @@
       "region": "india"
     },
     {
+      "id": "79aef0000cce",
+      "title": "FoundrRadio",
+      "url": "https://www.producthunt.com/products/foundrradio",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "fmerian",
+      "published": "2026-10-01T09:34:01+00:00",
+      "summary": "Pick a frequency, launch your radio station and go on air Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "cef42ca7cc5e",
       "title": "Communicate",
       "url": "https://www.producthunt.com/products/communicate",
@@ -1656,23 +1889,16 @@
       "region": "india"
     },
     {
-      "id": "76d3cbb8f6d1",
-      "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
-      "url": "https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-01T06:57:50+00:00",
-      "summary": "NVIDIA has released Kumo Tabular, a new family of tabular foundation models (TFMs) for classification and regression. If you have followed TabPFN or TabICL, the setup will look familiar. The model takes labeled rows as context and predicts new rows in one forward pass. There is…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
+      "id": "262e9e00a749",
+      "title": "Crowny!",
+      "url": "https://www.producthunt.com/products/crowny-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Amrit Barsaiyan",
+      "published": "2026-10-01T07:14:59+00:00",
+      "summary": "Claude Code, Codex, music, your day & 20+ apps in your notch Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1713,241 +1939,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "89ed10d59c95",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-01T06:29:01+00:00",
-      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared…",
-      "tags": [
-        "accidental-cyberattacks",
-        "ai-misuse",
-        "generative-ai",
-        "ai-security-research",
-        "sandboxing",
-        "ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "18caaf49b55e",
-      "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
-      "url": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-01T03:23:39+00:00",
-      "summary": "Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2b233dff64d8",
-      "title": "Apple Pay finally launches in India; DBS Foundation’s Karen Ngui on uplifting communities",
-      "url": "https://yourstory.com/2026/10/apple-pay-finally-launches-in-india-simple-energy",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-01T03:08:56+00:00",
-      "summary": "Apple has launched its mobile payments service, Apple Pay, in India after years of waiting. The rollout gives iPhone, iPad, and Apple Watch users a new way to make contactless payments at stores and online.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3ecba04f492b",
-      "title": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
-      "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-01T02:57:57+00:00",
-      "summary": "Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a1f330e50ca4",
-      "title": "Q3 Funding Crawls Up, Inc42’s CTO Summit 2026 & More",
-      "url": "https://inc42.com/buzz/q3-funding-crawls-up-inc42s-cto-summit-2026-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-01T02:30:14+00:00",
-      "summary": "Startup Funding Up A Mere 5% YoY In Q3 Startup investors turned more selective in Q3 2026. While funding rose…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b5bb15ccaca0",
-      "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
-      "url": "https://tldr.tech/ai/2026-10-01",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3bba52758573",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "5e9bced56fab",
-      "title": "He Built This City",
-      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-30T21:54:19+00:00",
-      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October…",
-      "tags": [
-        "museums",
-        "new-york"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5fc2605f176c",
-      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
-      "url": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-09-30T21:30:08+00:00",
-      "summary": "Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today. The post Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense appeared first on MarkTechPost .",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Comparison"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "0c26b5ab9fed",
-      "title": "WeftCut",
-      "url": "https://www.producthunt.com/products/weftcut",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "UncleChair",
-      "published": "2026-09-30T21:25:16+00:00",
-      "summary": "The open-source video editor your AI agent can drive Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "69bcaa71a4e0",
-      "title": "Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman",
-      "url": "https://inc42.com/buzz/traders-call-off-no-upi-day-protest-after-meeting-fm-sitharaman/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-30T21:22:36+00:00",
-      "summary": "The All India Mobile Retailers Association (AIMRA) and the All India Consumer Products Distributors Federation (AICPDF) have called off their…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "85b40b3fd9d5",
-      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-09-30T21:09:24+00:00",
-      "summary": "OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e595e481876f",
-      "title": "Cofounder Upasana Taku Picks Up 1.1 Lakh MobiKwik Shares",
-      "url": "https://inc42.com/buzz/cofounder-upasana-taku-picks-up-1-1-lakh-mobikwik-shares/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-09-30T19:53:27+00:00",
-      "summary": "MobiKwik cofounder and chief financial officer (CFO) Upasana Taku has picked up 1.07 Lakh shares of the listed fintech company…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "5c09a29c85ef",
-      "title": "Vitra.ai",
-      "url": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Satvik Jagannath",
-      "published": "2026-09-30T19:36:03+00:00",
-      "summary": "Agentic content platform to create and localize content Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1b8cc23292bf",
-      "title": "Karnataka government first scheme: Up to Rs 25 lakh for startup pilots",
-      "url": "https://yourstory.com/2026/09/karnataka-government-first-initiative-startup-funding",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-30T16:59:16+00:00",
-      "summary": "Karnataka’s Government First initiative will give 100 startups up to Rs 25 lakh each to pilot and validate solutions with government departments.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     }
   ]
 }
