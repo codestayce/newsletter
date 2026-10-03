@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-10-02T21:43:53.141571+00:00",
-  "sources_ok": 19,
+  "generated_at": "2026-10-03T03:27:39.288279+00:00",
+  "sources_ok": 20,
   "sources_failed": [
-    {
-      "source": "MarkTechPost",
-      "error": "no entries"
-    },
     {
       "source": "Import AI — Jack Clark",
       "error": "HTTP 403"
@@ -25,6 +21,81 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "bdc59fa0560a",
+      "title": "Women power India to Asian Games gold in hockey, boxing",
+      "url": "https://yourstory.com/2026/10/women-power-india-to-asian-games-gold-in-hockey-boxing",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-03T02:00:00+00:00",
+      "summary": "India’s women athletes struck gold at the Asian Games, with Lalremsiami and Lovlina Borgohain powering wins in hockey and boxing. Lalremsiami scored the winner against China to secure hockey gold and a 2028 Olympics berth, while Lovlina beat Ziyi Bao 5-0 to claim her maiden…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cd1d110b4c3b",
+      "title": "Quantum World Ventures looks to move the technology beyond the lab",
+      "url": "https://yourstory.com/2026/10/quantum-world-ventures-looks-to-move-the-technology-beyond-the-lab",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-03T01:55:00+00:00",
+      "summary": "The Bengaluru-based startup is developing quantum and AI applications for medical technology while building an education business and exploring longer-term opportunities in security.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "2d915e86c260",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Kirsten Korosec",
+      "published": "2026-10-03T00:45:39+00:00",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "tags": [
+        "AI",
+        "Meta"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1cd9936fc185",
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "timpera",
+      "published": "2026-10-03T00:23:11+00:00",
+      "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer Comments URL: https://news.ycombinator.com/item?id=49940219 Points: 101 # Comments: 40",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ef48f9156b3f",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-10-02T23:03:16+00:00",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "tags": [
+        "AI",
+        "Apple",
+        "Biz & IT",
+        "Security",
+        "meta",
+        "muse"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "5113cb653680",
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -58,6 +129,19 @@
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8ae48c8dd8c5",
+      "title": "Every SaaS business will become a harness around a model",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "iacguy",
+      "published": "2026-10-02T21:06:56+00:00",
+      "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company Comments URL: https://news.ycombinator.com/item?id=49938616 Points: 108 # Comments: 80",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -139,6 +223,32 @@
       "region": "global"
     },
     {
+      "id": "14db68452116",
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "notfirstpost",
+      "published": "2026-10-02T19:37:01+00:00",
+      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 140 # Comments: 83",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "001fe0e44261",
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "anant",
+      "published": "2026-10-02T19:26:54+00:00",
+      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 146 # Comments: 68",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "5d6b83b837ff",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -166,7 +276,7 @@
       "source_id": "hacker_news",
       "author": "soheilpro",
       "published": "2026-10-02T19:06:56+00:00",
-      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 208 # Comments: 134",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 339 # Comments: 223",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -228,6 +338,39 @@
         "Apple",
         "Meta"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "43084abcf4c8",
+      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+      "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Jean-marc Mommessin",
+      "published": "2026-10-02T18:04:56+00:00",
+      "summary": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "3577570198f4",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "fibo",
+      "published": "2026-10-02T18:01:16+00:00",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 167 # Comments: 42",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -500,6 +643,39 @@
       "region": "global"
     },
     {
+      "id": "90e946a5da3e",
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ThibWeb",
+      "published": "2026-10-02T15:29:15+00:00",
+      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 125 # Comments: 98",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "686e8bd7172c",
+      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
+      "url": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T15:23:35+00:00",
+      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "d599f0a282be",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -587,6 +763,19 @@
       "region": "global"
     },
     {
+      "id": "47992b567ab4",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "signa11",
+      "published": "2026-10-02T14:22:12+00:00",
+      "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 132 # Comments: 59",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "f52e74133e2d",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
@@ -594,7 +783,7 @@
       "source_id": "hacker_news",
       "author": "PaulHoule",
       "published": "2026-10-02T14:11:24+00:00",
-      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 108 # Comments: 37",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 190 # Comments: 91",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -696,7 +885,7 @@
       "source_id": "hacker_news",
       "author": "suopspaces",
       "published": "2026-10-02T13:18:32+00:00",
-      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 221 # Comments: 126",
+      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 251 # Comments: 141",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -803,7 +992,7 @@
       "source_id": "hacker_news",
       "author": "mariuz",
       "published": "2026-10-02T11:07:17+00:00",
-      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 106 # Comments: 21",
+      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 213 # Comments: 50",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -886,6 +1075,26 @@
       "region": "india"
     },
     {
+      "id": "e29854d839eb",
+      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+      "url": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T06:35:00+00:00",
+      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "a885ed61f54a",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -906,7 +1115,7 @@
       "source_id": "hacker_news",
       "author": "usernomdeguerre",
       "published": "2026-10-02T02:51:27+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 128 # Comments: 24",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 192 # Comments: 50",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -941,6 +1150,46 @@
       "region": "india"
     },
     {
+      "id": "55c8ced990f6",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-02T01:00:41+00:00",
+      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0c1470bbdc10",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-02T00:32:50+00:00",
+      "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime…",
+      "tags": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "47e64466ac74",
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://stillwet.art/",
@@ -948,24 +1197,8 @@
       "source_id": "hacker_news",
       "author": "alstonite",
       "published": "2026-10-02T00:27:56+00:00",
-      "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 162 # Comments: 54",
+      "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 215 # Comments: 71",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "89dfbc7baec6",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-02T00:03:23+00:00",
-      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "tags": [
-        "Startups",
-        "TechCrunch Disrupt"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1025,7 +1258,7 @@
       "source_id": "hacker_news",
       "author": "hn_acker",
       "published": "2026-10-01T22:23:07+00:00",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 389 # Comments: 167",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility Comments URL: https://news.ycombinator.com/item?id=49927754 Points: 537 # Comments: 235",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1038,7 +1271,7 @@
       "source_id": "hacker_news",
       "author": "polvi",
       "published": "2026-10-01T22:22:21+00:00",
-      "summary": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 157 # Comments: 185",
+      "summary": "Article URL: https://chatgpt.com/features/sites/ Comments URL: https://news.ycombinator.com/item?id=49927747 Points: 224 # Comments: 225",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1084,7 +1317,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-10-01T20:02:57+00:00",
-      "summary": "Article URL: https://erictopol.substack.com/p/loss-of-cell-identity-drives-human Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 117 # Comments: 26",
+      "summary": "Article URL: https://erictopol.substack.com/p/loss-of-cell-identity-drives-human Comments URL: https://news.ycombinator.com/item?id=49926411 Points: 190 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1116,7 +1349,7 @@
       "source_id": "hacker_news",
       "author": "minimaxir",
       "published": "2026-10-01T19:24:29+00:00",
-      "summary": "Article URL: https://bfl.ai/models/flux-3-image Comments URL: https://news.ycombinator.com/item?id=49925974 Points: 229 # Comments: 53",
+      "summary": "Article URL: https://bfl.ai/models/flux-3-image Comments URL: https://news.ycombinator.com/item?id=49925974 Points: 286 # Comments: 62",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1129,7 +1362,7 @@
       "source_id": "hacker_news",
       "author": "CoryOndrejka",
       "published": "2026-10-01T18:20:18+00:00",
-      "summary": "https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi... Comments URL: https://news.ycombinator.com/item?id=49925184 Points: 127 # Comments: 34",
+      "summary": "https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi... Comments URL: https://news.ycombinator.com/item?id=49925184 Points: 330 # Comments: 86",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1152,6 +1385,26 @@
         "Trailers"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4fc2feeb88f5",
+      "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
+      "url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-01T17:13:12+00:00",
+      "summary": "Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text,…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Embedding Model"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1403,6 +1656,26 @@
       "region": "india"
     },
     {
+      "id": "76d3cbb8f6d1",
+      "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
+      "url": "https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-01T06:57:50+00:00",
+      "summary": "NVIDIA has released Kumo Tabular, a new family of tabular foundation models (TFMs) for classification and regression. If you have followed TabPFN or TabICL, the setup will look familiar. The model takes labeled rows as context and predicts new rows in one forward pass. There is…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "82d6d03a53dd",
       "title": "flydubai pilot 'a hero', plumber steadied plunging aircraft: Trump",
       "url": "https://yourstory.com/2026/10/flydubai-pilot-a-hero-plumber-steadied-plunging-aircraft-trump",
@@ -1459,6 +1732,26 @@
         "ai"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "18caaf49b55e",
+      "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
+      "url": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-01T03:23:39+00:00",
+      "summary": "Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1548,6 +1841,26 @@
       "region": "global"
     },
     {
+      "id": "5fc2605f176c",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+      "url": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-09-30T21:30:08+00:00",
+      "summary": "Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today. The post Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Comparison"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "0c26b5ab9fed",
       "title": "WeftCut",
       "url": "https://www.producthunt.com/products/weftcut",
@@ -1576,29 +1889,23 @@
       "region": "india"
     },
     {
-      "id": "ead171eb28de",
-      "title": "UTTER IN",
-      "url": "https://www.producthunt.com/products/utter-in",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ali Almoosawi",
-      "published": "2026-09-30T20:31:27+00:00",
-      "summary": "Say it once and your AI assistant plans the rest Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6bdb6a9ec70e",
-      "title": "Helo",
-      "url": "https://www.producthunt.com/products/helo-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Bettina Specht",
-      "published": "2026-09-30T19:57:02+00:00",
-      "summary": "An independent email API from former Postmark folks Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "85b40b3fd9d5",
+      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-09-30T21:09:24+00:00",
+      "summary": "OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1641,266 +1948,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "3ae27470c6ad",
-      "title": "Distributed databases with Peter Mattis",
-      "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-09-30T16:30:05+00:00",
-      "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "3c9c247c0cac",
-      "title": "esigna",
-      "url": "https://www.producthunt.com/products/esigna",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Luis Rodriguez",
-      "published": "2026-09-30T16:04:43+00:00",
-      "summary": "A design studio for your email signature Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d8a8a1bfea50",
-      "title": "Lloyal",
-      "url": "https://www.producthunt.com/products/lloyal",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Zuhair Naqvi",
-      "published": "2026-09-30T15:18:28+00:00",
-      "summary": "Turn open-weight models into AI apps people can download Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6dd749e81ba3",
-      "title": "5 Lessons from The Psychology of Money about wealth",
-      "url": "https://yourstory.com/2026/09/lesson-morganhousel-wealth",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-09-30T14:55:52+00:00",
-      "summary": "Discover five powerful lessons from The Psychology of Money by Morgan Housel about building wealth, making smarter decisions, and thinking long term.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d5ddb143df75",
-      "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
-      "url": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-09-30T14:00:47+00:00",
-      "summary": "Today’s brief: does voice help Meesho sell?The challenge of taking AI products to millions of Indian users is making them…",
-      "tags": [
-        "News",
-        "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "48413595b7f1",
-      "title": "How AI Is Helping PhonePe Improve Efficiency & Cut Costs",
-      "url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shraddha Goled",
-      "published": "2026-09-30T13:44:35+00:00",
-      "summary": "AI is helping PhonePe reduce operating costs and speed up internal workflows, with specific audit processes shortened from four days…",
-      "tags": [
-        "News",
-        "Session Article"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "7ad8da149c2a",
-      "title": "ChainSnip",
-      "url": "https://www.producthunt.com/products/chainsnip",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Andrei B",
-      "published": "2026-09-30T12:06:40+00:00",
-      "summary": "Accountant's Proof of the Wallet's Balance Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ef8ac07d3393",
-      "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
-      "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-09-30T11:30:08+00:00",
-      "summary": "Electric two-wheeler (E2W) manufacturer Simple Energy has raised $180 Mn (₹1,750 Cr) in its Series C funding round. The round…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f350282c12c1",
-      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
-      "url": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
-      "source": "Last Week in AI",
-      "source_id": "last_week_in_ai",
-      "author": "Last Week in AI",
-      "published": "2026-09-30T11:23:54+00:00",
-      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "9e7b8b5e56b7",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "Will Douglas Heaven",
-      "published": "2026-09-30T10:40:30+00:00",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the…",
-      "tags": [
-        "Artificial intelligence",
-        "App"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6a91381a4292",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-30T10:30:00+00:00",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "tags": [
-        "Security"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "b5e5e43443d2",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-09-30T10:00:00+00:00",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "tags": [
-        "Global Affairs"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "7910e80df825",
-      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
-      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-09-30T10:00:00+00:00",
-      "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
-      "tags": [
-        "Daily Update"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5775f6b9c65b",
-      "title": "JarvisCore",
-      "url": "https://www.producthunt.com/products/jarviscore",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Muyukani Kizito",
-      "published": "2026-09-30T05:40:59+00:00",
-      "summary": "Build agents as peers in a mesh network with zero-trust Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "17fd5464d3cb",
-      "title": "Mintlify Desktop",
-      "url": "https://www.producthunt.com/products/mintlify",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Garry Tan",
-      "published": "2026-09-30T00:08:54+00:00",
-      "summary": "An AI-native app for writing documentation and knowledge Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f3b5fc1f0ea1",
-      "title": "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
-      "url": "https://tldr.tech/ai/2026-09-30",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-09-30T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "581ab3112c30",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-09-30T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1e2adcbb126c",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-09-29T22:20:28+00:00",
-      "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview…",
-      "tags": [
-        "anthropic",
-        "generative-ai",
-        "ai-security-research",
-        "glm",
-        "ai",
-        "ai-in-china"
-      ],
-      "tier": "authors",
-      "region": "global"
     }
   ]
 }
