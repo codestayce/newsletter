@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:19:46.368168+00:00",
+  "generated_at": "2026-10-04T20:47:28.547144+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,11 +19,65 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 115,
+  "item_count": 114,
   "items": [
     {
+      "id": "71b92d7d1248",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-04T20:31:07+00:00",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8a9c48729bde",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-04T20:08:34+00:00",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "dario amodei",
+        "Donald Trump",
+        "Equity podcast",
+        "jeff bezos"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "35e820dcb857",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-04T20:00:00+00:00",
+      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off…",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "7f0fe70b7438",
-      "title": "Well, if AI said it, it must be true",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "source": "The Verge",
       "source_id": "the_verge",
@@ -122,7 +176,7 @@
       "source_id": "hacker_news",
       "author": "snehesht",
       "published": "2026-10-04T12:51:53+00:00",
-      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 238 # Comments: 117",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 462 # Comments: 240",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -212,6 +266,19 @@
       "region": "global"
     },
     {
+      "id": "567a67be4150",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "allenleee",
+      "published": "2026-10-04T09:24:52+00:00",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 114 # Comments: 58",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "85e623aa30e5",
       "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
       "url": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
@@ -268,6 +335,19 @@
       "region": "india"
     },
     {
+      "id": "f896e86c6f5d",
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "url": "https://github.com/PowderworksCode/headstart",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "knuckleheads",
+      "published": "2026-10-04T06:26:57+00:00",
+      "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 108 # Comments: 28",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "c181d79408d6",
       "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
       "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
@@ -308,7 +388,7 @@
       "source_id": "hacker_news",
       "author": "vinhnx",
       "published": "2026-10-04T04:10:47+00:00",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 223 # Comments: 219",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 259 # Comments: 262",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -353,32 +433,6 @@
       "region": "india"
     },
     {
-      "id": "fb9af1d81b34",
-      "title": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "droidjj",
-      "published": "2026-10-04T01:12:22+00:00",
-      "summary": "Article URL: https://play.runescape.com/4 Comments URL: https://news.ycombinator.com/item?id=49949588 Points: 131 # Comments: 70",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3ba89625595d",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "elffjs",
-      "published": "2026-10-04T00:20:16+00:00",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 535 # Comments: 279",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "86b89983a27c",
       "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
       "url": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
@@ -409,6 +463,23 @@
       "summary": "AI customer support in one shared inbox powered by AI agents Discussion | Link",
       "tags": [],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3ba89625595d",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-03T23:34:02+00:00",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\".…",
+      "tags": [
+        "amazon-web-services",
+        "ai",
+        "coding-agents"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -453,14 +524,14 @@
       "region": "global"
     },
     {
-      "id": "c97910447bf1",
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "id": "aab1e04eee6e",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "citelao",
-      "published": "2026-10-03T20:49:15+00:00",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 199 # Comments: 85",
+      "author": "simonjgreen",
+      "published": "2026-10-03T20:27:44+00:00",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 117 # Comments: 63",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -494,19 +565,6 @@
       "region": "india"
     },
     {
-      "id": "55a839bbc3fd",
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "geoffbp",
-      "published": "2026-10-03T19:33:16+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 181 # Comments: 156",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "416126da9dd8",
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
@@ -514,7 +572,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-03T19:14:48+00:00",
-      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 381 # Comments: 67",
+      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 440 # Comments: 84",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -540,32 +598,6 @@
       "region": "global"
     },
     {
-      "id": "75a5212102f5",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "trwhite",
-      "published": "2026-10-03T18:06:45+00:00",
-      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 328 # Comments: 80",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "549bdd288f9a",
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "CosmoWenman",
-      "published": "2026-10-03T18:01:27+00:00",
-      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 261 # Comments: 134",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "8b1e323a2293",
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
@@ -573,7 +605,7 @@
       "source_id": "hacker_news",
       "author": "Anon84",
       "published": "2026-10-03T17:44:29+00:00",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 264 # Comments: 414",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 352 # Comments: 637",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -586,7 +618,7 @@
       "source_id": "hacker_news",
       "author": "kmeh",
       "published": "2026-10-03T17:03:37+00:00",
-      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 280 # Comments: 162",
+      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 324 # Comments: 200",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -595,8 +627,8 @@
       "id": "c87d5f628b0a",
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-10-03T16:49:10+00:00",
       "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project,…",
@@ -605,7 +637,7 @@
         "Gaming",
         "News"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -757,19 +789,6 @@
         "Venture",
         "Exclusive"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4aab22cc6d74",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Brajeshwar",
-      "published": "2026-10-03T13:46:34+00:00",
-      "summary": "https://archive.ph/5GQx8 https://www.theguardian.com/technology/2026/oct/03/openai-sa... Comments URL: https://news.ycombinator.com/item?id=49944227 Points: 356 # Comments: 598",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1044,6 +1063,32 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "f862bcf4ca0f",
+      "title": "Sapien",
+      "url": "https://www.producthunt.com/products/sapien-4",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Sulayman Bowles",
+      "published": "2026-10-03T02:30:10+00:00",
+      "summary": "AI market research with synthetic populations Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0ed9822227ed",
+      "title": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Justin Jincaid",
+      "published": "2026-10-03T02:07:11+00:00",
+      "summary": "Meta's open-source kit for building your own AI gadgets Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "bdc59fa0560a",
@@ -1529,23 +1574,6 @@
       "region": "global"
     },
     {
-      "id": "7170e2014863",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Russell Brandom",
-      "published": "2026-10-02T15:39:41+00:00",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "tags": [
-        "AI",
-        "Catholicism",
-        "In Brief"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d599f0a282be",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -1622,6 +1650,19 @@
       "author": "fmerian",
       "published": "2026-10-02T13:47:50+00:00",
       "summary": "The first Jev-like model hosted in the EU Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3590e492fcb5",
+      "title": "A map of every lighthouse",
+      "url": "https://mapped.earth/lighthouses/world",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "karakoram",
+      "published": "2026-10-02T13:45:49+00:00",
+      "summary": "Article URL: https://mapped.earth/lighthouses/world Comments URL: https://news.ycombinator.com/item?id=49933461 Points: 121 # Comments: 61",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1829,47 +1870,6 @@
         "planetary science",
         "Venus"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7e67b43cf9d0",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-01T17:00:00+00:00",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "tags": [
-        "Intelligence Age"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "593fe84d411e",
-      "title": "The Pulse: Firebase’s global outage & poor response",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-01T16:43:19+00:00",
-      "summary": "Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "6a19be6e4309",
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gscott",
-      "published": "2026-10-01T16:32:40+00:00",
-      "summary": "Article URL: https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/ Comments URL: https://news.ycombinator.com/item?id=49923873 Points: 233 # Comments: 58",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     }
