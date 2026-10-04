@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:55:19.916449+00:00",
+  "generated_at": "2026-10-04T11:41:04.162437+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,94 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 116,
   "items": [
+    {
+      "id": "85e623aa30e5",
+      "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+      "url": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-04T07:29:59+00:00",
+      "summary": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Federated Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "66704409b2ff",
+      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+      "url": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-04T07:01:04+00:00",
+      "summary": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "c181d79408d6",
+      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-04T04:49:42+00:00",
+      "summary": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "49d77edef907",
+      "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+      "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-04T04:34:42+00:00",
+      "summary": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ccaf54e36ccf",
+      "title": "Why don't more developers “use the platform”?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vinhnx",
+      "published": "2026-10-04T04:10:47+00:00",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 161 # Comments: 132",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "ee62785b2487",
       "title": "Why did Virat Kohli give up a Rs 300 Cr Puma deal to back Abhishek Ganguly’s Agilitas?",
@@ -68,7 +154,7 @@
       "source_id": "hacker_news",
       "author": "elffjs",
       "published": "2026-10-04T00:20:16+00:00",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 262 # Comments: 142",
+      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 463 # Comments: 228",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -94,6 +180,19 @@
       "region": "global"
     },
     {
+      "id": "bb7cb54e3c10",
+      "title": "Sellio",
+      "url": "https://www.producthunt.com/products/sellio-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Khalid Nouri",
+      "published": "2026-10-03T23:54:19+00:00",
+      "summary": "AI customer support in one shared inbox powered by AI agents Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "89764eae0099",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -104,32 +203,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "14103ec99730",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jethronethro",
-      "published": "2026-10-03T22:18:13+00:00",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 223 # Comments: 183",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6a468f70a022",
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sbulaev",
-      "published": "2026-10-03T22:07:13+00:00",
-      "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 358 # Comments: 212",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -148,6 +221,19 @@
       "region": "global"
     },
     {
+      "id": "d66719d05b51",
+      "title": "LaunchReel",
+      "url": "https://www.producthunt.com/products/launchreel-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Gajanan Rathod",
+      "published": "2026-10-03T21:31:56+00:00",
+      "summary": "claude design but for editing professional videos faster. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "c97910447bf1",
       "title": "Reasons I didn't become an EMT, ranked",
       "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
@@ -155,7 +241,20 @@
       "source_id": "hacker_news",
       "author": "citelao",
       "published": "2026-10-03T20:49:15+00:00",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 117 # Comments: 58",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 161 # Comments: 78",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "344868e16374",
+      "title": "Aperture",
+      "url": "https://www.producthunt.com/products/aperture-7",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Witchayut",
+      "published": "2026-10-03T19:44:58+00:00",
+      "summary": "An AI code editor that checks its own work Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -183,7 +282,7 @@
       "source_id": "hacker_news",
       "author": "geoffbp",
       "published": "2026-10-03T19:33:16+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 107 # Comments: 99",
+      "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 141 # Comments: 124",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -196,7 +295,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-03T19:14:48+00:00",
-      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 179 # Comments: 21",
+      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 318 # Comments: 50",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -222,19 +321,6 @@
       "region": "global"
     },
     {
-      "id": "fc994d69ad09",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "saikatsg",
-      "published": "2026-10-03T18:29:30+00:00",
-      "summary": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ Comments URL: https://news.ycombinator.com/item?id=49946567 Points: 180 # Comments: 129",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "75a5212102f5",
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "url": "https://notoriousbfg.com/hole-punch/",
@@ -242,7 +328,7 @@
       "source_id": "hacker_news",
       "author": "trwhite",
       "published": "2026-10-03T18:06:45+00:00",
-      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 251 # Comments: 62",
+      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 302 # Comments: 68",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -255,7 +341,33 @@
       "source_id": "hacker_news",
       "author": "CosmoWenman",
       "published": "2026-10-03T18:01:27+00:00",
-      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 111 # Comments: 57",
+      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 215 # Comments: 93",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8b1e323a2293",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Anon84",
+      "published": "2026-10-03T17:44:29+00:00",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 164 # Comments: 223",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2ad697ead091",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kmeh",
+      "published": "2026-10-03T17:03:37+00:00",
+      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 202 # Comments: 111",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -295,6 +407,19 @@
       "region": "global"
     },
     {
+      "id": "79390db9e296",
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lexx",
+      "published": "2026-10-03T15:52:07+00:00",
+      "summary": "Article URL: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2 Comments URL: https://news.ycombinator.com/item?id=49945323 Points: 139 # Comments: 136",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9c9db5f053a4",
       "title": "From K-pop to AI, Karnataka seeks deeper ties with Korea",
       "url": "https://yourstory.com/2026/10/karnataka-korean-investment-technology-partnerships",
@@ -315,7 +440,7 @@
       "source_id": "hacker_news",
       "author": "romac",
       "published": "2026-10-03T15:02:36+00:00",
-      "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 156 # Comments: 63",
+      "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 178 # Comments: 68",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -443,6 +568,19 @@
       "region": "global"
     },
     {
+      "id": "4aab22cc6d74",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Brajeshwar",
+      "published": "2026-10-03T13:46:34+00:00",
+      "summary": "https://archive.ph/5GQx8 https://www.theguardian.com/technology/2026/oct/03/openai-sa... Comments URL: https://news.ycombinator.com/item?id=49944227 Points: 261 # Comments: 508",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "e285e06d2da8",
       "title": "New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This Week",
       "url": "https://inc42.com/buzz/new-age-tech-stocks-extend-slide-turtlemint-slumps-another-20-this-week/",
@@ -514,14 +652,27 @@
       "region": "india"
     },
     {
-      "id": "a650c74fe354",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "bastitx",
-      "published": "2026-10-03T09:36:04+00:00",
-      "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 543 # Comments: 307",
+      "id": "ac07a456689b",
+      "title": "Eat Train Feel",
+      "url": "https://www.producthunt.com/products/eat-train-feel",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Aleš Sušnik",
+      "published": "2026-10-03T08:47:10+00:00",
+      "summary": "A coach for you Workouts, food, and how you feel Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0cd667a855c3",
+      "title": "Thinking Orbs",
+      "url": "https://www.producthunt.com/products/thinking-orbs",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Yogesh",
+      "published": "2026-10-03T08:11:16+00:00",
+      "summary": "Animated AI Status Indicator Component Library for React Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -702,32 +853,6 @@
       "region": "india"
     },
     {
-      "id": "f862bcf4ca0f",
-      "title": "Sapien",
-      "url": "https://www.producthunt.com/products/sapien-4",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Sulayman Bowles",
-      "published": "2026-10-03T02:30:10+00:00",
-      "summary": "AI market research with synthetic populations Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0ed9822227ed",
-      "title": "Muse Gadgets",
-      "url": "https://www.producthunt.com/products/muse-22",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Justin Jincaid",
-      "published": "2026-10-03T02:07:11+00:00",
-      "summary": "Meta's open-source kit for building your own AI gadgets Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "bdc59fa0560a",
       "title": "Women power India to Asian Games gold in hockey, boxing",
       "url": "https://yourstory.com/2026/10/women-power-india-to-asian-games-gold-in-hockey-boxing",
@@ -838,19 +963,6 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "611d65e64b18",
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "NaOH",
-      "published": "2026-10-02T20:44:38+00:00",
-      "summary": "Article URL: http://www.darbiansphotography.com/woking-electrical-control-room-urbex Comments URL: https://news.ycombinator.com/item?id=49938399 Points: 128 # Comments: 26",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1008,6 +1120,19 @@
         "Apple",
         "Meta"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2cabaf23caa7",
+      "title": "qarunbook",
+      "url": "https://www.producthunt.com/products/qarunbook",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Ifeanyi Ejindu",
+      "published": "2026-10-02T18:08:33+00:00",
+      "summary": "A test plan your team and your AI can work through Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1245,26 +1370,6 @@
         "In Brief"
       ],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "686e8bd7172c",
-      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
-      "url": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-02T15:23:35+00:00",
-      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost .",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1537,26 +1642,6 @@
       "region": "india"
     },
     {
-      "id": "e29854d839eb",
-      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-      "url": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-02T06:35:00+00:00",
-      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Deep Learning"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "a885ed61f54a",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -1599,26 +1684,6 @@
       "region": "india"
     },
     {
-      "id": "55c8ced990f6",
-      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-02T01:00:41+00:00",
-      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "fc3783d23094",
       "title": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
       "url": "https://tldr.tech/ai/2026-10-02",
@@ -1647,19 +1712,6 @@
       "region": "global"
     },
     {
-      "id": "de3ce8b60ddd",
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "url": "https://github.com/andreasfertig/cppinsights",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "rramadass",
-      "published": "2026-10-01T23:53:36+00:00",
-      "summary": "Article URL: https://github.com/andreasfertig/cppinsights Comments URL: https://news.ycombinator.com/item?id=49928361 Points: 143 # Comments: 28",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3dc23902780a",
       "title": "Venus' mysterious haze is actually cosmic dust",
       "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
@@ -1676,19 +1728,6 @@
         "planetary science",
         "Venus"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3df8b405d526",
-      "title": "Clef",
-      "url": "https://www.producthunt.com/products/cloudflare-clef",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Chris Messina",
-      "published": "2026-10-01T20:58:54+00:00",
-      "summary": "Open-source decision models from Cloudflare Discussion | Link",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1741,19 +1780,6 @@
       "region": "global"
     },
     {
-      "id": "37100a0bf0cc",
-      "title": "Finbar",
-      "url": "https://www.producthunt.com/products/finbar-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Garry Tan",
-      "published": "2026-10-01T16:40:49+00:00",
-      "summary": "Agentic investment research Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6a19be6e4309",
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
@@ -1761,7 +1787,7 @@
       "source_id": "hacker_news",
       "author": "gscott",
       "published": "2026-10-01T16:32:40+00:00",
-      "summary": "Article URL: https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/ Comments URL: https://news.ycombinator.com/item?id=49923873 Points: 159 # Comments: 41",
+      "summary": "Article URL: https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/ Comments URL: https://news.ycombinator.com/item?id=49923873 Points: 200 # Comments: 51",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1798,19 +1824,6 @@
       "region": "india"
     },
     {
-      "id": "03cd1f9f1514",
-      "title": "Anthroposcaper",
-      "url": "https://www.producthunt.com/products/anthroposcaper",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Mikhail",
-      "published": "2026-10-01T13:38:00+00:00",
-      "summary": "Tag a 2D plan, get a 3D urban environment model Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "206677805511",
       "title": "Jio IPO nears launch: DRHP filed, SEBI clears path",
       "url": "https://yourstory.com/2026/10/jio-ipo-nears-launch-drhp-filed-sebi-clears-path",
@@ -1838,19 +1851,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "46225b89208d",
-      "title": "Singularity",
-      "url": "https://www.producthunt.com/products/singularity-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Antony KERVAZO CANUT",
-      "published": "2026-10-01T13:12:28+00:00",
-      "summary": "Run AI coding agents in parallel, one ticket at a time Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "c69acaed6306",
@@ -1882,61 +1882,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "0ccd0d7a388e",
-      "title": "bmux",
-      "url": "https://www.producthunt.com/products/bmux",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Tõnis Tiganik",
-      "published": "2026-10-01T11:34:50+00:00",
-      "summary": "Browser multiplexer for the agentic era Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fcaf4e3cb8d8",
-      "title": "Practical tips every Indian household should know How to choose the right family health insurance plan",
-      "url": "https://yourstory.com/2026/09/practical-tips-indian-household-knowhow-choose-right-family-health-insurance",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-01T10:50:48+00:00",
-      "summary": "From sum insured and hospital networks to waiting periods, exclusions, and claims support, here are key factors Indian families should consider before choosing a health insurance plan. Choosing a health plan for the family is among the most important financial decisions a…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "1bdc199a7387",
-      "title": "Never Boring AI",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Maxence VROILANT",
-      "published": "2026-10-01T10:21:53+00:00",
-      "summary": "The AI agent that writes your LinkedIn posts in your voice Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "282f76f1240f",
-      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-      "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-10-01T10:00:00+00:00",
-      "summary": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-      "tags": [
-        "Daily Update",
-        "Interviews"
-      ],
-      "tier": "authors",
-      "region": "global"
     }
   ]
 }
