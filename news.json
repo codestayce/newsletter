@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:47:28.547144+00:00",
+  "generated_at": "2026-10-05T03:39:59.736523+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,93 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 114,
+  "item_count": 108,
   "items": [
+    {
+      "id": "9770869485d5",
+      "title": "The Rise Of Bank-Built AI, Weekly Funding Rundown & More",
+      "url": "https://inc42.com/buzz/the-rise-of-bank-built-ai-weekly-funding-rundown-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-05T02:30:44+00:00",
+      "summary": "Banking’s AI Investment Playbook No longer content with buying AI tools, banks are moving to co-build and invest in AI…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ab35b02d5f1f",
+      "title": "Andhra Pradesh, PanIIT partner for Rs 500-Cr deeptech fund; An intralogistics business that serves 25 countries",
+      "url": "https://yourstory.com/2026/10/andhra-pradesh-paniit-partner-for-rs-500-cr-deeptech-fund-an-intralogistics-business-that-serves-25-countries",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-05T02:00:00+00:00",
+      "summary": "Unveiled at the PanIIT Andhra Pradesh Summit in Vijayawada on Saturday, the deeptech-focused fund aims to back at least 25 local startups by 2030",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "f8ee4aad38b3",
+      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+      "url": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-05T01:47:28+00:00",
+      "summary": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai’s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "a0d859c6fd90",
+      "title": "Snapdeal Makes It To D-Street, But Where’s The Moat?",
+      "url": "https://inc42.com/features/snapdeal-makes-it-to-d-street-but-wheres-the-moat/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gargi Sarkar",
+      "published": "2026-10-05T00:30:11+00:00",
+      "summary": "One of India’s earliest ecommerce marketplaces has finally trotted onto D-Street. After a relatively muted 4.93X subscription to its IPO,…",
+      "tags": [
+        "In-Depth",
+        "Inc42 Markets"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "fac24a95abd9",
+      "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+      "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-04T20:59:56+00:00",
+      "summary": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
     {
       "id": "71b92d7d1248",
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -72,6 +157,45 @@
         "Music",
         "Music Review"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fb514e83ae1c",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "privacyisntdead",
+      "published": "2026-10-04T19:42:25+00:00",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 413 # Comments: 269",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "414b95fe0b67",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sensanaty",
+      "published": "2026-10-04T19:37:05+00:00",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 268 # Comments: 386",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "38463d0c598d",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "wiso",
+      "published": "2026-10-04T18:49:17+00:00",
+      "summary": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 107 # Comments: 45",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -176,7 +300,7 @@
       "source_id": "hacker_news",
       "author": "snehesht",
       "published": "2026-10-04T12:51:53+00:00",
-      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 462 # Comments: 240",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 644 # Comments: 302",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -273,7 +397,7 @@
       "source_id": "hacker_news",
       "author": "allenleee",
       "published": "2026-10-04T09:24:52+00:00",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 114 # Comments: 58",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 144 # Comments: 66",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -335,19 +459,6 @@
       "region": "india"
     },
     {
-      "id": "f896e86c6f5d",
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "url": "https://github.com/PowderworksCode/headstart",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "knuckleheads",
-      "published": "2026-10-04T06:26:57+00:00",
-      "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 108 # Comments: 28",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c181d79408d6",
       "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
       "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
@@ -388,7 +499,7 @@
       "source_id": "hacker_news",
       "author": "vinhnx",
       "published": "2026-10-04T04:10:47+00:00",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 259 # Comments: 262",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 282 # Comments: 293",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -531,7 +642,7 @@
       "source_id": "hacker_news",
       "author": "simonjgreen",
       "published": "2026-10-03T20:27:44+00:00",
-      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 117 # Comments: 63",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 141 # Comments: 73",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -565,19 +676,6 @@
       "region": "india"
     },
     {
-      "id": "416126da9dd8",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "speckx",
-      "published": "2026-10-03T19:14:48+00:00",
-      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 440 # Comments: 84",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d442265d4558",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -594,32 +692,6 @@
         "Amazon Web Services",
         "data centers"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8b1e323a2293",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Anon84",
-      "published": "2026-10-03T17:44:29+00:00",
-      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 352 # Comments: 637",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2ad697ead091",
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kmeh",
-      "published": "2026-10-03T17:03:37+00:00",
-      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 324 # Comments: 200",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1029,26 +1101,6 @@
       "region": "global"
     },
     {
-      "id": "0617bcb0ed35",
-      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
-      "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-03T03:31:15+00:00",
-      "summary": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's…",
-      "tags": [
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Decision Models",
-        "Editors Pick",
-        "New Releases"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "700cb6f742a2",
       "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
       "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
@@ -1063,32 +1115,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "f862bcf4ca0f",
-      "title": "Sapien",
-      "url": "https://www.producthunt.com/products/sapien-4",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Sulayman Bowles",
-      "published": "2026-10-03T02:30:10+00:00",
-      "summary": "AI market research with synthetic populations Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0ed9822227ed",
-      "title": "Muse Gadgets",
-      "url": "https://www.producthunt.com/products/muse-22",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Justin Jincaid",
-      "published": "2026-10-03T02:07:11+00:00",
-      "summary": "Meta's open-source kit for building your own AI gadgets Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "bdc59fa0560a",
@@ -1352,26 +1378,6 @@
       "summary": "A test plan your team and your AI can work through Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "43084abcf4c8",
-      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
-      "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Jean-marc Mommessin",
-      "published": "2026-10-02T18:04:56+00:00",
-      "summary": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1642,19 +1648,6 @@
       "region": "india"
     },
     {
-      "id": "95584c3a2854",
-      "title": "eu/jev",
-      "url": "https://www.producthunt.com/products/bevel-software",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "fmerian",
-      "published": "2026-10-02T13:47:50+00:00",
-      "summary": "The first Jev-like model hosted in the EU Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3590e492fcb5",
       "title": "A map of every lighthouse",
       "url": "https://mapped.earth/lighthouses/world",
@@ -1662,7 +1655,7 @@
       "source_id": "hacker_news",
       "author": "karakoram",
       "published": "2026-10-02T13:45:49+00:00",
-      "summary": "Article URL: https://mapped.earth/lighthouses/world Comments URL: https://news.ycombinator.com/item?id=49933461 Points: 121 # Comments: 61",
+      "summary": "Article URL: https://mapped.earth/lighthouses/world Comments URL: https://news.ycombinator.com/item?id=49933461 Points: 169 # Comments: 74",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1794,83 +1787,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "cc2cd225f928",
-      "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More",
-      "url": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-02T02:30:23+00:00",
-      "summary": "OpenAI Dispute Sparks Academic Panic Last month, OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "80992ca58421",
-      "title": "Meta’s AI could flood the internet; Four Indian brands putting a new spin on khadi",
-      "url": "https://yourstory.com/2026/10/metas-ai-could-flood-the-internet-india-brands-khadi",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-02T02:00:00+00:00",
-      "summary": "A new report on Meta’s latest AI developments explores how the company’s push could accelerate the creation of machine-generated content at a scale that changes what we see—and trust—online.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "fc3783d23094",
-      "title": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
-      "url": "https://tldr.tech/ai/2026-10-02",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a97398f76ee5",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "3dc23902780a",
-      "title": "Venus' mysterious haze is actually cosmic dust",
-      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Elizabeth Rayne",
-      "published": "2026-10-01T22:27:04+00:00",
-      "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
-      "tags": [
-        "Science",
-        "astronomy",
-        "atmospheric science",
-        "Haze",
-        "planetary science",
-        "Venus"
-      ],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
