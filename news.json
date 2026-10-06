@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:37:41.102844+00:00",
+  "generated_at": "2026-10-06T04:28:18.554143+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,86 @@
   "item_count": 120,
   "items": [
     {
+      "id": "cb056280e763",
+      "title": "Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?",
+      "url": "https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-06T02:30:19+00:00",
+      "summary": "Sixteen founders across 10 new-age tech companies earned a combined ₹43.4 Cr in fixed remuneration in FY26, up 8.2% from…",
+      "tags": [
+        "In-Depth",
+        "Listicle"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "662de7647255",
+      "title": "Snapdeal’s Weak Listing, Founders Pledge Stakes & More",
+      "url": "https://inc42.com/buzz/snapdeals-weak-listing-founders-pledge-stakes-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-06T02:30:13+00:00",
+      "summary": "AceVector’s Dull D-Street Debut AceVector stepped onto Dalal Street with a weak show. Shares of the Snapdeal parent listed at…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "01c9e74bd943",
+      "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
+      "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-06T02:00:00+00:00",
+      "summary": "Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "e5f487e9bb33",
+      "title": "Beyond Appliances Raises ₹110 Cr To Expand Product Portfolio, Boost Manufacturing",
+      "url": "https://inc42.com/buzz/beyond-appliances-raises-%e2%82%b9110-cr-to-expand-product-portfolio-boost-manufacturing/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-10-06T00:30:16+00:00",
+      "summary": "Smart kitchen brand Beyond Appliances has raised ₹110 Cr ($10.4 Mn) in a Series B funding round led by Fireside…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cbee4f834379",
+      "title": "Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-05T23:56:47+00:00",
+      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved…",
+      "tags": [
+        "claude-cowork",
+        "anthropic",
+        "claude",
+        "generative-ai",
+        "ai",
+        "general-agents"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
       "id": "f96eb5478801",
       "title": "Gemini Call for Me might tell your mom you’re running late",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
@@ -36,6 +116,52 @@
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "544f392c971d",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jgx0",
+      "published": "2026-10-05T22:55:11+00:00",
+      "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 123 # Comments: 75",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "84cd87ae2cca",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-05T22:51:05+00:00",
+      "summary": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session.…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "AI Tool",
+        "Applications"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ed62d7055b56",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rdmuser",
+      "published": "2026-10-05T22:46:45+00:00",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombinator.com/item?id=49971846 Points: 340 # Comments: 248",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -60,6 +186,19 @@
       "region": "global"
     },
     {
+      "id": "49ad808382f3",
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "01-_-",
+      "published": "2026-10-05T22:05:57+00:00",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/ Comments URL: https://news.ycombinator.com/item?id=49971523 Points: 140 # Comments: 23",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a1e7aa9b5ac4",
       "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
       "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
@@ -80,6 +219,19 @@
       "region": "global"
     },
     {
+      "id": "fd915bcb238f",
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ishan0102",
+      "published": "2026-10-05T21:40:50+00:00",
+      "summary": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 142 # Comments: 46",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "869ed8789c28",
       "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
       "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
@@ -93,6 +245,19 @@
         "Gaming",
         "News"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2ac688ca159f",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "E-Reverance",
+      "published": "2026-10-05T21:15:07+00:00",
+      "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 133 # Comments: 29",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -141,7 +306,7 @@
       "source_id": "hacker_news",
       "author": "outlier99",
       "published": "2026-10-05T21:00:21+00:00",
-      "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 156 # Comments: 117",
+      "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 256 # Comments: 179",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -266,7 +431,7 @@
       "source_id": "hacker_news",
       "author": "Philpax",
       "published": "2026-10-05T19:16:35+00:00",
-      "summary": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 252 # Comments: 66",
+      "summary": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 367 # Comments: 109",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -374,19 +539,6 @@
         "Social",
         "TikTok"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "84ac798fd2ed",
-      "title": "Norway Eyes Partial Ban of Smart Glasses",
-      "url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pseudolus",
-      "published": "2026-10-05T18:15:20+00:00",
-      "summary": "Article URL: https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239 Comments URL: https://news.ycombinator.com/item?id=49968402 Points: 118 # Comments: 71",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -797,7 +949,7 @@
       "source_id": "hacker_news",
       "author": "Vosporos",
       "published": "2026-10-05T14:23:47+00:00",
-      "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 122 # Comments: 28",
+      "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 142 # Comments: 37",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -823,7 +975,7 @@
       "source_id": "hacker_news",
       "author": "farslan",
       "published": "2026-10-05T14:12:14+00:00",
-      "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 107 # Comments: 58",
+      "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 153 # Comments: 74",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1061,7 +1213,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-10-05T10:47:06+00:00",
-      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 466 # Comments: 210",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 503 # Comments: 232",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1074,7 +1226,7 @@
       "source_id": "hacker_news",
       "author": "maguay",
       "published": "2026-10-05T10:05:02+00:00",
-      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 187 # Comments: 176",
+      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 229 # Comments: 200",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1092,19 +1244,6 @@
         "Product"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "702a18c2b815",
-      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "lode",
-      "published": "2026-10-05T09:33:13+00:00",
-      "summary": "https://www.nobelprize.org/prizes/medicine/2026/press-releas... Comments URL: https://news.ycombinator.com/item?id=49962572 Points: 117 # Comments: 45",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1210,7 +1349,7 @@
       "source_id": "hacker_news",
       "author": "0xedb",
       "published": "2026-10-05T07:46:10+00:00",
-      "summary": "https://archive.ph/Axpbl https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent... Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 170 # Comments: 108",
+      "summary": "https://archive.ph/Axpbl https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent... Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 182 # Comments: 122",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1251,7 +1390,7 @@
       "source_id": "hacker_news",
       "author": "emptybits",
       "published": "2026-10-05T05:37:40+00:00",
-      "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html Comments URL: https://news.ycombinator.com/item?id=49961057 Points: 471 # Comments: 394",
+      "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html Comments URL: https://news.ycombinator.com/item?id=49961057 Points: 608 # Comments: 495",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1515,19 +1654,6 @@
       "region": "global"
     },
     {
-      "id": "88c6964b7534",
-      "title": "The technology to eradicate mosquito-borne disease exists",
-      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "benbreen",
-      "published": "2026-10-04T18:06:04+00:00",
-      "summary": "Article URL: https://worksinprogress.co/issue/mosquitoes-are-a-choice/ Comments URL: https://news.ycombinator.com/item?id=49956290 Points: 234 # Comments: 175",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "366bac11553e",
       "title": "Reviu",
       "url": "https://www.producthunt.com/products/reviu",
@@ -1726,26 +1852,6 @@
       "region": "india"
     },
     {
-      "id": "86b89983a27c",
-      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-      "url": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-04T00:19:38+00:00",
-      "summary": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine…",
-      "tags": [
-        "Agentic AI",
-        "Editors Pick",
-        "Physical AI",
-        "Robotics",
-        "Staff",
-        "Tutorials"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "3ba89625595d",
       "title": "We're going to need default hard budget caps on pretty much everything",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
@@ -1845,19 +1951,6 @@
       "region": "global"
     },
     {
-      "id": "9c9db5f053a4",
-      "title": "From K-pop to AI, Karnataka seeks deeper ties with Korea",
-      "url": "https://yourstory.com/2026/10/karnataka-korean-investment-technology-partnerships",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-03T15:40:41+00:00",
-      "summary": "From K-pop to AI, Karnataka is looking to turn India’s growing Korean connection into investment and technology partnerships.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "2e8fcde443d4",
       "title": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr",
       "url": "https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/",
@@ -1868,93 +1961,6 @@
       "summary": "Kuku Technologies Limited, parent company of audio OTT platform Kuku FM and microdrama app Kuku TV, swung into the black…",
       "tags": [
         "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "e285e06d2da8",
-      "title": "New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This Week",
-      "url": "https://inc42.com/buzz/new-age-tech-stocks-extend-slide-turtlemint-slumps-another-20-this-week/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-10-03T13:37:38+00:00",
-      "summary": "New-age tech stocks remained under pressure this week, with 47 stocks declining as benchmark indices recorded their eighth consecutive weekly…",
-      "tags": [
-        "News",
-        "Inc42 Markets"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "1295ed49ff00",
-      "title": "Type Safe Generic Data Structures in C (2025)",
-      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "AlexeyBrin",
-      "published": "2026-10-03T11:57:20+00:00",
-      "summary": "Article URL: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/ Comments URL: https://news.ycombinator.com/item?id=49943479 Points: 129 # Comments: 99",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "66cb00c10118",
-      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-10-03T10:46:59+00:00",
-      "summary": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…",
-      "tags": [
-        "In-Depth",
-        "Listicle"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "0cd667a855c3",
-      "title": "Thinking Orbs",
-      "url": "https://www.producthunt.com/products/thinking-orbs",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Yogesh",
-      "published": "2026-10-03T08:11:16+00:00",
-      "summary": "Animated AI Status Indicator Component Library for React Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2fb2308e2c6b",
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "source": "Last Week in AI",
-      "source_id": "last_week_in_ai",
-      "author": "Last Week in AI",
-      "published": "2026-10-03T07:32:03+00:00",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "c1008715f2a9",
-      "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
-      "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shraddha Goled",
-      "published": "2026-10-03T07:12:53+00:00",
-      "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…",
-      "tags": [
-        "In-Depth",
-        "Follow Up"
       ],
       "tier": "india",
       "region": "india"
