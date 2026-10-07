@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:11:35.782055+00:00",
+  "generated_at": "2026-10-07T03:54:02.985735+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,177 @@
   "item_count": 120,
   "items": [
     {
+      "id": "b42348fc48e2",
+      "title": "OpenAI Agents Go Rogue, FYDY Eyes $12 Mn & More",
+      "url": "https://inc42.com/buzz/openai-agents-go-rogue-fydy-eyes-12-mn-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-07T02:30:29+00:00",
+      "summary": "OpenAI Agents Hit Wikimedia OpenAI is under fresh scrutiny over its “rogue” agents. Wikimedia Foundation claims that the AI juggernaut’s…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "e14aac76ad5b",
+      "title": "The Case For Evals In A Multi-Model World",
+      "url": "https://inc42.com/features/the-case-for-evals-in-a-multi-model-world/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Ankush Das",
+      "published": "2026-10-07T01:30:07+00:00",
+      "summary": "Another day and another new model grabs the limelight. Product teams scramble to see how it can be used for…",
+      "tags": [
+        "In-Depth",
+        "The AI Shift"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "97d0a0914c6f",
+      "title": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
+      "url": "https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-07T00:53:03+00:00",
+      "summary": "Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot…",
+      "tags": [
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "50e357203d2a",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-07T00:16:45+00:00",
+      "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to…",
+      "tags": [
+        "wikimedia",
+        "wikipedia",
+        "wikis",
+        "ai",
+        "generative-ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "fd7b29632bdc",
+      "title": "Quoting Victoria Kim",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-06T23:58:56+00:00",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. — Victoria Kim ,…",
+      "tags": [
+        "accidental-cyberattacks",
+        "generative-ai",
+        "ai-security-research",
+        "openai",
+        "ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "4e21b25c3f63",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Fe2O3",
+      "published": "2026-10-06T23:28:08+00:00",
+      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 140 # Comments: 110",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e423af57c98a",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-10-06T23:26:38+00:00",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "38f8cbc73341",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-06T23:04:13+00:00",
+      "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an…",
+      "tags": [
+        "openai",
+        "llm",
+        "coding-agents",
+        "jev"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "adc1cdfb4828",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-10-06T22:34:03+00:00",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "tags": [
+        "AI",
+        "Startups",
+        "CRV",
+        "General Catalyst",
+        "ai video"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "47b9255d8fa0",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "OfficialTurkey",
+      "published": "2026-10-06T22:17:21+00:00",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 549 # Comments: 477",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "224eb5aa6e6d",
       "title": "llm-mistral 0.16",
       "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
@@ -39,6 +210,26 @@
       "region": "global"
     },
     {
+      "id": "4ed96d3f0ae4",
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-10-06T21:31:10+00:00",
+      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "tags": [
+        "Tech",
+        "drones",
+        "military drones",
+        "Nato",
+        "russia",
+        "Russia invasion of Ukraine"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "d68e9c2e9736",
       "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
       "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
@@ -52,6 +243,39 @@
         "Labor",
         "News",
         "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a585154abde8",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "chiefstorm",
+      "published": "2026-10-06T20:57:25+00:00",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 184 # Comments: 76",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ecc073932795",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Samuel Axon",
+      "published": "2026-10-06T20:50:32+00:00",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "Codex",
+        "EU",
+        "openai",
+        "textGrain"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -124,6 +348,39 @@
       "tags": [
         "AI",
         "content moderation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "232920737ce2",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Mgtyalx",
+      "published": "2026-10-06T20:33:47+00:00",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 197 # Comments: 318",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ef0e518eed55",
+      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Scharon Harding",
+      "published": "2026-10-06T20:32:12+00:00",
+      "summary": "A combined service could lead to higher prices.",
+      "tags": [
+        "Tech",
+        "acquisitions",
+        "Discovery Plus",
+        "hbo max",
+        "mergers",
+        "mergers and acquisitions"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -209,6 +466,26 @@
       "region": "global"
     },
     {
+      "id": "21ab3d58f3ee",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-10-06T19:21:14+00:00",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "tags": [
+        "Biz & IT",
+        "Security",
+        "browser",
+        "certificate",
+        "certificate authority",
+        "tls"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4c7e09422810",
       "title": "Using Parseable with Datasette for OpenTelemetry traces",
       "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
@@ -224,25 +501,6 @@
         "opentelemetry"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "e8c38ce86034",
-      "title": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
-      "url": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-06T19:03:56+00:00",
-      "summary": "If you've been using an older Amazon Echo device as a speaker through its 3.5mm aux input, Alexa voice commands to play or pause from line in may stop working. Ars Technica points to this Reddit poster claiming they received a message from Amazon about the change, which the…",
-      "tags": [
-        "Amazon",
-        "Amazon Alexa",
-        "Audio",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -312,6 +570,19 @@
       "region": "global"
     },
     {
+      "id": "729a1a1d63d1",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "zed_labs_dev",
+      "published": "2026-10-06T18:00:34+00:00",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 129 # Comments: 66",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "cc468808ca8f",
       "title": "ServiceNow’s India Bet: Can It Put AI To Work Inside Enterprises?",
       "url": "https://inc42.com/features/servicenows-india-bet-can-it-put-ai-to-work-inside-enterprises/",
@@ -340,25 +611,6 @@
         "datasette"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "232920737ce2",
-      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-10-06T17:33:44+00:00",
-      "summary": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
-      "tags": [
-        "Policy",
-        "david ellison",
-        "Paramount Skydance",
-        "skydance",
-        "warner bros. discovery"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -479,7 +731,7 @@
       "source_id": "hacker_news",
       "author": "fsbonetto",
       "published": "2026-10-06T16:23:25+00:00",
-      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 179 # Comments: 231",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 252 # Comments: 309",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -497,6 +749,19 @@
         "Startups",
         "TechCrunch Founder Summit"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0a7d6e8e8b6e",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ilreb",
+      "published": "2026-10-06T16:03:49+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/ Comments URL: https://news.ycombinator.com/item?id=49980487 Points: 250 # Comments: 31",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -728,46 +993,6 @@
       "region": "global"
     },
     {
-      "id": "1a4fa7afdfab",
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-06T14:00:00+00:00",
-      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-      "tags": [
-        "Startups",
-        "Fintech",
-        "Venture",
-        "AI",
-        "Robotics",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a74b38e3605d",
-      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aisha Malik",
-      "published": "2026-10-06T13:57:32+00:00",
-      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-      "tags": [
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "Netflix",
-        "Paramount Skydance",
-        "streaming service",
-        "Warner Bros"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4ae5cf812226",
       "title": "Exclusive: AI Research Startup FYDY In Talks To Raise $12 Mn From Lightspeed, General Catalyst",
       "url": "https://inc42.com/buzz/fydy-in-talks-to-raise-12-mn-from-lightspeed-general-catalyst/",
@@ -822,26 +1047,6 @@
       "region": "global"
     },
     {
-      "id": "1e93f4671c9d",
-      "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
-      "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-10-06T13:15:00+00:00",
-      "summary": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
-      "tags": [
-        "Startups",
-        "Hardware",
-        "Batteries",
-        "Exclusive",
-        "glimpse",
-        "imaging software"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "80b0cd516982",
       "title": "Cabinet approves proposal to set up Integrated Transport and Logistics Authority",
       "url": "https://yourstory.com/2026/10/cabinet-approves-proposal-to-set-up-integrated-transport-and-logistics-authority",
@@ -866,6 +1071,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "6086f790c743",
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "surprisetalk",
+      "published": "2026-10-06T12:40:03+00:00",
+      "summary": "Article URL: https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/ Comments URL: https://news.ycombinator.com/item?id=49977531 Points: 173 # Comments: 114",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "79c22ef5c1ac",
@@ -914,16 +1132,16 @@
       "region": "india"
     },
     {
-      "id": "ec031df26322",
-      "title": "Polars 2.0",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "simicd",
-      "published": "2026-10-06T11:59:01+00:00",
-      "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 391 # Comments: 91",
+      "id": "342677ae7ead",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-06T12:00:00+00:00",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "tags": [],
-      "tier": "startup_news",
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -971,19 +1189,6 @@
       "region": "india"
     },
     {
-      "id": "05d7fb535e0b",
-      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "pseudolus",
-      "published": "2026-10-06T11:11:51+00:00",
-      "summary": "Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 291 # Comments: 147",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "00d7525c8d01",
       "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
       "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
@@ -997,19 +1202,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "cd01a72537c2",
-      "title": "I'm the AGI that's wiping out humanity",
-      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "alex-moon",
-      "published": "2026-10-06T10:59:55+00:00",
-      "summary": "Article URL: https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how Comments URL: https://news.ycombinator.com/item?id=49976751 Points: 139 # Comments: 83",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "8ca18ac8317b",
@@ -1070,7 +1262,7 @@
       "published": "2026-10-06T10:00:00+00:00",
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "tags": [
-        "Company"
+        "Publication"
       ],
       "tier": "labs",
       "region": "global"
@@ -1083,7 +1275,7 @@
       "source_id": "hacker_news",
       "author": "solarist",
       "published": "2026-10-06T09:48:46+00:00",
-      "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 490 # Comments: 158",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 539 # Comments: 185",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1102,19 +1294,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "800d460c0ed7",
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ingve",
-      "published": "2026-10-06T08:08:20+00:00",
-      "summary": "Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points: 276 # Comments: 115",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "7523e88effb9",
@@ -1337,19 +1516,6 @@
       "region": "global"
     },
     {
-      "id": "544f392c971d",
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jgx0",
-      "published": "2026-10-05T22:55:11+00:00",
-      "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 336 # Comments: 223",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "84cd87ae2cca",
       "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
       "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
@@ -1367,19 +1533,6 @@
         "Applications"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2cc36f9e1be3",
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ibobev",
-      "published": "2026-10-05T22:30:02+00:00",
-      "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 303 # Comments: 228",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1423,19 +1576,6 @@
       "region": "global"
     },
     {
-      "id": "fd915bcb238f",
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ishan0102",
-      "published": "2026-10-05T21:40:50+00:00",
-      "summary": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 298 # Comments: 104",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e4a496e38b79",
       "title": "Customer Service AI for Etsy",
       "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
@@ -1444,19 +1584,6 @@
       "author": "Adam",
       "published": "2026-10-05T21:26:37+00:00",
       "summary": "Answer Etsy buyer messages in seconds, always professional Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2ac688ca159f",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "E-Reverance",
-      "published": "2026-10-05T21:15:07+00:00",
-      "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 264 # Comments: 79",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1567,19 +1694,6 @@
       "region": "global"
     },
     {
-      "id": "7ded5c03aba5",
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Philpax",
-      "published": "2026-10-05T19:16:35+00:00",
-      "summary": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 537 # Comments: 167",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "badaf2352f42",
       "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
       "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
@@ -1686,26 +1800,6 @@
       "region": "global"
     },
     {
-      "id": "ac479a9ad39c",
-      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jeremy Hsu",
-      "published": "2026-10-05T17:21:11+00:00",
-      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-      "tags": [
-        "Tech",
-        "data centers",
-        "mobile phone service",
-        "Russia invasion of Ukraine",
-        "Russia war on Ukraine",
-        "Russian invasion of Ukraine"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "ab01d91b051e",
       "title": "EasyCut",
       "url": "https://www.producthunt.com/products/easycut-2",
@@ -1739,7 +1833,7 @@
       "source_id": "hacker_news",
       "author": "surprisetalk",
       "published": "2026-10-05T17:00:10+00:00",
-      "summary": "Article URL: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html Comments URL: https://news.ycombinator.com/item?id=49967427 Points: 117 # Comments: 31",
+      "summary": "Article URL: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html Comments URL: https://news.ycombinator.com/item?id=49967427 Points: 130 # Comments: 38",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1776,24 +1870,6 @@
       "region": "global"
     },
     {
-      "id": "ea0c58b10b78",
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-10-05T16:44:21+00:00",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously…",
-      "tags": [
-        "AI",
-        "News",
-        "OpenAI",
-        "Policy"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "bc749804582a",
       "title": "iphone-use",
       "url": "https://www.producthunt.com/products/iphone-use",
@@ -1820,23 +1896,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "932d242f1548",
-      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jonathan M. Gitlin",
-      "published": "2026-10-05T16:09:07+00:00",
-      "summary": "A software bug waylaid half the field and required a race reboot.",
-      "tags": [
-        "Cars",
-        "F1",
-        "Formula 1"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "f6a980534466",
@@ -1897,25 +1956,6 @@
       "region": "global"
     },
     {
-      "id": "1d2e10e3dcd2",
-      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-      "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Beth Mole",
-      "published": "2026-10-05T15:12:17+00:00",
-      "summary": "Unconfirmed reports have suggested there was a laboratory accident.",
-      "tags": [
-        "Health",
-        "outbreak",
-        "plague",
-        "quarantine",
-        "russia"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "78ad53815846",
       "title": "Our approach to EU text provenance rules",
       "url": "https://openai.com/index/eu-text-provenance",
@@ -1942,40 +1982,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "252dbc47848d",
-      "title": "AI glasses face their first major government crackdown",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Richard Milne, Financial Times",
-      "published": "2026-10-05T13:39:30+00:00",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "tags": [
-        "AI",
-        "ai glasses",
-        "privacy",
-        "syndication"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1d28d12072be",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "MIT Technology Review Insights",
-      "published": "2026-10-05T13:29:32+00:00",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The…",
-      "tags": [
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     }
   ]
 }
