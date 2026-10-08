@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:40:37.617574+00:00",
+  "generated_at": "2026-10-08T22:45:54.031797+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,22 +22,817 @@
   "item_count": 120,
   "items": [
     {
-      "id": "2e4fc38250c3",
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "id": "51c6cb3bd66a",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-10-08T21:53:51+00:00",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source…",
       "tags": [
-        "Startups",
-        "Venture",
-        "Fundraising",
         "AI",
-        "a16z"
+        "Anthropic",
+        "Linux",
+        "News",
+        "Security",
+        "Tech"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "429b12e0917d",
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-08T21:05:44+00:00",
+      "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of…",
+      "tags": [
+        "computer-science",
+        "carson-gross",
+        "careers",
+        "ai"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "da3ca48318e6",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-10-08T21:00:00+00:00",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "lawsuit",
+        "Theranos"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2c0a00b9b84f",
+      "title": "VinFast Signs Deals To Set Up 50 E-Motorcycle Showrooms Across India",
+      "url": "https://inc42.com/buzz/vinfast-signs-deals-to-set-up-50-e-motorcycle-showrooms-across-india/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-08T20:22:27+00:00",
+      "summary": "With an eye on entering the homegrown electric two-wheeler (E2W) market, Vietnamese EV maker VinFast has signed letters of intent…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "e1475b62e027",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-08T20:06:56+00:00",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid…",
+      "tags": [
+        "AI",
+        "News",
+        "Robot",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "301544ff1a07",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-10-08T20:04:26+00:00",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "tags": [
+        "AI",
+        "ai safety",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2824c726dd3a",
+      "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Gaby Del Valle",
+      "published": "2026-10-08T19:45:00+00:00",
+      "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally…",
+      "tags": [
+        "Policy",
+        "Report",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "28b9b90353ed",
+      "title": "Paramount is making a Cyberpunk 2077 film",
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-08T19:14:03+00:00",
+      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di…",
+      "tags": [
+        "Entertainment",
+        "Film",
+        "Gaming",
+        "News"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "97cefd46cc0a",
+      "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-08T18:48:36+00:00",
+      "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White…",
+      "tags": [
+        "Apple",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f62620b7eae4",
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Amanda Silberling",
+      "published": "2026-10-08T18:30:00+00:00",
+      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "tags": [
+        "Media & Entertainment",
+        "FTX",
+        "In Brief",
+        "Netflix",
+        "Sam Bankman-Fried"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "70543e9cd2f2",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-10-08T18:20:32+00:00",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "movies",
+        "filmmaking",
+        "ben affleck"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ee0909605c2b",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-10-08T18:19:45+00:00",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "AI leaderboard",
+        "Arena AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3bf143dd453c",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-10-08T18:19:42+00:00",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c4b9450255a9",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-10-08T18:18:00+00:00",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "gemini",
+        "Google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "54a283d7c732",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Russell Brandom",
+      "published": "2026-10-08T18:16:24+00:00",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Claude",
+        "In Brief"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7cc2fc2bcac3",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-10-08T18:10:55+00:00",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "tags": [
+        "AI",
+        "mathematics",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e2e6b34fdfe6",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Emma Roth",
+      "published": "2026-10-08T17:58:33+00:00",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than…",
+      "tags": [
+        "AI",
+        "Copyright",
+        "Law",
+        "News",
+        "OpenAI",
+        "Policy"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "606acb3b3f93",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-08T17:57:01+00:00",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens…",
+      "tags": [
+        "AI",
+        "Linux",
+        "News",
+        "Tech",
+        "xAI"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "4a89f944af9f",
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kbyatnal",
+      "published": "2026-10-08T17:51:49+00:00",
+      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 171 # Comments: 87",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f526dbecf422",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Hayden Field",
+      "published": "2026-10-08T17:00:00+00:00",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Report"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "f9a7f01f513e",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-10-08T16:59:39+00:00",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 409 # Comments: 100",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b5590cdb9727",
+      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "source": "The Pragmatic Engineer — Gergely Orosz",
+      "source_id": "pragmatic_engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-08T16:55:51+00:00",
+      "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "d341110a1d18",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-10-08T16:45:00+00:00",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+      "tags": [
+        "Startups",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4653b951c102",
+      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+      "url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-08T16:17:35+00:00",
+      "summary": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. The post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d12d77aa7dd5",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aisha Malik",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "AI agents",
+        "smart rings"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8f83cc80b2fd",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aditya Mehta",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "tags": [
+        "AI",
+        "AI agents"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "112b5f00879d",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "tags": [],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "16b8b30bea65",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aisha Malik",
+      "published": "2026-10-08T15:42:26+00:00",
+      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "tags": [
+        "Government & Policy",
+        "Adobe",
+        "green cards",
+        "H-1B visa",
+        "In Brief",
+        "Microsoft"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b890444119a1",
+      "title": "NABVENTURES Marks First Close Of ₹1,500 Cr Fund At ₹450 Cr",
+      "url": "https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-10-08T15:31:01+00:00",
+      "summary": "NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cbb9d3a99a6a",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Emma Roth",
+      "published": "2026-10-08T15:27:30+00:00",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.…",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "db7ddb6b79e6",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "alephnerd",
+      "published": "2026-10-08T15:15:00+00:00",
+      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 764 # Comments: 1339",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e86e0132df68",
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aisha Malik",
+      "published": "2026-10-08T15:06:17+00:00",
+      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+      "tags": [
+        "Apps",
+        "Social",
+        "In Brief",
+        "new york state",
+        "online child safety",
+        "social media child safety"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5876a1638032",
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+      "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Zack Whittaker",
+      "published": "2026-10-08T15:01:15+00:00",
+      "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+      "tags": [
+        "Security",
+        "Asos",
+        "cyberattack",
+        "data breach"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "86cf93ed4e70",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-10-08T15:00:00+00:00",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Bloom Energy",
+        "TechCrunch Disrupt",
+        "Ambrosia Energy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b731ccc4fe79",
+      "title": "Nearly half of India’s startup ecosystem report low wellbeing; employees fare the worst: Study",
+      "url": "https://yourstory.com/2026/10/india-startup-ecosystem-low-wellbeing-employees-study",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-08T14:47:06+00:00",
+      "summary": "According to the State of Mind: The Startup Ecosystem study, more employees scored at or below the wellbeing threshold, compared to investors, ecosystem supporters, and founders.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "c5f0c24361ed",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-10-08T14:34:33+00:00",
+      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "tags": [
+        "Enterprise",
+        "TC",
+        "Spotify"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "94028437ade7",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Emma Roth",
+      "published": "2026-10-08T14:28:03+00:00",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and…",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "fcd76614ca85",
+      "title": "Govt To Release Consultation Paper On AI Regulation: Vaishnaw",
+      "url": "https://inc42.com/buzz/govt-to-release-consultation-paper-on-ai-regulation-vaishnaw/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-08T14:11:00+00:00",
+      "summary": "Amid growing uncertainties over AI’s utilisation and its prospects, union IT minister Ashwini Vaishnaw said that the government is working…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d0aedea6babd",
+      "title": "Orkut.com",
+      "url": "https://orkut.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "andreynering",
+      "published": "2026-10-08T14:09:53+00:00",
+      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 125 # Comments: 83",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b5750fd4ebe3",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Nicholas Kusnetz, Inside Climate News",
+      "published": "2026-10-08T14:04:42+00:00",
+      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "tags": [
+        "Policy",
+        "climate change",
+        "ExxonMobil",
+        "fossil fuels",
+        "Massachusetts vs ExxonMobil",
+        "syndication"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "afaa64036116",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Nilay Patel",
+      "published": "2026-10-08T14:00:00+00:00",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led…",
+      "tags": [
+        "AI",
+        "Decoder",
+        "Facebook",
+        "Meta",
+        "OpenAI",
+        "Podcasts"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "00fc2266fd50",
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Hayden Field",
+      "published": "2026-10-08T14:00:00+00:00",
+      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately…",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "Entertainment",
+        "Film",
+        "OpenAI",
+        "Report"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "9db213faefa6",
+      "title": "5 Lessons from The Alchemist about finding your way",
+      "url": "https://yourstory.com/2026/10/lessons-finding-way",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-08T13:55:00+00:00",
+      "summary": "Discover five powerful lessons from Paulo Coelho's The Alchemist that can help you navigate uncertainty, & find your own path.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "80b083121773",
+      "title": "DailyObjects raises Rs 332 Cr in Series C funding round",
+      "url": "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-08T13:40:03+00:00",
+      "summary": "The design-led lifestyle-tech brand will use the funding for retail expansion, R&D, brand building, and possible international expansion.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "406ae3e6613b",
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "speckx",
+      "published": "2026-10-08T13:22:01+00:00",
+      "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 228 # Comments: 141",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fdcc1662c542",
+      "title": "D2C Lifestyle Brand DailyObjects Raises ₹332 Cr To Expand Offline Presence",
+      "url": "https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%e2%82%b9332-cr-to-expand-offline-presence/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-10-08T12:44:56+00:00",
+      "summary": "D2C lifestyle startup DailyObjects has raised ₹332 Cr ($34.3 Mn) in a Series C funding round co-led by Xponentia Capital…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "95120c22b81b",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "stared",
+      "published": "2026-10-08T12:00:20+00:00",
+      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 330 # Comments: 169",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ca1ec6c6a1a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "tags": [
+        "Startup"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -56,23 +851,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "d019f4bbc6bf",
-      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
-      "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Meredith Haggerty",
-      "published": "2026-10-08T11:30:00+00:00",
-      "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians,…",
-      "tags": [
-        "Entertainment",
-        "TV Show Reviews",
-        "TV Shows"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "95abd2184698",
@@ -296,24 +1074,6 @@
       "region": "india"
     },
     {
-      "id": "6a37003e34aa",
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-10-08T06:14:11+00:00",
-      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-      "tags": [
-        "Government & Policy",
-        "Space",
-        "SpaceX",
-        "Starlink"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "be0e79cd397b",
       "title": "Centre Rejects Elon Musk’s Claim On Starlink, Says Satcom Rules Non-Discriminatory",
       "url": "https://inc42.com/buzz/centre-rejects-elon-musks-claim-on-starlink-says-satcom-rules-non-discriminatory/",
@@ -372,19 +1132,6 @@
       "author": "Panshul Jindal",
       "published": "2026-10-08T05:27:12+00:00",
       "summary": "Your AI agent's phone to dial, hold, and reports back Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9366cdf883bc",
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ent101",
-      "published": "2026-10-08T05:14:14+00:00",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185 Comments URL: https://news.ycombinator.com/item?id=50002008 Points: 380 # Comments: 365",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -478,6 +1225,19 @@
       "region": "global"
     },
     {
+      "id": "8494b8dcf4cd",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jonotime",
+      "published": "2026-10-08T00:14:48+00:00",
+      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 270 # Comments: 234",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "b7d1e3ccac45",
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
@@ -498,21 +1258,46 @@
       "region": "global"
     },
     {
-      "id": "4b75921a70b9",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-10-07T23:36:57+00:00",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "id": "298377f26ad3",
+      "title": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
+      "url": "https://tldr.tech/ai/2026-10-08",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-10-08T00:00:00+00:00",
+      "summary": "",
       "tags": [
-        "Robotics",
-        "Startups",
-        "Venture",
-        "In Brief"
+        "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "0f05fd4155a4",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "source_id": "huggingface",
+      "author": null,
+      "published": "2026-10-08T00:00:00+00:00",
+      "summary": "",
+      "tags": [],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "077dea1e8a7a",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-08T00:00:00+00:00",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "tags": [
+        "Safety"
+      ],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -547,22 +1332,6 @@
       "region": "india"
     },
     {
-      "id": "cc597e63eba9",
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Connie Loizos",
-      "published": "2026-10-07T22:59:16+00:00",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "tags": [
-        "Venture",
-        "Endeavor Catalyst"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "93555bce63b5",
       "title": "Tractionwave",
       "url": "https://www.producthunt.com/products/tractionwave",
@@ -576,21 +1345,15 @@
       "region": "global"
     },
     {
-      "id": "39300517c70e",
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew J. Hawkins",
-      "published": "2026-10-07T22:01:00+00:00",
-      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV…",
-      "tags": [
-        "BMW",
-        "Cars",
-        "Electric Cars",
-        "News",
-        "Transportation"
-      ],
+      "id": "ecfa65be2efa",
+      "title": "Polylane for Vercel",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "fmerian",
+      "published": "2026-10-07T22:05:44+00:00",
+      "summary": "An AI on-call engineer for your Vercel apps Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -628,38 +1391,6 @@
       "region": "global"
     },
     {
-      "id": "fa27573ab4b3",
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-07T21:19:54+00:00",
-      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
-      "tags": [
-        "Entertainment",
-        "Gadgets",
-        "Music",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ffaeefda6df4",
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "muglug",
-      "published": "2026-10-07T21:16:18+00:00",
-      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1715 # Comments: 180",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a343c9786e70",
       "title": "Claude Haiku 5.5",
       "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
@@ -677,45 +1408,6 @@
         "llm-pricing"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "92be971aec51",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-10-07T20:48:45+00:00",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "Startups",
-        "AI agents",
-        "Hermes Agent"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dd6f14167a34",
-      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
-      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Antonio G. Di Benedetto",
-      "published": "2026-10-07T20:44:34+00:00",
-      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa…",
-      "tags": [
-        "Android",
-        "Gadgets",
-        "Google",
-        "Laptops",
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -739,56 +1431,11 @@
       "region": "global"
     },
     {
-      "id": "54da693e6cb2",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-10-07T20:22:37+00:00",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "TC",
-        "Microsoft",
-        "nvidia"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d8dcbe1ad80d",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gumby",
-      "published": "2026-10-07T20:01:37+00:00",
-      "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 182 # Comments: 98",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cc77c4f24dff",
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "6bitquant",
-      "published": "2026-10-07T19:33:40+00:00",
-      "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 278 # Comments: 297",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b2d1fdcc50f2",
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-07T19:10:42+00:00",
       "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts,…",
@@ -799,27 +1446,7 @@
         "OpenAI",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b8fee9131fd3",
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Antonio G. Di Benedetto",
-      "published": "2026-10-07T19:05:52+00:00",
-      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as…",
-      "tags": [
-        "Asus",
-        "Dell",
-        "Gadgets",
-        "HP",
-        "Laptops",
-        "Lenovo"
-      ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -832,73 +1459,6 @@
       "published": "2026-10-07T19:03:43+00:00",
       "summary": "Orchestrate AI agent teams on a visual canvas Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "efdc57594c74",
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "David Pierce",
-      "published": "2026-10-07T18:46:16+00:00",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN…",
-      "tags": [
-        "Tech",
-        "Web"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "94b56027ae18",
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "speckx",
-      "published": "2026-10-07T18:43:18+00:00",
-      "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 158 # Comments: 72",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cfe922d3fcc9",
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Verge Staff",
-      "published": "2026-10-07T18:42:22+00:00",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599…",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Laptops",
-        "Microsoft",
-        "News",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "36bf85cb5432",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-10-07T18:30:57+00:00",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -936,84 +1496,6 @@
       "region": "global"
     },
     {
-      "id": "610b12eb5069",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Rebecca Bellan",
-      "published": "2026-10-07T18:15:28+00:00",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "07b4a4362d2b",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-10-07T18:01:20+00:00",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools…",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "0ca1450969b5",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "joshuawright11",
-      "published": "2026-10-07T18:00:58+00:00",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 672 # Comments: 390",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4a32ff51ed08",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-10-07T18:00:19+00:00",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "64017b0e8560",
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gumby",
-      "published": "2026-10-07T17:59:34+00:00",
-      "summary": "Article URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html Comments URL: https://news.ycombinator.com/item?id=49996406 Points: 118 # Comments: 35",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d8f516d6f374",
       "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
       "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
@@ -1034,54 +1516,6 @@
       "region": "global"
     },
     {
-      "id": "19355795289b",
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "saikatsg",
-      "published": "2026-10-07T17:48:38+00:00",
-      "summary": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 258 # Comments: 120",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "35be1f379334",
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-07T17:46:44+00:00",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other…",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "067e04993df2",
-      "title": "Greenairy is building smart plant towers to clean the air in your office",
-      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-10-07T17:30:00+00:00",
-      "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
-      "tags": [
-        "Startups",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c2e92180363e",
       "title": "Building resilient systems with Sam Newman",
       "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
@@ -1092,6 +1526,19 @@
       "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
       "tags": [],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "84894d257f10",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ck2",
+      "published": "2026-10-07T16:56:30+00:00",
+      "summary": "Article URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/ Comments URL: https://news.ycombinator.com/item?id=49995495 Points: 263 # Comments: 162",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1108,24 +1555,6 @@
       "region": "global"
     },
     {
-      "id": "b68f72604da4",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lauren Forristal",
-      "published": "2026-10-07T16:53:46+00:00",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "tags": [
-        "AI",
-        "Apps",
-        "child safety",
-        "Meta"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4212e6ea0f63",
       "title": "Hallmonitor",
       "url": "https://www.producthunt.com/products/hallmonitor",
@@ -1139,23 +1568,6 @@
       "region": "global"
     },
     {
-      "id": "e13d16bd9e5e",
-      "title": "ChatGPT is getting college planning tools",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-10-07T16:00:00+00:00",
-      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps…",
-      "tags": [
-        "AI",
-        "News",
-        "OpenAI"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "87302515dd9a",
       "title": "SineFrame M3",
       "url": "https://www.producthunt.com/products/sineframe-m3",
@@ -1166,37 +1578,6 @@
       "summary": "Test MCP servers and the agents that call them in pytest Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3c566b0429ae",
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "SpeakingOfBrad",
-      "published": "2026-10-07T15:44:21+00:00",
-      "summary": "Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 548 # Comments: 143",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e679d3ae180e",
-      "title": "Muse launches on the iPad",
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Andrew Liszewski",
-      "published": "2026-10-07T15:37:23+00:00",
-      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots,…",
-      "tags": [
-        "AI",
-        "Meta",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1217,52 +1598,6 @@
       "region": "india"
     },
     {
-      "id": "12db83768fa9",
-      "title": "Why were Victorian elites so effective?",
-      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "karakoram",
-      "published": "2026-10-07T15:09:33+00:00",
-      "summary": "Article URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/ Comments URL: https://news.ycombinator.com/item?id=49993908 Points: 184 # Comments: 307",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e8947d3adf72",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ram Iyer",
-      "published": "2026-10-07T15:07:08+00:00",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fundraising",
-        "Startups",
-        "HealthLeap",
-        "HealthTech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7fc3a23ac879",
-      "title": "Animated ASCII Art for Web Pages",
-      "url": "https://ascii.rest/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "turrini",
-      "published": "2026-10-07T15:05:37+00:00",
-      "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 385 # Comments: 69",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b035af22115a",
       "title": "NOVA CLI v1.0",
       "url": "https://www.producthunt.com/products/nova-18",
@@ -1272,46 +1607,6 @@
       "published": "2026-10-07T15:00:40+00:00",
       "summary": "AI developer in your terminal Discussion | Link",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d8ea58b3c06c",
-      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sean O'Kane",
-      "published": "2026-10-07T15:00:00+00:00",
-      "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "bloom",
-        "Exclusive",
-        "supply chain ai"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8776abeb40e1",
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-10-07T15:00:00+00:00",
-      "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "Transportation",
-        "autonomous freight",
-        "parallel systems",
-        "Trains"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1346,102 +1641,6 @@
       "region": "global"
     },
     {
-      "id": "7e2cb564d4a4",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-10-07T14:41:38+00:00",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "AI assistants",
-        "Apple",
-        "Tony Fadell"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "491fd009380b",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-10-07T14:40:52+00:00",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical…",
-      "tags": [
-        "AI",
-        "Google",
-        "Health",
-        "Meta",
-        "Science",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a7cd3ac1dead",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lauren Forristal",
-      "published": "2026-10-07T14:36:23+00:00",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "tags": [
-        "AI",
-        "Gaming",
-        "Generative AI",
-        "Google",
-        "playground"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "72452dba288e",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-07T14:30:00+00:00",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "tags": [
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt",
-        "OpenAI"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "31faaa09aae5",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-07T14:15:00+00:00",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "tags": [
-        "Startups",
-        "Climate",
-        "Fintech",
-        "Venture",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "083b4a0cd473",
       "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
       "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
@@ -1457,43 +1656,6 @@
         "Mistral",
         "Open weights AI",
         "syndication"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1c9558d38162",
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ryan Whitwam",
-      "published": "2026-10-07T14:00:08+00:00",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
-      "tags": [
-        "AI",
-        "Google",
-        "Artificial Intelligence",
-        "gemini",
-        "google",
-        "SynthID"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "095815b1fb27",
-      "title": "AI/ML is becoming a performance factor in motorsport",
-      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jonathan M. Gitlin",
-      "published": "2026-10-07T13:56:38+00:00",
-      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
-      "tags": [
-        "Cars",
-        "IndyCar",
-        "openai"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1527,36 +1689,16 @@
       "region": "india"
     },
     {
-      "id": "205a7d63655f",
-      "title": "Review: Fine, let's talk about Digger",
-      "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-10-07T13:01:28+00:00",
-      "summary": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
-      "tags": [
-        "Culture",
-        "Digger",
-        "entertainment",
-        "films",
-        "reviews",
-        "Tom Cruise"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "005324537639",
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "librasteve",
-      "published": "2026-10-07T12:57:10+00:00",
-      "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 214 # Comments: 201",
+      "id": "91ed3eb235f3",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "source_id": "huggingface",
+      "author": null,
+      "published": "2026-10-07T13:21:03+00:00",
+      "summary": "",
       "tags": [],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1613,26 +1755,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "0a83419d01e1",
-      "title": "AI could upend food delivery",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Mia Sato",
-      "published": "2026-10-07T12:00:00+00:00",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's…",
-      "tags": [
-        "AI",
-        "Business",
-        "Food",
-        "Online Shopping",
-        "Science",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "ad4e14640e35",
@@ -1778,23 +1900,6 @@
       "region": "india"
     },
     {
-      "id": "8489f30897db",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-10-07T09:00:00+00:00",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help…",
-      "tags": [
-        "AI",
-        "News",
-        "OpenAI"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "0c9f5ceae3d9",
       "title": "BotBus",
       "url": "https://www.producthunt.com/products/botbus",
@@ -1818,130 +1923,6 @@
       "summary": "LLM router where providers compete for every prompt Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0c8bff331af0",
-      "title": "Sunfox Technologies Bags $7 Mn To Scale Cardiac Diagnostics Platform Spandan",
-      "url": "https://inc42.com/buzz/sunfox-technologies-bags-7-mn-to-scale-cardiac-diagnostics-platform-spandan/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-07T07:47:17+00:00",
-      "summary": "Dehradun-based medtech startup Sunfox Technologies has raised $7 Mn (around ₹67 Cr) in a Series A funding round led by…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "16a00be65b99",
-      "title": "Starlink operations specifically built for India to meet security, regulatory needs: Official",
-      "url": "https://yourstory.com/2026/10/starlink-operations-specifically-built-for-india-security-regulatory-needs-official",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-07T07:20:10+00:00",
-      "summary": "Speaking at India Mobile Congress 2026, SpaceX’s Starlink Business Operations Vice President Lauren Dreyer said the company has made an investment in setting up the required infrastructure to serve the Indian market.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b2931ed6e2fa",
-      "title": "Goyal invites US firms to explore investment opportunities in India",
-      "url": "https://yourstory.com/2026/10/goyal-invites-us-firms-to-explore-investment-opportunities-in-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-07T07:14:14+00:00",
-      "summary": "Commerce and Industry Minister Piyush Goyal met President and COO of Blackstone Jonathan Gray, and Chairman of Blackstone's International Private Equity business Prakash Melwani.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "04e9dc3828b5",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-07T07:00:00+00:00",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "53312954fafd",
-      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
-      "url": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-07T06:29:14+00:00",
-      "summary": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Deep Learning"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "15bda6fe54f1",
-      "title": "Zomint Raises ₹36 Cr To Scale Wealth Management Platform",
-      "url": "https://inc42.com/buzz/zomint-raises-%e2%82%b936-cr-to-scale-wealth-management-platform/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-10-07T05:57:41+00:00",
-      "summary": "Wealthtech startup Zomint has raised ₹36 Cr (about $3.7 Mn) in a seed funding round from Lightspeed and Prime Venture…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "50825819e757",
-      "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
-      "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-07T05:38:05+00:00",
-      "summary": "Hyderabad-based B2B edtech startup byteXL has raised $9 Mn (about ₹86.7 Cr) in a funding round led by Elevar Equity,…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "194d4d9280be",
-      "title": "Quoting Jake Boggan",
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-07T04:47:55+00:00",
-      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields.…",
-      "tags": [
-        "openai",
-        "mathematics",
-        "deep-blue",
-        "llms",
-        "ai",
-        "generative-ai"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
