@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:33:34.617242+00:00",
+  "generated_at": "2026-10-08T04:07:29.052281+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,140 @@
   "item_count": 120,
   "items": [
     {
+      "id": "2d0a6a2e377e",
+      "title": "Late Stage Funding Dips, Swish Takes On Zomato & More",
+      "url": "https://inc42.com/buzz/late-stage-funding-dips-swish-takes-on-zomato-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-08T02:30:21+00:00",
+      "summary": "Late Stage VCs Turn Risk Averse In Q3 Indian startup funding stabilised in Q3, but investor appetite split sharply. The…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7f7c7beb314f",
+      "title": "India’s $90B quick commerce gold rush; Celebrating the New Tech Order at TechSparks",
+      "url": "https://yourstory.com/2026/10/indias-90b-quick-commerce-gold-rush-techsparks-2026",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-08T02:00:00+00:00",
+      "summary": "Quick commerce currently claims about 6% of total retail spending in Indian metros, but researchers expect that share to climb to between 20% and 23%.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "066a796df71b",
+      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+      "url": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-08T01:49:11+00:00",
+      "summary": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI,…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b7d1e3ccac45",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Nick Indge",
+      "published": "2026-10-08T00:00:24+00:00",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "tags": [
+        "AI",
+        "Tech",
+        "hybrid intelligence",
+        "microsoft rtx spark dev box",
+        "microsoft surface laptop ultra",
+        "Microsoft Windows"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4b75921a70b9",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-10-07T23:36:57+00:00",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "tags": [
+        "Robotics",
+        "Startups",
+        "Venture",
+        "In Brief"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ee58890d81f7",
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-07T23:14:58+00:00",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty…",
+      "tags": [
+        "machine-learning",
+        "python"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "f89843d98fbd",
+      "title": "Meta Took Down 5.3 Mn Pieces Of Child Abuse Content In H1 2026",
+      "url": "https://inc42.com/buzz/meta-took-down-5-3-mn-pieces-of-child-abuse-content-in-h1-2026/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-07T23:14:09+00:00",
+      "summary": "Under regulatory scrutiny in India, social media giant Meta claims to have taken action against 5.3 Mn pieces of child…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cc597e63eba9",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-10-07T22:59:16+00:00",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "tags": [
+        "Venture",
+        "Endeavor Catalyst"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "39300517c70e",
       "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
       "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
@@ -36,6 +170,26 @@
         "Electric Cars",
         "News",
         "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a843173a5365",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Kyle Orland",
+      "published": "2026-10-07T21:56:42+00:00",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "tags": [
+        "AI",
+        "Adobe",
+        "Anthropic",
+        "clause",
+        "open source",
+        "Opus"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -56,6 +210,19 @@
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ffaeefda6df4",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "muglug",
+      "published": "2026-10-07T21:16:18+00:00",
+      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 988 # Comments: 110",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -119,6 +286,26 @@
       "region": "global"
     },
     {
+      "id": "a5237b6cac28",
+      "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+      "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-07T20:38:30+00:00",
+      "summary": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "54da693e6cb2",
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
@@ -134,19 +321,6 @@
         "Microsoft",
         "nvidia"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cc77c4f24dff",
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "6bitquant",
-      "published": "2026-10-07T19:33:40+00:00",
-      "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 149 # Comments: 156",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -197,7 +371,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-07T18:49:40+00:00",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 192 # Comments: 202",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 307 # Comments: 294",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -215,6 +389,19 @@
         "Tech",
         "Web"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "94b56027ae18",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "speckx",
+      "published": "2026-10-07T18:43:18+00:00",
+      "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 117 # Comments: 59",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -319,7 +506,7 @@
       "source_id": "hacker_news",
       "author": "joshuawright11",
       "published": "2026-10-07T18:00:58+00:00",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 388 # Comments: 186",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 542 # Comments: 281",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -369,7 +556,7 @@
       "source_id": "hacker_news",
       "author": "saikatsg",
       "published": "2026-10-07T17:48:38+00:00",
-      "summary": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 133 # Comments: 55",
+      "summary": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 200 # Comments: 89",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -478,7 +665,7 @@
       "source_id": "hacker_news",
       "author": "SpeakingOfBrad",
       "published": "2026-10-07T15:44:21+00:00",
-      "summary": "Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 265 # Comments: 92",
+      "summary": "Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 405 # Comments: 118",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -509,7 +696,7 @@
       "source_id": "hacker_news",
       "author": "nill0",
       "published": "2026-10-07T15:24:38+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 198 # Comments: 138",
+      "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 270 # Comments: 169",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -539,7 +726,20 @@
       "source_id": "hacker_news",
       "author": "DeepLogin",
       "published": "2026-10-07T15:09:59+00:00",
-      "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://news.ycombinator.com/item?id=49993914 Points: 429 # Comments: 291",
+      "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://news.ycombinator.com/item?id=49993914 Points: 506 # Comments: 362",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "12db83768fa9",
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "karakoram",
+      "published": "2026-10-07T15:09:33+00:00",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/ Comments URL: https://news.ycombinator.com/item?id=49993908 Points: 110 # Comments: 180",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -572,7 +772,7 @@
       "source_id": "hacker_news",
       "author": "turrini",
       "published": "2026-10-07T15:05:37+00:00",
-      "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 240 # Comments: 55",
+      "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 314 # Comments: 59",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -711,6 +911,19 @@
       "region": "global"
     },
     {
+      "id": "7d048ab337d4",
+      "title": "SynthID Detector",
+      "url": "https://synthid.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ilreb",
+      "published": "2026-10-07T14:16:44+00:00",
+      "summary": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news.ycombinator.com/item?id=49993188 Points: 100 # Comments: 89",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "31faaa09aae5",
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
@@ -827,25 +1040,6 @@
       "region": "global"
     },
     {
-      "id": "d71fff2ac5a8",
-      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-10-07T13:45:00+00:00",
-      "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-      "tags": [
-        "Apps",
-        "Startups",
-        "AI",
-        "In Brief",
-        "personal assistants"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "aac0dbd3d040",
       "title": "RBI removes Paytm Payments Bank from list of scheduled banks",
       "url": "https://yourstory.com/2026/10/rbi-removes-paytm-payments-bank-from-list-of-scheduled-banks",
@@ -901,7 +1095,7 @@
       "source_id": "hacker_news",
       "author": "librasteve",
       "published": "2026-10-07T12:57:10+00:00",
-      "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 125 # Comments: 143",
+      "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 177 # Comments: 166",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -944,6 +1138,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "ea4f899dc8df",
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "acossta",
+      "published": "2026-10-07T12:28:36+00:00",
+      "summary": "https://labs.google/playground Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 128 # Comments: 209",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "40b817c2b22f",
@@ -997,21 +1204,6 @@
       "region": "global"
     },
     {
-      "id": "ea4f899dc8df",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "source_id": "google_ai",
-      "author": "Maryam Karimzadehgan",
-      "published": "2026-10-07T12:00:00+00:00",
-      "summary": "Overview of Playground",
-      "tags": [
-        "AI"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
       "id": "4c9283db8760",
       "title": "Selling Intelligence Was the Warm-Up For AI. Owning Vertical Markets May Be The Play",
       "url": "https://inc42.com/resources/selling-intelligence-was-the-warm-up-for-ai-owning-vertical-markets-may-be-the-play/",
@@ -1027,6 +1219,19 @@
       "region": "india"
     },
     {
+      "id": "437cdfb12863",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sn001",
+      "published": "2026-10-07T11:27:27+00:00",
+      "summary": "Article URL: https://github.com/snuri00/psp-web-recomp Comments URL: https://news.ycombinator.com/item?id=49991243 Points: 173 # Comments: 94",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "e36111052c28",
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
@@ -1034,7 +1239,7 @@
       "source_id": "hacker_news",
       "author": "AshleysBrain",
       "published": "2026-10-07T11:25:02+00:00",
-      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 450 # Comments: 289",
+      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 509 # Comments: 344",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1094,32 +1299,6 @@
         "Daily Update"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "c02aaed0a85f",
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sasvari",
-      "published": "2026-10-07T09:51:43+00:00",
-      "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 276 # Comments: 53",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9dba5aa935dd",
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sohkamyung",
-      "published": "2026-10-07T09:17:55+00:00",
-      "summary": "Article URL: https://github.com/szabadkai/c64-keyboard-font/ Comments URL: https://news.ycombinator.com/item?id=49990224 Points: 363 # Comments: 61",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1344,6 +1523,19 @@
       "region": "global"
     },
     {
+      "id": "6074c48c656b",
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sandebert",
+      "published": "2026-10-07T03:43:14+00:00",
+      "summary": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb Comments URL: https://news.ycombinator.com/item?id=49987858 Points: 120 # Comments: 94",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ea193d0606bd",
       "title": "Reika",
       "url": "https://www.producthunt.com/products/reika",
@@ -1533,7 +1725,7 @@
       "source_id": "hacker_news",
       "author": "OfficialTurkey",
       "published": "2026-10-06T22:17:21+00:00",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1206 # Comments: 1372",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1252 # Comments: 1421",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1796,193 +1988,6 @@
       ],
       "tier": "authors",
       "region": "global"
-    },
-    {
-      "id": "232920737ce2",
-      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-10-06T17:33:44+00:00",
-      "summary": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
-      "tags": [
-        "Policy",
-        "david ellison",
-        "Paramount Skydance",
-        "skydance",
-        "warner bros. discovery"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "693f383c0eef",
-      "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
-      "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-06T17:30:46+00:00",
-      "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "659ba4f15196",
-      "title": "The state of the tech industry in 2026",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-06T16:25:03+00:00",
-      "summary": "A look into what has changed, what’s still the same – and what’s broken – in the tech industry. The full video and the summary of my keynote at LDX3 New York",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "60ef2af305e7",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-06T16:00:00+00:00",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "a6221988f02f",
-      "title": "Scrimshaw Jukebox",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-06T15:17:39+00:00",
-      "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example…",
-      "tags": [
-        "ai",
-        "generative-ai",
-        "llms",
-        "claude",
-        "vibe-coding"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "d5b66933d70f",
-      "title": "Karnataka govt signs MoU with ElevenLabs for Voice AI services",
-      "url": "https://yourstory.com/2026/10/karnataka-govt-signs-mou-with-elevenlabs-for-voice-ai-services",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-06T14:36:27+00:00",
-      "summary": "The partnership will focus on voice AI safety framework, assisting people with speaking disabilities and usage in government services.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f8b81879420e",
-      "title": "Figma Agent",
-      "url": "https://www.producthunt.com/products/figma",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Kate Ramakaieva",
-      "published": "2026-10-06T14:29:06+00:00",
-      "summary": "Prompt, edit and prototype without leaving the canvas Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4ae5cf812226",
-      "title": "Exclusive: AI Research Startup FYDY In Talks To Raise $12 Mn From Lightspeed, General Catalyst",
-      "url": "https://inc42.com/buzz/fydy-in-talks-to-raise-12-mn-from-lightspeed-general-catalyst/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Debarghya Sil",
-      "published": "2026-10-06T13:41:30+00:00",
-      "summary": "Frontier AI research startup FYDY (Fuzzy Dynamics), which is operating in stealth mode, is in advanced talks to raise $12…",
-      "tags": [
-        "News",
-        "Exclusive"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "342677ae7ead",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-06T12:00:00+00:00",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "c36f9be46a61",
-      "title": "Exclusive: IPO-Bound StockGro Raises ₹110 Cr From Existing Backers",
-      "url": "https://inc42.com/buzz/exclusive-ahead-of-ipo-stockgro-looks-to-raise-%e2%82%b9110-cr-from-existing-backers/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-10-06T11:56:32+00:00",
-      "summary": "Invest tech startup StockGro, which pre-filed its IPO papers last week, raises ₹110 Cr (around $10.4 Mn) as a part…",
-      "tags": [
-        "News",
-        "Exclusive"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "37e92cf50032",
-      "title": "Cabinet Clears ₹10,000 Cr SME Fund To Back Manufacturing, Tech Focused SMEs",
-      "url": "https://inc42.com/buzz/cabinet-clears-%e2%82%b910000-cr-sme-fund-to-back-manufacturing-tech-focused-smes/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-06T11:17:59+00:00",
-      "summary": "The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved the government’s ₹10,000 Cr SME Growth Fund (SGF) to…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "00d7525c8d01",
-      "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-      "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-10-06T11:06:54+00:00",
-      "summary": "Swara Baby Products, a contract manufacturer of disposable hygiene products and a subsidiary of omnichannel kidswear brand FirstCry’s parent Brainbees…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     }
   ]
 }
