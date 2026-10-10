@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:08:59.175772+00:00",
+  "generated_at": "2026-10-10T03:57:47.603674+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,111 @@
   "item_count": 120,
   "items": [
     {
+      "id": "62e8dd612a3e",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-10-10T03:10:06+00:00",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "tags": [
+        "Government & Policy",
+        "Space",
+        "Elon Musk",
+        "Mukesh Ambani",
+        "reliance industries",
+        "reliance jio"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d78bb69c4925",
+      "title": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-10T02:04:12+00:00",
+      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s…",
+      "tags": [
+        "accidental-cyberattacks",
+        "anthropic",
+        "generative-ai",
+        "ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "92fe947eb54a",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "modinfo",
+      "published": "2026-10-10T00:37:07+00:00",
+      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 169 # Comments: 42",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6cd6f5cc677d",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-10-10T00:18:32+00:00",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "tags": [
+        "AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "95d52c99a70e",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-09T22:48:37+00:00",
+      "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make…",
+      "tags": [
+        "cloudfront",
+        "javascript",
+        "nodejs",
+        "ryan-dahl",
+        "sandboxing",
+        "deno"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "7b148a7d6529",
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jacek Krywko",
+      "published": "2026-10-09T22:34:03+00:00",
+      "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+      "tags": [
+        "Science",
+        "Archeology",
+        "Neanderthals",
+        "woodworking"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "78d6481c227d",
       "title": "Long live the mechanical keyboard",
       "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
@@ -31,7 +136,49 @@
       "published": "2026-10-09T22:08:24+00:00",
       "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
       "tags": [
-        "Hardware"
+        "Hardware",
+        "Keychron",
+        "mechanical keyboards"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d587fa318b28",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-10-09T22:04:07+00:00",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "tags": [
+        "AI",
+        "Tech",
+        "ai data centers",
+        "data centers",
+        "drones",
+        "military drones"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3aba3f2d9e72",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Nick Indge",
+      "published": "2026-10-09T21:51:12+00:00",
+      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "tags": [
+        "Tech",
+        "apple",
+        "Cray-1",
+        "Mac mini",
+        "MacOS",
+        "supercomputer"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -44,13 +191,33 @@
       "source_id": "techcrunch",
       "author": "Marina Temkin",
       "published": "2026-10-09T21:41:29+00:00",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "tags": [
         "AI",
         "Startups",
         "AI model",
         "Andreessen Horowitz",
+        "In Brief",
         "typesafe"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "dcdb848fb53a",
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Eric Berger",
+      "published": "2026-10-09T21:34:09+00:00",
+      "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "tags": [
+        "Space",
+        "cld",
+        "NASA",
+        "Private space stations",
+        "space"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -80,8 +247,28 @@
       "source_id": "hacker_news",
       "author": "gumby",
       "published": "2026-10-09T21:06:59+00:00",
-      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 141 # Comments: 65",
+      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 475 # Comments: 264",
       "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "67e65a46cccb",
+      "title": "What's been driving Hawaii's lava fountains?",
+      "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "John Timmer",
+      "published": "2026-10-09T21:05:01+00:00",
+      "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+      "tags": [
+        "Science",
+        "Earth science",
+        "eruptions",
+        "fountains",
+        "geology",
+        "Hawaii"
+      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -123,19 +310,6 @@
         "Artificial Intelligence"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "b4b9b864afdc",
-      "title": "No Man Is an Island",
-      "url": "https://borretti.me/article/no-man-is-an-island",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "zetalyrae",
-      "published": "2026-10-09T20:04:00+00:00",
-      "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 174 # Comments: 78",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -287,7 +461,7 @@
       "source_id": "hacker_news",
       "author": "gslin",
       "published": "2026-10-09T18:22:20+00:00",
-      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 105 # Comments: 33",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 141 # Comments: 36",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -350,7 +524,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-10-09T17:02:31+00:00",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 200 # Comments: 158",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 298 # Comments: 226",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -467,7 +641,7 @@
       "source_id": "hacker_news",
       "author": "robin_reala",
       "published": "2026-10-09T15:51:05+00:00",
-      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 393 # Comments: 86",
+      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 745 # Comments: 145",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -518,19 +692,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "27fda4b13d65",
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ohjeez",
-      "published": "2026-10-09T15:05:24+00:00",
-      "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 164 # Comments: 90",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -669,7 +830,7 @@
       "source_id": "hacker_news",
       "author": "vinhnx",
       "published": "2026-10-09T13:49:31+00:00",
-      "summary": "Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone Comments URL: https://news.ycombinator.com/item?id=50020533 Points: 112 # Comments: 15",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone Comments URL: https://news.ycombinator.com/item?id=50020533 Points: 172 # Comments: 23",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -701,7 +862,7 @@
       "source_id": "hacker_news",
       "author": "ahlCVA",
       "published": "2026-10-09T13:12:47+00:00",
-      "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 531 # Comments: 229",
+      "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 616 # Comments: 283",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -714,7 +875,7 @@
       "source_id": "hacker_news",
       "author": "ilreb",
       "published": "2026-10-09T13:03:48+00:00",
-      "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 960 # Comments: 503",
+      "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 1110 # Comments: 571",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -787,6 +948,19 @@
       "region": "india"
     },
     {
+      "id": "066510f0a2f2",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "piratebroadcast",
+      "published": "2026-10-09T11:36:20+00:00",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 120 # Comments: 58",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "51c91c27191b",
       "title": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund",
       "url": "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund",
@@ -820,7 +994,7 @@
       "source_id": "hacker_news",
       "author": "franze",
       "published": "2026-10-09T11:03:48+00:00",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 350 # Comments: 150",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 386 # Comments: 170",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -839,32 +1013,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "acdcb184254f",
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Anon84",
-      "published": "2026-10-09T10:12:11+00:00",
-      "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 409 # Comments: 210",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "301544ff1a07",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "trakkstar",
-      "published": "2026-10-09T10:00:26+00:00",
-      "summary": "Later: https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-... Comments URL: https://news.ycombinator.com/item?id=50018350 Points: 287 # Comments: 189",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "7731a70ad109",
@@ -947,7 +1095,7 @@
       "source_id": "hacker_news",
       "author": "splintersio",
       "published": "2026-10-09T09:21:48+00:00",
-      "summary": "Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 673 # Comments: 215",
+      "summary": "Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 804 # Comments: 246",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1005,7 +1153,7 @@
       "source_id": "hacker_news",
       "author": "ingve",
       "published": "2026-10-09T07:44:36+00:00",
-      "summary": "Article URL: https://blog.glyph.im/2026/10/programming-isnt-special.html Comments URL: https://news.ycombinator.com/item?id=50017357 Points: 150 # Comments: 166",
+      "summary": "Article URL: https://blog.glyph.im/2026/10/programming-isnt-special.html Comments URL: https://news.ycombinator.com/item?id=50017357 Points: 182 # Comments: 203",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1120,19 +1268,6 @@
       "region": "global"
     },
     {
-      "id": "1f785e46a47e",
-      "title": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nreece",
-      "published": "2026-10-09T05:51:29+00:00",
-      "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 166 # Comments: 78",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c01e31c5a3a4",
       "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
       "url": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
@@ -1187,19 +1322,6 @@
       "author": "Oskar Kocol",
       "published": "2026-10-09T04:20:47+00:00",
       "summary": "Find available GPUs and host open models in one command Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4eb26ae0c121",
-      "title": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sohkamyung",
-      "published": "2026-10-09T03:08:05+00:00",
-      "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 313 # Comments: 254",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1339,26 +1461,6 @@
       "region": "global"
     },
     {
-      "id": "da3ca48318e6",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-10-08T21:00:00+00:00",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Media & Entertainment",
-        "elizabeth holmes",
-        "lawsuit",
-        "Theranos"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "06ca9e7e4b2b",
       "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
       "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
@@ -1458,32 +1560,6 @@
         "xAI"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4a89f944af9f",
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "kbyatnal",
-      "published": "2026-10-08T17:51:49+00:00",
-      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 540 # Comments: 199",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f9a7f01f513e",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gmays",
-      "published": "2026-10-08T16:59:39+00:00",
-      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 913 # Comments: 176",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1746,19 +1822,6 @@
       "region": "global"
     },
     {
-      "id": "fb834fd7d929",
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Michelangelo11",
-      "published": "2026-10-08T09:48:18+00:00",
-      "summary": "Article URL: https://htmx.org/essays/yes-and/ Comments URL: https://news.ycombinator.com/item?id=50003796 Points: 716 # Comments: 281",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c7f4b559a8fb",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -1870,19 +1933,6 @@
       "author": null,
       "published": "2026-10-08T07:07:25+00:00",
       "summary": "Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ac377a28d882",
-      "title": "PM Modi calls for global framework to tackle cyber frauds, deepfakes, digital crimes",
-      "url": "https://yourstory.com/2026/10/pm-modi-calls-for-global-framework-to-tackle-cyber-frauds-deepfakes-digital-crimes",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-08T07:00:42+00:00",
-      "summary": "Inaugurating the tenth edition of the India Mobile Congress (IMC) 2026, Modi said governments, technology companies, telecom operators and financial institutions should create mechanisms to curb digital frauds.",
       "tags": [],
       "tier": "india",
       "region": "india"
