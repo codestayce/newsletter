@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:02:40.912390+00:00",
+  "generated_at": "2026-10-11T03:32:26.912720+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,179 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "89f8d898a84c",
+      "title": "Design, AI, impact: test your business creativity with Edition 253 of our weekly quiz!",
+      "url": "https://yourstory.com/2026/10/design-ai-impact-entrepreneur-education-creativity-quiz",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-11T03:06:43+00:00",
+      "summary": "Lateral Sparks, the weekly quiz from YourStory, tests your domain knowledge, business acumen, and lateral thinking skills (see the previous edition here). In this 252nd edition of the quiz, we present issues tackled by real-life entrepreneurs in their startup journeys. What…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "5a1bad60fe3a",
+      "title": "ShuruKar: Your next business could start in your hometown",
+      "url": "https://yourstory.com/2026/10/shurukar-your-next-business-could-start-in-your-hometown",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-11T02:00:00+00:00",
+      "summary": "YourStory's ShuruKar is a nationwide initiative that combines AI tools, founder mentorship, and local networks to help aspiring entrepreneurs move from identifying a problem to finding their first customer.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "e179bee0d893",
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-11T00:52:37+00:00",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to…",
+      "tags": [
+        "version-control"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "b3878b6e8e54",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "TheWaffleHax",
+      "published": "2026-10-11T00:46:48+00:00",
+      "summary": "Article URL: https://wallhop.io/ Comments URL: https://news.ycombinator.com/item?id=50038634 Points: 144 # Comments: 62",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "24d721d47322",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-10T23:58:04+00:00",
+      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me…",
+      "tags": [
+        "github",
+        "python",
+        "github-actions",
+        "chatgpt"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "83056d7cecd2",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "softwaredoug",
+      "published": "2026-10-10T22:50:10+00:00",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 159 # Comments: 31",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4c640ca9263a",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-10T22:10:17+00:00",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply…",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2b85a359080d",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-10T22:02:18+00:00",
+      "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "2c9728d3318b",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-10T21:47:51+00:00",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "500d0a82cc65",
+      "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Aabis Islam",
+      "published": "2026-10-10T21:30:36+00:00",
+      "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety…",
+      "tags": [
+        "Agentic AI",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Opinion",
+        "Security"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "a819440e24a0",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "JumpCrisscross",
+      "published": "2026-10-10T20:31:50+00:00",
+      "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 220 # Comments: 81",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "ac1984a6a99c",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -70,6 +243,32 @@
         "Music",
         "News"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "83b3ab4d460b",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "arkj",
+      "published": "2026-10-10T18:48:35+00:00",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 133 # Comments: 91",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ca291efb21c7",
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tosh",
+      "published": "2026-10-10T18:08:49+00:00",
+      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 164 # Comments: 51",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -133,7 +332,7 @@
       "source_id": "hacker_news",
       "author": "Curiositry",
       "published": "2026-10-10T15:47:01+00:00",
-      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 106 # Comments: 37",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 162 # Comments: 61",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -227,14 +426,14 @@
       "region": "global"
     },
     {
-      "id": "77a6fe42b025",
-      "title": "Bitwarden Dual License Model",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "id": "5fe9a196c973",
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "Cider9986",
-      "published": "2026-10-10T14:32:50+00:00",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 296 # Comments: 219",
+      "author": "ghuntley",
+      "published": "2026-10-10T14:27:09+00:00",
+      "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 117 # Comments: 50",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -282,7 +481,7 @@
       "source_id": "hacker_news",
       "author": "colinprince",
       "published": "2026-10-10T13:29:03+00:00",
-      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 164 # Comments: 381",
+      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 226 # Comments: 526",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -325,19 +524,6 @@
       ],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "bc9352e6f5d5",
-      "title": "ShuruKar: Your next business could start in your hometown",
-      "url": "https://yourstory.com/2026/10/shurukar-bihar-patna-district-entrepreneurship-startup-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-10T12:57:49+00:00",
-      "summary": "Launched in Patna and developed with DPIIT and Startup India, YourStory's ShuruKar is a nationwide initiative that combines AI tools, founder mentorship, and local networks to help aspiring entrepreneurs move from identifying a problem to finding their first customer.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "bb8bf41f335d",
@@ -401,37 +587,6 @@
       "region": "global"
     },
     {
-      "id": "14210061ea1c",
-      "title": "The director of Fjord takes the ‘risky position’ of moderator",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "May Jeong",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan),…",
-      "tags": [
-        "Entertainment",
-        "Film",
-        "Interview",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "919dcd023d9f",
-      "title": "Apple/macOS removed from official Unix registry",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "john_alan",
-      "published": "2026-10-10T10:57:31+00:00",
-      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 200 # Comments: 191",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6b75dae75d97",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
@@ -439,7 +594,7 @@
       "source_id": "hacker_news",
       "author": "rociiu",
       "published": "2026-10-10T10:52:09+00:00",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 209 # Comments: 108",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 262 # Comments: 123",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -458,19 +613,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "3d9270bdc4bb",
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "baal80spam",
-      "published": "2026-10-10T09:51:49+00:00",
-      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 358 # Comments: 185",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "ced79cf77b81",
@@ -521,6 +663,19 @@
       "region": "global"
     },
     {
+      "id": "d0c53b7bb15f",
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-10-10T05:22:30+00:00",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 118 # Comments: 89",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "fb7d13b67757",
       "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
       "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
@@ -538,6 +693,19 @@
         "Decision Models"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "41f66d0af92e",
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "oskarth",
+      "published": "2026-10-10T04:12:26+00:00",
+      "summary": "Article URL: https://lightbulbcomputer.com/ Comments URL: https://news.ycombinator.com/item?id=50029487 Points: 289 # Comments: 45",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -597,7 +765,7 @@
       "source_id": "hacker_news",
       "author": "g-b-r",
       "published": "2026-10-10T03:02:47+00:00",
-      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 374 # Comments: 211",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 431 # Comments: 276",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -630,19 +798,6 @@
       "author": "Dunn",
       "published": "2026-10-10T01:06:33+00:00",
       "summary": "Design on-brand emails by hand, with AI, or over MCP Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "92fe947eb54a",
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "modinfo",
-      "published": "2026-10-10T00:37:07+00:00",
-      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 647 # Comments: 274",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1173,19 +1328,6 @@
       "region": "global"
     },
     {
-      "id": "7dbc60a0a91d",
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "robin_reala",
-      "published": "2026-10-09T15:51:05+00:00",
-      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 1315 # Comments: 260",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c600ade0c9b5",
       "title": "a16z’s Olivia Moore on the state of consumer AI",
       "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
@@ -1247,25 +1389,6 @@
       "region": "global"
     },
     {
-      "id": "87cc9fb24903",
-      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-10-09T15:02:30+00:00",
-      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's…",
-      "tags": [
-        "Media & Entertainment",
-        "Automattic",
-        "Exclusive",
-        "matt mullenweg",
-        "WordPress"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "963b8184663b",
       "title": "Quoting Matthew Green",
       "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
@@ -1283,19 +1406,6 @@
         "ai"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "0d21a1081175",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jsomers",
-      "published": "2026-10-09T14:56:13+00:00",
-      "summary": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 173 # Comments: 53",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1606,6 +1716,19 @@
       "region": "india"
     },
     {
+      "id": "d7d9d308925b",
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ingve",
+      "published": "2026-10-09T07:29:08+00:00",
+      "summary": "Article URL: https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger Comments URL: https://news.ycombinator.com/item?id=50017247 Points: 153 # Comments: 28",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "f2a568a644dc",
       "title": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
       "url": "https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/",
@@ -1687,7 +1810,7 @@
       "source_id": "hacker_news",
       "author": "smokel",
       "published": "2026-10-09T06:52:49+00:00",
-      "summary": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50016956 Points: 127 # Comments: 28",
+      "summary": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50016956 Points: 170 # Comments: 39",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1710,6 +1833,19 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "9e74ad50291e",
+      "title": "OpenPilot",
+      "url": "https://www.producthunt.com/products/openpilot",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Ibrahim",
+      "published": "2026-10-09T05:53:51+00:00",
+      "summary": "Open-source desktop AI agent for any model you choose Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1826,150 +1962,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "51c6cb3bd66a",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-08T21:53:51+00:00",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Linux",
-        "News",
-        "Security",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "429b12e0917d",
-      "title": "Quoting Carson Gross",
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-08T21:05:44+00:00",
-      "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of…",
-      "tags": [
-        "computer-science",
-        "carson-gross",
-        "careers",
-        "ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "06ca9e7e4b2b",
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-10-08T20:39:31+00:00",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "tags": [
-        "Policy",
-        "FCC",
-        "trump mobile"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2c0a00b9b84f",
-      "title": "VinFast Signs Deals To Set Up 50 Electric Motorcycle Showrooms Across India",
-      "url": "https://inc42.com/buzz/vinfast-signs-deals-to-set-up-50-e-motorcycle-showrooms-across-india/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-08T20:22:27+00:00",
-      "summary": "With an eye on entering the homegrown electric two-wheeler (E2W) market, Vietnamese EV maker VinFast has signed letters of intent…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b5590cdb9727",
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-08T16:55:51+00:00",
-      "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "4653b951c102",
-      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
-      "url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-08T16:17:35+00:00",
-      "summary": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. The post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "b890444119a1",
-      "title": "NABVENTURES Marks First Close Of ₹1,500 Cr Fund At ₹450 Cr",
-      "url": "https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-10-08T15:31:01+00:00",
-      "summary": "NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ba02b48c3d57",
-      "title": "Trophy MCP Servers",
-      "url": "https://www.producthunt.com/products/trophy-1-0",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Charlie Hopkins-Brinicombe",
-      "published": "2026-10-08T15:06:32+00:00",
-      "summary": "Interact with Trophy from your favourite AI tools Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
