@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:25:23.040634+00:00",
+  "generated_at": "2026-10-17T02:40:30.174301+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,269 @@
   "item_count": 120,
   "items": [
     {
+      "id": "ee6f53a9b37a",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-10-17T02:36:18+00:00",
+      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "tags": [
+        "Biotech & Health",
+        "TC"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9266b8741c36",
+      "title": "India’s massive AI opportunity; Women entrepreneurs in this year’s Mann Ki Baat",
+      "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-17T02:00:00+00:00",
+      "summary": "Unlike previous digital revolutions (internet and smartphones) that democratised access, AI is democratising intelligence itself, raising overall productivity across sectors.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "14e604793113",
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+      "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-17T00:09:12+00:00",
+      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "54a5949d5de2",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-16T22:51:22+00:00",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual,…",
+      "tags": [
+        "Apple",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "50e25bfb1e83",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-16T22:06:37+00:00",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write…",
+      "tags": [
+        "anthropic",
+        "claude",
+        "ai",
+        "claude-code",
+        "llms",
+        "addy-osmani"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "18f9fd010555",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-10-16T21:22:28+00:00",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e86f92efb265",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Dan Goodin",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "tags": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "LLMs",
+        "models",
+        "openai"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1396c6290e92",
+      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-16T20:50:27+00:00",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time…",
+      "tags": [
+        "Entertainment",
+        "Music",
+        "News"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c5c2b1be6baf",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-10-16T20:49:04+00:00",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to…",
+      "tags": [
+        "Electric Cars",
+        "News",
+        "Tesla",
+        "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "70d10452e1ce",
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "trvrprkr",
+      "published": "2026-10-16T20:33:41+00:00",
+      "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 196 # Comments: 148",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2727d1daacce",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-10-16T20:20:07+00:00",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "tags": [
+        "AI",
+        "Policy",
+        "ai csam",
+        "ai porn",
+        "Artificial Intelligence",
+        "law enforcement"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d0a00342ca12",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-10-16T19:47:13+00:00",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 119 # Comments: 30",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e7743bd6de29",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Scharon Harding",
+      "published": "2026-10-16T19:11:50+00:00",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "tags": [
+        "Tech",
+        "meta",
+        "ray-ban",
+        "smart glasses",
+        "smart home"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7fd7e06ab2f4",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pretext",
+      "published": "2026-10-16T19:04:47+00:00",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 250 # Comments: 232",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c19e7ef010f7",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "speckx",
+      "published": "2026-10-16T19:01:17+00:00",
+      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 159 # Comments: 43",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "65442e708214",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "tags": [],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "9ec937773b41",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
@@ -29,7 +292,46 @@
       "source_id": "hacker_news",
       "author": "ahlCVA",
       "published": "2026-10-16T18:55:59+00:00",
-      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 261 # Comments: 105",
+      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 701 # Comments: 274",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0342f39befa1",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Anon84",
+      "published": "2026-10-16T18:32:35+00:00",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 209 # Comments: 54",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4c0bf645460b",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "7402",
+      "published": "2026-10-16T18:06:17+00:00",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 177 # Comments: 144",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9d010c1314ee",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pretext",
+      "published": "2026-10-16T18:00:18+00:00",
+      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 105 # Comments: 20",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -92,7 +394,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-16T17:08:38+00:00",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 256 # Comments: 222",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 413 # Comments: 349",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -112,6 +414,19 @@
         "Peptides",
         "robert f kennedy jr"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "10be13a6a9f8",
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mnapoli",
+      "published": "2026-10-16T16:57:49+00:00",
+      "summary": "Article URL: https://dev-null.sh Comments URL: https://news.ycombinator.com/item?id=50121004 Points: 134 # Comments: 117",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -159,20 +474,7 @@
       "source_id": "hacker_news",
       "author": "farlight",
       "published": "2026-10-16T16:12:02+00:00",
-      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 131 # Comments: 91",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "166c40245581",
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-10-16T16:03:02+00:00",
-      "summary": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: https://news.ycombinator.com/item?id=50120101 Points: 161 # Comments: 91",
+      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 209 # Comments: 147",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -326,7 +628,7 @@
       "source_id": "hacker_news",
       "author": "ChrisArchitect",
       "published": "2026-10-16T14:44:17+00:00",
-      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/ Comments URL: https://news.ycombinator.com/item?id=50118981 Points: 146 # Comments: 263",
+      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/ Comments URL: https://news.ycombinator.com/item?id=50118981 Points: 279 # Comments: 393",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -339,7 +641,7 @@
       "source_id": "hacker_news",
       "author": "rs_rs_rs_rs_rs",
       "published": "2026-10-16T14:44:02+00:00",
-      "summary": "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 139 # Comments: 37",
+      "summary": "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 166 # Comments: 48",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -352,7 +654,7 @@
       "source_id": "hacker_news",
       "author": "wawayanda",
       "published": "2026-10-16T14:31:43+00:00",
-      "summary": "Article URL: https://www.worksinprogress.news/p/porcelain Comments URL: https://news.ycombinator.com/item?id=50118828 Points: 103 # Comments: 37",
+      "summary": "Article URL: https://www.worksinprogress.news/p/porcelain Comments URL: https://news.ycombinator.com/item?id=50118828 Points: 128 # Comments: 45",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -398,28 +700,8 @@
       "source_id": "hacker_news",
       "author": "__cayenne__",
       "published": "2026-10-16T14:18:44+00:00",
-      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 151 # Comments: 69",
+      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 190 # Comments: 87",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "029ba92990f8",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew J. Hawkins",
-      "published": "2026-10-16T14:15:29+00:00",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying…",
-      "tags": [
-        "Electric Cars",
-        "Elon Musk",
-        "Science",
-        "Space",
-        "SpaceX",
-        "Tech"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -444,8 +726,8 @@
       "id": "e874f1181e68",
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
       "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-16T14:02:40+00:00",
       "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this…",
@@ -456,7 +738,7 @@
         "Policy",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -507,25 +789,21 @@
       "source_id": "hacker_news",
       "author": "antipaul",
       "published": "2026-10-16T13:43:48+00:00",
-      "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 215 # Comments: 101",
+      "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 271 # Comments: 123",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "ae709db68480",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew Liszewski",
-      "published": "2026-10-16T13:33:21+00:00",
-      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit…",
-      "tags": [
-        "Gadgets",
-        "News",
-        "Tech"
-      ],
+      "id": "3fb145befc7c",
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ibobev",
+      "published": "2026-10-16T13:43:30+00:00",
+      "summary": "Article URL: https://dfarq.homeip.net/what-was-a-token-ring-network/ Comments URL: https://news.ycombinator.com/item?id=50118318 Points: 101 # Comments: 75",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -588,7 +866,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-16T12:52:08+00:00",
-      "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 256 # Comments: 176",
+      "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 297 # Comments: 189",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -880,7 +1158,7 @@
       "source_id": "hacker_news",
       "author": "shekhar101",
       "published": "2026-10-16T01:32:45+00:00",
-      "summary": "https://www.youtube.com/watch?v=7p5LxFdc-Qg https://twitter.com/Tesla/status/2110788059008819215 Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 754 # Comments: 1387",
+      "summary": "https://www.youtube.com/watch?v=7p5LxFdc-Qg https://twitter.com/Tesla/status/2110788059008819215 Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 1221 # Comments: 2200",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1246,24 +1524,6 @@
       "region": "global"
     },
     {
-      "id": "989df1a0f101",
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aisha Malik",
-      "published": "2026-10-15T19:29:05+00:00",
-      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Bluesky",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "ad83fcb964dc",
       "title": "Parallax",
       "url": "https://www.producthunt.com/products/parallax-5",
@@ -1290,23 +1550,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "e925c3137a8a",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aditya Mehta",
-      "published": "2026-10-15T19:14:26+00:00",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "model evaluation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "a72d1e4da6b0",
@@ -1344,24 +1587,6 @@
       "region": "global"
     },
     {
-      "id": "91bdd19ce3d2",
-      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jacek Krywko",
-      "published": "2026-10-15T18:39:17+00:00",
-      "summary": "Its effect on people remains an ongoing question.",
-      "tags": [
-        "Science",
-        "microplastic",
-        "microplastics",
-        "nanoplastics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a4975bebfd36",
       "title": "Meta and Apple team up to make Muse AI models run better on Macs",
       "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
@@ -1378,24 +1603,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e42d6132cac5",
-      "title": "Neutron's first launch slips again amid trouble with carbon composites",
-      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Stephen Clark",
-      "published": "2026-10-15T16:57:24+00:00",
-      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
-      "tags": [
-        "Science",
-        "Space",
-        "neutron rocket",
-        "rocket lab"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1455,26 +1662,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "12f70f9144a8",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-10-15T15:43:24+00:00",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "tags": [
-        "AI",
-        "Policy",
-        "AI agents",
-        "AI security",
-        "andrew ferguson",
-        "Anthropic"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "fe914f4a197b",
@@ -1744,198 +1931,6 @@
         "Interviews"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "0db5836d2165",
-      "title": "'If I make a mistake, I'm done': Inside Food Pharmer's high-stakes shift to food startup founder",
-      "url": "https://yourstory.com/2026/10/if-i-make-a-mistake-i-am-done-how-food-pharmer-is-turning-food-activism-into-startup",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T08:02:26+00:00",
-      "summary": "Revant Himatsingka, the man who called out India’s biggest food brands, is now building one of his own, Only What’s Needed, on trust, transparent labels and broken marketing rules, knowing that a single mistake could end it.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "cdab8d48828d",
-      "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
-      "url": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-15T05:45:03+00:00",
-      "summary": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Decision Models"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "32c2c2852ee9",
-      "title": "‘We cannot wait 75 years’: ANRF CEO Shivkumar Kalyanaraman on scaling India’s research multiplier",
-      "url": "https://yourstory.com/2026/10/anrf-ceo-shivkumar-kalyanaraman-scaling-india-research-multiplier",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T05:37:33+00:00",
-      "summary": "To boost India’s R&D spend toward 3% of GDP, ANRF CEO Shivkumar Kalyanaraman revealed a patient-capital architecture combining private investment, open IP licensing, and national mission programmes.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "e76355c92a7a",
-      "title": "Peak XV is taking bigger bets as Indian startups grow more ambitious: Mohit Bhatnagar",
-      "url": "https://yourstory.com/2026/10/ambition-of-indian-founders-has-grown-bigger-mohit-bhatnagar-of-peak-xv",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T05:33:26+00:00",
-      "summary": "At TechSparks 2026, Peak XV's Managing Director Mohit Bhatnagar said the venture capital firm is increasingly willing to back ambitious, high-risk startups as AI opens up new opportunities for Indian founders to build global companies.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "8ff623edf7b5",
-      "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
-      "url": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-15T05:18:54+00:00",
-      "summary": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per…",
-      "tags": [
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick",
-        "Language Model",
-        "New Releases"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "7d3e4d8df268",
-      "title": "Dottr",
-      "url": "https://www.producthunt.com/products/dottr",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Kevin William David",
-      "published": "2026-10-15T02:37:55+00:00",
-      "summary": "Agent that drafts contracts, flags risks + gets them signed Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8fbb1278b154",
-      "title": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
-      "url": "https://tldr.tech/ai/2026-10-15",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "9d251ac6836a",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3733c75a28bf",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "dd00c04c9b95",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "474d893b0dba",
-      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
-      "url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-14T23:37:25+00:00",
-      "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e28d9d5b3862",
-      "title": "Agent Vault",
-      "url": "https://www.producthunt.com/products/agent-vault-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Rene",
-      "published": "2026-10-14T23:12:59+00:00",
-      "summary": "Superpowers for your Agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3afd26c7994d",
-      "title": "Mermaid",
-      "url": "https://www.producthunt.com/products/mermaid",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Abhusan Shrestha",
-      "published": "2026-10-14T23:06:13+00:00",
-      "summary": "Tell your Mac what to do. From literally anywhere Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
