@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:15:24.537405+00:00",
+  "generated_at": "2026-10-18T15:15:54.221821+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,65 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 117,
+  "item_count": 111,
   "items": [
+    {
+      "id": "b5941a2d8f6b",
+      "title": "J Mascis has nothing better to do",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-18T14:00:00+00:00",
+      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview…",
+      "tags": [
+        "Entertainment",
+        "Interview",
+        "Music",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4cc6093594d2",
+      "title": "Cabinet approves Go-Delhi Foundation to help young innovators, startups",
+      "url": "https://yourstory.com/2026/10/cabinet-approves-go-delhi-foundation-to-help-young-innovators-startups",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-18T13:17:59+00:00",
+      "summary": "Delhi is home to nearly 21,000 startups recognised by the Department for Promotion of Industry and Internal Trade.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "229575f1542a",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "DeepLogin",
+      "published": "2026-10-18T10:21:51+00:00",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 111 # Comments: 27",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3337df1b3bee",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "schindlabua",
+      "published": "2026-10-18T08:19:53+00:00",
+      "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 115 # Comments: 50",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "6d337195a5a3",
       "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
@@ -49,7 +106,7 @@
       "source_id": "hacker_news",
       "author": "fagnerbrack",
       "published": "2026-10-18T06:50:36+00:00",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 188 # Comments: 87",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 371 # Comments: 185",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -82,7 +139,7 @@
       "source_id": "hacker_news",
       "author": "critiquebrowser",
       "published": "2026-10-18T04:33:49+00:00",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 129 # Comments: 33",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 194 # Comments: 61",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -115,7 +172,7 @@
       "source_id": "hacker_news",
       "author": "MaysonL",
       "published": "2026-10-18T03:19:49+00:00",
-      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 139 # Comments: 142",
+      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 241 # Comments: 297",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -292,32 +349,6 @@
       "region": "global"
     },
     {
-      "id": "59f1f537529d",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "AIorNot",
-      "published": "2026-10-17T17:45:08+00:00",
-      "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 133 # Comments: 53",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ae805a9cf9e5",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "iamnothere",
-      "published": "2026-10-17T17:06:07+00:00",
-      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 333 # Comments: 181",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "937644b7e402",
       "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
       "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
@@ -345,7 +376,7 @@
       "source_id": "hacker_news",
       "author": "dchest",
       "published": "2026-10-17T15:55:09+00:00",
-      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 438 # Comments: 39",
+      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 511 # Comments: 46",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -385,37 +416,6 @@
       "region": "global"
     },
     {
-      "id": "3e32efe881ac",
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-17T14:30:00+00:00",
-      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last…",
-      "tags": [
-        "Entertainment",
-        "Interview",
-        "Podcasts",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "cea98fa55e8b",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "xbmcuser",
-      "published": "2026-10-17T14:01:01+00:00",
-      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 610 # Comments: 380",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "63f0975b0b47",
       "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
@@ -423,7 +423,7 @@
       "source_id": "hacker_news",
       "author": "crescit_eundo",
       "published": "2026-10-17T13:55:28+00:00",
-      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 303 # Comments: 81",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 333 # Comments: 84",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -443,19 +443,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "238b590c0f8c",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "celphase",
-      "published": "2026-10-17T13:28:46+00:00",
-      "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 138 # Comments: 30",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "bd9cf38076e0",
@@ -493,8 +480,8 @@
       "id": "f155d49d3345",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-17T13:00:00+00:00",
       "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest…",
@@ -505,7 +492,7 @@
         "Report",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -597,7 +584,7 @@
       "source_id": "hacker_news",
       "author": "theykk",
       "published": "2026-10-17T08:21:25+00:00",
-      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 860 # Comments: 655",
+      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 911 # Comments: 680",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -655,19 +642,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1557ed18b567",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "albinstman",
-      "published": "2026-10-17T04:36:53+00:00",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 294 # Comments: 82",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -756,7 +730,7 @@
       "source_id": "hacker_news",
       "author": "sohkamyung",
       "published": "2026-10-16T23:47:31+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 276 # Comments: 66",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 316 # Comments: 81",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -769,7 +743,7 @@
       "source_id": "hacker_news",
       "author": "alkyon",
       "published": "2026-10-16T23:38:27+00:00",
-      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 457 # Comments: 99",
+      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 506 # Comments: 106",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -874,7 +848,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-16T19:01:17+00:00",
-      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 565 # Comments: 127",
+      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 602 # Comments: 133",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1456,7 +1430,7 @@
       "source_id": "hacker_news",
       "author": "matt_d",
       "published": "2026-10-16T06:16:13+00:00",
-      "summary": "Article URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ Comments URL: https://news.ycombinator.com/item?id=50114758 Points: 137 # Comments: 47",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ Comments URL: https://news.ycombinator.com/item?id=50114758 Points: 173 # Comments: 60",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1739,19 +1713,6 @@
       "region": "global"
     },
     {
-      "id": "ff89bf3a5932",
-      "title": "Muse Spark Open",
-      "url": "https://www.producthunt.com/products/muse-spark-open",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "KP",
-      "published": "2026-10-15T20:13:34+00:00",
-      "summary": "The most capable US open weights model to date Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "661320cc40ff",
       "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
       "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
@@ -1786,6 +1747,19 @@
         "claude-code"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "ad83fcb964dc",
+      "title": "Parallax",
+      "url": "https://www.producthunt.com/products/parallax-5",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Loc Tran",
+      "published": "2026-10-15T19:25:02+00:00",
+      "summary": "Every coding agent you run, in one place. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1849,73 +1823,14 @@
       "region": "india"
     },
     {
-      "id": "d7d2fe57ecde",
-      "title": "Bee Frontier and Bee Eclipse",
-      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+      "id": "fe914f4a197b",
+      "title": "Nemotron 3.5 Super VL",
+      "url": "https://www.producthunt.com/products/nvidia",
       "source": "Product Hunt",
       "source_id": "product_hunt",
-      "author": "Justin Jincaid",
-      "published": "2026-10-15T15:11:11+00:00",
-      "summary": "Amazon's personal AI memory, now on your wrist or phone Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1ea043175795",
-      "title": "How can students succeed in an AI world? Intel, Sri Chaitanya leaders weigh in",
-      "url": "https://yourstory.com/2026/10/how-students-can-succeed-ai-world-intel-sri-chaitanya-leaders-weigh-in",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T13:17:16+00:00",
-      "summary": "At TechSparks 2026, leaders from Intel and Sri Chaitanya outlined how replacing rote learning with AI mentorship, emotional resilience, and equitable hardware access can prepare India’s 247 million students for tomorrow.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "40b611a330c7",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-15T13:04:03+00:00",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the…",
-      "tags": [
-        "ai",
-        "generative-ai",
-        "llms",
-        "anthropic"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "fa14b8f7db46",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "308969449526",
-      "title": "Grablo Spot",
-      "url": "https://www.producthunt.com/products/grablo-spot",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "YoungMin Kim",
-      "published": "2026-10-15T11:36:40+00:00",
-      "summary": "Free AI NVR that finds any person or vehicle in seconds Discussion | Link",
+      "author": "Kumar Abhishek",
+      "published": "2026-10-15T15:27:13+00:00",
+      "summary": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
