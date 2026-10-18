@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T02:42:01.212899+00:00",
+  "generated_at": "2026-10-18T10:15:24.537405+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,107 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 117,
   "items": [
+    {
+      "id": "6d337195a5a3",
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-18T08:15:04+00:00",
+      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "48479cd7194a",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "fagnerbrack",
+      "published": "2026-10-18T06:50:36+00:00",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 188 # Comments: 87",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "95c4534667cd",
+      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Sana Hassan",
+      "published": "2026-10-18T05:56:05+00:00",
+      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and…",
+      "tags": [
+        "Applications",
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Machine Learning"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "40d691da45f3",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "critiquebrowser",
+      "published": "2026-10-18T04:33:49+00:00",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 129 # Comments: 33",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "93871d267ad0",
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-18T04:06:33+00:00",
+      "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "66e85996d355",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "MaysonL",
+      "published": "2026-10-18T03:19:49+00:00",
+      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 139 # Comments: 142",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "34039b2e7655",
       "title": "Cancellation: A creator’s biggest turning point; Scaling India’s research multiplier",
@@ -49,19 +148,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "758072d376d6",
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-10-18T01:18:50+00:00",
-      "summary": "Article URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day Comments URL: https://news.ycombinator.com/item?id=50136881 Points: 232 # Comments: 106",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "007c6180e238",
@@ -206,14 +292,14 @@
       "region": "global"
     },
     {
-      "id": "29d4f10da8cd",
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
+      "id": "59f1f537529d",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "luu",
-      "published": "2026-10-17T17:36:17+00:00",
-      "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 150 # Comments: 73",
+      "author": "AIorNot",
+      "published": "2026-10-17T17:45:08+00:00",
+      "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 133 # Comments: 53",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -226,7 +312,7 @@
       "source_id": "hacker_news",
       "author": "iamnothere",
       "published": "2026-10-17T17:06:07+00:00",
-      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 247 # Comments: 127",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 333 # Comments: 181",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -259,7 +345,7 @@
       "source_id": "hacker_news",
       "author": "dchest",
       "published": "2026-10-17T15:55:09+00:00",
-      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 254 # Comments: 26",
+      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 438 # Comments: 39",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -324,7 +410,7 @@
       "source_id": "hacker_news",
       "author": "xbmcuser",
       "published": "2026-10-17T14:01:01+00:00",
-      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 494 # Comments: 311",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 610 # Comments: 380",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -337,7 +423,7 @@
       "source_id": "hacker_news",
       "author": "crescit_eundo",
       "published": "2026-10-17T13:55:28+00:00",
-      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 260 # Comments: 67",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 303 # Comments: 81",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -359,6 +445,19 @@
       "region": "india"
     },
     {
+      "id": "238b590c0f8c",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "celphase",
+      "published": "2026-10-17T13:28:46+00:00",
+      "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 138 # Comments: 30",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "bd9cf38076e0",
       "title": "web-edit 0.1a2",
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
@@ -366,7 +465,7 @@
       "source_id": "simon_willison",
       "author": null,
       "published": "2026-10-17T13:16:49+00:00",
-      "summary": "Release: web-edit 0.1a2 I added a \"copy to clipboard\" option for both text and image data. I needed this because it was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags:…",
+      "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was…",
       "tags": [
         "projects",
         "pelican-riding-a-bicycle",
@@ -442,6 +541,19 @@
       "region": "india"
     },
     {
+      "id": "a6b5383ed12a",
+      "title": "Tomo for ChatGPT",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Mohannad Ali",
+      "published": "2026-10-17T10:14:13+00:00",
+      "summary": "Ask anything. Then play it, Duolingo-style. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "66cb00c10118",
       "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
       "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
@@ -485,7 +597,7 @@
       "source_id": "hacker_news",
       "author": "theykk",
       "published": "2026-10-17T08:21:25+00:00",
-      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 715 # Comments: 594",
+      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 860 # Comments: 655",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -553,7 +665,7 @@
       "source_id": "hacker_news",
       "author": "albinstman",
       "published": "2026-10-17T04:36:53+00:00",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 256 # Comments: 77",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 294 # Comments: 82",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -573,19 +685,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "f4f8e6696210",
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "theanonymousone",
-      "published": "2026-10-17T03:18:39+00:00",
-      "summary": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 174 # Comments: 140",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "ee6f53a9b37a",
@@ -657,7 +756,7 @@
       "source_id": "hacker_news",
       "author": "sohkamyung",
       "published": "2026-10-16T23:47:31+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 212 # Comments: 55",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 276 # Comments: 66",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -670,7 +769,7 @@
       "source_id": "hacker_news",
       "author": "alkyon",
       "published": "2026-10-16T23:38:27+00:00",
-      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 337 # Comments: 72",
+      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 457 # Comments: 99",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -693,6 +792,19 @@
         "addy-osmani"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "c167c712efaf",
+      "title": "MyLens",
+      "url": "https://www.producthunt.com/products/mylens-ai",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Ardalan Mirshani",
+      "published": "2026-10-16T21:46:17+00:00",
+      "summary": "1-1 Live Presentations at Scale with AI. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -762,7 +874,7 @@
       "source_id": "hacker_news",
       "author": "speckx",
       "published": "2026-10-16T19:01:17+00:00",
-      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 507 # Comments: 118",
+      "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 565 # Comments: 127",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -972,19 +1084,6 @@
         "AI",
         "Vercel"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6ef5b6faea87",
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ibobev",
-      "published": "2026-10-16T15:06:43+00:00",
-      "summary": "Article URL: https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/ Comments URL: https://news.ycombinator.com/item?id=50119315 Points: 130 # Comments: 9",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1291,21 +1390,6 @@
       "region": "india"
     },
     {
-      "id": "5e9c909e1674",
-      "title": "Enterprise AI Startup RapidCanvas Nets $29 Mn To Expand GTM Teams",
-      "url": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-16T10:27:02+00:00",
-      "summary": "Enterprise AI startup RapidCanvas has raised $29 Mn (about ₹280 Cr) in its Series B funding round led by Vertex…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "2c403b907988",
       "title": "Magicbricks appoints Mayank Jain as CEO",
       "url": "https://yourstory.com/2026/10/magicbricks-appoints-mayank-jain-as-ceo",
@@ -1362,6 +1446,19 @@
         "Decision Models"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "8e2af0b38d2a",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "matt_d",
+      "published": "2026-10-16T06:16:13+00:00",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ Comments URL: https://news.ycombinator.com/item?id=50114758 Points: 137 # Comments: 47",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1447,14 +1544,14 @@
       "region": "global"
     },
     {
-      "id": "3a289870737b",
-      "title": "GBrain Tools",
-      "url": "https://www.producthunt.com/products/gbrain",
+      "id": "9d791e4ddf8d",
+      "title": "Krea 3",
+      "url": "https://www.producthunt.com/products/krea",
       "source": "Product Hunt",
       "source_id": "product_hunt",
-      "author": "Brad Gessler",
-      "published": "2026-10-16T00:51:53+00:00",
-      "summary": "A password manager for AI Discussion | Link",
+      "author": "Justin Jincaid",
+      "published": "2026-10-16T00:01:46+00:00",
+      "summary": "Krea's AI image model: 2K edits in under 8 seconds Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1673,26 +1770,6 @@
       "region": "global"
     },
     {
-      "id": "6acb299f817b",
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-15T19:53:50+00:00",
-      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "fc710191e832",
       "title": "Chirp Pong",
       "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
@@ -1709,19 +1786,6 @@
         "claude-code"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "ad83fcb964dc",
-      "title": "Parallax",
-      "url": "https://www.producthunt.com/products/parallax-5",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Loc Tran",
-      "published": "2026-10-15T19:25:02+00:00",
-      "summary": "Every coding agent you run, in one place. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1772,19 +1836,6 @@
       "region": "global"
     },
     {
-      "id": "bb8e34ab7670",
-      "title": "Toad",
-      "url": "https://www.producthunt.com/products/toad-4",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Dawson Dominguez",
-      "published": "2026-10-15T16:36:36+00:00",
-      "summary": "Point your agent at any machine you own. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f69ebe03cc41",
       "title": "TechSparks 2026 grand finale: Intel, Jhunjhunwala, Food Pharmer on India’s rise",
       "url": "https://yourstory.com/2026/10/techsparks-2026-grand-finale-jhunjhunwala-food-pharmer",
@@ -1798,69 +1849,16 @@
       "region": "india"
     },
     {
-      "id": "fe914f4a197b",
-      "title": "Nemotron 3.5 Super VL",
-      "url": "https://www.producthunt.com/products/nvidia",
+      "id": "d7d2fe57ecde",
+      "title": "Bee Frontier and Bee Eclipse",
+      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
       "source": "Product Hunt",
       "source_id": "product_hunt",
-      "author": "Kumar Abhishek",
-      "published": "2026-10-15T15:27:13+00:00",
-      "summary": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
+      "author": "Justin Jincaid",
+      "published": "2026-10-15T15:11:11+00:00",
+      "summary": "Amazon's personal AI memory, now on your wrist or phone Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "62cc6cea790c",
-      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-15T14:19:27+00:00",
-      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2d562c46997b",
-      "title": "Harness by Autonomous",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Hiten Shah",
-      "published": "2026-10-15T13:27:08+00:00",
-      "summary": "Every coding agent, every machine, one command center. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fb581b0e5f95",
-      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
-      "url": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-15T13:23:45+00:00",
-      "summary": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Enterprise AI",
-        "For Devs"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1872,19 +1870,6 @@
       "author": null,
       "published": "2026-10-15T13:17:16+00:00",
       "summary": "At TechSparks 2026, leaders from Intel and Sri Chaitanya outlined how replacing rote learning with AI mentorship, emotional resilience, and equitable hardware access can prepare India’s 247 million students for tomorrow.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3d0b74e5dbf4",
-      "title": "Jio's Akash Ambani says services, not tariff hikes, to drive revenue as record IPO nears",
-      "url": "https://yourstory.com/2026/10/jios-akash-ambani-says-services-not-tariff-hikes-to-drive-revenue-as-record-ipo-nears",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T13:07:07+00:00",
-      "summary": "Ambani said Jio charges about Rs 4.9 per gigabyte against an industry average of Rs 7.5, with customers using 43.7 GB a month.",
       "tags": [],
       "tier": "india",
       "region": "india"
@@ -1923,40 +1908,14 @@
       "region": "global"
     },
     {
-      "id": "4e3302a1b7b0",
-      "title": "Swiggy's next big bet is on the 90% of Indians yet to try food delivery: Rohit Kapoor",
-      "url": "https://yourstory.com/2026/10/swiggys-next-big-bet-90-of-indians-yet-try-food-delivery",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T12:47:45+00:00",
-      "summary": "At TechSparks 2026, Rohit Kapoor, CEO of Swiggy's Food Marketplace business, said affordability, younger consumers and changing consumption habits will drive growth, even as some households receive more than 200 deliveries a week.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "c19bc75c1f28",
-      "title": "This 11-year-old built an AI smart cane for ₹10,000 and took it to the UN",
-      "url": "https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-15T12:10:09+00:00",
-      "summary": "11-year-old Aaradhya Jain built STAMBHA, a ₹10,000 AI cane for elderly and blind users, and presented it at the UN in Bangkok.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d023a9046ce2",
-      "title": "Tetriz Harness",
-      "url": "https://www.producthunt.com/products/tetriz-harness",
+      "id": "308969449526",
+      "title": "Grablo Spot",
+      "url": "https://www.producthunt.com/products/grablo-spot",
       "source": "Product Hunt",
       "source_id": "product_hunt",
-      "author": "Prasanna R",
-      "published": "2026-10-15T11:55:43+00:00",
-      "summary": "Turn what your team learns into everyone’s agent setup Discussion | Link",
+      "author": "YoungMin Kim",
+      "published": "2026-10-15T11:36:40+00:00",
+      "summary": "Free AI NVR that finds any person or vehicle in seconds Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
