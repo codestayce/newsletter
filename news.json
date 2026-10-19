@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:58:31.270041+00:00",
+  "generated_at": "2026-10-19T02:55:04.193665+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,164 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 106,
+  "item_count": 95,
   "items": [
+    {
+      "id": "716db4a08694",
+      "title": "Peak XV’s big bets on Indian startups; How Tally stayed relevant for 40 years",
+      "url": "https://yourstory.com/2026/10/peak-xv-bets-indian-startups-how-tally-stayed-relevant-for-40-years",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-19T02:00:00+00:00",
+      "summary": "Indian startup founders are increasingly aspiring to build companies worth $50 billion or even $100 billion, a shift that is prompting venture capital firms such as Peak XV Partners to take bigger risks, according to its Managing Director Mohit Bhatnagar.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "77d88c7ea3a8",
+      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-19T01:18:17+00:00",
+      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "220745077c28",
+      "title": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
+      "url": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-19T00:30:13+00:00",
+      "summary": "Menswear brand The Pant Project has raised ₹109 Cr (about $11.5 Mn) in a Series B funding round led by…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "5940a7fc19cb",
+      "title": "Will The Jio Platforms IPO Live Up To Its Billing?",
+      "url": "https://inc42.com/features/will-the-jio-platforms-ipo-live-up-to-its-billing/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gargi Sarkar",
+      "published": "2026-10-19T00:30:04+00:00",
+      "summary": "It’s already called the biggest IPO in India, but Reliance Industries Limited is leaving no stone unturned. RIL chairman Mukesh…",
+      "tags": [
+        "In-Depth",
+        "Inc42 Markets"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ad547968d473",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-18T23:43:09+00:00",
+      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "tags": [
+        "datasette",
+        "llm"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "8f1b78fcf0c4",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-18T23:16:16+00:00",
+      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now…",
+      "tags": [
+        "llm"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "a2bacc562fd7",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-18T22:20:53+00:00",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the…",
+      "tags": [
+        "Law",
+        "News",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0716d882492d",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-10-18T21:00:00+00:00",
+      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "tags": [
+        "Venture"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a5bb32320853",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "allinonai",
+      "published": "2026-10-18T20:48:14+00:00",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "efeb3746fdd3",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-18T20:37:40+00:00",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "5454adf3864b",
       "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
@@ -53,6 +209,19 @@
         "elizabeth holmes",
         "Nathan Fielder"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "383988adc811",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sysrpl",
+      "published": "2026-10-18T18:48:04+00:00",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 116 # Comments: 23",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -104,7 +273,7 @@
       "source_id": "hacker_news",
       "author": "sashk",
       "published": "2026-10-18T16:56:56+00:00",
-      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 139 # Comments: 79",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 451 # Comments: 214",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -117,7 +286,7 @@
       "source_id": "hacker_news",
       "author": "tosh",
       "published": "2026-10-18T16:32:00+00:00",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 132 # Comments: 51",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 329 # Comments: 138",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -180,27 +349,14 @@
       "region": "global"
     },
     {
-      "id": "ec8283071946",
-      "title": "macOS 15.8.2 Breaks OpenGL",
-      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "id": "98043109ddbd",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "Audiophilip",
-      "published": "2026-10-18T15:26:06+00:00",
-      "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 215 # Comments: 209",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d6d28d7170fa",
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "smilelamp",
-      "published": "2026-10-18T15:00:40+00:00",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 101 # Comments: 124",
+      "author": "hnisjafx40",
+      "published": "2026-10-18T14:47:37+00:00",
+      "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 142 # Comments: 105",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -231,7 +387,7 @@
       "source_id": "hacker_news",
       "author": "RobotToaster",
       "published": "2026-10-18T13:48:48+00:00",
-      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 269 # Comments: 38",
+      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 336 # Comments: 55",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -257,33 +413,7 @@
       "source_id": "hacker_news",
       "author": "_Microft",
       "published": "2026-10-18T11:16:22+00:00",
-      "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 144 # Comments: 12",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "229575f1542a",
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-10-18T10:21:51+00:00",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 200 # Comments: 57",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3337df1b3bee",
-      "title": "Parser Combinators",
-      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "schindlabua",
-      "published": "2026-10-18T08:19:53+00:00",
-      "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 191 # Comments: 74",
+      "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 176 # Comments: 13",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -309,19 +439,6 @@
       "region": "global"
     },
     {
-      "id": "48479cd7194a",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "fagnerbrack",
-      "published": "2026-10-18T06:50:36+00:00",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 473 # Comments: 231",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "95c4534667cd",
       "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
       "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
@@ -339,19 +456,6 @@
         "Machine Learning"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "40d691da45f3",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "critiquebrowser",
-      "published": "2026-10-18T04:33:49+00:00",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 223 # Comments: 76",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -375,19 +479,6 @@
       "region": "global"
     },
     {
-      "id": "66e85996d355",
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "MaysonL",
-      "published": "2026-10-18T03:19:49+00:00",
-      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 320 # Comments: 429",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "34039b2e7655",
       "title": "Cancellation: A creator’s biggest turning point; Scaling India’s research multiplier",
       "url": "https://yourstory.com/2026/10/cancellation-creator-biggest-turning-point-scaling-india-research-multiplier",
@@ -399,6 +490,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "d2208615ee18",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-10-18T01:38:08+00:00",
+      "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 140 # Comments: 85",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "3af165114c50",
@@ -415,6 +519,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "7db455f98205",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mdp2021",
+      "published": "2026-10-17T23:26:35+00:00",
+      "summary": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 192 # Comments: 189",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "007c6180e238",
@@ -516,26 +633,6 @@
       "tags": [
         "AI",
         "Anthropic"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1e82af36b20e",
-      "title": "TikTok bans Musk documentary account",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-17T19:32:23+00:00",
-      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was…",
-      "tags": [
-        "Creators",
-        "Elon Musk",
-        "Entertainment",
-        "Film",
-        "News",
-        "Policy"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -902,19 +999,6 @@
       "author": "Ardalan Mirshani",
       "published": "2026-10-16T21:46:17+00:00",
       "summary": "1-1 Live Presentations at Scale with AI. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3a83834fa9fd",
-      "title": "Teal – A statically-typed dialect of Lua",
-      "url": "https://teal-language.org/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Lyngbakr",
-      "published": "2026-10-16T21:07:24+00:00",
-      "summary": "Article URL: https://teal-language.org/ Comments URL: https://news.ycombinator.com/item?id=50124730 Points: 136 # Comments: 60",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1322,22 +1406,15 @@
       "region": "global"
     },
     {
-      "id": "311fa86942b3",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Startups",
-        "TC",
-        "battlefield 20",
-        "Battlefield 200"
-      ],
+      "id": "690441905629",
+      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vinipolicena",
+      "published": "2026-10-16T13:30:20+00:00",
+      "summary": "https://archive.ph/bid95 Comments URL: https://news.ycombinator.com/item?id=50118165 Points: 100 # Comments: 157",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1355,26 +1432,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "e6b0c9baa366",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-10-16T12:55:09+00:00",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "AI agents",
-        "Amjad Masad",
-        "future of work",
-        "Replit"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "a1fb2d9be385",
@@ -1526,241 +1583,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "c6f36c510a6b",
-      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
-      "url": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-16T06:26:41+00:00",
-      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Decision Models"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "eb339d16a586",
-      "title": "India can build anything: Prof. Ashok Jhunjhunwala; Food Pharmer’s shift to food startup founder",
-      "url": "https://yourstory.com/2026/10/india-build-anything-prof-ashok-jhunjhunwalafood-pharmers-shift-food-startup-founder",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-16T02:00:00+00:00",
-      "summary": "Speaking at TechSparks 2026, Padma Shri Prof. Ashok Jhunjhunwala emphasised that while India possesses world-class engineering talent, a heavy reliance on importing physical products persists because technical education prioritizes theory over hands-on building.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ba4e7337aba2",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-16T01:44:47+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "3a289870737b",
-      "title": "GBrain Tools",
-      "url": "https://www.producthunt.com/products/gbrain",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Brad Gessler",
-      "published": "2026-10-16T00:51:53+00:00",
-      "summary": "A password manager for AI Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9d791e4ddf8d",
-      "title": "Krea 3",
-      "url": "https://www.producthunt.com/products/krea",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Justin Jincaid",
-      "published": "2026-10-16T00:01:46+00:00",
-      "summary": "Krea's AI image model: 2K edits in under 8 seconds Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4185f7d423c2",
-      "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
-      "url": "https://tldr.tech/ai/2026-10-16",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "849b423196d1",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4a2f3ca18eb9",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "tags": [],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "9db4940a53f8",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "tags": [
-        "Startup"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "090e3a2ea566",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-15T22:43:23+00:00",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
-      "tags": [
-        "AI",
-        "Chrome",
-        "Google",
-        "News",
-        "OpenAI",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "12fa98d37cbb",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-10-15T22:35:55+00:00",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday,…",
-      "tags": [
-        "AI",
-        "Gaming",
-        "News"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "efa164a3921b",
-      "title": "The tech backlash is now in theaters",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Charles Pulliam-Moore",
-      "published": "2026-10-15T21:39:52+00:00",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
-      "tags": [
-        "AI",
-        "Analysis",
-        "Elon Musk",
-        "Entertainment",
-        "Facebook",
-        "Film"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "714b79603cd0",
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Beth Mole",
-      "published": "2026-10-15T21:09:57+00:00",
-      "summary": "Medical experts explicitly recommend against blanket screenings.",
-      "tags": [
-        "Health",
-        "ARM",
-        "hegseth",
-        "Military",
-        "testosterone"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ac13ec21a7ae",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-10-15T21:09:33+00:00",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by…",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Policy",
-        "Politics"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a01e02239da0",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-15T20:34:01+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
     }
   ]
 }
