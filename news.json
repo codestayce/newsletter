@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:53:34.837532+00:00",
+  "generated_at": "2026-10-19T18:13:10.834664+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,439 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 111,
+  "item_count": 106,
   "items": [
+    {
+      "id": "8a61882c5d2f",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-10-19T18:00:39+00:00",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "AI assistant"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "92c294f17fe5",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "Will Douglas Heaven",
+      "published": "2026-10-19T17:45:55+00:00",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as…",
+      "tags": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "9ce17c600687",
+      "title": "FSSAI Crackdown Continues With Fresh Show-Cause Notices Issued To Zepto, Others",
+      "url": "https://inc42.com/buzz/fssai-crackdown-continues-with-fresh-show-cause-notices-issued-to-zepto-others/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-19T16:22:54+00:00",
+      "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued show-cause notices to quick commerce unicorn Zepto as well…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "69bd463197ee",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-10-19T16:13:22+00:00",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "hacks",
+        "smart tv",
+        "television"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "cb4f90f3743a",
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gateauxd",
+      "published": "2026-10-19T15:52:26+00:00",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp Comments URL: https://news.ycombinator.com/item?id=50153934 Points: 121 # Comments: 89",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "34d9eee9f39f",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jess Weatherbed",
+      "published": "2026-10-19T15:44:20+00:00",
+      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to…",
+      "tags": [
+        "Amazon",
+        "Energy",
+        "News",
+        "Science",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c33a66b4df03",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-10-19T15:37:09+00:00",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "tags": [
+        "AI",
+        "nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "dd8ec3bec8db",
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kensai",
+      "published": "2026-10-19T15:28:24+00:00",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 193 # Comments: 37",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1a84e8023cd2",
+      "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
+      "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-10-19T15:05:10+00:00",
+      "summary": "Update | October 19, 2026 20:35 IST B2B manufacturing company Zetwerk’s ₹5,012.3 Cr IPO was oversubscribed 3.06X at the end…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "b3d41182461b",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Maddy Varner",
+      "published": "2026-10-19T14:45:43+00:00",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "tags": [
+        "AI",
+        "Policy",
+        "Character.AI",
+        "Disney",
+        "syndication"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "092a73520e5e",
+      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Cameron Faulkner",
+      "published": "2026-10-19T14:41:48+00:00",
+      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "04b74f4875c3",
+      "title": "Maybe There Was an Egg Cartel After All",
+      "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "iamnothere",
+      "published": "2026-10-19T14:31:11+00:00",
+      "summary": "Article URL: https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411 Comments URL: https://news.ycombinator.com/item?id=50152970 Points: 142 # Comments: 101",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "99c5023d5ecd",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Nilay Patel",
+      "published": "2026-10-19T14:30:00+00:00",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —…",
+      "tags": [
+        "AI",
+        "Decoder",
+        "Podcasts",
+        "Policy",
+        "Politics",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "72f398965877",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-19T13:58:41+00:00",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere,…",
+      "tags": [
+        "AI",
+        "News",
+        "Security",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5352a7238548",
+      "title": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
+      "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-10-19T13:46:00+00:00",
+      "summary": "Update| October 19, 18:30 IST Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third and…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "8485b4332f5d",
+      "title": "Wine Ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "iamnothere",
+      "published": "2026-10-19T13:35:34+00:00",
+      "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 317 # Comments: 80",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bb2f91049337",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "erikkannike",
+      "published": "2026-10-19T13:00:47+00:00",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 128 # Comments: 95",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bfa78ce3f088",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Ivan Mehta",
+      "published": "2026-10-19T12:56:14+00:00",
+      "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "tags": [
+        "Apps",
+        "app store",
+        "Apple"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1d66cd014db6",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sean O'Kane",
+      "published": "2026-10-19T12:42:55+00:00",
+      "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+      "tags": [
+        "Social",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8aefdd69c39f",
+      "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+      "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-19T12:37:58+00:00",
+      "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "277f058dcbcc",
+      "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
+      "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-10-19T12:34:27+00:00",
+      "summary": "Hiring thousands of frontline workers (employees who directly provide goods and services to communities) across multiple cities is a coordination-heavy…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "91d439fa46ec",
+      "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+      "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Tim Stevens",
+      "published": "2026-10-19T12:33:34+00:00",
+      "summary": "A primer on the joys and pains of building your own head-mounted display.",
+      "tags": [
+        "Features",
+        "Tech",
+        "Arduino",
+        "DIY",
+        "headset",
+        "hmd"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "448617650f8a",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-10-19T12:30:00+00:00",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Transportation",
+        "autonomous vehicles",
+        "self-driving cars",
+        "Startup Battlefield 200"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "335cf4e86e6b",
+      "title": "Vibe coding is turning the music gear world upside down",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-19T12:30:00+00:00",
+      "summary": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly…",
+      "tags": [
+        "Entertainment",
+        "Gadgets",
+        "Music",
+        "Report",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b1ad5daf5f4a",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Lauren Feiner",
+      "published": "2026-10-19T12:00:00+00:00",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which…",
+      "tags": [
+        "AI",
+        "Policy",
+        "Politics",
+        "Report"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "529a7d2054d7",
+      "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterpise operations",
+      "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-19T11:46:05+00:00",
+      "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "2ce23bcd162f",
       "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
@@ -35,6 +466,22 @@
       "region": "india"
     },
     {
+      "id": "9e5fb25a1dda",
+      "title": "Mobavenue’s Tejas Rathod On The Shift From Ad Optimisation To AI Decisioning",
+      "url": "https://inc42.com/features/mobavenues-tejas-rathod-on-the-shift-from-ad-optimisation-to-ai-decisioning/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Inc42 Staff",
+      "published": "2026-10-19T11:30:06+00:00",
+      "summary": "A high click rate cannot tell a fintech company whether a user will complete the KYC. Similarly, downloading an app…",
+      "tags": [
+        "In-Depth",
+        "BrandLabs"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
       "id": "af711d8b911b",
       "title": "Angel One, Zerodha expand US stock investing access for Indian investors",
       "url": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors",
@@ -42,27 +489,54 @@
       "source_id": "yourstory",
       "author": null,
       "published": "2026-10-19T11:28:52+00:00",
-      "summary": "This reflect a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
+      "summary": "This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
       "tags": [],
       "tier": "india",
       "region": "india"
     },
     {
-      "id": "fd101cf5d573",
-      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-      "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Tim Stevens",
-      "published": "2026-10-19T11:00:00+00:00",
-      "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE…",
+      "id": "04465be95d8a",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rbanffy",
+      "published": "2026-10-19T11:10:54+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 208 # Comments: 50",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ef358924a095",
+      "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
+      "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-10-19T11:05:49+00:00",
+      "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
       "tags": [
-        "Electric Bikes",
-        "Reviews",
-        "Rideables",
         "Tech",
-        "Transportation"
+        "airships",
+        "cell towers",
+        "connectivity",
+        "HAPS",
+        "high altitude platform system"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7fe60f412476",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gslin",
+      "published": "2026-10-19T10:53:39+00:00",
+      "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 180 # Comments: 59",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -105,6 +579,19 @@
         "Articles"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "3a11e60ee8cf",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "groar",
+      "published": "2026-10-19T09:59:32+00:00",
+      "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 392 # Comments: 74",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -152,21 +639,6 @@
       "region": "india"
     },
     {
-      "id": "1a84e8023cd2",
-      "title": "Zetwerk’s IPO Fully Subscribed On Day 3, Gets Muted Response From Retail Investors",
-      "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-10-19T08:47:10+00:00",
-      "summary": "B2B manufacturing company Zetwerk’s ₹5,012.3 Cr IPO has been oversubscribed on the final day of bidding, receiving bids for 19.83…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "1f492c3a1e58",
       "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
       "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
@@ -189,21 +661,6 @@
       "published": "2026-10-19T08:33:03+00:00",
       "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business profit.",
       "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "5352a7238548",
-      "title": "Tonbo Imaging IPO Oversubscribed 40X On Day 3 Till Now",
-      "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-10-19T08:10:00+00:00",
-      "summary": "Defence tech company Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23…",
-      "tags": [
-        "News"
-      ],
       "tier": "india",
       "region": "india"
     },
@@ -256,13 +713,13 @@
     },
     {
       "id": "47822cd9ee46",
-      "title": "Linux 7.3 Released",
+      "title": "Linux 7.3",
       "url": "https://lwn.net/Articles/1101143/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "cjd8",
       "published": "2026-10-19T07:23:57+00:00",
-      "summary": "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 261 # Comments: 117",
+      "summary": "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 550 # Comments: 250",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -275,7 +732,7 @@
       "source_id": "inc42",
       "author": "Palak Sharma",
       "published": "2026-10-19T06:58:41+00:00",
-      "summary": "Shares of home services company Urban Company slumped 9.5% to ₹143.30 apiece on the BSE during early trading today, following…",
+      "summary": "Update| October 19, 17:48 Shares of Urban Company ended today’s trading session 9.92% lower at ₹142.6 apiece on the BSE.…",
       "tags": [
         "News"
       ],
@@ -343,19 +800,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "16d9e0c947ef",
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "iheatuchriswogu",
-      "published": "2026-10-19T02:01:16+00:00",
-      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 103 # Comments: 42",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "716db4a08694",
@@ -435,6 +879,21 @@
       "region": "global"
     },
     {
+      "id": "adaaf247aba1",
+      "title": "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
+      "url": "https://tldr.tech/ai/2026-10-19",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-10-19T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
       "id": "ad547968d473",
       "title": "llm-tools-datasette 0.1.1",
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
@@ -458,7 +917,7 @@
       "source_id": "hacker_news",
       "author": "Eric_Gullichsen",
       "published": "2026-10-18T23:37:57+00:00",
-      "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 197 # Comments: 78",
+      "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 254 # Comments: 114",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -487,49 +946,6 @@
       "author": "Mason Chen",
       "published": "2026-10-18T23:11:35+00:00",
       "summary": "A calmer Gmail where emails look like chat threads Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a2bacc562fd7",
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-18T22:20:53+00:00",
-      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the…",
-      "tags": [
-        "Law",
-        "News",
-        "Policy"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6f2aca72a3fc",
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "zoozla",
-      "published": "2026-10-18T21:36:10+00:00",
-      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.…",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d2e2b582e272",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "amrrs",
-      "published": "2026-10-18T21:09:12+00:00",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 193 # Comments: 140",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -570,28 +986,11 @@
       "source_id": "techcrunch",
       "author": "Anthony Ha",
       "published": "2026-10-18T20:37:40+00:00",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
       "tags": [
         "AI",
-        "Anthropic"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5454adf3864b",
-      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-18T19:30:00+00:00",
-      "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters…",
-      "tags": [
-        "Column",
-        "Entertainment",
-        "Film",
-        "Movie Review"
+        "Anthropic",
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -627,24 +1026,11 @@
       "region": "global"
     },
     {
-      "id": "383988adc811",
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sysrpl",
-      "published": "2026-10-18T18:48:04+00:00",
-      "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 167 # Comments: 40",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f1180bde7a40",
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-10-18T18:28:10+00:00",
       "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
@@ -656,7 +1042,7 @@
         "Robot",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -680,34 +1066,8 @@
       "region": "global"
     },
     {
-      "id": "1c8b7cb7487d",
-      "title": "PalmOS Lemmings",
-      "url": "https://github.com/ardiri/palmos-lemmings",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "memalign",
-      "published": "2026-10-18T17:56:59+00:00",
-      "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 134 # Comments: 33",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a709c24b2f05",
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "tosh",
-      "published": "2026-10-18T16:32:00+00:00",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 466 # Comments: 169",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "218f77bb959f",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
@@ -719,7 +1079,8 @@
         "Media & Entertainment",
         "Startups",
         "character.ai",
-        "Disney"
+        "Disney",
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -738,7 +1099,8 @@
         "AI agents",
         "AI oversight",
         "Anthropic",
-        "safety"
+        "safety",
+        "syndication"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -759,50 +1121,6 @@
         "RJ Scaringe",
         "techcrunch mobility"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "98043109ddbd",
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "hnisjafx40",
-      "published": "2026-10-18T14:47:37+00:00",
-      "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 177 # Comments: 136",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b5941a2d8f6b",
-      "title": "J Mascis has nothing better to do",
-      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-18T14:00:00+00:00",
-      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview…",
-      "tags": [
-        "Entertainment",
-        "Interview",
-        "Music",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "643666daab59",
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "RobotToaster",
-      "published": "2026-10-18T13:48:48+00:00",
-      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 402 # Comments: 64",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -893,32 +1211,6 @@
       "region": "global"
     },
     {
-      "id": "34039b2e7655",
-      "title": "Cancellation: A creator’s biggest turning point; Scaling India’s research multiplier",
-      "url": "https://yourstory.com/2026/10/cancellation-creator-biggest-turning-point-scaling-india-research-multiplier",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-18T02:00:00+00:00",
-      "summary": "At TechSparks 2026, Varun Mayya, Founder and CEO of AEOS, a content and media-tech company, spoke about how online backlash can free creators to speak their minds, why founders need to get comfortable with reinvention, and why there is no secret formula for going viral.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d2208615ee18",
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gmays",
-      "published": "2026-10-18T01:38:08+00:00",
-      "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 261 # Comments: 156",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3af165114c50",
       "title": "Indian Startup IPO Tracker 2026",
       "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
@@ -942,20 +1234,7 @@
       "source_id": "hacker_news",
       "author": "mdp2021",
       "published": "2026-10-17T23:26:35+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 396 # Comments: 488",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "768304b3cd48",
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dom96",
-      "published": "2026-10-17T22:26:47+00:00",
-      "summary": "Article URL: https://blog.picheta.me/post/killswitch-lang/ Comments URL: https://news.ycombinator.com/item?id=50135762 Points: 211 # Comments: 162",
+      "summary": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 518 # Comments: 725",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -988,7 +1267,9 @@
       "tags": [
         "AI",
         "Social",
-        "Meta"
+        "In Brief",
+        "Meta",
+        "web scraping"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1036,7 +1317,7 @@
         "Social",
         "Alex Gibney",
         "Elon Musk",
-        "TikTok"
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1074,6 +1355,19 @@
         "AI",
         "Anthropic"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "348da1e2ea6d",
+      "title": "It's still OK to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "goostavos",
+      "published": "2026-10-17T19:53:20+00:00",
+      "summary": "Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming Comments URL: https://news.ycombinator.com/item?id=50134472 Points: 143 # Comments: 145",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1216,19 +1510,6 @@
       "region": "global"
     },
     {
-      "id": "e26f0eb33545",
-      "title": "ixigo Q2 profit at Rs 63 Cr on robust show in hotel booking biz",
-      "url": "https://yourstory.com/2026/10/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-17T10:58:08+00:00",
-      "summary": "This was aided by the partial sale of stake in Freshbus and strong growth in the hotel bookings segment.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "a6b5383ed12a",
       "title": "Tomo for ChatGPT",
       "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
@@ -1240,22 +1521,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "66cb00c10118",
-      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Akshit Pushkarna",
-      "published": "2026-10-17T09:45:59+00:00",
-      "summary": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…",
-      "tags": [
-        "In-Depth",
-        "Listicle"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "478cace71257",
@@ -1311,57 +1576,6 @@
       "region": "global"
     },
     {
-      "id": "7f74b0064918",
-      "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
-      "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-17T06:52:42+00:00",
-      "summary": "Hunger Pangs, the parent of restaurant chain Burma Burma, has filed its DRHP for an IPO comprising a fresh issue…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "c23edae937c9",
-      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
-      "url": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-17T06:29:55+00:00",
-      "summary": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "f36e19ea821e",
-      "title": "From Boldfit To Origin — Indian Startups Raised Over $236 Mn This Week",
-      "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-17T03:30:52+00:00",
-      "summary": "Startup funding continued to pick up pace in the second week of October. Overall, Indian new-age tech ventures raised $236.2…",
-      "tags": [
-        "News",
-        "Funding Galore"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "ee6f53a9b37a",
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
@@ -1374,19 +1588,6 @@
         "Biotech & Health",
         "TC"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5849db5c215c",
-      "title": "GPU Terminal by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ely",
-      "published": "2026-10-17T01:32:08+00:00",
-      "summary": "Compare GPU rental prices across cloud providers Discussion | Link",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1432,6 +1633,19 @@
       "author": "Sharath Kuruganty",
       "published": "2026-10-16T21:44:53+00:00",
       "summary": "Your Scribe agent that learns how you write Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bb44d568d810",
+      "title": "Gdynia and the Dream of a Maritime Poland",
+      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "lermontov",
+      "published": "2026-10-16T21:13:08+00:00",
+      "summary": "Article URL: https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/ Comments URL: https://news.ycombinator.com/item?id=50124811 Points: 100 # Comments: 29",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1506,294 +1720,6 @@
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "tags": [],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "61baa7c2d369",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "MIT Technology Review",
-      "published": "2026-10-16T18:00:00+00:00",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of…",
-      "tags": [
-        "Artificial intelligence",
-        "AI",
-        "artificial intelligence",
-        "Roundtables",
-        "Subscriber-Only Stories"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "c74e5a79a0e1",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aditya Mehta",
-      "published": "2026-10-16T17:52:24+00:00",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "tags": [
-        "AI",
-        "India"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1360a0e32829",
-      "title": "2026.42: Home At Last",
-      "url": "https://stratechery.com/2026/home-at-last/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-10-16T17:42:42+00:00",
-      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
-      "tags": [
-        "This Week in Stratechery"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "001214047006",
-      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Beth Mole",
-      "published": "2026-10-16T17:05:59+00:00",
-      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-      "tags": [
-        "Health",
-        "fda",
-        "Peptides",
-        "robert f kennedy jr"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "84c2c565c396",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Theresa Loconsolo",
-      "published": "2026-10-16T16:30:00+00:00",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Venture",
-        "early stage venture",
-        "nvidia",
-        "robotics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1aa8b1ac1c09",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aditya Mehta",
-      "published": "2026-10-16T16:01:37+00:00",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "ai models",
-        "Exclusive"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1b81886e2962",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-10-16T16:00:00+00:00",
-      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt",
-        "Tressfecta"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2018da0d05f2",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-10-16T16:00:00+00:00",
-      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "tags": [
-        "Media & Entertainment",
-        "elizabeth holmes",
-        "Nathan Fielder",
-        "Theranos"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3c203c9854b8",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-10-16T15:41:00+00:00",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "tags": [
-        "AI",
-        "Policy",
-        "ai crawling",
-        "ai scraping",
-        "AI training",
-        "Facebook"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "351478776159",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Russell Brandom",
-      "published": "2026-10-16T15:33:49+00:00",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "tags": [
-        "AI",
-        "Vercel"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c4df85e2ae7d",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Tom Warren",
-      "published": "2026-10-16T15:00:00+00:00",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best…",
-      "tags": [
-        "AI",
-        "Asus",
-        "Gadgets",
-        "Gaming",
-        "Hands-on",
-        "HP"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "f1b22ddabf09",
-      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jonathan M. Gitlin",
-      "published": "2026-10-16T14:03:25+00:00",
-      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-      "tags": [
-        "Cars",
-        "McMurtry Spéirling",
-        "tesla roadster"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e874f1181e68",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-10-16T14:02:40+00:00",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this…",
-      "tags": [
-        "AI",
-        "Meta",
-        "News",
-        "Policy",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "82d931a544c9",
-      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ashley Belanger",
-      "published": "2026-10-16T14:00:59+00:00",
-      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-      "tags": [
-        "AI",
-        "Policy",
-        "dating apps",
-        "deepfakes",
-        "documentary",
-        "federal trade commission"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "27bb60b76c0c",
-      "title": "Tori",
-      "url": "https://www.producthunt.com/products/tori-3",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Joshua Schoenaker",
-      "published": "2026-10-16T12:24:54+00:00",
-      "summary": "The smartest AI support agent for customer success Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "422ff706cee5",
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Nick Indge",
-      "published": "2026-10-16T12:00:05+00:00",
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "tags": [
-        "Reviews",
-        "Tech",
-        "microsoft surface laptop ultra",
-        "Nvidia Blackwell",
-        "RTX Spark",
-        "unified memory"
-      ],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
