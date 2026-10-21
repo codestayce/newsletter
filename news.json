@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:09:31.745520+00:00",
+  "generated_at": "2026-10-21T02:59:25.915105+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,216 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "795cef8bf388",
+      "title": "Apple’s FY26 Snapshot, Flipkart’s Foodtech Foray & More",
+      "url": "https://inc42.com/buzz/apples-fy26-snapshot-flipkarts-foodtech-foray-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-21T02:30:50+00:00",
+      "summary": "Apple India Rolls In Profits Apple’s India story is no longer just about iPhone sales. In FY26, the smartphone maker’s…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "0b6dc48fdb2d",
+      "title": "Amazon bets on agentic AI to power enterprise ops; Is your marketing AI tool driving profit or just noise?",
+      "url": "https://yourstory.com/2026/10/amazon-bets-on-agentic-ai-marketing-ai-tool-is-it-driving-profit-clevertap",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-21T02:00:00+00:00",
+      "summary": "Rajeev Rastogi, Vice President of Machine Learning at Amazon, highlighted the rise of agentic AI in the enterprise operating layer. Anand Jain of CleverTap explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "bea23034a697",
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-20T23:50:25+00:00",
+      "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any…",
+      "tags": [
+        "encryption",
+        "https",
+        "pip",
+        "python",
+        "security",
+        "uv"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "ec31e6fc5c0b",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Richard Lawler",
+      "published": "2026-10-20T23:04:19+00:00",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b6629abae55b",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-10-20T23:01:23+00:00",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "342f3b31d430",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-10-20T22:24:02+00:00",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "tags": [
+        "AI",
+        "TC",
+        "Hugging Face",
+        "Netflix"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "50c6d0722ed0",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Bender",
+      "published": "2026-10-20T22:21:05+00:00",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 114 # Comments: 41",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8dfa5c7a6c74",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Mia Sato",
+      "published": "2026-10-20T22:20:11+00:00",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video…",
+      "tags": [
+        "Creators",
+        "News",
+        "Policy",
+        "Politics",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5ed43860b2e6",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-20T22:11:34+00:00",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says…",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Tech",
+        "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0ff32bc0cedc",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Beth Mole",
+      "published": "2026-10-20T21:44:34+00:00",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "tags": [
+        "Health",
+        "Guinae-Bissau",
+        "hepatitis B",
+        "robert f kennedy jr",
+        "vaccine"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "904c472fb785",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew J. Hawkins",
+      "published": "2026-10-20T21:30:24+00:00",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of…",
+      "tags": [
+        "Business",
+        "Electric Cars",
+        "Elon Musk",
+        "News",
+        "Science",
+        "Space"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "dd8747983c69",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-10-20T21:25:22+00:00",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "cloud compute"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "aa8532ca8d59",
       "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
@@ -132,22 +342,15 @@
       "region": "global"
     },
     {
-      "id": "db518c634b8e",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Richard Lawler",
-      "published": "2026-10-20T20:16:04+00:00",
-      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino…",
-      "tags": [
-        "Creators",
-        "Health",
-        "News",
-        "Science",
-        "Tech",
-        "TikTok"
-      ],
+      "id": "428d542adc49",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "xd",
+      "published": "2026-10-20T20:15:50+00:00",
+      "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 107 # Comments: 22",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -249,20 +452,15 @@
       "region": "global"
     },
     {
-      "id": "00aa3333116b",
-      "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
-      "url": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jay Peters",
-      "published": "2026-10-20T19:06:40+00:00",
-      "summary": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the course of Microsoft's 2027 fiscal year,…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "News",
-        "Xbox"
-      ],
+      "id": "774d167c2253",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jruohonen",
+      "published": "2026-10-20T18:51:40+00:00",
+      "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 152 # Comments: 91",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -278,7 +476,6 @@
       "tags": [
         "AI",
         "Hardware",
-        "TC",
         "Google"
       ],
       "tier": "startup_news",
@@ -303,13 +500,13 @@
     },
     {
       "id": "611fba6e9fe5",
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "pcai",
       "published": "2026-10-20T18:29:09+00:00",
-      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 274 # Comments: 132",
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 601 # Comments: 306",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -374,12 +571,13 @@
       "source_id": "techcrunch",
       "author": "Marina Temkin",
       "published": "2026-10-20T17:55:12+00:00",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
       "tags": [
         "AI",
         "Startups",
         "Anthropic",
-        "Eric Schmidt"
+        "Eric Schmidt",
+        "In Brief"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -425,24 +623,23 @@
       "source_id": "hacker_news",
       "author": "Curiositry",
       "published": "2026-10-20T17:25:07+00:00",
-      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 110 # Comments: 195",
+      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 286 # Comments: 352",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "319f79c551ee",
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "author": "Sarah Perez",
       "published": "2026-10-20T17:12:48+00:00",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "tags": [
         "AI",
         "Apps",
-        "ai apps",
         "Meta",
         "muse"
       ],
@@ -473,14 +670,14 @@
       "source_id": "hacker_news",
       "author": "ilreb",
       "published": "2026-10-20T16:40:24+00:00",
-      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 187 # Comments: 47",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 276 # Comments: 64",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "2d379e8ffc91",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
       "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
@@ -488,8 +685,8 @@
       "published": "2026-10-20T16:20:06+00:00",
       "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
       "tags": [
-        "Robotics",
         "AI",
+        "Robotics",
         "equitypod"
       ],
       "tier": "startup_news",
@@ -516,7 +713,7 @@
       "source_id": "hacker_news",
       "author": "ilreb",
       "published": "2026-10-20T16:02:07+00:00",
-      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 406 # Comments: 111",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 542 # Comments: 143",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -560,6 +757,19 @@
       "region": "global"
     },
     {
+      "id": "b77bcbccfd34",
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "speckx",
+      "published": "2026-10-20T15:59:06+00:00",
+      "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 210 # Comments: 122",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "b803a95f35cc",
       "title": "IKEA – 3D Guide",
       "url": "https://sael.net/flatpack/",
@@ -567,7 +777,7 @@
       "source_id": "hacker_news",
       "author": "punnerud",
       "published": "2026-10-20T15:42:45+00:00",
-      "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 100 # Comments: 26",
+      "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 147 # Comments: 54",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -622,19 +832,6 @@
       "region": "global"
     },
     {
-      "id": "485bd8b965fc",
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "AshleysBrain",
-      "published": "2026-10-20T15:06:08+00:00",
-      "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 373 # Comments: 324",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9b8d95d37829",
       "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
       "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
@@ -681,7 +878,7 @@
       "source_id": "hacker_news",
       "author": "iamnothere",
       "published": "2026-10-20T14:30:31+00:00",
-      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 250 # Comments: 160",
+      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 342 # Comments: 255",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -714,7 +911,7 @@
       "source_id": "hacker_news",
       "author": "zinxq",
       "published": "2026-10-20T14:13:49+00:00",
-      "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 136 # Comments: 37",
+      "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 174 # Comments: 47",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -738,19 +935,6 @@
       "region": "global"
     },
     {
-      "id": "9636bb4edcb6",
-      "title": "EMudhra Intermediate CA Compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "galadran",
-      "published": "2026-10-20T13:58:33+00:00",
-      "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 450 # Comments: 242",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "43158dbf6ec8",
       "title": "Online retail market to cross $90b in 2026 with grocery overtaking mobiles: Redseer",
       "url": "https://yourstory.com/2026/10/online-retail-market-to-cross-90b-in-2026-with-grocery-overtaking-mobiles-redseer",
@@ -762,19 +946,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "fa355b2fea6d",
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "panstromek",
-      "published": "2026-10-20T13:53:48+00:00",
-      "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 122 # Comments: 47",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "b93b76b53e68",
@@ -797,7 +968,7 @@
       "source_id": "hacker_news",
       "author": "kabakabakaba",
       "published": "2026-10-20T13:39:24+00:00",
-      "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 259 # Comments: 62",
+      "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 330 # Comments: 79",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -823,7 +994,7 @@
       "source_id": "hacker_news",
       "author": "hnisjafx40",
       "published": "2026-10-20T13:18:07+00:00",
-      "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 277 # Comments: 131",
+      "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 354 # Comments: 173",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -854,11 +1025,10 @@
       "source_id": "techcrunch",
       "author": "Kate Park",
       "published": "2026-10-20T13:07:24+00:00",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "tags": [
         "AI",
         "Government & Policy",
-        "artificial intelligance",
         "deepseek"
       ],
       "tier": "startup_news",
@@ -885,19 +1055,6 @@
       "region": "global"
     },
     {
-      "id": "6a01ce2d8f26",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "robtherobber",
-      "published": "2026-10-20T13:06:22+00:00",
-      "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 289 # Comments: 164",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "15705003f60b",
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
@@ -905,28 +1062,11 @@
       "source_id": "techcrunch",
       "author": "Tim Fernholz",
       "published": "2026-10-20T13:00:00+00:00",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
       "tags": [
         "AI",
         "Robotics",
         "Exclusive"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "28290ecdb183",
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Connie Loizos",
-      "published": "2026-10-20T13:00:00+00:00",
-      "summary": "The raise comes as venture dollars pile up on the West Coast.",
-      "tags": [
-        "Venture",
-        "Alexa von Tobel",
-        "Inspired Capital"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -974,28 +1114,8 @@
       "source_id": "hacker_news",
       "author": "evanb",
       "published": "2026-10-20T12:17:28+00:00",
-      "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 407 # Comments: 227",
+      "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 501 # Comments: 260",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f742d94e8927",
-      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
-      "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-10-20T12:00:00+00:00",
-      "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
-      "tags": [
-        "Media & Entertainment",
-        "Apps",
-        "Spotify",
-        "podcasts",
-        "Creators",
-        "streaming service"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1044,23 +1164,6 @@
       "region": "india"
     },
     {
-      "id": "b0930e389e92",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-10-20T11:00:00+00:00",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "tags": [
-        "TC",
-        "AI",
-        "Apps"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "80dab6a33382",
       "title": "Google Cloud outage affects almost all banking and other operations in Europe",
       "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
@@ -1068,7 +1171,7 @@
       "source_id": "hacker_news",
       "author": "paweladamczuk",
       "published": "2026-10-20T10:26:02+00:00",
-      "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 265 # Comments: 130",
+      "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 348 # Comments: 174",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1109,7 +1212,7 @@
       "source_id": "hacker_news",
       "author": "ggcr",
       "published": "2026-10-20T09:08:54+00:00",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2010 # Comments: 784",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2150 # Comments: 838",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1202,6 +1305,21 @@
       "region": "india"
     },
     {
+      "id": "a84b6a7bee5c",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-20T07:00:00+00:00",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "tags": [
+        "Startup"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "17487438b7c1",
       "title": "Zerodha’s Wall Street Leap, Even Healthcare’s $50 Mn Raise & More",
       "url": "https://inc42.com/buzz/zerodhas-wall-street-leap-even-healthcares-50-mn-raise-more/",
@@ -1217,19 +1335,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "9128766f1662",
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "theanonymousone",
-      "published": "2026-10-20T06:37:07+00:00",
-      "summary": "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 349 # Comments: 73",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "fb920537f67f",
@@ -1543,45 +1648,6 @@
       "region": "global"
     },
     {
-      "id": "6dcd14183fe2",
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Dan Goodin",
-      "published": "2026-10-19T19:39:19+00:00",
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "tags": [
-        "Biz & IT",
-        "Security",
-        "exploits",
-        "plex media server",
-        "vulnerabilities"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5fa54fa214dd",
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jeremy Hsu",
-      "published": "2026-10-19T19:27:24+00:00",
-      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-      "tags": [
-        "Science",
-        "Endurance Energy",
-        "geothermal",
-        "geothermal energy",
-        "geothermal power",
-        "Pacific ocean"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "17fd5464d3cb",
       "title": "Mintlify Autopilot",
       "url": "https://www.producthunt.com/products/mintlify",
@@ -1889,60 +1955,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "af711d8b911b",
-      "title": "Angel One, Zerodha expand US stock investing access for Indian investors",
-      "url": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-19T11:28:52+00:00",
-      "summary": "This reflects a broader push by Indian investment platforms to expand beyond domestic equities as retail investors seek exposure to global markets.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "79de42d4eb97",
-      "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
-      "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-19T10:48:03+00:00",
-      "summary": "Founders from CoreMantle and Loopworm say India must own context-rich data to scale AI and biotech and cut reliance on imports.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "7eca915e1bb8",
-      "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
-      "url": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-19T10:28:14+00:00",
-      "summary": "Join Google Cloud's AI and ML experts for the second edition of the Gemini Enterprise series, covering app connectivity, identity management, and enterprise-grade security.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "631a7d12aeb5",
-      "title": "Do You Trust Apple?",
-      "url": "https://stratechery.com/2026/do-you-trust-apple/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-10-19T10:00:00+00:00",
-      "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
-      "tags": [
-        "Articles"
-      ],
-      "tier": "authors",
-      "region": "global"
     }
   ]
 }
