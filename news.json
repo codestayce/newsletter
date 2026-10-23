@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:54:03.027265+00:00",
+  "generated_at": "2026-10-23T16:18:49.572093+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,442 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "298c8de07d18",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "tags": [
+        "Engineering"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "d5dfb55b0129",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "source_id": "huggingface",
+      "author": null,
+      "published": "2026-10-23T16:15:50+00:00",
+      "summary": "",
+      "tags": [],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "989bc7148e25",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-10-23T16:02:43+00:00",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "tags": [
+        "Venture",
+        "Anthropic",
+        "Eric Schmidt",
+        "ICONIQ",
+        "IPO",
+        "menlo ventures"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "47740c8fb238",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-23T14:47:41+00:00",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms…",
+      "tags": [
+        "AI",
+        "Meta",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "49939ea7b7eb",
+      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Liszewski",
+      "published": "2026-10-23T14:42:46+00:00",
+      "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer…",
+      "tags": [
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "639d98001c73",
+      "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
+      "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Vinaykumar Rai",
+      "published": "2026-10-23T14:20:32+00:00",
+      "summary": "Update | October 23, 2026, 19:45 IST Reliance Industries’ digital services arm Jio Platforms’ ₹30,213 Cr IPO was subscribed 22.19X…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "424d6f30e0ad",
+      "title": "[Weekly funding roundup Oct 17-23] VC funding falls below $100M amid lack of big deals",
+      "url": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-17-23-vc-funding-falls-below-100-million",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-23T14:02:59+00:00",
+      "summary": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "90bc53a0384d",
+      "title": "Apple revives the original iPod as an Apple Music easter egg",
+      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-10-23T13:58:43+00:00",
+      "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the…",
+      "tags": [
+        "Apple",
+        "Entertainment",
+        "Music",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a3c545993bf1",
+      "title": "As chip prices surge, EV maker Ultraviolette is working on ways to absorb costs",
+      "url": "https://yourstory.com/2026/10/as-chip-prices-surge-ev-maker-ultraviolette-is-working-on-ways-to-absorb-costs",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-23T13:43:49+00:00",
+      "summary": "Bengaluru-based Ultraviolette—which produces high-performance electric motorcycles—says it will not pass on the input costs to customers.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7755d563d5d0",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "hubraumhugo",
+      "published": "2026-10-23T13:41:10+00:00",
+      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 409 # Comments: 290",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "480509c896ea",
+      "title": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?",
+      "url": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-10-23T13:16:38+00:00",
+      "summary": "Companies change course in good times and bad. For Zetwerk, the key turn came after it raised $150 Mn from…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6f6392a843df",
+      "title": "Shitter – A Nitter Fork",
+      "url": "https://codeberg.org/shitter/shitter",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "eustoria",
+      "published": "2026-10-23T13:02:23+00:00",
+      "summary": "Article URL: https://codeberg.org/shitter/shitter Comments URL: https://news.ycombinator.com/item?id=50208343 Points: 128 # Comments: 80",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ae6c4dcaa5b0",
+      "title": "People are vibe coding their way to better TVs",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "John Higgins",
+      "published": "2026-10-23T13:00:00+00:00",
+      "summary": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user…",
+      "tags": [
+        "Gadgets",
+        "Tech",
+        "TVs"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9b879ca38560",
+      "title": "Netflix can’t fire its way out of this downward spiral",
+      "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Charles Pulliam-Moore",
+      "published": "2026-10-23T13:00:00+00:00",
+      "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal departments, and was ousting its chief content officer, film…",
+      "tags": [
+        "Business",
+        "Entertainment",
+        "Film",
+        "Netflix",
+        "Report",
+        "Streaming"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2653e37e0f8f",
+      "title": "Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions",
+      "url": "https://inc42.com/buzz/netflix-credits-flipkart-bundle-indian-shows-for-record-q3-subscriber-additions/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-23T12:49:21+00:00",
+      "summary": "Streaming giant Netflix recorded its highest-ever quarterly paid net subscriber additions in India in the September quarter of 2026, crediting…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "653084f2277b",
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "petecooper",
+      "published": "2026-10-23T12:42:44+00:00",
+      "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0 Comments URL: https://news.ycombinator.com/item?id=50208099 Points: 139 # Comments: 38",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0765b23c4004",
+      "title": "5 Lessons to learn from Nexus by Yuval Noah Harari",
+      "url": "https://yourstory.com/2026/10/lessons-nexus-yuval",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-23T12:10:00+00:00",
+      "summary": "Discover five key lessons from Yuval Noah Harari’s Nexus on information, power, artificial intelligence and how networks shape society.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "c3ac7e7ceb1c",
+      "title": "Deeptech startups in India must have global ambitions, urge panellists at TechSparks",
+      "url": "https://yourstory.com/2026/10/deeptech-startups-india-must-have-global-ambitions-panellists-techsparks",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-23T12:00:05+00:00",
+      "summary": "Many aspects are falling in place for the growth of the deeptech ecosystem in India; startups must nurture self-belief and ambition in tandem, said industry experts at TechSparks 2026.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "73558bf56090",
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-10-23T12:00:00+00:00",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible…",
+      "tags": [
+        "AI",
+        "Entertainment",
+        "Gaming",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "15c1ba52a492",
+      "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
+      "url": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Palak Sharma",
+      "published": "2026-10-23T11:56:11+00:00",
+      "summary": "US-based HR tech startup Firstwork has raised $15 Mn (over ₹142 Cr) in a Series A funding round led by…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "7163d9472428",
+      "title": "[Update] Tonbo Imaging Shares End Debut Session At 62% Premium To IPO Price",
+      "url": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-23T11:43:32+00:00",
+      "summary": "Update | October 23, 2026, 16:40 IST Defence tech company Tonbo Imaging’s shares closed their debut session at ₹1,133.65 on…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cdf969f1e5dc",
+      "title": "Experts discuss how AI can bridge gaps in India’s public healthcare system",
+      "url": "https://yourstory.com/2026/10/experts-discuss-how-ai-can-bridge-gaps-indias-public-healthcare-system",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-23T11:32:14+00:00",
+      "summary": "At TechSparks 2026, healthcare experts discussed how AI-powered solutions can improve early disease detection, support frontline health workers and address gaps in healthcare delivery. The panel also highlighted the challenges of integrating these innovations into India’s public…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "14fbbf57dc78",
+      "title": "The CFO Code: Perfios’ Prashant Mahagaonkar On Balancing Founder Ambition With Financial Discipline",
+      "url": "https://inc42.com/features/the-cfo-code-perfios-prashant-mahagaonkar-on-balancing-founder-ambition-with-financial-discipline/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anirudh Trivedi",
+      "published": "2026-10-23T11:30:30+00:00",
+      "summary": "Getting an acquisition across the finish line can take months of negotiations, due diligence, paperwork and financial scrutiny. But closing…",
+      "tags": [
+        "In-Depth"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "4d9ebe56a977",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jeremy Hsu",
+      "published": "2026-10-23T11:30:22+00:00",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "tags": [
+        "Tech",
+        "AI drones",
+        "drones",
+        "Elon Musk",
+        "military drones",
+        "Russia invasion of Ukraine"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7b8845359186",
+      "title": "IPO-Bound Garuda Aerospace’s FY26 Profit Jumps 41% To ₹25.9 Cr",
+      "url": "https://inc42.com/buzz/ipo-bound-garuda-aerospaces-fy26-profit-jumps-41-to-%e2%82%b925-9-cr/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-23T11:21:23+00:00",
+      "summary": "Chennai-based dronetech startup Garuda Aerospace reported a net profit of ₹25.9 Cr in FY26, growing 41.1% from ₹18.4 Cr from…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "86d3f2c86706",
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-10-23T11:15:03+00:00",
+      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+      "tags": [
+        "Culture",
+        "Reviews",
+        "a24 studio",
+        "body horror",
+        "crystal lake",
+        "Friday the 13th"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "38c321ce3380",
+      "title": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "drewsberry",
+      "published": "2026-10-23T11:04:53+00:00",
+      "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 125 # Comments: 136",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8bfd3376dd7f",
+      "title": "Ultraviolette Launches New E-Bike X-47 Venom With A ₹2.65 Lakh Price Tag",
+      "url": "https://inc42.com/buzz/ultraviolette-launches-new-e-bike-x-47-venom-with-a-%e2%82%b92-65-lakh-price-tag/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anne Florentyna",
+      "published": "2026-10-23T10:43:33+00:00",
+      "summary": "A month after raising $85 Mn, e-bike maker Ultraviolette has unveiled its new motorcycle, X-47 Venom powered by its new…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "154d297ce423",
       "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
@@ -71,6 +507,32 @@
       "region": "global"
     },
     {
+      "id": "c448af03956c",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "robtherobber",
+      "published": "2026-10-23T08:21:29+00:00",
+      "summary": "Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/ Comments URL: https://news.ycombinator.com/item?id=50205934 Points: 306 # Comments: 301",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "46558c101eff",
+      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "f311a",
+      "published": "2026-10-23T08:05:33+00:00",
+      "summary": "Article URL: https://github.com/ClickHouse/ClickBench/pull/2165 Comments URL: https://news.ycombinator.com/item?id=50205816 Points: 151 # Comments: 86",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "03db7b60a9d8",
       "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
       "url": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
@@ -93,21 +555,6 @@
       "published": "2026-10-23T07:05:03+00:00",
       "summary": "Sebi noted that members are often contacted from a new number and invited to join another group, with operators claiming that the previous group had been banned due to social media platform restrictions.",
       "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "639d98001c73",
-      "title": "Jio Platforms IPO Booked 6.76X On Day 3 So Far, QIB Portion Subscribed 14.18X",
-      "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Vinaykumar Rai",
-      "published": "2026-10-23T06:44:32+00:00",
-      "summary": "Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final…",
-      "tags": [
-        "News"
-      ],
       "tier": "india",
       "region": "india"
     },
@@ -236,21 +683,6 @@
       "region": "india"
     },
     {
-      "id": "d751487570a0",
-      "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
-      "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-23T04:36:10+00:00",
-      "summary": "B2B manufacturing company Zetwerk made its stock market debut at a 5.46% premium on the NSE at ₹159.25 against its…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "98736d79cf19",
       "title": "Termi Protocol",
       "url": "https://www.producthunt.com/products/termi-protocol",
@@ -262,21 +694,6 @@
       "tags": [],
       "tier": "startup_news",
       "region": "global"
-    },
-    {
-      "id": "7163d9472428",
-      "title": "Tonbo Imaging Makes Strong Market Debut, Lists At 66% Premium To IPO Price",
-      "url": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-23T04:32:32+00:00",
-      "summary": "Defence tech company Tonbo Imaging made a strong stock market debut, listing at ₹1,162 on the BSE, a 66% premium…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "e3480502faea",
@@ -329,6 +746,19 @@
       "region": "global"
     },
     {
+      "id": "58e120677405",
+      "title": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ctoth",
+      "published": "2026-10-23T02:19:38+00:00",
+      "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 131 # Comments: 58",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "87a00f0d5a87",
       "title": "The foolishness of \"natural language programming\" (1978)",
       "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
@@ -336,7 +766,7 @@
       "source_id": "hacker_news",
       "author": "xiaoyu2006",
       "published": "2026-10-23T00:52:01+00:00",
-      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 190 # Comments: 113",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 300 # Comments: 197",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -351,28 +781,37 @@
       "published": "2026-10-23T00:45:37+00:00",
       "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "tags": [
-        "AI",
-        "TC"
+        "AI"
       ],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "b07a3fb13708",
-      "title": "Etsy is cracking down on AI slop listings",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jay Peters",
-      "published": "2026-10-23T00:09:58+00:00",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your…",
+      "id": "d29df66063b9",
+      "title": "OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖",
+      "url": "https://tldr.tech/ai/2026-10-23",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "",
       "tags": [
-        "Creators",
-        "News",
-        "Online Shopping",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "6430909168b5",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "source_id": "huggingface",
+      "author": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "",
+      "tags": [],
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -398,7 +837,7 @@
       "source_id": "hacker_news",
       "author": "giancarlostoro",
       "published": "2026-10-22T23:56:36+00:00",
-      "summary": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 107 # Comments: 14",
+      "summary": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 147 # Comments: 26",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -430,7 +869,7 @@
       "source_id": "hacker_news",
       "author": "psxuaw",
       "published": "2026-10-22T23:45:56+00:00",
-      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 519 # Comments: 233",
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 716 # Comments: 289",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -456,24 +895,6 @@
       "region": "global"
     },
     {
-      "id": "3659acf2e7a7",
-      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-22T23:02:43+00:00",
-      "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in…",
-      "tags": [
-        "Entertainment",
-        "News",
-        "Spotify",
-        "Streaming"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9498ce0d340b",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
@@ -481,7 +902,7 @@
       "source_id": "hacker_news",
       "author": "sohkamyung",
       "published": "2026-10-22T23:01:18+00:00",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 448 # Comments: 109",
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 875 # Comments: 171",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -494,7 +915,7 @@
       "source_id": "hacker_news",
       "author": "johnbender",
       "published": "2026-10-22T22:54:43+00:00",
-      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 352 # Comments: 207",
+      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 402 # Comments: 245",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -553,8 +974,8 @@
       "id": "09c9f9d097fb",
       "title": "Canva’s first AI image model plans designs before generating them",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-22T21:51:25+00:00",
       "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,…",
@@ -564,6 +985,19 @@
         "News",
         "Tech"
       ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "cd3c01871370",
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-10-22T21:41:13+00:00",
+      "summary": "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images Comments URL: https://news.ycombinator.com/item?id=50201445 Points: 172 # Comments: 54",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -594,21 +1028,6 @@
         "sponsored"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1954ecb409c2",
-      "title": "Fall 2026 earnings watch",
-      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Verge Staff",
-      "published": "2026-10-22T21:15:16+00:00",
-      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for…",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -674,8 +1093,8 @@
       "id": "c744e4ea5afb",
       "title": "Meta’s AI could still scrape news sites, legal experts say",
       "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-22T20:32:05+00:00",
       "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your…",
@@ -685,15 +1104,15 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
       "id": "b3eae9960910",
       "title": "Meta turns Muse sharing back on",
       "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Jay Peters",
       "published": "2026-10-22T20:24:04+00:00",
       "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan…",
@@ -703,23 +1122,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5401a8f54f89",
-      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sean Hollister",
-      "published": "2026-10-22T20:23:48+00:00",
-      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they…",
-      "tags": [
-        "News",
-        "Policy"
-      ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -756,6 +1159,19 @@
         "Mass Effect",
         "mass effect universe"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5c6a065c01b5",
+      "title": "The HTML-in-Canvas API origin trial",
+      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "andrewstuart",
+      "published": "2026-10-22T19:54:04+00:00",
+      "summary": "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 104 # Comments: 44",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -921,19 +1337,6 @@
       "region": "global"
     },
     {
-      "id": "9eefcb402ccc",
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "maxilevi",
-      "published": "2026-10-22T18:44:36+00:00",
-      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 204 # Comments: 40",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d26ae9b2d9ce",
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -1034,7 +1437,7 @@
       "source_id": "hacker_news",
       "author": "niemandhier",
       "published": "2026-10-22T17:44:06+00:00",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 407 # Comments: 195",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 467 # Comments: 205",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1172,24 +1575,6 @@
       "region": "global"
     },
     {
-      "id": "cc47211c4f36",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Andrew Webster",
-      "published": "2026-10-22T16:16:15+00:00",
-      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Film",
-        "Report"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "5943c7c75ffb",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
@@ -1197,7 +1582,7 @@
       "source_id": "hacker_news",
       "author": "dewey",
       "published": "2026-10-22T16:14:31+00:00",
-      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 305 # Comments: 130",
+      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 342 # Comments: 155",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1223,19 +1608,6 @@
       "region": "global"
     },
     {
-      "id": "eaa0ebff7daf",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-22T16:11:31+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "374db3b9194f",
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
@@ -1243,7 +1615,7 @@
       "source_id": "hacker_news",
       "author": "rakannimer",
       "published": "2026-10-22T16:08:00+00:00",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 441 # Comments: 439",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 571 # Comments: 544",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1263,62 +1635,6 @@
         "Startup Battlefield 200",
         "TechCrunch Disrupt",
         "TechCrunch Disrupt 2026"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2e9a4426b964",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-10-22T16:00:00+00:00",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "Uber"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "49b6eb261a64",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Lauren Feiner",
-      "published": "2026-10-22T15:50:30+00:00",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Apple",
-        "Nvidia",
-        "OpenAI",
-        "Policy"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "65dfbe5ddc18",
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sean O'Kane",
-      "published": "2026-10-22T15:44:39+00:00",
-      "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-      "tags": [
-        "Transportation",
-        "cybercab",
-        "robotaxi",
-        "Tesla"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1351,7 +1667,7 @@
       "source_id": "hacker_news",
       "author": "aghuang",
       "published": "2026-10-22T15:26:22+00:00",
-      "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 445 # Comments: 162",
+      "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 491 # Comments: 179",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1396,7 +1712,7 @@
       "source_id": "hacker_news",
       "author": "farrokhi",
       "published": "2026-10-22T14:32:38+00:00",
-      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 1230 # Comments: 413",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 1310 # Comments: 453",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1479,19 +1795,6 @@
       "region": "india"
     },
     {
-      "id": "c857d00b04e6",
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "bo0tzz",
-      "published": "2026-10-22T13:33:39+00:00",
-      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 1067 # Comments: 688",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "113509c61505",
       "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
       "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
@@ -1505,26 +1808,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "f41bd7c74b55",
-      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
-      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Chad Kirchner",
-      "published": "2026-10-22T13:04:32+00:00",
-      "summary": "General Motors' plans will require quite a lot of customers' trust.",
-      "tags": [
-        "Cars",
-        "Gen-4 EV architecture",
-        "General Motors",
-        "GM Future",
-        "Sterling Anderson",
-        "Super Cruise"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "85c5cfb1b29d",
@@ -1542,22 +1825,6 @@
       "region": "india"
     },
     {
-      "id": "58cbc5c400e6",
-      "title": "Manufacturing Startups To Watch: 5 Startups That Caught Our Eye In October",
-      "url": "https://inc42.com/startups/manufacturing-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-10-22T12:12:55+00:00",
-      "summary": "India’s manufacturing story is moving beyond assembling finished products. Startups are developing specialised components, materials and engineering systems that power…",
-      "tags": [
-        "Startup Stories",
-        "Manufacturing Startups To Watch"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "8b9cb2732615",
       "title": "TravClan raises $5M from Flipkart, others",
       "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others",
@@ -1567,70 +1834,6 @@
       "published": "2026-10-22T12:00:56+00:00",
       "summary": "TravClan said it will use the funds to expand its global supply network, enhance its technology and AI capabilities, and strengthen destination operations across key international markets.",
       "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "cfd3b52c226d",
-      "title": "Binny Bansal-Backed ShopOS Launches AI Creative Platform Sloosh For Individuals",
-      "url": "https://inc42.com/buzz/binny-bansal-backed-shopos-launches-ai-creative-platform-sloosh-for-individuals/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-10-22T11:43:51+00:00",
-      "summary": "Binny Bansal-backed AI startup ShopOS has launched Sloosh, a self-service platform that makes the image and video generation technology it…",
-      "tags": [
-        "News",
-        "Exclusive"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "72a8cd99f947",
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "entryleveljobsc",
-      "published": "2026-10-22T11:42:03+00:00",
-      "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: https://news.ycombinator.com/item?id=50194009 Points: 308 # Comments: 280",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "93b4e3302ce5",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Dan Goodin",
-      "published": "2026-10-22T11:30:33+00:00",
-      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-      "tags": [
-        "Biz & IT",
-        "Security",
-        "exploit",
-        "hacking",
-        "the onion router",
-        "tor"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e7e0b7dbf68d",
-      "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
-      "url": "https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-10-22T11:21:47+00:00",
-      "summary": "Update | October 22, 16:51 Delhi-based B2B travel tech startup TravClan has raised a $5 Mn funding round comprising a…",
-      "tags": [
-        "News"
-      ],
       "tier": "india",
       "region": "india"
     },
@@ -1693,21 +1896,6 @@
       "region": "global"
     },
     {
-      "id": "022ba9d303b3",
-      "title": "Japanese-Themed Dining Chain Harajuku Tokyo Café Raises $3 Mn",
-      "url": "https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-10-22T08:46:47+00:00",
-      "summary": "Japanese-themed dining chain Harajuku Tokyo Cafe has raised $3 Mn (around ₹28 Cr) in a pre-Series A funding round led…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "8cacaf29b137",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
@@ -1724,19 +1912,6 @@
       "region": "global"
     },
     {
-      "id": "898a75a2f1dd",
-      "title": "Can AI make debt collections less about chasing and more about predicting?",
-      "url": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-22T08:03:56+00:00",
-      "summary": "The future lies in using data to understand portfolios, AI to prioritise decisions, and human judgement where individual circumstances matter most.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "5d118fadbe79",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -1748,205 +1923,6 @@
       "tags": [],
       "tier": "ai_news",
       "region": "global"
-    },
-    {
-      "id": "38853d0fbc55",
-      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
-      "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-22T07:00:56+00:00",
-      "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "28bb6b3a3634",
-      "title": "Agentic CleanSlop",
-      "url": "https://www.producthunt.com/products/cleanslop",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Swaroop Hegde",
-      "published": "2026-10-22T06:28:58+00:00",
-      "summary": "Authenticate, scan and fix your app from your agent Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3bda06c47ec4",
-      "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
-      "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-22T06:06:13+00:00",
-      "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected apps, prioritise tasks, and carry out work…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "63c31ca523f9",
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-22T06:00:00+00:00",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "tags": [
-        "AI Adoption"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "2c2f1ed29ad0",
-      "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
-      "url": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-22T05:30:53+00:00",
-      "summary": "Omnichannel furniture and home furnishings brand Chapter Homes has raised ₹63 Cr ($6.6 Mn) in a strategic funding round through…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f0188a6a72ca",
-      "title": "Chapter Home raises Rs 63 Cr in a mix of equity and debt",
-      "url": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-22T05:30:00+00:00",
-      "summary": "Chapter Home said it will use the funding for product development, expansion into newer categories, and investment into technology .",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "154c01fca303",
-      "title": "Resend Inboxes",
-      "url": "https://www.producthunt.com/products/resend",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "fmerian",
-      "published": "2026-10-22T05:25:49+00:00",
-      "summary": "Create shared inboxes, connect your agents, build workflows Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c636cce6879a",
-      "title": "CureBay raises Rs 100 Cr in Pre-Series C round led by IvyCap Ventures",
-      "url": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-22T05:04:56+00:00",
-      "summary": "CureBay said it will use the funds to expand its operations across India, strengthen its healthcare delivery network, and develop its technology and AI capabilities.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a637fa6c047a",
-      "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
-      "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-22T04:56:31+00:00",
-      "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "7e7e8c9ff73b",
-      "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
-      "url": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Sana Hassan",
-      "published": "2026-10-22T04:17:37+00:00",
-      "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold…",
-      "tags": [
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick",
-        "For Devs",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "998df5bdade4",
-      "title": "Eternal’s Q2 Profit Run, Jio IPO Day 1 & More",
-      "url": "https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-22T02:30:10+00:00",
-      "summary": "Eternal’s Q2 Profit Surge Eternal continued to fire on all cylinders in Q2 FY27. Besides improving margins and the profit…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "8802a7899044",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "alphax314",
-      "published": "2026-10-22T02:18:41+00:00",
-      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 553 # Comments: 170",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9e87726055df",
-      "title": "Jio Platforms IPO draws strong demand within hours; Eternal's Q2 net profit rises 92%",
-      "url": "https://yourstory.com/2026/10/jio-platforms-ipo-draws-strong-demand-within-hours",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-22T02:00:00+00:00",
-      "summary": "The qualified institutional investors showed strong interest for the IPO of Jio Platforms with subscription crossing 4x.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     }
   ]
 }
