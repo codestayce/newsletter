@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:34:00.741069+00:00",
+  "generated_at": "2026-10-25T15:26:30.577962+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,153 @@
   "item_count": 120,
   "items": [
     {
+      "id": "611184d5aa6f",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lauren Forristal",
+      "published": "2026-10-25T14:10:00+00:00",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "tags": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "wearables",
+        "evergreens",
+        "AI wearables"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "974507e8485e",
+      "title": "PM inaugurates RBI's Rs 169-cr data centre, Cybersecurity Training Institute in Odisha",
+      "url": "https://yourstory.com/2026/10/pm-inaugurates-rbis-rs-169-cr-data-centre-cybersecurity-training-institute-in-odisha",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-25T13:45:32+00:00",
+      "summary": "The data centre will host mission-critical payment and settlement systems, along with other flagship initiatives, the government said in a statement.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6bffee9c13e8",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-25T13:25:32+00:00",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,…",
+      "tags": [
+        "AI",
+        "News",
+        "Reddit",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "09f6bbd7e31a",
+      "title": "Will take action if Kannadigas sidelined in jobs in Karnataka: CM Shivakumar",
+      "url": "https://yourstory.com/2026/10/will-take-action-if-kannadigas-sidelined-jobs-karnataka-cm-shivakumar",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-25T13:00:30+00:00",
+      "summary": "In a post on 'X', Shivakumar said the government had taken concerns about Kannadigas being overlooked seriously and asserted that their rights, dignity, and opportunities would not be compromised.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d096bd1c1490",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-25T12:12:18+00:00",
+      "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "6f9ed043fa8a",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-25T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The…",
+      "tags": [
+        "AI",
+        "Column",
+        "The Stepback"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ef6139f0527e",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-25T11:32:29+00:00",
+      "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "75f0e0e121c2",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "tosh",
+      "published": "2026-10-25T11:09:12+00:00",
+      "summary": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 101 # Comments: 34",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5431bd7fa76b",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mashally",
+      "published": "2026-10-25T10:42:01+00:00",
+      "summary": "Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 190 # Comments: 126",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ad1b559e8ff5",
       "title": "Five IPOs to open next week; companies eye close to Rs 2,600 Cr",
       "url": "https://yourstory.com/2026/10/five-ipos-to-open-next-week-companies-eye-close-to-rs-2600-cr",
@@ -33,19 +180,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "5939d566ce0c",
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vrganj",
-      "published": "2026-10-25T09:00:40+00:00",
-      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 137 # Comments: 60",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "e1860bc91c7d",
@@ -209,7 +343,20 @@
       "source_id": "hacker_news",
       "author": "gmays",
       "published": "2026-10-25T01:33:49+00:00",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 177 # Comments: 57",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 260 # Comments: 85",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ceb7d26d07b0",
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "andsoitis",
+      "published": "2026-10-24T23:33:19+00:00",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 106 # Comments: 57",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -222,7 +369,7 @@
       "source_id": "hacker_news",
       "author": "gnabgib",
       "published": "2026-10-24T23:11:54+00:00",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 370 # Comments: 375",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 426 # Comments: 453",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -235,7 +382,7 @@
       "source_id": "hacker_news",
       "author": "ltratt",
       "published": "2026-10-24T21:47:31+00:00",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 443 # Comments: 383",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 567 # Comments: 527",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -248,7 +395,20 @@
       "source_id": "hacker_news",
       "author": "andsoitis",
       "published": "2026-10-24T21:44:23+00:00",
-      "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 116 # Comments: 11",
+      "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 147 # Comments: 20",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e04ac878b49d",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "andsoitis",
+      "published": "2026-10-24T21:42:47+00:00",
+      "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 100 # Comments: 33",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -293,19 +453,6 @@
       "region": "global"
     },
     {
-      "id": "5a08291251a2",
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "cloudlandsdev",
-      "published": "2026-10-24T20:30:31+00:00",
-      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 490 # Comments: 305",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c95cc9144761",
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -330,7 +477,7 @@
       "source_id": "hacker_news",
       "author": "LordNibbler",
       "published": "2026-10-24T19:19:43+00:00",
-      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 152 # Comments: 26",
+      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 186 # Comments: 37",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -356,7 +503,7 @@
       "source_id": "hacker_news",
       "author": "bobbydigitales",
       "published": "2026-10-24T19:06:55+00:00",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 412 # Comments: 250",
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 487 # Comments: 298",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -399,19 +546,6 @@
       "region": "global"
     },
     {
-      "id": "f6800b4d1216",
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "aoli-al",
-      "published": "2026-10-24T18:22:14+00:00",
-      "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 115 # Comments: 11",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f25e86d37a66",
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "url": "https://de.numista.com/9866",
@@ -419,20 +553,7 @@
       "source_id": "hacker_news",
       "author": "schleck8",
       "published": "2026-10-24T16:41:55+00:00",
-      "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 117 # Comments: 38",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f686687fa50f",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "cxr",
-      "published": "2026-10-24T16:06:26+00:00",
-      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 287 # Comments: 202",
+      "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 130 # Comments: 42",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -463,7 +584,7 @@
       "source_id": "hacker_news",
       "author": "giuliomagnifico",
       "published": "2026-10-24T15:57:17+00:00",
-      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 108 # Comments: 42",
+      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 125 # Comments: 46",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -476,7 +597,7 @@
       "source_id": "hacker_news",
       "author": "esher",
       "published": "2026-10-24T15:20:01+00:00",
-      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 296 # Comments: 82",
+      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 323 # Comments: 85",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -752,7 +873,7 @@
       "source_id": "hacker_news",
       "author": "fragebogen",
       "published": "2026-10-24T09:58:27+00:00",
-      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 251 # Comments: 71",
+      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 297 # Comments: 74",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -765,7 +886,7 @@
       "source_id": "hacker_news",
       "author": "rramadass",
       "published": "2026-10-24T09:53:26+00:00",
-      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 316 # Comments: 254",
+      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 346 # Comments: 267",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -793,7 +914,7 @@
       "source_id": "hacker_news",
       "author": "theanonymousone",
       "published": "2026-10-24T08:06:39+00:00",
-      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 322 # Comments: 155",
+      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 353 # Comments: 171",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1005,26 +1126,6 @@
         "nvidia",
         "pollen robotics",
         "toys"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ec10704829a6",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Tom Warren",
-      "published": "2026-10-23T21:39:26+00:00",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft…",
-      "tags": [
-        "Entertainment",
-        "Gaming",
-        "Microsoft",
-        "News",
-        "Tech",
-        "Xbox"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1396,26 +1497,6 @@
       "region": "global"
     },
     {
-      "id": "989bc7148e25",
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-10-23T16:02:43+00:00",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "tags": [
-        "Venture",
-        "Anthropic",
-        "Eric Schmidt",
-        "ICONIQ",
-        "IPO",
-        "menlo ventures"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "47740c8fb238",
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
       "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
@@ -1592,19 +1673,6 @@
       "region": "india"
     },
     {
-      "id": "cdf969f1e5dc",
-      "title": "Experts discuss how AI can bridge gaps in India’s public healthcare system",
-      "url": "https://yourstory.com/2026/10/experts-discuss-how-ai-can-bridge-gaps-indias-public-healthcare-system",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-23T11:32:14+00:00",
-      "summary": "At TechSparks 2026, healthcare experts discussed how AI-powered solutions can improve early disease detection, support frontline health workers and address gaps in healthcare delivery. The panel also highlighted the challenges of integrating these innovations into India’s public…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "14fbbf57dc78",
       "title": "The CFO Code: Perfios’ Prashant Mahagaonkar On Balancing Founder Ambition With Financial Discipline",
       "url": "https://inc42.com/features/the-cfo-code-perfios-prashant-mahagaonkar-on-balancing-founder-ambition-with-financial-discipline/",
@@ -1722,52 +1790,6 @@
       "region": "global"
     },
     {
-      "id": "60c12cb5277a",
-      "title": "Startup news and updates: Daily roundup (October 23, 2026)",
-      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-23-2026",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-23T09:55:23+00:00",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here’s the roundup for Friday, October 23, 2026.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a9a09ff5725b",
-      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-      "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-23T08:58:47+00:00",
-      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "03db7b60a9d8",
-      "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
-      "url": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-23T08:04:31+00:00",
-      "summary": "Strapline: At DevSparks Chennai 2026, Arvind Purushothaman of EY GDS made the case that moving agents into production is an engineering problem, not a model problem. Gayatri Guha Ask a room of developers about agents today and you will get plenty of answers. Almost everyone has…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "786c3f301e8f",
       "title": "ShogunAI",
       "url": "https://www.producthunt.com/products/shogunai",
@@ -1795,26 +1817,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "f8eb6e980e5d",
-      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-      "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-23T06:05:10+00:00",
-      "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
     },
     {
       "id": "96fd7faa14e9",
@@ -1922,7 +1924,7 @@
       "source_id": "hacker_news",
       "author": "sohkamyung",
       "published": "2026-10-22T23:01:18+00:00",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1592 # Comments: 247",
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1629 # Comments: 251",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
