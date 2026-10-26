@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:18:09.390114+00:00",
+  "generated_at": "2026-10-26T02:50:13.819418+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,125 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 107,
   "items": [
+    {
+      "id": "7f8d0a103c81",
+      "title": "Startup funding falls below $100M; Deeptech startups look to go global",
+      "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-26T02:00:00+00:00",
+      "summary": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "555faf0f4f22",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-25T21:40:27+00:00",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but…",
+      "tags": [
+        "Apple",
+        "iPhone",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bf7f18e0418c",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-25T21:31:16+00:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Elon Musk",
+        "SpaceX",
+        "xAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "71a4bc37ba06",
+      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-25T21:15:21+00:00",
+      "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "c45c68dc9fe2",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "minimaxir",
+      "published": "2026-10-25T21:11:31+00:00",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 169 # Comments: 199",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3a7c73377b87",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-25T21:08:09+00:00",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006…",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e105f7e534a6",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-25T20:20:08+00:00",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "0e37b2269d33",
       "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
@@ -58,6 +175,19 @@
       "region": "global"
     },
     {
+      "id": "046f954a8ebe",
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jruohonen",
+      "published": "2026-10-25T19:11:31+00:00",
+      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 145 # Comments: 54",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ba8662066c89",
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
@@ -65,7 +195,7 @@
       "source_id": "hacker_news",
       "author": "tdeck",
       "published": "2026-10-25T18:04:11+00:00",
-      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 178 # Comments: 46",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 404 # Comments: 106",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -78,7 +208,7 @@
       "source_id": "hacker_news",
       "author": "Tomte",
       "published": "2026-10-25T17:30:55+00:00",
-      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 238 # Comments: 113",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 402 # Comments: 204",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -91,7 +221,7 @@
       "source_id": "hacker_news",
       "author": "sungam",
       "published": "2026-10-25T17:15:38+00:00",
-      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 249 # Comments: 118",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 456 # Comments: 216",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -152,19 +282,6 @@
       "region": "global"
     },
     {
-      "id": "33331332d5b9",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "romanhn",
-      "published": "2026-10-25T16:28:26+00:00",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 124 # Comments: 189",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7f3afb38eae3",
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
@@ -179,19 +296,6 @@
         "robotaxis",
         "techcrunch mobility"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "fbc3f8d5d89f",
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vfxGer",
-      "published": "2026-10-25T15:05:39+00:00",
-      "summary": "I was playing around with visualising the S&P 500 by market cap and decided to add employees to each company's bubble. What surprised me was how empty some of the biggest companies looked. Nvidia is worth $5.2 trillion but employs only 42,000 people. That's around $124 million…",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -243,6 +347,19 @@
         "Reddit",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fad6d68f8ea5",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "greenchair",
+      "published": "2026-10-25T13:09:16+00:00",
+      "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 126 # Comments: 53",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -314,19 +431,6 @@
         "For Devs"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "75f0e0e121c2",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "tosh",
-      "published": "2026-10-25T11:09:12+00:00",
-      "summary": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 184 # Comments: 64",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -497,19 +601,6 @@
       "region": "india"
     },
     {
-      "id": "c35e0b6aa8bd",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gmays",
-      "published": "2026-10-25T01:33:49+00:00",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 334 # Comments: 118",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "13b5d33bcba3",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
@@ -517,7 +608,7 @@
       "source_id": "hacker_news",
       "author": "ltratt",
       "published": "2026-10-24T21:47:31+00:00",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 700 # Comments: 644",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 752 # Comments: 695",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -579,19 +670,6 @@
       "region": "global"
     },
     {
-      "id": "bb32e50a604d",
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "LordNibbler",
-      "published": "2026-10-24T19:19:43+00:00",
-      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 215 # Comments: 47",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "42f591ceab23",
       "title": "Papermark Data Rooms",
       "url": "https://www.producthunt.com/products/papermark-2",
@@ -600,19 +678,6 @@
       "author": "Iuliia Shnai",
       "published": "2026-10-24T19:09:46+00:00",
       "summary": "Secure data rooms your AI agents can run. Live in Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "84c9b463e77e",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "bobbydigitales",
-      "published": "2026-10-24T19:06:55+00:00",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 540 # Comments: 336",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -688,41 +753,6 @@
         "SpaceX",
         "vote",
         "Exclusive"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "94ce40bc8e87",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-24T15:00:00+00:00",
-      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from…",
-      "tags": [
-        "Entertainment",
-        "Interview",
-        "Music",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8835a76082f3",
-      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sheena Vasani",
-      "published": "2026-10-24T15:00:00+00:00",
-      "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you…",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1025,26 +1055,6 @@
       "region": "india"
     },
     {
-      "id": "9134c26f4d1d",
-      "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
-      "url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-23T23:26:53+00:00",
-      "summary": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "ae826c96ec6c",
       "title": "Startups don’t need to go viral to win customers",
       "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
@@ -1167,22 +1177,6 @@
       "region": "global"
     },
     {
-      "id": "7717ea3a2fe4",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-23T20:03:14+00:00",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "tags": [
-        "Startups",
-        "TechCrunch Founder Summit"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "6c51129e93f6",
       "title": "Introducing Kimi K3.1 Pro",
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
@@ -1216,42 +1210,6 @@
         "News"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "09c3033658bb",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-10-23T19:25:13+00:00",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "Carta",
-        "NewView Capital"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4f8bba4990b7",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-23T19:06:23+00:00",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside…",
-      "tags": [
-        "Startups",
-        "AI",
-        "Fundraising",
-        "TechCrunch Founder Summit"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1762,22 +1720,6 @@
       "region": "global"
     },
     {
-      "id": "95d6096258f4",
-      "title": "Swiggy’s Q2 Report Card, eMudhra To Exit Certificate Biz & More",
-      "url": "https://inc42.com/buzz/swiggys-q2-report-card-emudhra-to-exit-certificate-biz-tonbos-founders-pocket-%e2%82%b9137-cr/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-10-23T04:57:22+00:00",
-      "summary": "Swiggy’s Sweet And Sour Q2 Swiggy had a mixed quarter in Q2 FY27. While its food delivery business delivered record…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "98736d79cf19",
       "title": "Termi Protocol",
       "url": "https://www.producthunt.com/products/termi-protocol",
@@ -1799,133 +1741,6 @@
       "author": "Zongrong(Jasper) Li",
       "published": "2026-10-23T04:03:20+00:00",
       "summary": "Live rankings of the tools AI agents use most Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d29df66063b9",
-      "title": "OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖",
-      "url": "https://tldr.tech/ai/2026-10-23",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6430909168b5",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "15c1f8ef7a58",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "tags": [
-        "Global Affairs"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "9498ce0d340b",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sohkamyung",
-      "published": "2026-10-22T23:01:18+00:00",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1662 # Comments: 253",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "95eb6975ad24",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-10-22T22:24:34+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "77bceae558c8",
-      "title": "Peras",
-      "url": "https://www.producthunt.com/products/peras",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Kristiyan Ivanov",
-      "published": "2026-10-22T21:38:15+00:00",
-      "summary": "Pause Claude Code and Codex before they burn your week Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "712bc0d815dc",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Technology Review (AI)",
-      "source_id": "mit_tech_review_ai",
-      "author": "Anand Logani",
-      "published": "2026-10-22T21:17:29+00:00",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning,…",
-      "tags": [
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "5bc8e6d4e11f",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jon Brodkin",
-      "published": "2026-10-22T21:07:09+00:00",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "tags": [
-        "Policy",
-        "Comcast"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7da8b663ed0d",
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Frederic Rohrer",
-      "published": "2026-10-22T21:03:15+00:00",
-      "summary": "Use AI to defend against AI Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
