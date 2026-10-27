@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:17:43.527703+00:00",
+  "generated_at": "2026-10-27T21:43:50.295184+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,209 @@
   "item_count": 120,
   "items": [
     {
+      "id": "e4dbba9a243c",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-10-27T21:38:28+00:00",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "tags": [
+        "AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2df56fbd08a3",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Robert Hart",
+      "published": "2026-10-27T20:48:58+00:00",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "485d190c3a3e",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sean O'Kane",
+      "published": "2026-10-27T20:31:17+00:00",
+      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "EVs",
+        "General Catalyst",
+        "manufacturing"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f376eece8b40",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-27T19:34:18+00:00",
+      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full…",
+      "tags": [
+        "games",
+        "github",
+        "hardware-hacking",
+        "ai",
+        "generative-ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "15aec0059a58",
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-27T19:24:06+00:00",
+      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed…",
+      "tags": [
+        "Elon Musk",
+        "News",
+        "Policy",
+        "Politics",
+        "Science",
+        "Space"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "195cb6337f5e",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-10-27T18:55:35+00:00",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "disruptive",
+        "In Brief"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5330f3f99d7d",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "John Timmer",
+      "published": "2026-10-27T18:49:08+00:00",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "tags": [
+        "AI",
+        "Science",
+        "biochemistry",
+        "Biology",
+        "Computer science",
+        "Genomics"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4b0c52a0ad80",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "DeepLogin",
+      "published": "2026-10-27T18:44:17+00:00",
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 131 # Comments: 91",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7512ffbb7f82",
+      "title": "Trump is making it easier for fossil fuel companies to leak methane",
+      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Justine Calma",
+      "published": "2026-10-27T18:25:13+00:00",
+      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a…",
+      "tags": [
+        "Energy",
+        "Environment",
+        "News",
+        "Policy",
+        "Science"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e1fa18e2075c",
+      "title": "Warner Bros. drops final trailer for Dune: Part Three",
+      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jennifer Ouellette",
+      "published": "2026-10-27T18:05:55+00:00",
+      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+      "tags": [
+        "Culture",
+        "denis villeneuve",
+        "Dune: Part 3",
+        "entertainment",
+        "Frank Herbert",
+        "Trailers"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "de6697c7332f",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Charles Pulliam-Moore",
+      "published": "2026-10-27T17:30:00+00:00",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Comics",
+        "Disney",
+        "Entertainment",
+        "Marvel"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "db98bf59a6c7",
       "title": "Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -42,11 +245,27 @@
       "source_id": "techcrunch",
       "author": "Tim Fernholz",
       "published": "2026-10-27T17:08:08+00:00",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "tags": [
         "AI",
-        "Exclusive"
+        "Anthropic",
+        "Exclusive",
+        "MIT",
+        "OpenAI"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "068ca2c5cfac",
+      "title": "Ghostty 1.4.0",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "deaux",
+      "published": "2026-10-27T16:51:22+00:00",
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 514 # Comments: 152",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -89,6 +308,19 @@
       "region": "global"
     },
     {
+      "id": "099c4912233a",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gumby",
+      "published": "2026-10-27T16:40:15+00:00",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 295 # Comments: 227",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a30b4228516c",
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
@@ -96,7 +328,7 @@
       "source_id": "techcrunch",
       "author": "Rebecca Bellan",
       "published": "2026-10-27T16:30:57+00:00",
-      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
       "tags": [
         "AI",
         "Media & Entertainment",
@@ -105,6 +337,32 @@
         "google deepmind",
         "world models"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "07281666d13c",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pfdietz",
+      "published": "2026-10-27T16:29:02+00:00",
+      "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 135 # Comments: 30",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a044912b52ff",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dpflan",
+      "published": "2026-10-27T16:25:30+00:00",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 158 # Comments: 75",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -153,6 +411,19 @@
       "region": "global"
     },
     {
+      "id": "e135aa91bd36",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "beex",
+      "published": "2026-10-27T16:08:32+00:00",
+      "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 204 # Comments: 237",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "5ef94984dce4",
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -160,7 +431,7 @@
       "source_id": "hacker_news",
       "author": "acossta",
       "published": "2026-10-27T16:06:01+00:00",
-      "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 192 # Comments: 98",
+      "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 569 # Comments: 341",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -186,6 +457,26 @@
       "region": "global"
     },
     {
+      "id": "a44b4d5034e5",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ryan Whitwam",
+      "published": "2026-10-27T16:00:22+00:00",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "tags": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "deepmind",
+        "google",
+        "world models"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "7de7788a86fe",
       "title": "Google’s next Genie AI model generates more realistic experiences",
       "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
@@ -204,37 +495,15 @@
       "region": "global"
     },
     {
-      "id": "dd5e4dc02af9",
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jennifer Pattison Tuohy",
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene…",
-      "tags": [
-        "News",
-        "Robot",
-        "Smart Home",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3e7f72ffecbd",
-      "title": "Apple’s latest AirTag is the cheapest it’s ever been",
-      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sheena Vasani",
-      "published": "2026-10-27T15:34:16+00:00",
-      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at…",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
-      ],
+      "id": "a4c44e96b0a9",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "car",
+      "published": "2026-10-27T15:28:26+00:00",
+      "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 357 # Comments: 191",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -275,13 +544,13 @@
     },
     {
       "id": "add737ee9801",
-      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "helterskelter2",
       "published": "2026-10-27T14:06:42+00:00",
-      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 359 # Comments: 100",
+      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 658 # Comments: 231",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -303,19 +572,6 @@
         "iphone duo",
         "smartphones"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "470e7f2ce2bd",
-      "title": "Is my data used for model training?",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jonpizza",
-      "published": "2026-10-27T13:56:15+00:00",
-      "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 165 # Comments: 75",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -345,7 +601,7 @@
       "source_id": "hacker_news",
       "author": "acossta",
       "published": "2026-10-27T13:52:12+00:00",
-      "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 149 # Comments: 51",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 174 # Comments: 56",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -354,8 +610,8 @@
       "id": "f4e0b5373313",
       "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
       "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Emma Roth",
       "published": "2026-10-27T13:50:51+00:00",
       "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in…",
@@ -366,7 +622,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -404,17 +660,30 @@
     },
     {
       "id": "57f9e735d3ff",
-      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
       "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
       "source": "Ars Technica",
       "source_id": "ars_technica",
       "author": "Jennifer Ouellette",
       "published": "2026-10-27T13:32:35+00:00",
-      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+      "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
       "tags": [
         "Science",
         "photonics"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8af34d90d669",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "adrq",
+      "published": "2026-10-27T13:23:22+00:00",
+      "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 130 # Comments: 63",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -439,20 +708,7 @@
       "source_id": "hacker_news",
       "author": "notfried",
       "published": "2026-10-27T13:02:02+00:00",
-      "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 167 # Comments: 171",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "b8866080ed11",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "meetpateltech",
-      "published": "2026-10-27T13:01:07+00:00",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50258521 Points: 134 # Comments: 145",
+      "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 267 # Comments: 321",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -508,7 +764,10 @@
       "tags": [
         "AI",
         "Fundraising",
-        "General COmpute"
+        "abstract ventures",
+        "blackbird ventures",
+        "General COmpute",
+        "neocloud"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -523,8 +782,8 @@
       "published": "2026-10-27T13:00:00+00:00",
       "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
       "tags": [
-        "TC",
         "AI",
+        "TC",
         "Opera"
       ],
       "tier": "startup_news",
@@ -641,19 +900,6 @@
       "region": "india"
     },
     {
-      "id": "c9774087fe96",
-      "title": "Software may be getting worse, but it used to be horrible",
-      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jakevoytko",
-      "published": "2026-10-27T11:30:35+00:00",
-      "summary": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 230 # Comments: 190",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f9687053c0d8",
       "title": "Healthtech startup Cent raises $15M in Series A",
       "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a",
@@ -690,7 +936,7 @@
       "source_id": "hacker_news",
       "author": "f311a",
       "published": "2026-10-27T11:17:57+00:00",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 300 # Comments: 153",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 394 # Comments: 205",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -703,7 +949,7 @@
       "source_id": "hacker_news",
       "author": "rbanffy",
       "published": "2026-10-27T11:08:15+00:00",
-      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 284 # Comments: 126",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 403 # Comments: 182",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -731,13 +977,13 @@
       "source_id": "techcrunch",
       "author": "Jagmeet Singh",
       "published": "2026-10-27T11:00:00+00:00",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "tags": [
-        "Startups",
         "AI",
+        "Startups",
         "Accel",
-        "nvidia",
-        "Exclusive"
+        "Exclusive",
+        "nvidia"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -755,19 +1001,6 @@
         "Daily Update"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "c3478a7980fc",
-      "title": "Gforth 1.0",
-      "url": "https://gforth.org/manual/1.0/NEWS.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "joshcsimmons",
-      "published": "2026-10-27T10:23:21+00:00",
-      "summary": "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 116 # Comments: 6",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -905,19 +1138,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "eb967c2830c0",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ilreb",
-      "published": "2026-10-27T06:25:37+00:00",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 358 # Comments: 237",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "7e1cf8f68b96",
@@ -1103,8 +1323,10 @@
       "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
       "tags": [
         "AI",
+        "Alexander Embiricos",
         "Disrupt",
-        "Exclusive"
+        "Exclusive",
+        "OpenAI"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1133,7 +1355,9 @@
       "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
       "tags": [
         "AI",
-        "TC"
+        "alibaba",
+        "Cohere",
+        "qwen"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1167,6 +1391,19 @@
         "Tech"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "8cb333260a17",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "tags": [],
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -1221,24 +1458,6 @@
       "region": "global"
     },
     {
-      "id": "72ccc8baf2db",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-10-26T22:00:00+00:00",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "Databricks",
-        "TechCrunch Disrupt"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "250e5d8f3024",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -1251,19 +1470,6 @@
         "Startup"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "820116fa460f",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vok",
-      "published": "2026-10-26T21:59:15+00:00",
-      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 755 # Comments: 271",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1347,25 +1553,6 @@
       "region": "india"
     },
     {
-      "id": "ecc95cef60a3",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-10-26T19:22:40+00:00",
-      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "Duo",
-        "In Brief",
-        "iPhone"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "ca17970b897c",
       "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
       "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
@@ -1402,23 +1589,6 @@
         "ai-ethics"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5e41d0e1a60b",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-10-26T18:59:52+00:00",
-      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "tags": [
-        "Climate",
-        "Government & Policy",
-        "fusion power"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1532,23 +1702,6 @@
       "region": "global"
     },
     {
-      "id": "65068ccb5e36",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-10-26T17:10:23+00:00",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Report"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "b73dfd8b4e40",
       "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
       "url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
@@ -1605,26 +1758,6 @@
       "region": "global"
     },
     {
-      "id": "be6e5506bbd8",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Tom Warren",
-      "published": "2026-10-26T15:58:27+00:00",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and…",
-      "tags": [
-        "AI",
-        "Labor",
-        "Microsoft",
-        "News",
-        "Tech",
-        "Windows"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "385436ef67e7",
       "title": "Anthropic files for IPO even as losses surge to $80B",
       "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
@@ -1638,22 +1771,15 @@
       "region": "india"
     },
     {
-      "id": "400e513e4846",
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Kana Inagaki, Financial Times",
-      "published": "2026-10-26T14:30:27+00:00",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "tags": [
-        "AI",
-        "Cars",
-        "data centers",
-        "Elon Musk",
-        "FSD",
-        "spacex"
-      ],
+      "id": "a1036cc589cc",
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "rbanffy",
+      "published": "2026-10-26T15:05:04+00:00",
+      "summary": "Article URL: https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram Comments URL: https://news.ycombinator.com/item?id=50245014 Points: 117 # Comments: 18",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1832,108 +1958,6 @@
       "summary": "Explore every abliterated model Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8b1ad81c7872",
-      "title": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
-      "url": "https://tldr.tech/ai/2026-10-26",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1758535ac6be",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "88c2fec48320",
-      "title": "Jobmate AI",
-      "url": "https://www.producthunt.com/products/jobmate-ai-3",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "David Herbert",
-      "published": "2026-10-25T22:59:42+00:00",
-      "summary": "The humanized AI Copilot for your entire Job search Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "10982ffe4753",
-      "title": "AVP",
-      "url": "https://www.producthunt.com/products/avp",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Moss’Ab Mirande-Ney",
-      "published": "2026-10-25T22:53:07+00:00",
-      "summary": "Open source alternative to Git for AI coding agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "16da739971e3",
-      "title": "WhoIsCooking",
-      "url": "https://www.producthunt.com/products/whoiscooking",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "G Andrew Wilson",
-      "published": "2026-10-25T21:45:54+00:00",
-      "summary": "See which AI agent is heating your Mac and cool it down. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2ed46c1230be",
-      "title": "VibeiDE",
-      "url": "https://www.producthunt.com/products/vibeide",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Patrik Kelemen",
-      "published": "2026-10-25T21:30:48+00:00",
-      "summary": "Queue agent tasks in parallel and review each result Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "71a4bc37ba06",
-      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-25T21:15:21+00:00",
-      "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
