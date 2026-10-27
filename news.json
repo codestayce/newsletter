@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:12:32.188906+00:00",
+  "generated_at": "2026-10-27T03:24:06.825286+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,18 +22,197 @@
   "item_count": 120,
   "items": [
     {
+      "id": "1579c5ddb615",
+      "title": "Talent diplomacy may become the next driver of global economic growth",
+      "url": "https://yourstory.com/2026/10/talent-diplomacy-may-become-the-next-driver-of-global-economic-growth",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-27T02:50:00+00:00",
+      "summary": "As ageing populations and skill shortages weigh on economies worldwide, countries are looking beyond immigration to build structured talent partnerships. India has an opportunity to emerge as a trusted global hub for workforce readiness, backed by skills training, tech and…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "eb3e84f48649",
+      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+      "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-10-27T02:45:27+00:00",
+      "summary": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer-Use",
+        "Context Engineering"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "3d29d9d77c95",
+      "title": "Ather Turns Profitable, Paytm Q2 PAT Rockets & More",
+      "url": "https://inc42.com/buzz/ather-turns-profitable-paytm-q2-pat-rockets-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-27T02:30:20+00:00",
+      "summary": "Ather’s Profit Milestone Meets A Manufacturing Crunch Electric two-wheeler maker Ather Energy turned its maiden profit in Q2 FY27, and…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "62ecc12b68be",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-10-27T02:00:00+00:00",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "tags": [
+        "AI",
+        "Disrupt",
+        "Exclusive"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "99e3855ba4d1",
+      "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+      "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-10-27T02:00:00+00:00",
+      "summary": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9af0a1a0b387",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aditya Mehta",
+      "published": "2026-10-27T01:12:21+00:00",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "53d1da1ab9ca",
+      "title": "Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield",
+      "url": "https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shraddha Goled",
+      "published": "2026-10-27T00:30:38+00:00",
+      "summary": "AI-native cybersecurity startup Protectt.ai plans to acquire a controlling stake in AIShield, an AI security platform incubated within Bosch Global…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "2812ff85caf0",
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-26T23:53:07+00:00",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines…",
+      "tags": [
+        "ai",
+        "openai",
+        "generative-ai",
+        "llms",
+        "llm-pricing",
+        "pelican-riding-a-bicycle"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "b14ae2720380",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Richard Lawler",
+      "published": "2026-10-26T23:34:58+00:00",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Science"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "72ccc8baf2db",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
       "author": "Julie Bort",
       "published": "2026-10-26T22:00:00+00:00",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
       "tags": [
-        "TC",
-        "Startups"
+        "Enterprise",
+        "Startups",
+        "Databricks",
+        "TechCrunch Disrupt"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "250e5d8f3024",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-26T22:00:00+00:00",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "tags": [
+        "Startup"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "820116fa460f",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vok",
+      "published": "2026-10-26T21:59:15+00:00",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 377 # Comments: 143",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -70,6 +249,19 @@
         "Environment",
         "Science"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f16aefe89a6e",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jonluca",
+      "published": "2026-10-26T21:35:28+00:00",
+      "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 573 # Comments: 250",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -124,19 +316,6 @@
         "In Brief",
         "iPhone"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2d0598bc8316",
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "robtherobber",
-      "published": "2026-10-26T19:05:41+00:00",
-      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 167 # Comments: 27",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -237,19 +416,6 @@
       "region": "global"
     },
     {
-      "id": "736ec48b32ec",
-      "title": "US designates helium as a critical material",
-      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "rbanffy",
-      "published": "2026-10-26T18:31:39+00:00",
-      "summary": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 140 # Comments: 69",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "adee86a27fb8",
       "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
       "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
@@ -276,7 +442,7 @@
       "source_id": "hacker_news",
       "author": "adamnemecek",
       "published": "2026-10-26T18:14:49+00:00",
-      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 157 # Comments: 117",
+      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 205 # Comments: 144",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -316,19 +482,6 @@
       "region": "india"
     },
     {
-      "id": "1758535ac6be",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "meetpateltech",
-      "published": "2026-10-26T18:01:17+00:00",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 417 # Comments: 261",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "04d9c86d757a",
       "title": "Oldest GUI application that still runs on Windows 11",
       "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
@@ -336,20 +489,20 @@
       "source_id": "hacker_news",
       "author": "enlyth",
       "published": "2026-10-26T17:56:55+00:00",
-      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 197 # Comments: 115",
+      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 331 # Comments: 199",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "81524d8691aa",
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "id": "5e46d1c4b73a",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "Frieren",
-      "published": "2026-10-26T17:54:00+00:00",
-      "summary": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 208 # Comments: 119",
+      "author": "aray07",
+      "published": "2026-10-26T17:49:55+00:00",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 130 # Comments: 66",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -451,7 +604,7 @@
       "source_id": "hacker_news",
       "author": "dilawargopang",
       "published": "2026-10-26T17:25:30+00:00",
-      "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 108 # Comments: 34",
+      "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 139 # Comments: 46",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -570,19 +723,6 @@
       "region": "global"
     },
     {
-      "id": "ce5ce5fc43fb",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "matthieu_bl",
-      "published": "2026-10-26T16:35:44+00:00",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 223 # Comments: 82",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "12e4bd323802",
       "title": "Nazara Swings Back To The Black In Q2, Posts ₹34 Cr Profit",
       "url": "https://inc42.com/buzz/nazara-swings-back-to-the-black-in-q2-posts-%e2%82%b934-cr-profit/",
@@ -597,6 +737,38 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "0821e0cfddae",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-26T16:15:00+00:00",
+      "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard…",
+      "tags": [
+        "browsers",
+        "go",
+        "javascript",
+        "jeff-lindsay",
+        "shot-scraper"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "8cfee209e93b",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pancomplex",
+      "published": "2026-10-26T16:12:29+00:00",
+      "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "188e9fbc4643",
@@ -643,7 +815,7 @@
       "source_id": "hacker_news",
       "author": "edent",
       "published": "2026-10-26T15:51:23+00:00",
-      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 324 # Comments: 73",
+      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 399 # Comments: 91",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -656,7 +828,7 @@
       "source_id": "hacker_news",
       "author": "doctorzook",
       "published": "2026-10-26T15:35:12+00:00",
-      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 607 # Comments: 517",
+      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 804 # Comments: 719",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -690,6 +862,19 @@
       "region": "india"
     },
     {
+      "id": "28eebc42d074",
+      "title": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "geox",
+      "published": "2026-10-26T15:26:17+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 176 # Comments: 286",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "d1a3b4fa5d93",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
@@ -697,7 +882,7 @@
       "source_id": "hacker_news",
       "author": "sgiannopoulos",
       "published": "2026-10-26T15:11:59+00:00",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 492 # Comments: 72",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 595 # Comments: 85",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -890,6 +1075,19 @@
       "region": "global"
     },
     {
+      "id": "b96bed7f0151",
+      "title": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "soheilpro",
+      "published": "2026-10-26T13:13:36+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 150 # Comments: 417",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "52c4e7935441",
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
@@ -897,7 +1095,7 @@
       "source_id": "hacker_news",
       "author": "SiNTEx",
       "published": "2026-10-26T13:04:50+00:00",
-      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1380 # Comments: 1353",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1507 # Comments: 1476",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -923,7 +1121,7 @@
       "source_id": "hacker_news",
       "author": "coffeemug",
       "published": "2026-10-26T12:59:48+00:00",
-      "summary": "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 142 # Comments: 64",
+      "summary": "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 152 # Comments: 65",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1003,7 +1201,7 @@
       "source_id": "hacker_news",
       "author": "xkriva11",
       "published": "2026-10-26T11:15:50+00:00",
-      "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 222 # Comments: 55",
+      "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 244 # Comments: 65",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1023,6 +1221,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "f32074034d76",
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bagatelle",
+      "published": "2026-10-26T10:32:14+00:00",
+      "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 288 # Comments: 181",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "64d59b55a8fb",
@@ -1111,19 +1322,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "e4a60b3d07f5",
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://blocks.manifold3d.ch/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "theanonymousone",
-      "published": "2026-10-26T08:46:09+00:00",
-      "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 445 # Comments: 211",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "761896af1df7",
@@ -1256,45 +1454,6 @@
       "region": "india"
     },
     {
-      "id": "5a9694f42870",
-      "title": "QpiAI founder Nagendra Nagaraja makes the case for intelligence modelling",
-      "url": "https://yourstory.com/2026/10/qpiai-founder-nagendra-nagaraja-makes-the-case-intelligence-modelling",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-26T06:30:22+00:00",
-      "summary": "Silicon chips and digital language models face diminishing returns. Speaking at TechSparks 2026, Nagendra Nagaraja explained how quantum systems process the infinite data of nature to transform global compute, energy, and discovery.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "5e90eb9b0e4f",
-      "title": "Life After 55: Cradle Of Life is reimagining senior living lifestyle for retired Indians",
-      "url": "https://yourstory.com/2026/09/life-after-55-cradle-of-life-is-reimagining-senior-living-lifestyle-for-retired-indians",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-26T06:30:00+00:00",
-      "summary": "Sharad Gadsing on why senior living needs to move beyond real estate and ageing, and create communities designed around how people want to live. Senior living is evolving beyond simply providing safe, comfortable homes. For Sharad Gadsing, Co-founder, Cradle Of Life, the…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d69e0075f78c",
-      "title": "Who will shape India’s next 500 million digital users?",
-      "url": "https://yourstory.com/2026/10/who-will-shape-indias-next-500-million-digital-users",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-26T06:21:28+00:00",
-      "summary": "The next wave of India’s digital economy raises a different set of questions: who controls the layers through which consumers discover apps, access services and make payments? And how can India build for the next 500 million users without relying on assumptions about what they…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "17944c853d9a",
       "title": "Unacademy Cofounders Plan ₹700 Cr AI, Deeptech Fund",
       "url": "https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/",
@@ -1338,16 +1497,16 @@
       "region": "global"
     },
     {
-      "id": "f16aefe89a6e",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "id": "1758535ac6be",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
       "source": "OpenAI News",
       "source_id": "openai",
       "author": null,
       "published": "2026-10-26T00:00:00+00:00",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "summary": "Bringing fast and capable computer use to everyone",
       "tags": [
-        "Research"
+        "Product"
       ],
       "tier": "labs",
       "region": "global"
@@ -1386,7 +1545,7 @@
       "source_id": "hacker_news",
       "author": "zdw",
       "published": "2026-10-25T22:29:47+00:00",
-      "summary": "Article URL: https://shraiwi.com/blog/simd-fast-esp32s3/ Comments URL: https://news.ycombinator.com/item?id=50236681 Points: 151 # Comments: 51",
+      "summary": "Article URL: https://shraiwi.com/blog/simd-fast-esp32s3/ Comments URL: https://news.ycombinator.com/item?id=50236681 Points: 182 # Comments: 56",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1679,22 +1838,6 @@
       "region": "global"
     },
     {
-      "id": "f34934d0362e",
-      "title": "Flipkart’s Summer Of Discontent",
-      "url": "https://inc42.com/features/flipkarts-summer-of-discontent/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Debarghya Sil",
-      "published": "2026-10-25T05:30:22+00:00",
-      "summary": "Questions over an IPO and ESOPs, huge investments in quick commerce and food delivery and the pressure to deliver profits:…",
-      "tags": [
-        "In-Depth",
-        "The Outline"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "f07b968a5033",
       "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
       "url": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
@@ -1768,63 +1911,6 @@
       "region": "global"
     },
     {
-      "id": "26a10ea170f0",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Terrence O’Brien",
-      "published": "2026-10-24T21:29:12+00:00",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "News",
-        "Science",
-        "TV Shows"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "9de87f6482a1",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-10-24T20:46:34+00:00",
-      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "tags": [
-        "Government & Policy",
-        "Space",
-        "Donald Trump",
-        "Elon Musk",
-        "In Brief",
-        "SpaceX"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c95cc9144761",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Anthony Ha",
-      "published": "2026-10-24T20:15:33+00:00",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "tags": [
-        "AI",
-        "Security",
-        "Equity podcast",
-        "php"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "8953a66cf3f1",
       "title": "2G",
       "url": "https://www.producthunt.com/products/2g",
@@ -1848,95 +1934,6 @@
       "summary": "Secure data rooms your AI agents can run. Live in Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f4ec22e382d0",
-      "title": "Yourcast 2.0",
-      "url": "https://www.producthunt.com/products/yourcast",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Konstantin Kovalenko",
-      "published": "2026-10-24T14:42:59+00:00",
-      "summary": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "77a241299683",
-      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Tereza Ondráčková, wired.com",
-      "published": "2026-10-24T11:50:28+00:00",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-      "tags": [
-        "Science",
-        "Arsia Mons",
-        "Mars",
-        "planetary science",
-        "syndication"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e8f9c44dcf9d",
-      "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-      "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-24T11:12:27+00:00",
-      "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime:…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "5bb272a35065",
-      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jacek Krywko",
-      "published": "2026-10-24T11:00:09+00:00",
-      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
-      "tags": [
-        "Science",
-        "climate change",
-        "Earth science",
-        "glaciation",
-        "global warming",
-        "ice age"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "5699208333bf",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-24T03:59:57+00:00",
-      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works…",
-      "tags": [
-        "game-design",
-        "projects",
-        "claude"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
