@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:08:55.582593+00:00",
+  "generated_at": "2026-10-29T03:59:56.539952+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,594 @@
   "item_count": 120,
   "items": [
     {
+      "id": "550d5e12859f",
+      "title": "Fintech Startups To Watch: Startups That Caught Our Eye In October",
+      "url": "https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-october/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-10-29T02:30:40+00:00",
+      "summary": "The question of when India’s Unified Payments Interface (UPI) will finally be monetised has remained at the centre of the…",
+      "tags": [
+        "Startup Stories",
+        "Fintech Startups To Watch"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "ba4ce5a65023",
+      "title": "Meesho’s Q2 Report Card, Info Edge CEO Quits & More",
+      "url": "https://inc42.com/buzz/meeshos-q2-report-card-info-edge-ceo-quits-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-10-29T02:30:35+00:00",
+      "summary": "Meesho’s Q2 Snapshot Meesho inched closer to profitability in Q2 FY27. The quarter saw the ecommerce giant rein in its…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "0805479ea217",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Sean Hollister",
+      "published": "2026-10-29T02:22:46+00:00",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply…",
+      "tags": [
+        "Gadgets",
+        "Laptops",
+        "News",
+        "Policy",
+        "Report"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "44e3e5f137f8",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "csmantle",
+      "published": "2026-10-29T00:25:45+00:00",
+      "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 185 # Comments: 42",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c6d25904346f",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sashk",
+      "published": "2026-10-28T23:45:46+00:00",
+      "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 110 # Comments: 44",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "34bccb07b60f",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "babelfish",
+      "published": "2026-10-28T23:35:02+00:00",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 182 # Comments: 179",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "52ced88a57d9",
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-28T23:23:21+00:00",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable:…",
+      "tags": [
+        "generative-ai",
+        "gpt",
+        "openai",
+        "ai",
+        "llms",
+        "ted-sanders"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "823f1d2d8a8d",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Marina Temkin",
+      "published": "2026-10-28T23:15:00+00:00",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "tags": [
+        "Security",
+        "Startups",
+        "Bessemer Venture Partners",
+        "cloud security",
+        "Datadog",
+        "upwind"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6e4063072a87",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast…",
+      "tags": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "News",
+        "Social Media",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1134b6a1764a",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aditya Mehta",
+      "published": "2026-10-28T21:58:32+00:00",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Azure",
+        "Microsoft"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "42cf635f882e",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-28T21:57:45+00:00",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement…",
+      "tags": [
+        "News",
+        "Policy",
+        "Politics",
+        "Security",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9b7dd4a7a685",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lauren Forristal",
+      "published": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "tags": [
+        "AI",
+        "gemini",
+        "Google",
+        "Google Search"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f9d1493b929c",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Rebecca Bellan",
+      "published": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8a483cf9155c",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device,…",
+      "tags": [
+        "AI",
+        "Entertainment",
+        "Gadgets",
+        "Music",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0ef91bd8c8c1",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Julie Bort",
+      "published": "2026-10-28T21:25:30+00:00",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "476c6499ada8",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mhb",
+      "published": "2026-10-28T21:19:30+00:00",
+      "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 144 # Comments: 96",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a053e251bf3e",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "David Pierce",
+      "published": "2026-10-28T21:16:18+00:00",
+      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and…",
+      "tags": [
+        "Apps",
+        "Books",
+        "Entertainment",
+        "Tech",
+        "Web"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "efddadad9dd2",
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "frizlab",
+      "published": "2026-10-28T21:13:21+00:00",
+      "summary": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 142 # Comments: 19",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "d29f179e903a",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "MIT Technology Review Insights",
+      "published": "2026-10-28T20:32:02+00:00",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when…",
+      "tags": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "a5463e8d1530",
+      "title": "Google says its investments in AI are driving more searches",
+      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jay Peters",
+      "published": "2026-10-28T20:22:26+00:00",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a…",
+      "tags": [
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e6636413d7ac",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Liszewski",
+      "published": "2026-10-28T20:12:44+00:00",
+      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with…",
+      "tags": [
+        "Apple",
+        "Gadgets",
+        "Laptops",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5ca8bf6a7f7b",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-10-28T20:03:00+00:00",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with…",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "92ed55b9c1bd",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Zack Whittaker",
+      "published": "2026-10-28T20:01:00+00:00",
+      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "tags": [
+        "Government & Policy",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "Department of Homeland Security",
+        "Okta"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ea370fdd96af",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim Fernholz",
+      "published": "2026-10-28T19:19:58+00:00",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "a66e2292e3e3",
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Samuel Axon",
+      "published": "2026-10-28T19:10:29+00:00",
+      "summary": "It's not as different from the previous model as you might have expected.",
+      "tags": [
+        "Apple",
+        "apple",
+        "M5 Max",
+        "MacBook Pro",
+        "oled",
+        "reviews"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8500267ec5b4",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Theresa Loconsolo",
+      "published": "2026-10-28T19:05:46+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities…",
+      "tags": [
+        "AI",
+        "Security",
+        "Startups",
+        "CTO",
+        "cybersecurity",
+        "Equity Video"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "41e0dc889e76",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ryan Whitwam",
+      "published": "2026-10-28T18:47:27+00:00",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "tags": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "gemini",
+        "gemini 4",
+        "google"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "238a740f5b9d",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
+      "author": "Andrew Liszewski",
+      "published": "2026-10-28T18:36:26+00:00",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes…",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Microsoft",
+        "News",
+        "Tech",
+        "TVs"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "945d87d928f3",
+      "title": "Innodata Lays Off Nearly 550 Employees In India: Report",
+      "url": "https://inc42.com/buzz/innodata-lays-off-nearly-550-employees-in-india-report/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-10-28T18:09:35+00:00",
+      "summary": "US-based Innodata has become the latest company to lay off a big chunk of its staff in India. The AI…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "04aabfcdcc96",
+      "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+      "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-10-28T17:48:38+00:00",
+      "summary": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens. The post Google DeepMind Introduces Gemini 4 Carbon, Its…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "9a783b4021e0",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Kyle Orland",
+      "published": "2026-10-28T17:46:32+00:00",
+      "summary": "But the AI responses get more forthright when asked outside the US.",
+      "tags": [
+        "AI",
+        "Google",
+        "ai mode",
+        "google",
+        "politics",
+        "president"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b508861e5e40",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Ashley Belanger",
+      "published": "2026-10-28T17:37:49+00:00",
+      "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+      "tags": [
+        "Policy",
+        "alpr",
+        "flock safety",
+        "Flock!",
+        "Florida",
+        "Fourth Amendment"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5ca3570e9a80",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display",
+      "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Samuel Axon",
+      "published": "2026-10-28T17:25:04+00:00",
+      "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
+      "tags": [
+        "Apple",
+        "apple",
+        "Mac",
+        "MacBook Pro",
+        "MacOS",
+        "oled"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "e23c2eae947f",
       "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
       "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
@@ -42,61 +630,15 @@
       "region": "global"
     },
     {
-      "id": "6faba2eb94d5",
-      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-10-28T17:19:23+00:00",
-      "summary": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "Laptops",
-        "macOS",
-        "News"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "71461487c125",
-      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sheena Vasani",
-      "published": "2026-10-28T17:12:47+00:00",
-      "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "iPad",
-        "Tech",
-        "Verge Shopping"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "82c6ada1c9cf",
-      "title": "Instagram doesn’t have a plan to pay long-form video creators",
-      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jess Weatherbed",
-      "published": "2026-10-28T17:10:46+00:00",
-      "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, creators immediately started voicing their complaints on…",
-      "tags": [
-        "Creators",
-        "Instagram",
-        "Meta",
-        "News",
-        "Tech"
-      ],
+      "id": "2365cd15a328",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "hazebooth",
+      "published": "2026-10-28T17:13:29+00:00",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 934 # Comments: 199",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -108,28 +650,8 @@
       "source_id": "hacker_news",
       "author": "etothet",
       "published": "2026-10-28T17:10:37+00:00",
-      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 159 # Comments: 240",
+      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 523 # Comments: 902",
       "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "788046c315e8",
-      "title": "Apple announces its first touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Jay Peters",
-      "published": "2026-10-28T17:05:56+00:00",
-      "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new…",
-      "tags": [
-        "Apple",
-        "Apple Event 2026",
-        "Gadgets",
-        "Laptops",
-        "News",
-        "Tech"
-      ],
       "tier": "startup_news",
       "region": "global"
     },
@@ -141,7 +663,7 @@
       "source_id": "hacker_news",
       "author": "acossta",
       "published": "2026-10-28T17:01:23+00:00",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 265 # Comments: 206",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 840 # Comments: 699",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -158,9 +680,9 @@
       "tags": [
         "AI",
         "Apps",
+        "gemini",
         "Google",
-        "Google Search",
-        "gemini"
+        "Google Search"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -188,8 +710,8 @@
       "id": "cca2247626bb",
       "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
       "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Andrew Liszewski",
       "published": "2026-10-28T17:00:00+00:00",
       "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced…",
@@ -200,7 +722,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -284,7 +806,8 @@
       "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
       "tags": [
         "AI",
-        "marissa meyer"
+        "Social",
+        "Marissa Mayer"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -305,6 +828,19 @@
         "Sony Pictures",
         "Trailers"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "97373eedda74",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "landonxi",
+      "published": "2026-10-28T15:46:30+00:00",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 215 # Comments: 139",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -384,7 +920,7 @@
       "source_id": "hacker_news",
       "author": "bschne",
       "published": "2026-10-28T14:38:22+00:00",
-      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 225 # Comments: 76",
+      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 426 # Comments: 122",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -404,6 +940,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "4b1fa572a181",
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bradley_taunt",
+      "published": "2026-10-28T14:30:26+00:00",
+      "summary": "Article URL: https://wiki.alpinebsd.org Comments URL: https://news.ycombinator.com/item?id=50274251 Points: 187 # Comments: 175",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "2d2cf55b2852",
@@ -440,6 +989,19 @@
       "region": "india"
     },
     {
+      "id": "f40066880a48",
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "torutofu",
+      "published": "2026-10-28T14:02:20+00:00",
+      "summary": "Article URL: https://cursor.com/blog/agent-sdk Comments URL: https://news.ycombinator.com/item?id=50273731 Points: 105 # Comments: 115",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "d63165261460",
       "title": "The October inflection point for vibe game development",
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
@@ -460,38 +1022,6 @@
       "region": "global"
     },
     {
-      "id": "e6fc173506fa",
-      "title": "Meta has a new AI pet app called Waddle World",
-      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-10-28T13:53:31+00:00",
-      "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "tags": [
-        "Apps",
-        "Meta",
-        "muse",
-        "Pets",
-        "tamagotchi"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "31ebe027e441",
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "danso",
-      "published": "2026-10-28T13:41:30+00:00",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 280 # Comments: 327",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4950859fe6f9",
       "title": "Emacs Turns 50",
       "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
@@ -499,46 +1029,24 @@
       "source_id": "hacker_news",
       "author": "internet_points",
       "published": "2026-10-28T13:25:11+00:00",
-      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 249 # Comments: 101",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 442 # Comments: 184",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "7be23c48f5e7",
-      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Kirsten Korosec",
-      "published": "2026-10-28T13:00:00+00:00",
-      "summary": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
+      "id": "75e2017ed4c5",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "tags": [
-        "Transportation",
-        "autonomous trucking",
-        "Kodiak Robotics"
+        "Company"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "efca0b654d0c",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-28T13:00:00+00:00",
-      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Climate",
-        "Fintech",
-        "Fundraising",
-        "Startups"
-      ],
-      "tier": "startup_news",
+      "tier": "labs",
       "region": "global"
     },
     {
@@ -575,19 +1083,6 @@
         "Report"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "bcc717c3ef1c",
-      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "noptd",
-      "published": "2026-10-28T11:54:23+00:00",
-      "summary": "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=47775183 - April 2026 (119 comments) Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 186 # Comments: 91",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -644,7 +1139,7 @@
       "source_id": "hacker_news",
       "author": "galadran",
       "published": "2026-10-28T11:03:40+00:00",
-      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 824 # Comments: 325",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 1070 # Comments: 381",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -747,9 +1242,9 @@
       "region": "india"
     },
     {
-      "id": "2fc8e689e413",
+      "id": "41c97fe8dc29",
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI News",
       "source_id": "openai",
       "author": null,
@@ -950,25 +1445,6 @@
       "region": "india"
     },
     {
-      "id": "7f0f4484781e",
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-10-28T05:20:32+00:00",
-      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-      "tags": [
-        "Enterprise",
-        "Mukesh Ambani",
-        "reliance",
-        "reliance jio",
-        "Reliance Jio Platforms"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9663f9fa29ea",
       "title": "[Update] Jio Platforms Shares Close 26.66% Above Issue Price On Debut",
       "url": "https://inc42.com/buzz/jio-platforms-lists-at-21-36-premium-after-indias-largest-ipo/",
@@ -1013,39 +1489,6 @@
       "region": "india"
     },
     {
-      "id": "ec58d21b88c5",
-      "title": "Git for the US Code",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "alansaber",
-      "published": "2026-10-28T01:47:50+00:00",
-      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 388 # Comments: 202",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1b16f2a2a47a",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin",
-      "published": "2026-10-28T01:15:28+00:00",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "Amazon",
-        "Anthropic",
-        "Google"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "34d821ddfe01",
       "title": "Dedica",
       "url": "https://www.producthunt.com/products/dedica",
@@ -1087,61 +1530,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a2f907c053da",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aditya Mehta",
-      "published": "2026-10-27T23:34:27+00:00",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "OpenAI Files"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a81d0c1c06b0",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-10-27T22:55:41+00:00",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "tags": [
-        "AI",
-        "data centers",
-        "TechCrunch Disrupt",
-        "Veir"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "31f30cc34078",
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Dominic-Madori Davis",
-      "published": "2026-10-27T22:26:03+00:00",
-      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "guidewire",
-        "hyperexponential",
-        "In Brief"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1242,19 +1630,6 @@
       "region": "global"
     },
     {
-      "id": "001110b136cd",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dataking",
-      "published": "2026-10-27T20:50:42+00:00",
-      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 302 # Comments: 291",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2df56fbd08a3",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -1269,45 +1644,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "9d02bbba005f",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DamnInteresting",
-      "published": "2026-10-27T20:35:09+00:00",
-      "summary": "Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https://news.ycombinator.com/item?id=50265393 Points: 270 # Comments: 165",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2fb0f351f384",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "figmert",
-      "published": "2026-10-27T19:55:21+00:00",
-      "summary": "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 350 # Comments: 179",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f6df93ac1527",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Luc",
-      "published": "2026-10-27T19:55:06+00:00",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 485 # Comments: 178",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1331,26 +1667,6 @@
       "region": "global"
     },
     {
-      "id": "5330f3f99d7d",
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "John Timmer",
-      "published": "2026-10-27T18:49:08+00:00",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-      "tags": [
-        "AI",
-        "Science",
-        "biochemistry",
-        "Biology",
-        "Computer science",
-        "Genomics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "04abf7f036a7",
       "title": "Boltbar",
       "url": "https://www.producthunt.com/products/boltbar",
@@ -1361,46 +1677,6 @@
       "summary": "Spotlight-style AI chat for your Mac Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e1fa18e2075c",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-10-27T18:05:55+00:00",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "tags": [
-        "Culture",
-        "denis villeneuve",
-        "Dune: Part 3",
-        "entertainment",
-        "Frank Herbert",
-        "Trailers"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "de6697c7332f",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Charles Pulliam-Moore",
-      "published": "2026-10-27T17:30:00+00:00",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Comics",
-        "Disney",
-        "Entertainment",
-        "Marvel"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1430,37 +1706,6 @@
       "region": "global"
     },
     {
-      "id": "068ca2c5cfac",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "deaux",
-      "published": "2026-10-27T16:51:22+00:00",
-      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 1255 # Comments: 397",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "40066215b8c1",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Robert Hart",
-      "published": "2026-10-27T16:51:22+00:00",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Policy",
-        "Report"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "3bd3315ede2e",
       "title": "AI SRE: what is it, how could it change on-call – and does it work?",
       "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
@@ -1471,24 +1716,6 @@
       "summary": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
       "tags": [],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "51d51d3a9a58",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Emma Roth",
-      "published": "2026-10-27T16:14:18+00:00",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste…",
-      "tags": [
-        "AI",
-        "News",
-        "Tech",
-        "Web"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1515,44 +1742,6 @@
       "summary": "Skills to build games with Claude. Free multiplayer hosting. Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a44b4d5034e5",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ryan Whitwam",
-      "published": "2026-10-27T16:00:22+00:00",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "tags": [
-        "AI",
-        "Google",
-        "Artificial Intelligence",
-        "deepmind",
-        "google",
-        "world models"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7de7788a86fe",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio,…",
-      "tags": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
-      ],
-      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1597,26 +1786,6 @@
       "region": "india"
     },
     {
-      "id": "8e8f0387002b",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ryan Whitwam",
-      "published": "2026-10-27T14:00:49+00:00",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "tags": [
-        "Apple",
-        "Tech",
-        "apple",
-        "Foldables",
-        "iphone duo",
-        "smartphones"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "cfc4a3f04468",
       "title": "Healthy snack brand Troovy raises Rs 100 Cr in Series B round led by Fireside Ventures",
       "url": "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures",
@@ -1628,22 +1797,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "57f9e735d3ff",
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-10-27T13:32:35+00:00",
-      "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-      "tags": [
-        "Science",
-        "photonics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "3d183480cf6f",
@@ -1785,21 +1938,6 @@
       "region": "global"
     },
     {
-      "id": "57ad5d32c57f",
-      "title": "Mochatrade Raises $5.5 Mn To Build A US Stock Trading Platform For Indian Traders",
-      "url": "https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-10-27T11:07:18+00:00",
-      "summary": "Fintech startup Mochatrade, which offers US Stock tokens trading platform for Indian traders, announced the raise of $5.5 Mn (₹52.3…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "6098b1e3a8d8",
       "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
       "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
@@ -1825,135 +1963,6 @@
       "summary": "The Mac app for the coding agents you already use Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a3a879144b29",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "e91f74513937",
-      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
-      "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-27T05:50:57+00:00",
-      "summary": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. The post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Decision Models",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "fa41ffb81f69",
-      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
-      "url": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-10-27T05:26:36+00:00",
-      "summary": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench The post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page…",
-      "tags": [
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Editors Pick",
-        "Language Model"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "8639a74338ac",
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Sergii Shcherbak",
-      "published": "2026-10-27T04:48:43+00:00",
-      "summary": "Decision models join LLMs to extract data from documents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "29c94ce8eed1",
-      "title": "Paddock",
-      "url": "https://www.producthunt.com/products/paddock-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Antonio Santiago Dueñas",
-      "published": "2026-10-27T02:46:50+00:00",
-      "summary": "Computers and sandboxes for your agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "eb3e84f48649",
-      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
-      "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-10-27T02:45:27+00:00",
-      "summary": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Computer-Use",
-        "Context Engineering"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "cf75839fee2f",
-      "title": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
-      "url": "https://tldr.tech/ai/2026-10-27",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-27T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "8cb333260a17",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-27T00:00:00+00:00",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "tags": [],
-      "tier": "labs",
       "region": "global"
     }
   ]
