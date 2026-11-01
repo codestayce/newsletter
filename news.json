@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:53:51.821288+00:00",
+  "generated_at": "2026-11-01T03:54:57.725073+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,174 @@
   "item_count": 120,
   "items": [
     {
+      "id": "4d0642c3971f",
+      "title": "How voice AI is transforming banking and insurance: Desible.ai founders on the business behind the technology",
+      "url": "https://yourstory.com/2026/10/voice-ai-transforming-banking-insurance-desibleai-founders-business-behind-technology",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-01T02:45:00+00:00",
+      "summary": "In this episode of the Prime Venture Partners Podcast, Gaurav Ranjan sits down with Uttam and Omkar to discuss what it takes to build and sell agentic AI in Indian BFSI, from product engineering and compliance to enterprise sales and scaling beyond the first use case.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "8a042d77f1d6",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-11-01T02:22:10+00:00",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "AI",
+        "data centers"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "dd35d009aad6",
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-31T23:15:22+00:00",
+      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are…",
+      "tags": [
+        "iframes",
+        "javascript",
+        "sandboxing",
+        "security",
+        "xss",
+        "openai"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "f9b8a9efbf26",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "guregodevo",
+      "published": "2026-10-31T22:46:12+00:00",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 120 # Comments: 63",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2eca43195b5e",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ecares",
+      "published": "2026-10-31T22:41:06+00:00",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 223 # Comments: 64",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4c77a0dfd633",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-10-31T22:10:01+00:00",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using…",
+      "tags": [
+        "datasette",
+        "llm",
+        "datasette-agent"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "9f56e268b05e",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "tags": [
+        "AI",
+        "Apple",
+        "John Ternus"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5a4bff0c2db2",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "TechCrunch Events",
+      "published": "2026-10-31T21:36:07+00:00",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Startups"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e07dacdb45dc",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-10-31T21:17:03+00:00",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "SpaceX",
+        "xAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8de84d95992a",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-10-31T21:06:58+00:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a…",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Film",
+        "Streaming",
+        "YouTube"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "13044307c746",
       "title": "ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam",
       "url": "https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/",
@@ -35,6 +203,32 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "a7e11bfba6b1",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "karpathy",
+      "published": "2026-10-31T19:56:53+00:00",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 876 # Comments: 277",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e07ec5d69c95",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "pretext",
+      "published": "2026-10-31T19:39:19+00:00",
+      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 244 # Comments: 131",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "ad831305fdcc",
@@ -54,6 +248,19 @@
       "region": "global"
     },
     {
+      "id": "6bd209feefbe",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "oger",
+      "published": "2026-10-31T19:16:30+00:00",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 388 # Comments: 181",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "fb3fdd1afc24",
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
@@ -67,6 +274,19 @@
         "News",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c58cd229056d",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ntur1337",
+      "published": "2026-10-31T18:38:16+00:00",
+      "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 153 # Comments: 43",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -140,19 +360,6 @@
       "region": "global"
     },
     {
-      "id": "c21fa28068ed",
-      "title": "Casio Watches of the 1980s",
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "karagenit",
-      "published": "2026-10-31T16:00:48+00:00",
-      "summary": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 166 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "76e500da0f3b",
       "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
       "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
@@ -207,19 +414,6 @@
       "region": "india"
     },
     {
-      "id": "5b0ac3b976a1",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "khalidkhair",
-      "published": "2026-10-31T14:29:03+00:00",
-      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 208 # Comments: 114",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "033f1412f7bc",
       "title": "E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share",
       "url": "https://inc42.com/buzz/e2w-registrations-rise-2-9-mom-to-2-15-lakh-in-october-tvs-hero-gain-market-share/",
@@ -257,7 +451,7 @@
       "source_id": "hacker_news",
       "author": "aphyr",
       "published": "2026-10-31T13:39:52+00:00",
-      "summary": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 120 # Comments: 59",
+      "summary": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 218 # Comments: 121",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -365,33 +559,7 @@
       "source_id": "hacker_news",
       "author": "armcat",
       "published": "2026-10-31T10:30:11+00:00",
-      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 281 # Comments: 132",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ec5c571f059e",
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "url": "https://piefed.world/post/1503394",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-10-31T10:23:41+00:00",
-      "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 266 # Comments: 158",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a87c5b9700e3",
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "input_sh",
-      "published": "2026-10-31T10:21:30+00:00",
-      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 741 # Comments: 429",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 311 # Comments: 153",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -487,32 +655,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "a2dd8ba86336",
-      "title": "Switch Lowering in GCC",
-      "url": "https://xoranth.net/gcc-switch/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "signa11",
-      "published": "2026-10-31T08:02:26+00:00",
-      "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 179 # Comments: 34",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "73acf00ea168",
-      "title": "Digital minimalism",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "wilbertliu",
-      "published": "2026-10-31T06:16:36+00:00",
-      "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 271 # Comments: 203",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "36767d7afb0a",
@@ -693,8 +835,8 @@
       "id": "1fff1698b18b",
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Jay Peters",
       "published": "2026-10-30T22:32:53+00:00",
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
@@ -705,7 +847,7 @@
         "News",
         "Tech"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -1223,23 +1365,6 @@
       "region": "global"
     },
     {
-      "id": "d906f2ca87fc",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-10-30T16:03:45+00:00",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "tags": [
-        "AI",
-        "elizabeth holmes",
-        "Theranos"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c4bb3b9b5d21",
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
@@ -1268,45 +1393,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "62373f3f48e1",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "TechCrunch Events",
-      "published": "2026-10-30T14:00:00+00:00",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up…",
-      "tags": [
-        "TC",
-        "Startups",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e9e7beb52b83",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Ivan Mehta",
-      "published": "2026-10-30T13:54:25+00:00",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "AI agents",
-        "DoorDash",
-        "muse"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "9b52fe864acc",
@@ -1457,22 +1543,6 @@
       "region": "india"
     },
     {
-      "id": "a32290702630",
-      "title": "Exclusive: Manastu Space Raises ₹22 Cr In Ongoing Funding Round",
-      "url": "https://inc42.com/buzz/exclusive-manastu-space-raises-%e2%82%b922-cr-in-ongoing-funding-round/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-10-30T10:13:21+00:00",
-      "summary": "Spacetech startup Manastu Space raised ₹22 Cr ($2.3 Mn) from Gandhi Securities and Investments, the Thacker Legacy Trusts, and a…",
-      "tags": [
-        "News",
-        "Exclusive"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "ad293b845478",
       "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
       "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
@@ -1586,32 +1656,6 @@
       "author": null,
       "published": "2026-10-30T07:24:29+00:00",
       "summary": "The 29th edition of Bengaluru Tech Summit will bring together global technology leaders, investors, and entrepreneurs to explore emerging sectors and business opportunities.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "970129117383",
-      "title": "Omio founder’s advice to entrepreneurs: Find a problem worth solving and stick with it",
-      "url": "https://yourstory.com/2026/10/omio-founder-advice-entrepreneurs-find-a-problem-worth-solving-stick-with-it",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-30T06:49:36+00:00",
-      "summary": "At TechSparks 2026, Naren Shaam, Founder and CEO of Omio Group, advised entrepreneurs to think globally from day one, tackle difficult problems, and stay committed for the long term.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a16b599c875a",
-      "title": "Too much code, too little shipped: Why AI needs a software factory",
-      "url": "https://yourstory.com/2026/10/too-much-code-too-little-shipped-why-ai-needs-software-factory",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-30T06:40:49+00:00",
-      "summary": "Can AI run the entire software show? At TechSparks 2026, ForgeCode CEO Tushar Mathur explained how AI agents can automate software development while engineers focus on quality and results.",
       "tags": [],
       "tier": "india",
       "region": "india"
@@ -1840,19 +1884,6 @@
       "region": "global"
     },
     {
-      "id": "c2ed3a03a42f",
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "datascientist",
-      "published": "2026-10-29T15:29:48+00:00",
-      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 172 # Comments: 38",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "502de87809f2",
       "title": "Quoting Ben Hylak",
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
@@ -1939,21 +1970,6 @@
         "Interviews"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "d28967fce9c6",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "tags": [
-        "Security"
-      ],
-      "tier": "labs",
       "region": "global"
     }
   ]
