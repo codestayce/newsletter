@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:36:54.594004+00:00",
+  "generated_at": "2026-11-02T03:58:33.415992+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,98 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 116,
+  "item_count": 112,
   "items": [
+    {
+      "id": "a3072b048123",
+      "title": "India’s Deeptech Dilemma, Weekly Funding Rundown & More",
+      "url": "https://inc42.com/buzz/indias-deeptech-dilemma-weekly-funding-rundown-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-11-02T02:30:58+00:00",
+      "summary": "Indian VCs And The Deeptech Dilemma Skyroot has proved that homegrown startups can build rockets, but the bigger challenge may…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6f731a943982",
+      "title": "Weekly VC funding stays subdued at $115M; Prosus gets CCI nod for Navi investment",
+      "url": "https://yourstory.com/2026/11/weekly-vc-funding-stays-subdued-at-115m",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-02T02:00:00+00:00",
+      "summary": "Venture capital funding for Indian startups remained subdued through October, with the final week of the month reflecting the continued slowdown in investor activity.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "120acf94e2e3",
+      "title": "Two Point O raises $10M led by Transition Venture Capital",
+      "url": "https://yourstory.com/2026/11/two-point-o-raises-10-million-led-by-transition-venture-capital",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-02T00:30:00+00:00",
+      "summary": "Two Point O will use this funding round to expand into newer asset classes as well deepening its reach in the current energy management segment.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "dac07b0a1cf4",
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "misswaterfairy",
+      "published": "2026-11-02T00:17:27+00:00",
+      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 108 # Comments: 68",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7d7291538279",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-01T23:24:22+00:00",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library…",
+      "tags": [
+        "uv",
+        "til",
+        "python"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "0dbf0226aa90",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anthony Ha",
+      "published": "2026-11-01T21:55:23+00:00",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Chris Lehane",
+        "OpenAI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "bb2642061f37",
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
@@ -68,20 +158,7 @@
       "source_id": "hacker_news",
       "author": "smilelamp",
       "published": "2026-11-01T18:28:42+00:00",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 127 # Comments: 151",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "09b9e5a3654c",
-      "title": "Patrick Stewart taught us what good men do with power",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "rhaynes",
-      "published": "2026-11-01T17:28:16+00:00",
-      "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 280 # Comments: 191",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 243 # Comments: 270",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -124,19 +201,6 @@
       "region": "global"
     },
     {
-      "id": "530cf738c9d3",
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "999900000999",
-      "published": "2026-11-01T16:46:33+00:00",
-      "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 140 # Comments: 40",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0196dde765a0",
       "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
       "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
@@ -144,7 +208,7 @@
       "source_id": "hacker_news",
       "author": "gmays",
       "published": "2026-11-01T16:23:26+00:00",
-      "summary": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 107 # Comments: 24",
+      "summary": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 146 # Comments: 39",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -186,7 +250,7 @@
       "source_id": "hacker_news",
       "author": "entryleveljobsc",
       "published": "2026-11-01T14:34:43+00:00",
-      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 312 # Comments: 111",
+      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 417 # Comments: 149",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -240,6 +304,32 @@
         "Exclusive",
         "material science"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7f0049f66117",
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dverlaeckt80",
+      "published": "2026-11-01T13:51:41+00:00",
+      "summary": "Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=50325694 Points: 115 # Comments: 51",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3f8fd93989d8",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Anon84",
+      "published": "2026-11-01T13:24:49+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2610.39302 Comments URL: https://news.ycombinator.com/item?id=50325454 Points: 120 # Comments: 63",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -372,7 +462,7 @@
       "source_id": "hacker_news",
       "author": "luu",
       "published": "2026-11-01T06:06:19+00:00",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 259 # Comments: 185",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 319 # Comments: 236",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -409,32 +499,6 @@
       "region": "global"
     },
     {
-      "id": "2a10a176a3e7",
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "doodlesdev",
-      "published": "2026-11-01T02:19:53+00:00",
-      "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 292 # Comments: 171",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d7e241d7cf24",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "hapax_legomena",
-      "published": "2026-11-01T01:46:29+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 173 # Comments: 90",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "dd35d009aad6",
       "title": "How We Took Over ChatGPT Accounts",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
@@ -455,19 +519,6 @@
       "region": "global"
     },
     {
-      "id": "f9b8a9efbf26",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "guregodevo",
-      "published": "2026-10-31T22:46:12+00:00",
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 403 # Comments: 197",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2eca43195b5e",
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
@@ -475,7 +526,7 @@
       "source_id": "hacker_news",
       "author": "ecares",
       "published": "2026-10-31T22:41:06+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 724 # Comments: 194",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 776 # Comments: 203",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -594,7 +645,7 @@
       "source_id": "hacker_news",
       "author": "karpathy",
       "published": "2026-10-31T19:56:53+00:00",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2089 # Comments: 510",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2351 # Comments: 544",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -613,19 +664,6 @@
         "Keyboards",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6bd209feefbe",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "oger",
-      "published": "2026-10-31T19:16:30+00:00",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 662 # Comments: 318",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -814,6 +852,19 @@
         "Artificial Intelligence"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "ea985a387d44",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "croes",
+      "published": "2026-10-31T10:14:08+00:00",
+      "summary": "Article URL: https://www.nature.com/articles/s41560-026-02144-0 Comments URL: https://news.ycombinator.com/item?id=50314617 Points: 128 # Comments: 45",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1007,6 +1058,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "bb0036b97413",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "soheilpro",
+      "published": "2026-10-31T01:38:56+00:00",
+      "summary": "Article URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html Comments URL: https://news.ycombinator.com/item?id=50312408 Points: 136 # Comments: 92",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "c6b2d3ea7917",
@@ -1225,24 +1289,6 @@
       "region": "global"
     },
     {
-      "id": "ade2d7581a3b",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-10-30T21:26:59+00:00",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "tags": [
-        "TC",
-        "Media & Entertainment",
-        "AI",
-        "Halloween"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "93351cbb4cc4",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
@@ -1259,19 +1305,6 @@
         "Claude",
         "cursor"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2598d5d06b4c",
-      "title": "Understanding Email Encryption (2025)",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nmjenkins",
-      "published": "2026-10-30T20:55:56+00:00",
-      "summary": "Article URL: https://www.fastmail.com/blog/email-encryption/ Comments URL: https://news.ycombinator.com/item?id=50310038 Points: 115 # Comments: 23",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1379,6 +1412,19 @@
       ],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "9d8e8a11135a",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bogdanoff_2",
+      "published": "2026-10-30T19:09:33+00:00",
+      "summary": "Article URL: https://tibleiz.net/copper/ Comments URL: https://news.ycombinator.com/item?id=50308754 Points: 145 # Comments: 78",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "c6c587b774df",
@@ -1581,34 +1627,6 @@
       "region": "india"
     },
     {
-      "id": "65857fb07bf7",
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "whyleyc",
-      "published": "2026-10-30T13:58:42+00:00",
-      "summary": "Article URL: https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/ Comments URL: https://news.ycombinator.com/item?id=50303984 Points: 220 # Comments: 52",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9b52fe864acc",
-      "title": "Decoding The Commerce And Lending Engines Of IPO-Bound OfBusiness",
-      "url": "https://inc42.com/features/decoding-the-commerce-and-lending-engines-of-ipo-bound-ofbusiness/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Meha Agarwal",
-      "published": "2026-10-30T13:45:18+00:00",
-      "summary": "OfBusiness is heading for the stock market with a business that earns most of its revenue in one place and…",
-      "tags": [
-        "In-Depth"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "8bf6d6694350",
       "title": "Silicon Valley wants you to invest in miracles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
@@ -1683,32 +1701,6 @@
       ],
       "tier": "ai_news",
       "region": "global"
-    },
-    {
-      "id": "6c6dfedaf709",
-      "title": "How Tagbin’s BRIXX uses AI to simplify building design and planning",
-      "url": "https://yourstory.com/2026/10/how-tagbins-brixx-uses-ai-to-simplify-building-design-planning",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-30T10:50:39+00:00",
-      "summary": "At TechSparks 2026, Tagbin Co-founders Saurav Bhaik and Ankit Sinha demonstrated how BRIXX uses natural-language prompts to bring architectural design, construction planning, and cost estimation together on a single platform.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f84e221c92ce",
-      "title": "Come for capability, not just capacity: Why Europe is looking to India for tech partnerships",
-      "url": "https://yourstory.com/2026/10/techsparks-2026-europe-india-tech-partnerships",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-10-30T10:30:00+00:00",
-      "summary": "At TechSparks 2026, representatives from Switzerland, the Netherlands, and Denmark discussed how Indian startups can tap European research, funding, and markets, and why international collaboration is essential to technological growth.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "ad293b845478",
@@ -1823,64 +1815,14 @@
       "region": "global"
     },
     {
-      "id": "a7c615ba377d",
-      "title": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
-      "url": "https://tldr.tech/ai/2026-10-30",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-10-30T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "d2282bcce162",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-10-30T00:00:00+00:00",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "tags": [
-        "Company"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "32e3919a0587",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-10-29T22:48:29+00:00",
-      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic…",
-      "tags": [
-        "ai",
-        "openai",
-        "generative-ai",
-        "llms",
-        "anthropic",
-        "llm-pricing"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "04023da4bb4d",
-      "title": "Usage for Claude + ChatGPT 4.0",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Amir Hayek",
-      "published": "2026-10-29T21:38:31+00:00",
-      "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch Discussion | Link",
+      "id": "ac292f4bb3e9",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "raphlinus",
+      "published": "2026-10-30T04:17:06+00:00",
+      "summary": "Article URL: https://github.com/raphlinus/nibnib Comments URL: https://news.ycombinator.com/item?id=50299811 Points: 111 # Comments: 19",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
