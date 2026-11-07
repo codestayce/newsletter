@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:15:59.467011+00:00",
+  "generated_at": "2026-11-07T12:18:33.214711+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,112 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "5ec03af4da1d",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "infwhispers",
+      "published": "2026-11-07T09:46:03+00:00",
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 133 # Comments: 48",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1014d1959265",
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-07T08:16:33+00:00",
+      "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "fe4697100c8e",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ackyshake",
+      "published": "2026-11-07T05:20:18+00:00",
+      "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 201 # Comments: 164",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7edf697e53cb",
+      "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
+      "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-07T05:03:20+00:00",
+      "summary": "From healthcare and education to housing, travel, and developer tools, YourStory's inaugural VibeCode30 spotlights 30 live products showing how AI is making software development accessible to a new generation of builders.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "a0f4bc0ee5c7",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anna Heim",
+      "published": "2026-11-07T05:01:54+00:00",
+      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "tags": [
+        "Venture",
+        "scout programs",
+        "Sequoia Capital"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4c08c66451ff",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "benbreen",
+      "published": "2026-11-07T04:54:36+00:00",
+      "summary": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 121 # Comments: 88",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0819cd72b72e",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Dominic-Madori Davis",
+      "published": "2026-11-07T04:16:43+00:00",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "tags": [
+        "TC",
+        "Government & Policy",
+        "AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "2ddfe0cfb1ec",
       "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
@@ -48,10 +154,10 @@
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "tags": [
         "AI",
-        "Google",
-        "datacenter",
         "ai infrastructure",
-        "crusoe"
+        "crusoe",
+        "datacenter",
+        "Google"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -90,6 +196,19 @@
       "region": "global"
     },
     {
+      "id": "43e93bdd1482",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "raybb",
+      "published": "2026-11-06T23:37:19+00:00",
+      "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 136 # Comments: 71",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "68be897c8b54",
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
@@ -97,7 +216,7 @@
       "source_id": "hacker_news",
       "author": "mfiguiere",
       "published": "2026-11-06T23:30:52+00:00",
-      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 348 # Comments: 57",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 717 # Comments: 116",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -119,19 +238,6 @@
         "knife",
         "surgery"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f542a4d8896c",
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "doener",
-      "published": "2026-11-06T23:00:46+00:00",
-      "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 149 # Comments: 66",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -257,7 +363,7 @@
       "source_id": "hacker_news",
       "author": "yurivish",
       "published": "2026-11-06T20:27:23+00:00",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 234 # Comments: 175",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 324 # Comments: 280",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -348,7 +454,7 @@
       "source_id": "hacker_news",
       "author": "theanomaly",
       "published": "2026-11-06T19:48:51+00:00",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 378 # Comments: 86",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 503 # Comments: 119",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -391,7 +497,20 @@
       "source_id": "hacker_news",
       "author": "SerCe",
       "published": "2026-11-06T19:33:38+00:00",
-      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 193 # Comments: 90",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 248 # Comments: 109",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "69af5f8a1220",
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "DAlperin",
+      "published": "2026-11-06T19:24:21+00:00",
+      "summary": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 157 # Comments: 34",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -404,7 +523,7 @@
       "source_id": "hacker_news",
       "author": "fiej",
       "published": "2026-11-06T19:19:27+00:00",
-      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 104 # Comments: 51",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 129 # Comments: 65",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -546,7 +665,7 @@
       "source_id": "hacker_news",
       "author": "luispa",
       "published": "2026-11-06T17:30:22+00:00",
-      "summary": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 131 # Comments: 54",
+      "summary": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 161 # Comments: 62",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -629,19 +748,6 @@
       "region": "global"
     },
     {
-      "id": "a16bf7a4548e",
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dgellow",
-      "published": "2026-11-06T16:54:36+00:00",
-      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 256 # Comments: 514",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "20c1278149bb",
       "title": "First steps in bare-metal programming using UEFI",
       "url": "https://kevinboone.me/efitest_index.html",
@@ -649,7 +755,7 @@
       "source_id": "hacker_news",
       "author": "LaSombra",
       "published": "2026-11-06T16:50:29+00:00",
-      "summary": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 200 # Comments: 36",
+      "summary": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 227 # Comments: 42",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -729,6 +835,19 @@
         "GTA VI",
         "rockstar"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "544d91225fe0",
+      "title": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Lucy Bond",
+      "published": "2026-11-06T16:06:36+00:00",
+      "summary": "AI-Free Writing & Novel Planning Software Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -883,7 +1002,7 @@
       "source_id": "hacker_news",
       "author": "thisisauserid",
       "published": "2026-11-06T13:35:27+00:00",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 306 # Comments: 220",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 343 # Comments: 233",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -969,7 +1088,7 @@
       "source_id": "hacker_news",
       "author": "PLenz",
       "published": "2026-11-06T12:13:51+00:00",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 905 # Comments: 1757",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 1037 # Comments: 1887",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1007,6 +1126,19 @@
         "Elon Musk",
         "Tesla"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "161134ce5541",
+      "title": "Switchy",
+      "url": "https://www.producthunt.com/products/switchy",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Vladimir Babić",
+      "published": "2026-11-06T11:24:14+00:00",
+      "summary": "Mac controls, deploys, 2FA & AI limits in your menu bar Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1111,19 +1243,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "9d4e78c9281a",
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "url": "https://www.norvig.com/chomsky.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "andsoitis",
-      "published": "2026-11-06T08:18:36+00:00",
-      "summary": "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 109 # Comments: 90",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "c936213b2111",
@@ -1306,20 +1425,7 @@
       "source_id": "hacker_news",
       "author": "ChrisArchitect",
       "published": "2026-11-06T04:00:28+00:00",
-      "summary": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 299 # Comments: 240",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7c8a3160c5c6",
-      "title": "crystl",
-      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Chris Bolton",
-      "published": "2026-11-06T02:44:33+00:00",
-      "summary": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
+      "summary": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 349 # Comments: 285",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1362,6 +1468,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "3a67e4fdf71c",
+      "title": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Justin Jincaid",
+      "published": "2026-11-06T00:46:05+00:00",
+      "summary": "Instagram's free desktop video editor with AI agents Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "b53db0f7184a",
@@ -1453,19 +1572,6 @@
         "Publication"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "701ce6896144",
-      "title": "Cloptima",
-      "url": "https://www.producthunt.com/products/cloptima",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "rahul agarwal",
-      "published": "2026-11-05T23:40:34+00:00",
-      "summary": "AI Gateway, Guardrails & LLM FinOps Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1568,23 +1674,6 @@
       "region": "global"
     },
     {
-      "id": "e017e0e5b6c6",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Kirsten Korosec",
-      "published": "2026-11-05T21:15:00+00:00",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "tags": [
-        "Robotics",
-        "Transportation",
-        "Serve Robotics"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0739666d3ecc",
       "title": "Codiclens",
       "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
@@ -1639,23 +1728,6 @@
       "region": "global"
     },
     {
-      "id": "3c0e84566a0e",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-11-05T19:48:28+00:00",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "tags": [
-        "AI",
-        "Meta",
-        "muse"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "e8690f74b67f",
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -1666,32 +1738,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "a21ba108a8e9",
-      "title": "Plainmail",
-      "url": "https://www.producthunt.com/products/plainmail",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Joey Dafforn",
-      "published": "2026-11-05T18:55:10+00:00",
-      "summary": "Real email on every domain you own, for $5 a month flat Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "646effa6c9c9",
-      "title": "Kivo",
-      "url": "https://www.producthunt.com/products/kivo-4",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Gokulakrishnan S",
-      "published": "2026-11-05T17:51:26+00:00",
-      "summary": "Free on device dictation for any Mac app and AI agent Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1709,6 +1755,32 @@
         "web-development"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "c70e9f449112",
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Kumar Abhishek",
+      "published": "2026-11-05T17:12:40+00:00",
+      "summary": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4bd3f8d78547",
+      "title": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Kumar Abhishek",
+      "published": "2026-11-05T17:10:35+00:00",
+      "summary": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1767,19 +1839,6 @@
       "tags": [],
       "tier": "authors",
       "region": "global"
-    },
-    {
-      "id": "e3e7cf3b7aa2",
-      "title": "India rebased its GDP. It still can’t see the Rs 34.5 lakh crore women do free",
-      "url": "https://yourstory.com/2026/11/india-gdp-unpaid-care-work-women-workforce",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-05T15:06:44+00:00",
-      "summary": "India’s GDP leaves out unpaid care work worth up to 17% of GDP, mostly done by women. Measuring it is key to more women in jobs.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "7d24d08029f6",
@@ -1894,65 +1953,6 @@
       "tags": [
         "News",
         "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3e50b2261d70",
-      "title": "Sarvam’s Prism Enters India’s Growing AI Decision Model Race",
-      "url": "https://inc42.com/features/sarvams-prism-enters-indias-growing-ai-decision-model-race/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-11-05T10:35:42+00:00",
-      "summary": "AI models are increasingly being built to do more than answer questions. Some are now designed to make specific decisions,…",
-      "tags": [
-        "In-Depth",
-        "Follow Up"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "53c56afbaf05",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-05T09:00:00+00:00",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "f53a8cce5d80",
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Shashank Saraswat",
-      "published": "2026-11-05T08:53:29+00:00",
-      "summary": "The AI engineer for your production issues Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "073cde8db9ef",
-      "title": "Daksham Capital Launches ₹300 Cr Consumer Fund, Marks First Close At ₹125 Cr",
-      "url": "https://inc42.com/buzz/daksham-capital-launches-%e2%82%b9300-cr-consumer-fund-marks-first-close-at-%e2%82%b9125-cr/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-11-05T08:30:23+00:00",
-      "summary": "Multi-family office and wealth management group Daksham Capital has launched its maiden consumer-focused fund, Daksham Growth Ventures (DGV) Fund I,…",
-      "tags": [
-        "News"
       ],
       "tier": "india",
       "region": "india"
