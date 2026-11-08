@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T03:58:33.798711+00:00",
+  "generated_at": "2026-11-08T12:38:41.023987+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,112 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "a7abe4ba5513",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-11-08T10:46:18+00:00",
+      "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost .",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "f801535f3c38",
+      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "url": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-08T10:27:27+00:00",
+      "summary": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. The post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared…",
+      "tags": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Embedding Model",
+        "Language Model"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b63a575fe3fa",
+      "title": "GitHub Down Again?",
+      "url": "https://github.com/torvalds/linux",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ridowk",
+      "published": "2026-11-08T09:56:07+00:00",
+      "summary": "Article URL: https://github.com/torvalds/linux Comments URL: https://news.ycombinator.com/item?id=50411818 Points: 104 # Comments: 101",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2e5e82d6238f",
+      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+      "url": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-11-08T06:18:33+00:00",
+      "summary": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. The post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Comparison",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "2ec7c1dc0cd1",
+      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-11-08T04:45:59+00:00",
+      "summary": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "e66f4eeac8f3",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "karagenit",
+      "published": "2026-11-08T03:11:48+00:00",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 373 # Comments: 237",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "bb2b94d807a6",
       "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
@@ -66,6 +172,32 @@
       "region": "global"
     },
     {
+      "id": "3bcdfa6e04aa",
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "xiaoyu2006",
+      "published": "2026-11-07T23:09:40+00:00",
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 150 # Comments: 101",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "15a5be954f3e",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "germanrabbit",
+      "published": "2026-11-07T22:38:58+00:00",
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 156 # Comments: 38",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "d44fec61ccb7",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -107,7 +239,7 @@
       "source_id": "hacker_news",
       "author": "shmulc",
       "published": "2026-11-07T20:45:32+00:00",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 237 # Comments: 149",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 438 # Comments: 296",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -140,7 +272,7 @@
       "source_id": "hacker_news",
       "author": "LaurensBER",
       "published": "2026-11-07T18:12:12+00:00",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 405 # Comments: 93",
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 623 # Comments: 114",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -153,7 +285,20 @@
       "source_id": "hacker_news",
       "author": "srean",
       "published": "2026-11-07T18:02:17+00:00",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 422 # Comments: 245",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 468 # Comments: 281",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "93b90953b5c8",
+      "title": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "鄭策（TSETSE）",
+      "published": "2026-11-07T17:52:26+00:00",
+      "summary": "Command your Claude Code and Codex agents with gestures Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -195,7 +340,7 @@
       "source_id": "hacker_news",
       "author": "antiuniverse",
       "published": "2026-11-07T17:19:00+00:00",
-      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 225 # Comments: 67",
+      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 333 # Comments: 86",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -228,20 +373,7 @@
       "source_id": "hacker_news",
       "author": "user_7832",
       "published": "2026-11-07T17:06:36+00:00",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 396 # Comments: 262",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "19e4e21aa459",
-      "title": "Terry Pratchett's Study",
-      "url": "https://www.sussi.dk/terry-pratchetts-study",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ColinWright",
-      "published": "2026-11-07T16:05:45+00:00",
-      "summary": "Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 112 # Comments: 31",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 478 # Comments: 302",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -346,7 +478,7 @@
       "source_id": "hacker_news",
       "author": "zenincognito",
       "published": "2026-11-07T14:00:20+00:00",
-      "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 208 # Comments: 87",
+      "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 244 # Comments: 93",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -394,7 +526,7 @@
       "source_id": "hacker_news",
       "author": "thunderbong",
       "published": "2026-11-07T11:11:15+00:00",
-      "summary": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 245 # Comments: 226",
+      "summary": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 352 # Comments: 342",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -426,20 +558,7 @@
       "source_id": "hacker_news",
       "author": "infwhispers",
       "published": "2026-11-07T09:46:03+00:00",
-      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 633 # Comments: 355",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "81e98a9f5568",
-      "title": "Running a law firm on Free software",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-11-07T09:39:06+00:00",
-      "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 246 # Comments: 121",
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 752 # Comments: 405",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -452,7 +571,7 @@
       "source_id": "hacker_news",
       "author": "fluxusars",
       "published": "2026-11-07T09:36:36+00:00",
-      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 852 # Comments: 234",
+      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 1017 # Comments: 254",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -475,19 +594,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "fe4697100c8e",
-      "title": "Asahi Linux Progress Linux 7.3",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ackyshake",
-      "published": "2026-11-07T05:20:18+00:00",
-      "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 338 # Comments: 275",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1126,6 +1232,19 @@
         "M5 Pro",
         "MacBook Pro"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bd528455ce9e",
+      "title": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Zac Zuo",
+      "published": "2026-11-06T14:18:59+00:00",
+      "summary": "A model that can see and refine what it builds Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1803,19 +1922,6 @@
       "region": "india"
     },
     {
-      "id": "7f879124f52f",
-      "title": "Wisp",
-      "url": "https://www.producthunt.com/products/wisp-9",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Jason Lovett",
-      "published": "2026-11-05T16:28:20+00:00",
-      "summary": "Wisp is a little AI fairy who lives on your desktop Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7fb652c9ef37",
       "title": "Scaling Slack and GitHub with Maude Lemaire",
       "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
@@ -1859,19 +1965,6 @@
       "region": "india"
     },
     {
-      "id": "7d2eccc8079c",
-      "title": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Imed Radhouani",
-      "published": "2026-11-05T14:05:15+00:00",
-      "summary": "The SEO/GEO operating system, built for people and AI agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3441bccc64a7",
       "title": "[Update] Exclusive: RapidClaims In Talks To Raise $30 Mn",
       "url": "https://inc42.com/buzz/rapidclaims-in-talks-to-raise-30-mn-from-westbridge-capital-others/",
@@ -1886,82 +1979,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "1d58057bef99",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-11-05T11:00:00+00:00",
-      "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "tags": [
-        "Daily Update",
-        "Interviews"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "d37f85b5d6a2",
-      "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028",
-      "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-11-05T10:40:27+00:00",
-      "summary": "Cosmoserve Space has raised $6 Mn in a seed funding round led by Japan-based Rebright Partners. While Aranya Holdings and…",
-      "tags": [
-        "News",
-        "Spot News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3e50b2261d70",
-      "title": "Sarvam’s Prism Enters India’s Growing AI Decision Model Race",
-      "url": "https://inc42.com/features/sarvams-prism-enters-indias-growing-ai-decision-model-race/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Ankush Das",
-      "published": "2026-11-05T10:35:42+00:00",
-      "summary": "AI models are increasingly being built to do more than answer questions. Some are now designed to make specific decisions,…",
-      "tags": [
-        "In-Depth",
-        "Follow Up"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "53c56afbaf05",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-05T09:00:00+00:00",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "f53a8cce5d80",
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Shashank Saraswat",
-      "published": "2026-11-05T08:53:29+00:00",
-      "summary": "The AI engineer for your production issues Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     }
   ]
 }
