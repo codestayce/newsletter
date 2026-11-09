@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:35:53.652181+00:00",
+  "generated_at": "2026-11-09T04:14:52.183903+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,145 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 100,
+  "item_count": 99,
   "items": [
+    {
+      "id": "9394839cda0f",
+      "title": "Startup ecosystem sees sharp rise VC inflow; Building a hemp ecosystem in Uttarakhand",
+      "url": "https://yourstory.com/2026/11/angel-one-claims-silver-spot-in-indias-broking-race",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-09T02:00:00+00:00",
+      "summary": "Industry watchers expect that a post-US midterm slowdown in AI funding could work in favor of Indian startups.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "b1fb5a70556b",
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "infosecau",
+      "published": "2026-11-09T00:10:50+00:00",
+      "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 134 # Comments: 48",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0b3a357762c2",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-11-08T22:54:50+00:00",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
+      "tags": [
+        "AI",
+        "News",
+        "Nvidia",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "40791c573f27",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-11-08T22:37:22+00:00",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.…",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c28360461542",
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "nmstoker",
+      "published": "2026-11-08T22:36:03+00:00",
+      "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 136 # Comments: 21",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2fab79d06b7a",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dcoulmbe",
+      "published": "2026-11-08T22:35:35+00:00",
+      "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 292 # Comments: 83",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3e62264ffb8e",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-08T22:26:00+00:00",
+      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that…",
+      "tags": [
+        "c",
+        "research",
+        "sqlite",
+        "rust",
+        "claude"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "07b2a4632338",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Aisha Malik",
+      "published": "2026-11-08T22:00:00+00:00",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "tags": [
+        "Apps",
+        "games",
+        "doomscrolling"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ef913a473bc5",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "david927",
+      "published": "2026-11-08T21:20:20+00:00",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 161 # Comments: 546",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "45da7994669e",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -53,19 +190,6 @@
         "Gaming",
         "News"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a24fdfddefa6",
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vincentchau",
-      "published": "2026-11-08T20:26:43+00:00",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 142 # Comments: 108",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -103,6 +227,32 @@
       "region": "global"
     },
     {
+      "id": "45fb196cb1bb",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "kyunez",
+      "published": "2026-11-08T19:37:42+00:00",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 182 # Comments: 144",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ec6779b05ebb",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "xmddmx",
+      "published": "2026-11-08T19:20:32+00:00",
+      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 291 # Comments: 207",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ce0a393f5bc7",
       "title": "Apple is racing to make Siri more agentic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -122,14 +272,27 @@
       "region": "global"
     },
     {
+      "id": "31e2b76431a4",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "indigodaddy",
+      "published": "2026-11-08T19:08:51+00:00",
+      "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 222 # Comments: 70",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "68ff5ed661ee",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "TheWiggles",
       "published": "2026-11-08T18:16:07+00:00",
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 393 # Comments: 242",
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 658 # Comments: 380",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -188,14 +351,14 @@
       "region": "global"
     },
     {
-      "id": "449595a5fc04",
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "id": "4f605cf78a2e",
+      "title": "A Little Snitch for Windows",
+      "url": "https://packethound.app/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "randycupertino",
-      "published": "2026-11-08T17:20:29+00:00",
-      "summary": "Article URL: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/ Comments URL: https://news.ycombinator.com/item?id=50415172 Points: 117 # Comments: 40",
+      "author": "BadBoyBubby",
+      "published": "2026-11-08T17:16:07+00:00",
+      "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 103 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -278,19 +441,6 @@
       "region": "global"
     },
     {
-      "id": "7cbf7714d720",
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "adrianhoward",
-      "published": "2026-11-08T10:56:43+00:00",
-      "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 149 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a7abe4ba5513",
       "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
       "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
@@ -318,7 +468,7 @@
       "source_id": "hacker_news",
       "author": "jruohonen",
       "published": "2026-11-08T10:41:52+00:00",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 225 # Comments: 72",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 304 # Comments: 83",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -351,20 +501,7 @@
       "source_id": "hacker_news",
       "author": "joshcsimmons",
       "published": "2026-11-08T10:22:04+00:00",
-      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 304 # Comments: 114",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e4d02fd5d90b",
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "mthines",
-      "published": "2026-11-08T08:40:23+00:00",
-      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 156 # Comments: 101",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 387 # Comments: 172",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -417,7 +554,7 @@
       "source_id": "hacker_news",
       "author": "karagenit",
       "published": "2026-11-08T03:11:48+00:00",
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 634 # Comments: 406",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 713 # Comments: 443",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -508,7 +645,7 @@
       "source_id": "hacker_news",
       "author": "shmulc",
       "published": "2026-11-07T20:45:32+00:00",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 546 # Comments: 385",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 595 # Comments: 405",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -531,19 +668,6 @@
         "Staff"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e4da1fc3654c",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "LaurensBER",
-      "published": "2026-11-07T18:12:12+00:00",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 752 # Comments: 129",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -610,24 +734,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "31d7ed053dad",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Brad Bourque",
-      "published": "2026-11-07T16:00:00+00:00",
-      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual…",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Gaming",
-        "Verge Shopping"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "bb9dc983cfcb",
@@ -1013,25 +1119,6 @@
       "region": "global"
     },
     {
-      "id": "f5eee778bf79",
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Justine Calma",
-      "published": "2026-11-06T20:02:22+00:00",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and…",
-      "tags": [
-        "AI",
-        "Energy",
-        "Environment",
-        "News",
-        "Science"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "79a139e6b585",
       "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
       "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
@@ -1079,25 +1166,6 @@
         "cybersecurity",
         "cyberattack",
         "artex"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "016e849ea3ab",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Lucas Ropek",
-      "published": "2026-11-06T18:44:20+00:00",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "tags": [
-        "AI",
-        "agents",
-        "Mark Zuckerberg",
-        "Meta",
-        "muse"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1589,95 +1657,6 @@
         "Applications",
         "Artificial Intelligence",
         "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "cf6fc7aceb9c",
-      "title": "Why operational excellence will define the next phase of India’s startup growth",
-      "url": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-06T02:30:00+00:00",
-      "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance are essential to building scalable businesses.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3a67e4fdf71c",
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Justin Jincaid",
-      "published": "2026-11-06T00:46:05+00:00",
-      "summary": "Instagram's free desktop video editor with AI agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dcba37722e6c",
-      "title": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
-      "url": "https://tldr.tech/ai/2026-11-06",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "82196d4ece0a",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "cfd4354afa14",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "tags": [
-        "Publication"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "b81f2f663578",
-      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-      "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-11-05T22:58:21+00:00",
-      "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Enterprise AI"
       ],
       "tier": "ai_news",
       "region": "global"
