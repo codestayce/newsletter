@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:09:53.966628+00:00",
+  "generated_at": "2026-11-14T04:38:35.651521+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,119 @@
   "item_count": 120,
   "items": [
     {
+      "id": "4f376ecebb3c",
+      "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+      "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-14T03:30:14+00:00",
+      "summary": "The post-festive cheer appears to have done little to lift India’s startup ecosystem as funding activity lost steam this week.…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "f34c90886e08",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Richard Lawler",
+      "published": "2026-11-14T01:53:04+00:00",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that,…",
+      "tags": [
+        "Mass Transit",
+        "News",
+        "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b40b1a619699",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "snow_mac",
+      "published": "2026-11-14T00:52:29+00:00",
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 141 # Comments: 43",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "43a8bca0b077",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Stevie Bonifield",
+      "published": "2026-11-13T23:49:11+00:00",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
+      "tags": [
+        "AI",
+        "Amazon",
+        "News",
+        "Online Shopping",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fbde6006964f",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Eric Bangeman",
+      "published": "2026-11-13T23:17:38+00:00",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "tags": [
+        "Policy",
+        "air traffic control",
+        "FAA",
+        "Ground stop"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "11a7870633bc",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "vinhnx",
+      "published": "2026-11-13T23:06:40+00:00",
+      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 144 # Comments: 66",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fde4e161df12",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-13T23:02:45+00:00",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants…",
+      "tags": [
+        "datasette",
+        "geospatial",
+        "openstreetmap"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
       "id": "4c02b6f51e28",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
@@ -31,8 +144,9 @@
       "published": "2026-11-13T23:00:00+00:00",
       "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
       "tags": [
-        "Hardware",
         "Gadgets",
+        "Hardware",
+        "e-readers",
         "kindle colorsoft",
         "amazon kindle"
       ],
@@ -60,6 +174,36 @@
       "region": "global"
     },
     {
+      "id": "673d8bd62405",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-13T22:30:54+00:00",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to…",
+      "tags": [
+        "leaflet",
+        "datasette",
+        "openstreetmap"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "5d976937e016",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mmaunder",
+      "published": "2026-11-13T22:04:24+00:00",
+      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 234 # Comments: 54",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "c3a51d07bc90",
       "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
       "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
@@ -74,23 +218,6 @@
         "Airlines",
         "Federal Aviation Administration",
         "In Brief"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f34c90886e08",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Richard Lawler",
-      "published": "2026-11-13T21:38:25+00:00",
-      "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a…",
-      "tags": [
-        "Mass Transit",
-        "News",
-        "Transportation"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -138,20 +265,20 @@
       "source_id": "hacker_news",
       "author": "defly",
       "published": "2026-11-13T21:06:52+00:00",
-      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 111 # Comments: 23",
+      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 180 # Comments: 33",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "198c7db673fa",
-      "title": "FAA Issues National Ground Stop",
-      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+      "id": "e8c38895520b",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "zulln",
       "published": "2026-11-13T21:05:53+00:00",
-      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 905 # Comments: 526",
+      "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1415 # Comments:…",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -195,19 +322,6 @@
       "region": "global"
     },
     {
-      "id": "326c64206610",
-      "title": "Big tech is here to let us down",
-      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "speckx",
-      "published": "2026-11-13T20:20:30+00:00",
-      "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 165 # Comments: 154",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9b3aa77d2c63",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
@@ -242,19 +356,6 @@
       "region": "india"
     },
     {
-      "id": "cf03ad891612",
-      "title": "No AI Slop: A Manifesto",
-      "url": "https://www.slopmanifesto.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "bankombinator",
-      "published": "2026-11-13T19:51:56+00:00",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 154 # Comments: 88",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "38741df50e34",
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -271,6 +372,32 @@
         "In Brief",
         "langchain"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4b5788c8e216",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gumby",
+      "published": "2026-11-13T19:25:21+00:00",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 151 # Comments: 23",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "79d48ebc633b",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "gmays",
+      "published": "2026-11-13T19:24:47+00:00",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 107 # Comments: 21",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -300,7 +427,7 @@
       "source_id": "hacker_news",
       "author": "simonebrunozzi",
       "published": "2026-11-13T19:14:02+00:00",
-      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 145 # Comments: 86",
+      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 195 # Comments: 136",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -313,7 +440,7 @@
       "source_id": "hacker_news",
       "author": "crescit_eundo",
       "published": "2026-11-13T18:40:44+00:00",
-      "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 246 # Comments: 131",
+      "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 315 # Comments: 175",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -337,26 +464,13 @@
     },
     {
       "id": "52d9f85d2984",
-      "title": "Models can now transmit viruses in weight-space",
+      "title": "Weight Space Misfolding",
       "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "mkglees",
       "published": "2026-11-13T18:33:35+00:00",
-      "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 124 # Comments: 45",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0b39e3815f5a",
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "BobaFloutist",
-      "published": "2026-11-13T18:18:37+00:00",
-      "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 225 # Comments: 113",
+      "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 137 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -414,20 +528,7 @@
       "source_id": "hacker_news",
       "author": "halcdev",
       "published": "2026-11-13T17:55:28+00:00",
-      "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 191 # Comments: 32",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4a36f6adfa9f",
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sshah03",
-      "published": "2026-11-13T17:55:23+00:00",
-      "summary": "Article URL: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ Comments URL: https://news.ycombinator.com/item?id=50487184 Points: 130 # Comments: 58",
+      "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 226 # Comments: 37",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -460,7 +561,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-11-13T17:30:10+00:00",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 285 # Comments: 83",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 353 # Comments: 95",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -634,6 +735,19 @@
       "region": "global"
     },
     {
+      "id": "0b67abad1121",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "helloplanets",
+      "published": "2026-11-13T15:08:44+00:00",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 165 # Comments: 149",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "d7497e28b9dd",
       "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
       "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
@@ -641,7 +755,7 @@
       "source_id": "hacker_news",
       "author": "bookofjoe",
       "published": "2026-11-13T15:08:07+00:00",
-      "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 112 # Comments: 73",
+      "summary": "https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 152 # Comments: 91",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -729,20 +843,7 @@
       "source_id": "hacker_news",
       "author": "cosmic_quanta",
       "published": "2026-11-13T14:43:12+00:00",
-      "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 166 # Comments: 77",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4f31dbe9014d",
-      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ortuman",
-      "published": "2026-11-13T14:28:40+00:00",
-      "summary": "Article URL: https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0 Comments URL: https://news.ycombinator.com/item?id=50484007 Points: 121 # Comments: 33",
+      "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 187 # Comments: 104",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -843,19 +944,6 @@
         "Jensen Huang",
         "nvidia"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0c5a5bee5abd",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "voxleone",
-      "published": "2026-11-13T12:10:24+00:00",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 420 # Comments: 295",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1000,6 +1088,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "d1318183fe17",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "tags": [],
+      "tier": "labs",
+      "region": "global"
     },
     {
       "id": "0106ef97c586",
@@ -1267,7 +1368,7 @@
       "source_id": "hacker_news",
       "author": "scottjg",
       "published": "2026-11-12T22:03:09+00:00",
-      "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 638 # Comments: 189",
+      "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 704 # Comments: 203",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1603,26 +1704,6 @@
       "region": "global"
     },
     {
-      "id": "925495e127c6",
-      "title": "Netflix releases new trailer for Ray Gunn",
-      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Jennifer Ouellette",
-      "published": "2026-11-12T18:38:38+00:00",
-      "summary": "\"It's hard being the only honest players in a crooked game.\"",
-      "tags": [
-        "Culture",
-        "Brad Bird",
-        "entertainment",
-        "films",
-        "Netflix",
-        "Ray Gunn"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9d8205c8a2ca",
       "title": "Gemini 4 Hydrogen",
       "url": "https://www.producthunt.com/products/gemini-6",
@@ -1759,24 +1840,6 @@
       "region": "global"
     },
     {
-      "id": "5fb6d7fe9d2d",
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Jay Peters",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in…",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Gaming",
-        "News"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "55f1ac06c2c6",
       "title": "Exclusive: Why Zupee’s AI Pivot Was A Smokescreen For Its Shutdown",
       "url": "https://inc42.com/buzz/why-zupees-ai-pivot-was-a-smokescreen-for-its-shutdown/",
@@ -1875,47 +1938,6 @@
       "region": "india"
     },
     {
-      "id": "fca15eb0b4be",
-      "title": "5 lessons to learn from the book Kaizen by Sarah Harvey",
-      "url": "https://yourstory.com/2026/11/lessons-kaizen-sarah",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-12T12:33:12+00:00",
-      "summary": "Discover five powerful lessons from Kaizen by Sarah Harvey on building better habits, overcoming resistance, and achieving lasting personal growth.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "1d160d5f39f3",
-      "title": "Keralam positions itself as a value-driven launchpad for deeptech startups",
-      "url": "https://yourstory.com/2026/11/keralam-aims-to-be-value-led-destination-for-deeptech-startups",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-12T12:31:12+00:00",
-      "summary": "The Keralam government is keen to enhance the value of its startup ecosystem especially with the deeptech segment providing financial and other infrastructure support",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "4f9c1d0ac7dc",
-      "title": "OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption",
-      "url": "https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-11-12T12:28:31+00:00",
-      "summary": "ChatGPT maker OpenAI has introduced local inference and data processing for its APIs in India, adding to its efforts to…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "90d79223706e",
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "url": "https://openai.com/business/customer-stories/gondola",
@@ -1944,19 +1966,6 @@
         "Interviews"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "0990939c7d6e",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-12T09:30:00+00:00",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "tags": [],
-      "tier": "labs",
       "region": "global"
     }
   ]
