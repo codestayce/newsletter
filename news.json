@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:28:39.530426+00:00",
+  "generated_at": "2026-11-15T13:19:37.369987+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,126 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 118,
   "items": [
+    {
+      "id": "6fdb9cf64c8f",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-11-15T13:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.…",
+      "tags": [
+        "AI",
+        "Column",
+        "Nvidia",
+        "Security",
+        "Tech",
+        "The Stepback"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "950ac38f23f2",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "Ahead of AI — Sebastian Raschka",
+      "source_id": "ahead_of_ai",
+      "author": "Sebastian Raschka, PhD",
+      "published": "2026-11-15T12:10:37+00:00",
+      "summary": "The Methods Behind How LLMs Represent Token Positions",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "c91a7de9e7aa",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-15T10:06:21+00:00",
+      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "6373036a727f",
+      "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
+      "url": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-15T09:39:37+00:00",
+      "summary": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop' approach.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "203b1bd3db55",
+      "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+      "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-15T09:31:47+00:00",
+      "summary": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "fc67049de3e8",
+      "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, EV adoption",
+      "url": "https://yourstory.com/2026/11/zomato-eternal-reworks-ev-delivery-target-fleet-expansion-evolving-adoption",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-15T09:24:35+00:00",
+      "summary": "The company is working towards a revised timeline, factoring in the availability of electric vehicles, supporting government policies, and the transportation requirements of its various businesses.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d5153a96e51f",
+      "title": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Avishay Cohen",
+      "published": "2026-11-15T06:22:09+00:00",
+      "summary": "Agentic Design Canvas - A visual way to collaborate with AI Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "449b33e13de6",
+      "title": "Perit Marketplace",
+      "url": "https://www.producthunt.com/products/perit-marketplace",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Garry Tan",
+      "published": "2026-11-15T05:04:05+00:00",
+      "summary": "Sell your data and RL tasks to frontier AI labs Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "821e65aa8e2c",
       "title": "How the art ecosystem opens up a wide range of opportunities beyond creation of artworks",
@@ -35,6 +153,19 @@
       "region": "india"
     },
     {
+      "id": "ee705bff49c2",
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jordigh",
+      "published": "2026-11-15T02:41:25+00:00",
+      "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 125 # Comments: 12",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "3199d00e17e3",
       "title": "Space, sustainability, AI: test your business creativity with Edition 258 of our weekly quiz!",
       "url": "https://yourstory.com/2026/11/space-sustainability-ai-business-creativity-entrepreneur-quiz-education",
@@ -46,6 +177,32 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "095d34482a5f",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "nobody9999",
+      "published": "2026-11-15T02:00:54+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 264 # Comments: 72",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "14ba8d169059",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ybathaee",
+      "published": "2026-11-15T01:18:36+00:00",
+      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 258 # Comments: 96",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "cdf34d438f12",
@@ -85,19 +242,6 @@
       "region": "global"
     },
     {
-      "id": "85985435b8f3",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "madihaa",
-      "published": "2026-11-14T22:26:30+00:00",
-      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 320 # Comments: 176",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "cce942626afe",
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -105,7 +249,7 @@
       "source_id": "hacker_news",
       "author": "Skyfall106",
       "published": "2026-11-14T22:22:49+00:00",
-      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 144 # Comments: 54",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 241 # Comments: 128",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -138,7 +282,7 @@
       "source_id": "hacker_news",
       "author": "ls612",
       "published": "2026-11-14T21:22:24+00:00",
-      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 890 # Comments: 618",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1346 # Comments: 903",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -181,19 +325,6 @@
       "region": "global"
     },
     {
-      "id": "51d902b520b4",
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gnabgib",
-      "published": "2026-11-14T18:56:47+00:00",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 227 # Comments: 128",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "0981be9212e1",
       "title": "A family tree of software job titles",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
@@ -201,7 +332,7 @@
       "source_id": "hacker_news",
       "author": "umerf",
       "published": "2026-11-14T17:45:19+00:00",
-      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 240 # Comments: 117",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 352 # Comments: 176",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -250,7 +381,20 @@
       "source_id": "hacker_news",
       "author": "armcat",
       "published": "2026-11-14T17:43:10+00:00",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 704 # Comments: 290",
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 877 # Comments: 338",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8e00b39659aa",
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Abbas Aga",
+      "published": "2026-11-14T17:42:45+00:00",
+      "summary": "Fast, native and smart email for Mac and iPhone Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -338,7 +482,7 @@
       "source_id": "hacker_news",
       "author": "rbanffy",
       "published": "2026-11-14T15:40:52+00:00",
-      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 219 # Comments: 96",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 255 # Comments: 111",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -351,7 +495,7 @@
       "source_id": "hacker_news",
       "author": "VaibhaavTiwari",
       "published": "2026-11-14T15:04:15+00:00",
-      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 202 # Comments: 11",
+      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 246 # Comments: 23",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -462,19 +606,6 @@
       "region": "india"
     },
     {
-      "id": "5bfa2e37b7da",
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "snipedbywifi",
-      "published": "2026-11-14T14:05:54+00:00",
-      "summary": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs…",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "fbb4c2fd353e",
       "title": "KDE: The documentary [video]",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
@@ -482,20 +613,7 @@
       "source_id": "hacker_news",
       "author": "mrkn1",
       "published": "2026-11-14T13:43:28+00:00",
-      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 411 # Comments: 89",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "65ebb5670c6d",
-      "title": "A visual explanation of reinforcement learning",
-      "url": "https://aatishb.com/myriad/how-brains-learn/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "aatish",
-      "published": "2026-11-14T13:31:06+00:00",
-      "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 133 # Comments: 6",
+      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 509 # Comments: 113",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -508,20 +626,7 @@
       "source_id": "hacker_news",
       "author": "acossta",
       "published": "2026-11-14T13:20:43+00:00",
-      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 177 # Comments: 39",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "07afec2ab7fa",
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gslin",
-      "published": "2026-11-14T12:45:45+00:00",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 506 # Comments: 182",
+      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 206 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -552,7 +657,7 @@
       "source_id": "hacker_news",
       "author": "hacb",
       "published": "2026-11-14T11:13:17+00:00",
-      "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 198 # Comments: 58",
+      "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 274 # Comments: 154",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -677,6 +782,19 @@
       "region": "india"
     },
     {
+      "id": "701a1ec31b48",
+      "title": "ByteAsk Cloud Agents",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Garry Tan",
+      "published": "2026-11-14T06:54:44+00:00",
+      "summary": "Find the fix in big codebases. Ship it from Slack. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "056664ac5847",
       "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
       "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
@@ -711,23 +829,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "f34c90886e08",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Richard Lawler",
-      "published": "2026-11-14T01:53:04+00:00",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM…",
-      "tags": [
-        "Mass Transit",
-        "News",
-        "Transportation"
-      ],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "43a8bca0b077",
@@ -1523,19 +1624,6 @@
       "region": "global"
     },
     {
-      "id": "0106ef97c586",
-      "title": "When every second counts: How Razorpay powers Comet's sneaker drops",
-      "url": "https://yourstory.com/2026/11/when-every-second-counts-how-razorpay-powers-comets-sneaker-drops",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T07:11:02+00:00",
-      "summary": "Most sneaker brands sell shoes. Comet sells a feeling. Started by founders Utkarsh Gupta and Dishant Parashar, Comet was born out of a simple observation: Indian sneaker culture was evolving fast, but homegrown brands still felt like an afterthought. Global labels dominated…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "ee666c273ed1",
       "title": "Karnataka HC Examines Allegations In SFIO Case Involving Razorpay",
       "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
@@ -1547,45 +1635,6 @@
       "tags": [
         "News"
       ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d2184e5244c2",
-      "title": "Mittal says India must hold the satellite 'kill switch', warns against reliance on one company",
-      "url": "https://yourstory.com/2026/11/mittal-india-must-hold-satellite-kill-switch-warns-against-reliance-one-company",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T06:32:20+00:00",
-      "summary": "The kill switch is the ability to cut off, throttle or restrict a satellite network's service, whether for a single terminal, a region or an entire country, from the operator's control systems and ground gateways.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ca1c2c340754",
-      "title": "One stack, not three silos: How Stelcore’s leaders want Indian brands to go global",
-      "url": "https://yourstory.com/2026/11/stelcores-leaders-indian-brands-global",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T06:31:48+00:00",
-      "summary": "At TechSparks 2026, Stelcore’s Bharat Mandot, Percy Avari and Navin Mistry explained how brands can turn compliance, tech and supply chain into one growth engine.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "08c7f991044e",
-      "title": "Who will succeed Jensen Huang? The race to find Nvidia's next chief begins",
-      "url": "https://yourstory.com/2026/11/who-will-succeed-jensen-huang-race-to-find-permanent-chief-begins",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T06:05:18+00:00",
-      "summary": "Jensen Huang’s departure ends a 33-year leadership era at Nvidia, triggering a search for his successor. Names including Lisa Su, Rene Haas and Tim Cook have entered the conversation, with Trump’s endorsement of Cook adding an unexpected twist.",
-      "tags": [],
       "tier": "india",
       "region": "india"
     },
@@ -1606,48 +1655,6 @@
       "region": "global"
     },
     {
-      "id": "d0cd2a98f1d4",
-      "title": "Ola Electric Slides In Q2, NVIDIA CEO Quits & More",
-      "url": "https://inc42.com/buzz/ola-electric-slides-in-q2-nvidia-ceo-quits-more/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-11-13T02:30:14+00:00",
-      "summary": "Ola Electric’s Revenue Dips In Q2 Ola Electric’s Q2 FY27 performance told a tale of two extremes. While revenues continued…",
-      "tags": [
-        "News",
-        "Inc42 Daily Brief"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "e394b2ab008f",
-      "title": "Claude Meetings",
-      "url": "https://www.producthunt.com/products/claude",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "KP",
-      "published": "2026-11-13T02:24:55+00:00",
-      "summary": "Add Claude to your call and get work started as you talk Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1118fe490657",
-      "title": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Garry Tan",
-      "published": "2026-11-13T02:06:54+00:00",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a49fd02deff5",
       "title": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
       "url": "https://tldr.tech/ai/2026-11-13",
@@ -1660,6 +1667,19 @@
         "Tech"
       ],
       "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "d7fb11eb671d",
+      "title": "Emayler",
+      "url": "https://www.producthunt.com/products/emayler",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Ali Raffi",
+      "published": "2026-11-12T23:32:53+00:00",
+      "summary": "Custom email on your domain, minus the headache Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1805,25 +1825,6 @@
       "region": "global"
     },
     {
-      "id": "8903f352878c",
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Kyle Orland",
-      "published": "2026-11-12T19:49:11+00:00",
-      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "tags": [
-        "Gaming",
-        "bethesda",
-        "Elder Scrolls",
-        "N-Gage",
-        "port"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "75e8b5158ffa",
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -1851,19 +1852,6 @@
       "summary": "",
       "tags": [],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "2dac544d7123",
-      "title": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Bohdan Bondarchuk",
-      "published": "2026-11-12T18:54:12+00:00",
-      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1906,37 +1894,6 @@
       "region": "global"
     },
     {
-      "id": "231b6a09a11a",
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "NaOH",
-      "published": "2026-11-12T18:28:06+00:00",
-      "summary": "Article URL: https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/ Comments URL: https://news.ycombinator.com/item?id=50471874 Points: 122 # Comments: 67",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "78397eaf147c",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Elizabeth Lopatto",
-      "published": "2026-11-12T18:06:54+00:00",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a…",
-      "tags": [
-        "AI",
-        "Policy",
-        "Politics",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "ad614f81e42f",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -1951,6 +1908,19 @@
         "AI"
       ],
       "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "59fdf51fd15c",
+      "title": "Pixel Office",
+      "url": "https://www.producthunt.com/products/pixel-office-3",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Gol Sinyali",
+      "published": "2026-11-12T16:47:12+00:00",
+      "summary": "Run a team of AI agents from a pixel-art office Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     }
   ]
