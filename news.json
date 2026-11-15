@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:54:27.340789+00:00",
+  "generated_at": "2026-11-15T04:28:39.530426+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -22,6 +22,95 @@
   "item_count": 120,
   "items": [
     {
+      "id": "821e65aa8e2c",
+      "title": "How the art ecosystem opens up a wide range of opportunities beyond creation of artworks",
+      "url": "https://yourstory.com/2026/11/art-ecosystem-roles-opportunities-creativity-exhibition-photography",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-15T02:50:00+00:00",
+      "summary": "In this photo essay, we showcase more highlights from Chennai’s Contemporary Now arts festival, along with director insights.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "3199d00e17e3",
+      "title": "Space, sustainability, AI: test your business creativity with Edition 258 of our weekly quiz!",
+      "url": "https://yourstory.com/2026/11/space-sustainability-ai-business-creativity-entrepreneur-quiz-education",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-15T02:35:00+00:00",
+      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 258th quiz. Ready?",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "cdf34d438f12",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-11-15T00:08:07+00:00",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
+      "tags": [
+        "AI",
+        "TC",
+        "nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f9a3c449e598",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-14T23:59:28+00:00",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that…",
+      "tags": [
+        "uv",
+        "datasette-agent",
+        "llm",
+        "datasette",
+        "llms",
+        "ai"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "85985435b8f3",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "madihaa",
+      "published": "2026-11-14T22:26:30+00:00",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 320 # Comments: 176",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "cce942626afe",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Skyfall106",
+      "published": "2026-11-14T22:22:49+00:00",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 144 # Comments: 54",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "9a736294c460",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -42,14 +131,14 @@
       "region": "global"
     },
     {
-      "id": "73d9d5b1e903",
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "id": "8605b79324d8",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "ls612",
       "published": "2026-11-14T21:22:24+00:00",
-      "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 127 # Comments: 53",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 890 # Comments: 618",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -99,33 +188,20 @@
       "source_id": "hacker_news",
       "author": "gnabgib",
       "published": "2026-11-14T18:56:47+00:00",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 113 # Comments: 45",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dc5edb003be3",
-      "title": "US IRS free online tax filing open source repo (2025)",
-      "url": "https://github.com/IRS-Public/direct-file",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "accountinhn",
-      "published": "2026-11-14T17:48:20+00:00",
-      "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 115 # Comments: 64",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 227 # Comments: 128",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "0981be9212e1",
-      "title": "A Family Tree of Software Job Titles",
+      "title": "A family tree of software job titles",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "umerf",
       "published": "2026-11-14T17:45:19+00:00",
-      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 114 # Comments: 52",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 240 # Comments: 117",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -174,7 +250,7 @@
       "source_id": "hacker_news",
       "author": "armcat",
       "published": "2026-11-14T17:43:10+00:00",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 463 # Comments: 160",
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 704 # Comments: 290",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -196,6 +272,23 @@
         "siri ai"
       ],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "5acb9d3d7e18",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-14T17:09:09+00:00",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus…",
+      "tags": [
+        "datasette",
+        "visualisation",
+        "datasette-lite"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -238,19 +331,6 @@
       "region": "global"
     },
     {
-      "id": "14e0892d6f4a",
-      "title": "Formalizing US Tax Code (Using Lean)",
-      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dnw",
-      "published": "2026-11-14T15:41:20+00:00",
-      "summary": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 124 # Comments: 78",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9b08084c1635",
       "title": "PyPI's redesigned project pages with clearer security signals are now live",
       "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
@@ -258,7 +338,7 @@
       "source_id": "hacker_news",
       "author": "rbanffy",
       "published": "2026-11-14T15:40:52+00:00",
-      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 171 # Comments: 76",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 219 # Comments: 96",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -271,7 +351,7 @@
       "source_id": "hacker_news",
       "author": "VaibhaavTiwari",
       "published": "2026-11-14T15:04:15+00:00",
-      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 108 # Comments: 7",
+      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 202 # Comments: 11",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -395,19 +475,6 @@
       "region": "global"
     },
     {
-      "id": "b7d03a16b424",
-      "title": "Italy fines Meta $887M over Android users' data access",
-      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "giuliomagnifico",
-      "published": "2026-11-14T13:48:06+00:00",
-      "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 269 # Comments: 180",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "fbb4c2fd353e",
       "title": "KDE: The documentary [video]",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
@@ -415,7 +482,20 @@
       "source_id": "hacker_news",
       "author": "mrkn1",
       "published": "2026-11-14T13:43:28+00:00",
-      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 314 # Comments: 67",
+      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 411 # Comments: 89",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "65ebb5670c6d",
+      "title": "A visual explanation of reinforcement learning",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "aatish",
+      "published": "2026-11-14T13:31:06+00:00",
+      "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 133 # Comments: 6",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -428,20 +508,20 @@
       "source_id": "hacker_news",
       "author": "acossta",
       "published": "2026-11-14T13:20:43+00:00",
-      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 134 # Comments: 33",
+      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 177 # Comments: 39",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "07afec2ab7fa",
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "title": "Tech companies are trying to shift the concept of privacy again",
       "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "gslin",
       "published": "2026-11-14T12:45:45+00:00",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 377 # Comments: 147",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 506 # Comments: 182",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -461,6 +541,19 @@
         "Report",
         "Tech"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1838248a60d9",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "hacb",
+      "published": "2026-11-14T11:13:17+00:00",
+      "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 198 # Comments: 58",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -604,19 +697,6 @@
       "region": "global"
     },
     {
-      "id": "2be02ef86ae7",
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "maximilianburke",
-      "published": "2026-11-14T04:23:30+00:00",
-      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 434 # Comments: 140",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "4f376ecebb3c",
       "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
       "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
@@ -735,9 +815,9 @@
         "AI",
         "Startups",
         "Venture",
-        "Jensen Huang",
-        "neocloud",
-        "nvidia"
+        "open source",
+        "nvidia",
+        "Jensen Huang"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -1510,19 +1590,6 @@
       "region": "india"
     },
     {
-      "id": "cbf22493d8c7",
-      "title": "AI could disrupt India's outsourcing model. It could also create millions of new exporters",
-      "url": "https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T05:59:34+00:00",
-      "summary": "AI is letting small Indian teams win global work that once needed a big company. As AI separates capability from headcount, it could shape India’s next export story.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "c738fcf1e54e",
       "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
       "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
@@ -1633,24 +1700,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "4e2810e47ea3",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-11-12T22:42:51+00:00",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "Trump"
-      ],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1792,25 +1841,6 @@
       "region": "global"
     },
     {
-      "id": "a67e1509e9c0",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source": "Ars Technica",
-      "source_id": "ars_technica",
-      "author": "Ryan Whitwam",
-      "published": "2026-11-12T19:23:03+00:00",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "tags": [
-        "AI",
-        "Google",
-        "Artificial Intelligence",
-        "gemini 4",
-        "google"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a88bddb17214",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -1876,6 +1906,19 @@
       "region": "global"
     },
     {
+      "id": "231b6a09a11a",
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "NaOH",
+      "published": "2026-11-12T18:28:06+00:00",
+      "summary": "Article URL: https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/ Comments URL: https://news.ycombinator.com/item?id=50471874 Points: 122 # Comments: 67",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "78397eaf147c",
       "title": "Oh, Palantir is ‘progressive’ now, is it?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
@@ -1908,57 +1951,6 @@
         "AI"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "74d0b7787940",
-      "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-      "url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-11-12T17:26:08+00:00",
-      "summary": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Artificial Intelligence",
-        "Context Engineering",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "90d79223706e",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-12T12:00:00+00:00",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "tags": [
-        "Startup"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "b144c8395c61",
-      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
-      "url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-11-12T11:00:00+00:00",
-      "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
-      "tags": [
-        "Daily Update",
-        "Interviews"
-      ],
-      "tier": "authors",
       "region": "global"
     }
   ]
