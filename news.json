@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:25:19.894411+00:00",
+  "generated_at": "2026-11-16T14:33:59.192495+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,602 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 113,
+  "item_count": 120,
   "items": [
+    {
+      "id": "ca1899ca1680",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Michael Acton, Financial Times",
+      "published": "2026-11-16T14:06:16+00:00",
+      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "tags": [
+        "AI",
+        "Tech",
+        "Jensen Huang",
+        "NVIDIA",
+        "syndication"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b03813f2b2da",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jess Weatherbed",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to…",
+      "tags": [
+        "AI",
+        "Amazon",
+        "Audio",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "94350bd30999",
+      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Emma Roth",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day…",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0bc322583e6f",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "source_id": "google_ai",
+      "author": "Maz Khorasani",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "tbd",
+      "tags": [
+        "Travel",
+        "Maps",
+        "AI"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "bb1032f7c486",
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "source": "The Pragmatic Engineer — Gergely Orosz",
+      "source_id": "pragmatic_engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-16T13:33:48+00:00",
+      "summary": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "678133a22d88",
+      "title": "Credit-led fintech startup Olyv raises $6M",
+      "url": "https://yourstory.com/2026/11/credit-led-fintech-startup-olyv-raises-usd-6m",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T13:29:16+00:00",
+      "summary": "Founded in 2016 by Rohit Garg, Amit Chandel, Vinay Singh, and Jayant Upadhyay, Olyv offers products across personal loans, gold savings, and credit health management.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "3ef0767e3e05",
+      "title": "Xpressbees raises Rs 100 Cr in debt from BlackSoil",
+      "url": "https://yourstory.com/2026/11/xpressbees-raises-rs-100-cr-in-debt-from-blacksoil",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T13:22:37+00:00",
+      "summary": "Xpressbees has raised Rs 100 crore through secured, unlisted NCDs, at a 13.5% coupon over 36 months, to fund its working capital needs.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "01356b7b90cc",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "tags": [
+        "Climate",
+        "Batteries",
+        "Exclusive",
+        "our next energy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7c5093010d55",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Tim De Chant",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "heat pumps",
+        "Exclusive",
+        "geothermal energy",
+        "Bedrock Energy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "6e8e373b5927",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Hayden Field",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand…",
+      "tags": [
+        "AI",
+        "Analysis",
+        "Chips",
+        "Gadgets",
+        "Nvidia",
+        "Policy"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "11cf973c0d59",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "MIT Technology Review Insights",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows…",
+      "tags": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "fcbaf2152a3d",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-11-16T12:30:00+00:00",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "AI",
+        "Accel",
+        "CRM",
+        "Exclusive"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "bc02561d49f0",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Kirsten Korosec",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "tags": [
+        "Transportation",
+        "Uber",
+        "zoox"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "812b59ed972a",
+      "title": "Amazon’s Zoox robotaxis are now available via Uber",
+      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew J. Hawkins",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis. It's a first for both companies: the first time Uber is adding a…",
+      "tags": [
+        "Amazon",
+        "Autonomous Cars",
+        "News",
+        "Ride-sharing",
+        "Tech",
+        "Transportation"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "11739eb66e94",
+      "title": "Fake Allahabad HC Order Row: DoT Orders Unblocking Of 95 Websites",
+      "url": "https://inc42.com/buzz/fake-allahabad-hc-order-row-dot-orders-unblocking-of-95-websites/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-16T11:53:22+00:00",
+      "summary": "The Department of Telecommunications (DoT) has directed internet service providers (ISPs) to immediately unblock 95 websites and domains that were…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d21221e3d2f0",
+      "title": "5 lessons from The Life That's Waiting by Brianna Wiest",
+      "url": "https://yourstory.com/2026/11/lessons-brianna-wiest",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T11:15:55+00:00",
+      "summary": "Discover five meaningful lessons from The Life That's Waiting by Brianna Wiest on self-discovery, emotional healing, happiness, and personal growth.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "1d12e1658aab",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Michelangelo11",
+      "published": "2026-11-16T11:03:16+00:00",
+      "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf Comments URL: https://news.ycombinator.com/item?id=50516245 Points: 105 # Comments: 65",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e9456b757d2d",
+      "title": "Obituaries",
+      "url": "https://stratechery.com/2026/obituaries/",
+      "source": "Stratechery — Ben Thompson",
+      "source_id": "stratechery",
+      "author": "Ben Thompson",
+      "published": "2026-11-16T11:02:49+00:00",
+      "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "tags": [
+        "Articles"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "47015e80e485",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Jess Weatherbed",
+      "published": "2026-11-16T11:00:00+00:00",
+      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter…",
+      "tags": [
+        "News",
+        "Nvidia",
+        "Policy",
+        "Politics",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "7afedf3465a1",
+      "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+      "url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-16T10:39:41+00:00",
+      "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "dca70450b791",
+      "title": "Jio Stops New Signups For Free Google AI Pro Subscription",
+      "url": "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-16T10:21:02+00:00",
+      "summary": "Reliance Jio has stopped accepting new claims for its free Google AI Pro subscription, which gave eligible users up to…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "da52cf43de2b",
+      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+      "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-11-16T09:44:17+00:00",
+      "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "2e66868a3228",
+      "title": "From funding with own college fees to 1,000+ beds: how oho Living won Tier-2",
+      "url": "https://yourstory.com/2026/11/oho-living-tier-2-managed-rental-housing-startup-founder-story",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T09:40:19+00:00",
+      "summary": "oho Living, a Tier-2 managed rental startup, grew revenue 25x after its worst year and now runs 1,032 beds across six cities.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "b38767a02a95",
+      "title": "Beyond payments: Where venture capital will flow across Indian fintech over the next 24 months",
+      "url": "https://yourstory.com/2026/11/where-venture-capital-will-flow-across-indian-fintech-over-next-24-months",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T09:20:56+00:00",
+      "summary": "India's fintech decade was built on distribution. The next one will be built on infrastructure, advice and intelligence—and capital is already repricing accordingly.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9bdc09a205a2",
+      "title": "Startup news and updates: daily roundup (November 16, 2026)",
+      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-16-2026",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T09:09:50+00:00",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, November 16, 2026.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d83394486a34",
+      "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+      "url": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-16T09:08:37+00:00",
+      "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro…",
+      "tags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer-Use"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "91e58e2ea930",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "tags": [
+        "Company"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "800e42594619",
+      "title": "Smartphone Price Hike: Samsung, Xiaomi Models Get Costlier By Up To ₹4,000 In India",
+      "url": "https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-16T08:46:58+00:00",
+      "summary": "Samsung and Xiaomi have increased smartphone prices by up to ₹4,000 across 48 variants in India amid rising memory chip…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6ca824da22d3",
+      "title": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next",
+      "url": "https://inc42.com/buzz/upgrad-enters-enterprise-advisory-with-launch-of-upgrad-next/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-16T07:28:25+00:00",
+      "summary": "Edtech unicorn upGrad has launched upGrad Next, an enterprise advisory practice that will help companies restructure their organisations and prepare…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "caaf86bfdecb",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Anna Heim",
+      "published": "2026-11-16T07:00:00+00:00",
+      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+      "tags": [
+        "Venture",
+        "estonia",
+        "plural"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "eb0c106c7d1d",
+      "title": "Ola Electric hands the keys to dealers. What led to this shift in gears?",
+      "url": "https://yourstory.com/2026/11/ola-electric-hands-keys-to-dealers-what-led-to-this-shift",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T06:29:33+00:00",
+      "summary": "For long, Ola Electric ran its own showrooms and sold directly to customers. Now it is shifting to a dealer-led model with plans to have 700 dealer outlets by March 2027. What prompted this reset and what should the company do for it to work?",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "69dcc624e903",
+      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In November",
+      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-november/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Ankush Das",
+      "published": "2026-11-16T06:18:22+00:00",
+      "summary": "AI in India has moved past the phase of picking a single large language model. For two years, the loudest…",
+      "tags": [
+        "Startup Stories",
+        "AI Startups To Watch"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "375bd4c297c0",
+      "title": "upGrad broadens its business with new workforce advisory venture",
+      "url": "https://yourstory.com/2026/11/upgrad-broadens-its-business-with-new-workforce-advisory-venture",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T06:18:04+00:00",
+      "summary": "upGrad launches workforce advisory business as it expands beyond skilling, aiming to help organisations navigate AI-led transformation through integrated workforce strategy and implementation.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "81057265adb9",
+      "title": "[Update] Urban Company Shareholders Approve ₹2,500 Cr Fundraise",
+      "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-11-16T05:57:51+00:00",
+      "summary": "Update | November 16, 2026 Urban Company shareholders have approved a proposal to raise up to ₹2,500 Cr through the…",
+      "tags": [
+        "News",
+        "Spot News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "077b2b8754b8",
+      "title": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+      "url": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-11-16T05:54:07+00:00",
+      "summary": "Bengaluru-based semiconductor startup Bharat Semi has raised $24 Mn (around ₹215 Cr) in a seed funding round to develop programmable…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "d9a15b4078d3",
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "o4c",
+      "published": "2026-11-16T05:50:37+00:00",
+      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 492 # Comments: 91",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ace4eeb296cb",
+      "title": "Bharat Semi raises $24M to develop AI-enabled sensors",
+      "url": "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T05:37:52+00:00",
+      "summary": "Bharat Semi has raised seed funding to develop programmable AI-powered sensors, targeting the growing demand for intelligent, energy-efficient hardware for robotics, vehicles and other machines.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "3f74b6daad7d",
       "title": "Oister Global launches Rs 600 Cr deeptech fund",
@@ -58,7 +652,7 @@
       "source_id": "hacker_news",
       "author": "ilreb",
       "published": "2026-11-16T02:14:44+00:00",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 183 # Comments: 49",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 681 # Comments: 320",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -71,7 +665,7 @@
       "source_id": "hacker_news",
       "author": "zaik",
       "published": "2026-11-16T02:04:48+00:00",
-      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 135 # Comments: 26",
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 485 # Comments: 138",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -88,6 +682,19 @@
       "tags": [],
       "tier": "india",
       "region": "india"
+    },
+    {
+      "id": "6fee47c21c2c",
+      "title": "ByteVoice",
+      "url": "https://www.producthunt.com/products/bytevoice",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Zac Zuo",
+      "published": "2026-11-16T01:45:10+00:00",
+      "summary": "Talk to your coding agents and hear them back Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "09862cd7036c",
@@ -127,6 +734,49 @@
       "region": "global"
     },
     {
+      "id": "83b3b2200438",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "aillia",
+      "published": "2026-11-16T00:21:54+00:00",
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 189 # Comments: 53",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1c554e76f9ec",
+      "title": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+      "url": "https://tldr.tech/ai/2026-11-16",
+      "source": "TLDR AI",
+      "source_id": "tldr_ai",
+      "author": "TLDR",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "Tech"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "e3915f7e4cf0",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "tags": [
+        "Global Affairs"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
       "id": "4b4d48f19f03",
       "title": "datasette-maplibre 0.1a0",
       "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
@@ -154,7 +804,20 @@
       "source_id": "hacker_news",
       "author": "zdw",
       "published": "2026-11-15T23:55:55+00:00",
-      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 130 # Comments: 149",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 346 # Comments: 425",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "23ca9c0897e9",
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Lincoln Clarke",
+      "published": "2026-11-15T23:41:27+00:00",
+      "summary": "Describe a part in plain language to get a CAD design Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -241,7 +904,7 @@
       "source_id": "hacker_news",
       "author": "CharlesW",
       "published": "2026-11-15T23:00:11+00:00",
-      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 104 # Comments: 30",
+      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 178 # Comments: 48",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -254,7 +917,7 @@
       "source_id": "hacker_news",
       "author": "hspeiser",
       "published": "2026-11-15T22:11:43+00:00",
-      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 212 # Comments: 114",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 330 # Comments: 165",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -366,6 +1029,19 @@
       "region": "global"
     },
     {
+      "id": "d8e260755f49",
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Aleksandar Blazhev",
+      "published": "2026-11-15T20:32:35+00:00",
+      "summary": "Test your AI agent on working clones of the apps it uses Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "1a811a22b701",
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
       "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
@@ -393,7 +1069,20 @@
       "source_id": "hacker_news",
       "author": "ranger_danger",
       "published": "2026-11-15T20:20:05+00:00",
-      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 103 # Comments: 16",
+      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 192 # Comments: 47",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c8a207a3ccd4",
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Divyanshu Rajput",
+      "published": "2026-11-15T19:51:59+00:00",
+      "summary": "Identity and inboxes for AI agents Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -406,7 +1095,7 @@
       "source_id": "hacker_news",
       "author": "coinfused",
       "published": "2026-11-15T19:42:13+00:00",
-      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 175 # Comments: 41",
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 366 # Comments: 63",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -419,7 +1108,7 @@
       "source_id": "hacker_news",
       "author": "bcye",
       "published": "2026-11-15T19:26:22+00:00",
-      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 219 # Comments: 47",
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 402 # Comments: 69",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -441,19 +1130,6 @@
         "Politics",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "357c9f3ea7ee",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "DeepLogin",
-      "published": "2026-11-15T18:36:10+00:00",
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 442 # Comments: 192",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -481,7 +1157,20 @@
       "source_id": "hacker_news",
       "author": "nharada",
       "published": "2026-11-15T18:23:21+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 194 # Comments: 86",
+      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 265 # Comments: 145",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1d5dffc23469",
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "kar en",
+      "published": "2026-11-15T17:59:28+00:00",
+      "summary": "The 100% free coding agent Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -494,20 +1183,7 @@
       "source_id": "hacker_news",
       "author": "gumby",
       "published": "2026-11-15T17:53:31+00:00",
-      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 189 # Comments: 140",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "69e5f0d03d19",
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "molenzwiebel",
-      "published": "2026-11-15T17:22:32+00:00",
-      "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 113 # Comments: 70",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 267 # Comments: 180",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -533,54 +1209,6 @@
       "region": "global"
     },
     {
-      "id": "71d757cb7209",
-      "title": "Apple’s first smart glasses are coming together",
-      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-11-15T16:59:16+00:00",
-      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman…",
-      "tags": [
-        "Apple",
-        "Apple Rumors",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "71ae07e0ae50",
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Terrence O’Brien",
-      "published": "2026-11-15T16:00:00+00:00",
-      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA…",
-      "tags": [
-        "Culture",
-        "Entertainment",
-        "Interview",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6390c6b231f0",
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nyc111",
-      "published": "2026-11-15T15:21:21+00:00",
-      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 189 # Comments: 108",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "9cf3e87037ac",
       "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
       "url": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026",
@@ -592,69 +1220,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "5b41d1a07146",
-      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Sheena Vasani",
-      "published": "2026-11-15T14:00:00+00:00",
-      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time…",
-      "tags": [
-        "Black Friday",
-        "Cyber Monday",
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "7ef5198f14f4",
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "David Pierce",
-      "published": "2026-11-15T13:57:30+00:00",
-      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And…",
-      "tags": [
-        "Podcasts",
-        "Robot",
-        "Tech",
-        "Version History"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dc388aee58ab",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ksec",
-      "published": "2026-11-15T13:44:16+00:00",
-      "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 214 # Comments: 112",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "57809c39abaa",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "MacAnorak",
-      "published": "2026-11-15T13:15:22+00:00",
-      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 435 # Comments: 245",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "6fdb9cf64c8f",
@@ -680,11 +1245,24 @@
       "id": "950ac38f23f2",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "vismit2000",
-      "published": "2026-11-15T12:14:06+00:00",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 217 # Comments: 27",
+      "source": "Ahead of AI — Sebastian Raschka",
+      "source_id": "ahead_of_ai",
+      "author": "Sebastian Raschka, PhD",
+      "published": "2026-11-15T12:10:37+00:00",
+      "summary": "The Methods Behind How LLMs Represent Token Positions",
+      "tags": [],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "f6b8a0a5c190",
+      "title": "UI SDK by Vercel",
+      "url": "https://www.producthunt.com/products/ui-sdk",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Shivam Kushwaha",
+      "published": "2026-11-15T12:01:57+00:00",
+      "summary": "Give AI agents the building blocks to create UI Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -750,26 +1328,13 @@
     },
     {
       "id": "d5153a96e51f",
-      "title": "Canvas by AgentGrid.io",
+      "title": "Agentic Canvas",
       "url": "https://www.producthunt.com/products/agentgrid-io",
       "source": "Product Hunt",
       "source_id": "product_hunt",
       "author": "Avishay Cohen",
       "published": "2026-11-15T06:22:09+00:00",
-      "summary": "Agentic Design Canvas - A visual way to collaborate with AI Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "449b33e13de6",
-      "title": "Perit Marketplace",
-      "url": "https://www.producthunt.com/products/perit-marketplace",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Garry Tan",
-      "published": "2026-11-15T05:04:05+00:00",
-      "summary": "Sell your data and RL tasks to frontier AI labs Discussion | Link",
+      "summary": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -813,30 +1378,17 @@
       "region": "global"
     },
     {
-      "id": "821e65aa8e2c",
-      "title": "How the art ecosystem opens up a wide range of opportunities beyond creation of artworks",
-      "url": "https://yourstory.com/2026/11/art-ecosystem-roles-opportunities-creativity-exhibition-photography",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-15T02:50:00+00:00",
-      "summary": "In this photo essay, we showcase more highlights from Chennai’s Contemporary Now arts festival, along with director insights.",
+      "id": "50bf3904819e",
+      "title": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Karen Lee",
+      "published": "2026-11-15T00:43:18+00:00",
+      "summary": "The open-source Cursor for AI filmmaking Discussion | Link",
       "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3199d00e17e3",
-      "title": "Space, sustainability, AI: test your business creativity with Edition 258 of our weekly quiz!",
-      "url": "https://yourstory.com/2026/11/space-sustainability-ai-business-creativity-entrepreneur-quiz-education",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-15T02:35:00+00:00",
-      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 258th quiz. Ready?",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "cdf34d438f12",
@@ -1035,6 +1587,7 @@
       "summary": "Jensen Huang’s exit from NVIDIA has put the spotlight on the company’s leadership and succession plans. But for India, the…",
       "tags": [
         "In-Depth",
+        "AI Economy",
         "Follow Up"
       ],
       "tier": "india",
@@ -1156,71 +1709,6 @@
       "region": "global"
     },
     {
-      "id": "1719b5a65ffb",
-      "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
-      "url": "https://yourstory.com/2026/11/babycue-wins-rs-5-lakh-at-tribal-business-conclave-for-diacue-healthtech-innovation",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-14T08:03:59+00:00",
-      "summary": "Odisha-based BabyCue wins first prize at the Tribal Business Conclave Open Grand Challenge for DiaCue, its rapid test for childhood diarrhoea.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "4db0b2ba79b3",
-      "title": "28 Indian startups pitch air pollution solutions to VCs at AirEarth.org event",
-      "url": "https://yourstory.com/2026/11/airearth-28-startups-pitch-air-pollution-solutions-vcs",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-14T07:43:24+00:00",
-      "summary": "AirEarth.org hosted 28 Indian clean-air startups pitching to VCs like Blume and Rainmatter, pushing year-round pollution fixes.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a0b44e6183dd",
-      "title": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations",
-      "url": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-14T07:23:49+00:00",
-      "summary": "Got an AI idea? MAGIC has opened applications for AIMM 2026, offering startups, MSMEs, students and researchers a chance to win Rs 7 lakh, with potential seed funding and incubation support.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "ffcd4c359fae",
-      "title": "Stage III cancer to 200+ startups: How Tej Chingtham built the Northeast’s first incubator",
-      "url": "https://yourstory.com/2026/11/tej-chingtham-aic-smutbi-northeast-startups",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-14T07:13:27+00:00",
-      "summary": "From a push for better startup support to mentoring 200+ ventures, Prof. (Dr.) Tej Chingtham is helping shape Northeast India’s startup ecosystem through AIC-SMUTBI.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "701a1ec31b48",
-      "title": "ByteAsk Cloud Agents",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Garry Tan",
-      "published": "2026-11-14T06:54:44+00:00",
-      "summary": "Find the fix in big codebases. Ship it from Slack. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "056664ac5847",
       "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
       "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
@@ -1239,22 +1727,6 @@
       ],
       "tier": "ai_news",
       "region": "global"
-    },
-    {
-      "id": "4f376ecebb3c",
-      "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
-      "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-11-14T03:30:14+00:00",
-      "summary": "The post-festive cheer appears to have done little to lift India’s startup ecosystem as funding activity lost steam this week.…",
-      "tags": [
-        "News",
-        "Funding Galore"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "43a8bca0b077",
@@ -1311,45 +1783,6 @@
       "region": "global"
     },
     {
-      "id": "4c02b6f51e28",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Aisha Malik",
-      "published": "2026-11-13T23:00:00+00:00",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "e-readers",
-        "kindle colorsoft",
-        "amazon kindle"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ad639fbc6552",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Marina Temkin, Dominic-Madori Davis",
-      "published": "2026-11-13T22:43:00+00:00",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "open source",
-        "nvidia",
-        "Jensen Huang"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "673d8bd62405",
       "title": "datasette-leaflet 0.3",
       "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
@@ -1365,53 +1798,6 @@
       ],
       "tier": "authors",
       "region": "global"
-    },
-    {
-      "id": "c3a51d07bc90",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Zack Whittaker",
-      "published": "2026-11-13T21:44:38+00:00",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "Airlines",
-        "Federal Aviation Administration",
-        "In Brief"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "ac3684f712a8",
-      "title": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Sarthak Bansal",
-      "published": "2026-11-13T21:27:29+00:00",
-      "summary": "A blazing-fast, persistent, key-value AI workload database Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "679c30a2aed0",
-      "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
-      "url": "https://inc42.com/buzz/sachin-tendulkar-backs-waste-management-startup-recykal/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Gaurav Bagur",
-      "published": "2026-11-13T21:26:03+00:00",
-      "summary": "Former Indian cricketer Sachin Tendulkar has joined the cap table of Hyderabad-based cleantech startup Recykal. The startup did not disclose…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "4ecfb44c1aed",
@@ -1434,91 +1820,15 @@
       "region": "global"
     },
     {
-      "id": "d450ad1a277f",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Stevie Bonifield",
-      "published": "2026-11-13T20:45:10+00:00",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,…",
-      "tags": [
-        "AI",
-        "News",
-        "OpenAI",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "9b3aa77d2c63",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim De Chant",
-      "published": "2026-11-13T20:07:24+00:00",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "tags": [
-        "Climate",
-        "data centers",
-        "Exclusive",
-        "ocean tech",
-        "renewable energy"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "730de12c0035",
-      "title": "[Update] Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
-      "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Palak Sharma",
-      "published": "2026-11-13T19:55:13+00:00",
-      "summary": "Update | November 14, 2026; 01:25 AM IST Fintech major Razorpay has received Securities and Exchange Board of India’s (SEBI)…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "38741df50e34",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Julie Bort",
-      "published": "2026-11-13T19:37:57+00:00",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "agent",
-        "In Brief",
-        "langchain"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f17748102e2c",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-11-13T18:40:30+00:00",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "tags": [
-        "AI",
-        "banned ai",
-        "nvidia"
-      ],
+      "id": "eddc298fb3bf",
+      "title": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Chris Messina",
+      "published": "2026-11-13T18:06:13+00:00",
+      "summary": "Let ChatGPT agents buy things without seeing your card Discussion | Link",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1548,6 +1858,19 @@
         "This Week in Stratechery"
       ],
       "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "0aa7bc0138df",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "PaulHoule",
+      "published": "2026-11-13T17:29:49+00:00",
+      "summary": "Article URL: https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch Comments URL: https://news.ycombinator.com/item?id=50486745 Points: 110 # Comments: 34",
+      "tags": [],
+      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1640,221 +1963,6 @@
         "Editors Pick"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "5bf4951adbe9",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-13T15:00:00+00:00",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "tags": [
-        "Product"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "5d09d1e98e76",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "David Pierce",
-      "published": "2026-11-13T14:47:16+00:00",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China,…",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Podcasts",
-        "Policy",
-        "Tech",
-        "Vergecast"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "40e78db6601d",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "source_id": "huggingface",
-      "author": null,
-      "published": "2026-11-13T14:05:22+00:00",
-      "summary": "",
-      "tags": [],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "1bd099ba94a3",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Allison Johnson",
-      "published": "2026-11-13T14:00:00+00:00",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's…",
-      "tags": [
-        "AI",
-        "Hands-on",
-        "Reviews",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "e6526c3d8e4e",
-      "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
-      "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T12:43:18+00:00",
-      "summary": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "3572ade8089a",
-      "title": "Tabletop by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Shivam Kushwaha",
-      "published": "2026-11-13T11:39:17+00:00",
-      "summary": "Build interactive group experiences with AI. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "f18bd3913d18",
-      "title": "MeitY Reviews Quick Help Platforms’ Data Collection Process For Physical AI Training",
-      "url": "https://inc42.com/buzz/meity-reviews-house-help-platforms-data-collection-process-for-physical-ai-training/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-11-13T11:36:54+00:00",
-      "summary": "The Ministry of Electronics and Information Technology (MeitY) has sought details from home services platforms, including Pronto, Snabbit and Urban…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "1c6ffee93f4d",
-      "title": "Inc42, DevX Launch RE:FRAME With ₹15 Cr Investment Pool For PropTech Startups",
-      "url": "https://inc42.com/buzz/inc42-devx-launch-reframe-with-%e2%82%b915-cr-investment-pool-for-proptech-startups/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-11-13T11:30:38+00:00",
-      "summary": "India’s real estate industry is worth an estimated $650 Bn. Yet, for a sector of this scale, the way properties…",
-      "tags": [
-        "News",
-        "Inc42 Announcements"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "b465eed2f9de",
-      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-11-13T10:32:26+00:00",
-      "summary": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "31d09c1dd91a",
-      "title": "Paytm gets RBI's in-principle nod to revive wallet business through new subsidiary",
-      "url": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T10:20:14+00:00",
-      "summary": "Paytm’s subsidiary PPSL has received the RBI’s in-principle approval to issue prepaid instruments such as wallets, but it must submit a system audit report within six months.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "f6a7124d5b0e",
-      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-11-13T09:45:48+00:00",
-      "summary": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash…",
-      "tags": [
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Enterprise AI",
-        "For Devs",
-        "Harness"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "80549631b836",
-      "title": "CodeMesh",
-      "url": "https://www.producthunt.com/products/codemesh-2",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Vamsi Krishna",
-      "published": "2026-11-13T09:07:28+00:00",
-      "summary": "Cut AI coding costs by 90% Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "c70e9f449112",
-      "title": "Businesses in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Shivam Kushwaha",
-      "published": "2026-11-13T08:53:51+00:00",
-      "summary": "Help customers discover your business through ChatGPT Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "d1318183fe17",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "tags": [],
-      "tier": "labs",
       "region": "global"
     }
   ]
