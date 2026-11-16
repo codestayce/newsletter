@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:24:39.089618+00:00",
+  "generated_at": "2026-11-16T04:25:19.894411+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,8 +19,276 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 108,
+  "item_count": 113,
   "items": [
+    {
+      "id": "3f74b6daad7d",
+      "title": "Oister Global launches Rs 600 Cr deeptech fund",
+      "url": "https://yourstory.com/2026/11/oister-global-launches-rs-600-crore-deeptech-fund",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T04:15:11+00:00",
+      "summary": "Oister Global aims to invest in about 8-10 deeptech startups with a proven business model & technology and its capital will assist in rapid scaling.",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "257be5aa82fd",
+      "title": "The NVIDIA Fallout, Weekly Funding Rundown & More",
+      "url": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-11-16T02:30:41+00:00",
+      "summary": "NVIDIA’s Hold On Indian AI Jensen Huang’s exit from NVIDIA has thrown the global chipmaking ecosystem into disarray. But for…",
+      "tags": [
+        "News",
+        "Inc42 Daily Brief"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "8468cd1c9400",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ilreb",
+      "published": "2026-11-16T02:14:44+00:00",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 183 # Comments: 49",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0a2c564cc136",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "zaik",
+      "published": "2026-11-16T02:04:48+00:00",
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 135 # Comments: 26",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "63a23b4f9cc1",
+      "title": "How Tej Chingtham built Northeast’s first incubator; The pilot-turned-entrepreneur who is building a wellness brand",
+      "url": "https://yourstory.com/2026/11/tej-chingtham-northeast-incubator-pilot-turned-entrepreneur-wellness-brand",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-16T02:00:00+00:00",
+      "summary": "In a conversation with Shradha Sharma, Founder and CEO of YourStory and The Bharat Project, Prof Tej Chingtham, CEO of Atal Incubation Centre - Sikkim Manipal University Technology Business Incubation Foundation, recalls what led him to look at the Northeast's startup ecosystem…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "09862cd7036c",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Ivan Mehta",
+      "published": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "tags": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Health",
+        "openevidence"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "327577bff892",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Liszewski",
+      "published": "2026-11-16T01:26:56+00:00",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical…",
+      "tags": [
+        "AI",
+        "Apple",
+        "News",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "4b4d48f19f03",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-15T23:58:36+00:00",
+      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with…",
+      "tags": [
+        "visualization",
+        "generative-ai",
+        "datasette-lite",
+        "claude-mythos-fable",
+        "ai",
+        "llms"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "70fcd4b516bd",
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "zdw",
+      "published": "2026-11-15T23:55:55+00:00",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 130 # Comments: 149",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fc91828979fb",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-11-15T23:30:00+00:00",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Info edge",
+        "physical ai"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3bc6cdb34c17",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-15T23:20:27+00:00",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this…",
+      "tags": [
+        "security",
+        "datasette",
+        "css",
+        "browsers",
+        "annotated-release-notes",
+        "firefox"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "7c04761a4076",
+      "title": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-15T23:18:17+00:00",
+      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access…",
+      "tags": [
+        "security",
+        "datasette"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "172c020a5d34",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Stephen Clark",
+      "published": "2026-11-15T23:11:54+00:00",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "tags": [
+        "Science",
+        "Space",
+        "Amazon",
+        "amazon leo",
+        "artemis",
+        "Commercial space"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "28b10992cceb",
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "CharlesW",
+      "published": "2026-11-15T23:00:11+00:00",
+      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 104 # Comments: 30",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "286313831039",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "hspeiser",
+      "published": "2026-11-15T22:11:43+00:00",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 212 # Comments: 114",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "87d7014c15ee",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-11-15T22:00:01+00:00",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "tags": [
+        "Science"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
+    {
+      "id": "4b0fc5b701ff",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "author": null,
+      "published": "2026-11-15T22:00:00+00:00",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "tags": [
+        "Science"
+      ],
+      "tier": "labs",
+      "region": "global"
+    },
     {
       "id": "2cb612de9116",
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
@@ -118,6 +386,45 @@
       "region": "global"
     },
     {
+      "id": "102e09f7e3f8",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ranger_danger",
+      "published": "2026-11-15T20:20:05+00:00",
+      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 103 # Comments: 16",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8b7dc9abe9cc",
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "coinfused",
+      "published": "2026-11-15T19:42:13+00:00",
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 175 # Comments: 41",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "966523945edb",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "bcye",
+      "published": "2026-11-15T19:26:22+00:00",
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 219 # Comments: 47",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "024802442c5a",
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
@@ -145,7 +452,7 @@
       "source_id": "hacker_news",
       "author": "DeepLogin",
       "published": "2026-11-15T18:36:10+00:00",
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 250 # Comments: 121",
+      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 442 # Comments: 192",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -174,20 +481,33 @@
       "source_id": "hacker_news",
       "author": "nharada",
       "published": "2026-11-15T18:23:21+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 121 # Comments: 30",
+      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 194 # Comments: 86",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
       "id": "0add1fe02352",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "title": "Crows make decisions faster than we can",
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "gumby",
       "published": "2026-11-15T17:53:31+00:00",
-      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 103 # Comments: 80",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 189 # Comments: 140",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "69e5f0d03d19",
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "molenzwiebel",
+      "published": "2026-11-15T17:22:32+00:00",
+      "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 113 # Comments: 70",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -255,20 +575,7 @@
       "source_id": "hacker_news",
       "author": "nyc111",
       "published": "2026-11-15T15:21:21+00:00",
-      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 153 # Comments: 80",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "de1b04aef218",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jcubic",
-      "published": "2026-11-15T14:46:58+00:00",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 984 # Comments: 548",
+      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 189 # Comments: 108",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -331,7 +638,7 @@
       "source_id": "hacker_news",
       "author": "ksec",
       "published": "2026-11-15T13:44:16+00:00",
-      "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 171 # Comments: 84",
+      "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 214 # Comments: 112",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -344,7 +651,7 @@
       "source_id": "hacker_news",
       "author": "MacAnorak",
       "published": "2026-11-15T13:15:22+00:00",
-      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 368 # Comments: 194",
+      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 435 # Comments: 245",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -353,8 +660,8 @@
       "id": "6fdb9cf64c8f",
       "title": "An overview of Jensen Huang’s messy days",
       "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-11-15T13:00:00+00:00",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.…",
@@ -366,7 +673,7 @@
         "Tech",
         "The Stepback"
       ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -377,20 +684,7 @@
       "source_id": "hacker_news",
       "author": "vismit2000",
       "published": "2026-11-15T12:14:06+00:00",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 180 # Comments: 21",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2f54d572a5b4",
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "JumpCrisscross",
-      "published": "2026-11-15T11:40:51+00:00",
-      "summary": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol... Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 428 # Comments: 186",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 217 # Comments: 27",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -455,19 +749,6 @@
       "region": "india"
     },
     {
-      "id": "91e375cc559d",
-      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Skyfall106",
-      "published": "2026-11-15T09:06:43+00:00",
-      "summary": "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 206 # Comments: 140",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d5153a96e51f",
       "title": "Canvas by AgentGrid.io",
       "url": "https://www.producthunt.com/products/agentgrid-io",
@@ -491,6 +772,44 @@
       "summary": "Sell your data and RL tasks to frontier AI labs Discussion | Link",
       "tags": [],
       "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9ae934d441da",
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-15T04:02:45+00:00",
+      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the…",
+      "tags": [
+        "datasette-agent",
+        "datasette-apps",
+        "datasette",
+        "urls"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "16b4b3a7aa40",
+      "title": "datasette-agent 0.6a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-15T03:49:47+00:00",
+      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and…",
+      "tags": [
+        "datasette-agent",
+        "llm",
+        "datasette",
+        "llms",
+        "ai",
+        "generative-ai"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -518,19 +837,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "14ba8d169059",
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ybathaee",
-      "published": "2026-11-15T01:18:36+00:00",
-      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 477 # Comments: 210",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "cdf34d438f12",
@@ -590,19 +896,6 @@
       "region": "global"
     },
     {
-      "id": "8605b79324d8",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ls612",
-      "published": "2026-11-14T21:22:24+00:00",
-      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1613 # Comments: 1184",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "f496bdb8398a",
       "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
@@ -638,19 +931,6 @@
       "region": "global"
     },
     {
-      "id": "8e00b39659aa",
-      "title": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Abbas Aga",
-      "published": "2026-11-14T17:42:45+00:00",
-      "summary": "Fast, native and smart email for Mac and iPhone Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b08cefd9996d",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -680,7 +960,6 @@
       "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus…",
       "tags": [
         "datasette",
-        "visualisation",
         "datasette-lite"
       ],
       "tier": "authors",
@@ -1364,45 +1643,6 @@
       "region": "global"
     },
     {
-      "id": "4e379f6cb9d3",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Sarah Perez",
-      "published": "2026-11-13T16:00:12+00:00",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "AI agents",
-        "ChatGPT",
-        "dots",
-        "eCommerce"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "56623f1d9c94",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-11-13T15:58:00+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "tags": [
-        "AI",
-        "China",
-        "Donald Trump",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "5bf4951adbe9",
       "title": "Introducing ChatGPT Wallet",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -1482,25 +1722,6 @@
       "region": "india"
     },
     {
-      "id": "f41c719b0c12",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge — AI",
-      "source_id": "verge_ai",
-      "author": "Elizabeth Lopatto",
-      "published": "2026-11-13T12:00:00+00:00",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are…",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Policy",
-        "Politics",
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
       "id": "3572ade8089a",
       "title": "Tabletop by Google Labs",
       "url": "https://www.producthunt.com/products/google-labs",
@@ -1565,19 +1786,6 @@
       "region": "global"
     },
     {
-      "id": "9d98dbbdb991",
-      "title": "What thousands of conversations look like inside a language model",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "josip208",
-      "published": "2026-11-13T10:26:01+00:00",
-      "summary": "Article URL: https://operator0x.com/field-notes/qwen-conversation-state-space/ Comments URL: https://news.ycombinator.com/item?id=50481321 Points: 102 # Comments: 29",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "31d09c1dd91a",
       "title": "Paytm gets RBI's in-principle nod to revive wallet business through new subsidiary",
       "url": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary",
@@ -1586,19 +1794,6 @@
       "author": null,
       "published": "2026-11-13T10:20:14+00:00",
       "summary": "Paytm’s subsidiary PPSL has received the RBI’s in-principle approval to issue prepaid instruments such as wallets, but it must submit a system audit report within six months.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a3f479fef463",
-      "title": "Startup news and updates: daily roundup (November 13, 2026)",
-      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-13-2026",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T10:12:10+00:00",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 13, 2026.",
       "tags": [],
       "tier": "india",
       "region": "india"
@@ -1622,19 +1817,6 @@
       ],
       "tier": "ai_news",
       "region": "global"
-    },
-    {
-      "id": "512dcb562668",
-      "title": "StarAgile Celebrates 10 Years of Excellence in Professional Training and Transformation",
-      "url": "https://yourstory.com/2026/11/staragile-celebrates-10-years-excellence-professional-training--transformation",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-13T09:13:21+00:00",
-      "summary": "A decade after its founder left a 16-year IT career to build a training company, StarAgile has trained professionals across 100+ countries and is now preparing learners for the AI era. Every journey has a starting point. For StarAgile, it began with a simple idea: learning…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
     },
     {
       "id": "80549631b836",
@@ -1673,105 +1855,6 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "tags": [],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "ee666c273ed1",
-      "title": "Karnataka HC Examines Allegations In SFIO Case Involving Razorpay",
-      "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anjali Jain",
-      "published": "2026-11-13T06:39:19+00:00",
-      "summary": "The Karnataka High Court (HC) has rejected a plea by Razorpay cofounders Harshil Mathur and Shashank Kumar seeking to quash…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "c738fcf1e54e",
-      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-      "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-11-13T03:47:52+00:00",
-      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "tags": [
-        "Daily Update",
-        "Sharp Tech Video"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "a49fd02deff5",
-      "title": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
-      "url": "https://tldr.tech/ai/2026-11-13",
-      "source": "TLDR AI",
-      "source_id": "tldr_ai",
-      "author": "TLDR",
-      "published": "2026-11-13T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "Tech"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "d7fb11eb671d",
-      "title": "Emayler",
-      "url": "https://www.producthunt.com/products/emayler",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Ali Raffi",
-      "published": "2026-11-12T23:32:53+00:00",
-      "summary": "Custom email on your domain, minus the headache Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9f0b516152c1",
-      "title": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-11-12T22:55:19+00:00",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme:…",
-      "tags": [
-        "gemini",
-        "llm",
-        "google",
-        "pelican-riding-a-bicycle",
-        "llm-pricing",
-        "ai"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "5d0d45077804",
-      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
-      "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-11-12T22:43:26+00:00",
-      "summary": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter…",
-      "tags": [
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
       "region": "global"
     }
   ]
