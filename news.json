@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-11-20T23:35:46.694930+00:00",
-  "sources_ok": 21,
+  "generated_at": "2026-11-21T05:17:01.297642+00:00",
+  "sources_ok": 20,
   "sources_failed": [
+    {
+      "source": "Import AI — Jack Clark",
+      "error": "HTTP 403"
+    },
     {
       "source": "Ben's Bites — Ben Tossell",
       "error": "HTTP 404"
@@ -17,6 +21,107 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "e42ac64463d6",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Jagmeet Singh",
+      "published": "2026-11-21T04:00:00+00:00",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "tags": [
+        "Apps",
+        "Apple"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8c52a7b2bf3a",
+      "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
+      "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Shrishti Bisht",
+      "published": "2026-11-21T03:30:44+00:00",
+      "summary": "Indian startup funding rebounded sharply this week. Homegrown new-age tech ventures cumulatively raised $291.3 Mn between November 16 and November…",
+      "tags": [
+        "News",
+        "Funding Galore"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9b209820e80b",
+      "title": "EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr",
+      "url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Anjali Jain",
+      "published": "2026-11-21T03:00:53+00:00",
+      "summary": "Electric two-wheeler maker River Mobility’s operating revenue jumped 4.2X to ₹432.3 Cr in the financial year ended March 31, 2026…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "72428e599e09",
+      "title": "UPI was never free. But is its new merchant fee fair?",
+      "url": "https://yourstory.com/2026/11/upi-was-never-free-but-is-its-new-merchant-fee-fair",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-21T02:20:00+00:00",
+      "summary": "UPI's new MDR brings the cost of digital payments into focus. But questions remain over how the revenue will be distributed, whether smaller merchants and consumers will bear the burden, and if the framework adequately addresses competition and transparency in India's digital…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "6750e28ed723",
+      "title": "Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards",
+      "url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-11-21T01:04:48+00:00",
+      "summary": "Fintech platforms have emerged as an unlikely collateral damage as Yes Bank strengthens its defences against AI-driven cyberattacks. Sources told…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "768811664c08",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "_dain_",
+      "published": "2026-11-20T23:42:44+00:00",
+      "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 183 # Comments: 178",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "b6394ef89842",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "CharlesW",
+      "published": "2026-11-20T22:30:47+00:00",
+      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 181 # Comments: 43",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
     {
       "id": "f2ddd3462784",
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -170,14 +275,14 @@
       "region": "global"
     },
     {
-      "id": "c69438672bb7",
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "id": "a4a5f143094b",
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "ftchd",
       "published": "2026-11-20T20:22:41+00:00",
-      "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 176 # Comments: 72",
+      "summary": "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627 Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 266 # Comments: 143",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -190,7 +295,33 @@
       "source_id": "hacker_news",
       "author": "jasondavies",
       "published": "2026-11-20T20:12:19+00:00",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 505 # Comments: 82",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 835 # Comments: 144",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "77a3b767d0e7",
+      "title": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "notfried",
+      "published": "2026-11-20T20:07:55+00:00",
+      "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 120 # Comments: 61",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "525b41fea234",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "facundo_olano",
+      "published": "2026-11-20T20:03:59+00:00",
+      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 152 # Comments: 29",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -203,7 +334,7 @@
       "source_id": "hacker_news",
       "author": "stratos123",
       "published": "2026-11-20T20:03:07+00:00",
-      "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 169 # Comments: 136",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 251 # Comments: 226",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -274,6 +405,19 @@
         "AI",
         "Anthropic"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2ad14a149dae",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "sohzm",
+      "published": "2026-11-20T19:30:16+00:00",
+      "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 118 # Comments: 36",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -370,7 +514,7 @@
       "source_id": "hacker_news",
       "author": "jasondavies",
       "published": "2026-11-20T18:33:14+00:00",
-      "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1297 # Comments: 599",
+      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1778 # Comments: 798",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -383,7 +527,20 @@
       "source_id": "hacker_news",
       "author": "QueensGambit",
       "published": "2026-11-20T18:17:51+00:00",
-      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 237 # Comments: 151",
+      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 351 # Comments: 210",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "3e30621eb1a8",
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ankitvgupta",
+      "published": "2026-11-20T18:15:16+00:00",
+      "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 128 # Comments: 49",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -469,20 +626,20 @@
       "source_id": "hacker_news",
       "author": "archon1410",
       "published": "2026-11-20T17:21:36+00:00",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 286 # Comments: 104",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 387 # Comments: 154",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
     {
-      "id": "83f2b5d135af",
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "id": "97ba4ccf6d68",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
-      "author": "cdrnsf",
-      "published": "2026-11-20T16:59:27+00:00",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 239 # Comments: 174",
+      "author": "proberts",
+      "published": "2026-11-20T16:45:25+00:00",
+      "summary": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the…",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -533,7 +690,7 @@
       "source_id": "hacker_news",
       "author": "lwhsiao",
       "published": "2026-11-20T16:29:06+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 313 # Comments: 102",
+      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 368 # Comments: 115",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -618,7 +775,7 @@
       "source_id": "hacker_news",
       "author": "trotro",
       "published": "2026-11-20T15:34:31+00:00",
-      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 238 # Comments: 77",
+      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 269 # Comments: 86",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -684,7 +841,7 @@
       "source_id": "hacker_news",
       "author": "iamronaldo",
       "published": "2026-11-20T14:16:21+00:00",
-      "summary": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2249 # Comments: 1531",
+      "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568 Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 2471 # Comments: 1703",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -938,19 +1095,6 @@
       "region": "india"
     },
     {
-      "id": "000028228240",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "shioyama",
-      "published": "2026-11-20T10:01:41+00:00",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 603 # Comments: 316",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "3ea993db7e3c",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -964,27 +1108,14 @@
       "region": "global"
     },
     {
-      "id": "601ef0d322ce",
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sammatilda",
-      "published": "2026-11-20T09:43:19+00:00",
-      "summary": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 596 # Comments: 284",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c4ca83ba5741",
-      "title": "Signal Is Serious About Protecting Your Privacy",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "dotcoma",
       "published": "2026-11-20T09:42:16+00:00",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 468 # Comments: 289",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 533 # Comments: 313",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1466,6 +1597,19 @@
       "region": "global"
     },
     {
+      "id": "2aedf5734586",
+      "title": "DMARC Pulse",
+      "url": "https://www.producthunt.com/products/dmarc-pulse",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Flávio Alexandre",
+      "published": "2026-11-19T20:55:44+00:00",
+      "summary": "Find out who's sending email as your domain Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4ba1303d2ee2",
       "title": "PostgreSQL 19 Released",
       "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
@@ -1524,25 +1668,6 @@
       "region": "global"
     },
     {
-      "id": "2fc737ddb995",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Amanda Silberling",
-      "published": "2026-11-19T20:18:49+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "tags": [
-        "AI",
-        "China",
-        "Donald Trump",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "7716f12c064d",
       "title": "Google is putting AI chats right on the homepage",
       "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
@@ -1570,19 +1695,6 @@
       "author": "jort dockx",
       "published": "2026-11-19T19:15:42+00:00",
       "summary": "The Ctrl+Z button for autonomous AI agents Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9cc42a3ce14c",
-      "title": "Conversaflex",
-      "url": "https://www.producthunt.com/products/conversaflex",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Séraphin Hochart",
-      "published": "2026-11-19T18:59:59+00:00",
-      "summary": "AI speaking practice for multilingual teams Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1783,32 +1895,6 @@
       "region": "global"
     },
     {
-      "id": "e0b5f0de35e5",
-      "title": "How Dhruv Sayani built Ccigmaa Lifestyles into a five-brand personal care business",
-      "url": "https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-19T13:24:51+00:00",
-      "summary": "How Dhruv Sayani built Ccigmaa Lifestyle into a four-brand personal care business Hair and water composition can change significantly every 100 kilometres across India, affecting how haircare products perform. It was this observation, made while researching premature greying in…",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "334166090f57",
-      "title": "EPFO approves systematic withdrawal plan for retiring members",
-      "url": "https://yourstory.com/2026/11/epfo-approves-systematic-withdrawal-plan-retiring-members",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-19T13:13:53+00:00",
-      "summary": "Retiring members can now opt for receiving their retirement savings in periodic installments instead of a lump sum amount.",
-      "tags": [],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "35eee71e1e6f",
       "title": "NEPRA Raises ₹110 Cr To Expand Plastic Recycling Capacity",
       "url": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/",
@@ -1847,98 +1933,6 @@
       "summary": "Your AI companion for living with chronic illness Discussion | Link",
       "tags": [],
       "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "05b54248ba6a",
-      "title": "Tamekoshi",
-      "url": "https://www.producthunt.com/products/tamekoshi",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Daniel Kumanaya",
-      "published": "2026-11-19T11:38:06+00:00",
-      "summary": "A Tamagotchi-style AI companion that does real work Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "76a3d0a2887b",
-      "title": "InPrime Finserv Raises ₹101 Cr To Expand Lending, Enter Micro-Mortgages",
-      "url": "https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shrishti Bisht",
-      "published": "2026-11-19T11:17:24+00:00",
-      "summary": "Bengaluru-based NBFC InPrime Finserv has raised ₹101 Cr (about $10.7 Mn) in a Series B funding round led by Dutch…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "65a910153a56",
-      "title": "An Interview With Eric Seufert About Agentic Commerce",
-      "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
-      "source": "Stratechery — Ben Thompson",
-      "source_id": "stratechery",
-      "author": "Ben Thompson",
-      "published": "2026-11-19T11:00:00+00:00",
-      "summary": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
-      "tags": [
-        "Daily Update",
-        "Interviews"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "aca7ac7da51e",
-      "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-      "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Asif Razzaq",
-      "published": "2026-11-19T10:45:57+00:00",
-      "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security…",
-      "tags": [
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "922dc6aab4a0",
-      "title": "Inkrail",
-      "url": "https://www.producthunt.com/products/inkrail",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Aaryan Verma",
-      "published": "2026-11-19T08:46:08+00:00",
-      "summary": "A cozy, nostalgic typewriter experience built for deep work. Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "6687f7be62c3",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "author": null,
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "tags": [
-        "Engineering"
-      ],
-      "tier": "labs",
       "region": "global"
     }
   ]
