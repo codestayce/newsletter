@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:42:03.424125+00:00",
+  "generated_at": "2026-11-22T04:43:15.011313+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -21,6 +21,88 @@
   ],
   "item_count": 120,
   "items": [
+    {
+      "id": "970e3e112854",
+      "title": "Content, AI, empowerment: test your business creativity with Edition 259 of our weekly quiz!",
+      "url": "https://yourstory.com/2026/11/content-ai-empowerment-business-creativity-entrepreneur-quiz",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-22T03:04:28+00:00",
+      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 259th quiz. Ready?",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "9ec6095a4a70",
+      "title": "How Illumine cracked the US SaaS market from India: AI, GTM, Growth playbook",
+      "url": "https://yourstory.com/2026/11/how-illumine-cracked-the-us-saas-market-india-ai-gtm-growth-playbook",
+      "source": "YourStory",
+      "source_id": "yourstory",
+      "author": null,
+      "published": "2026-11-22T02:20:00+00:00",
+      "summary": "In this episode of the Prime Venture Partners Podcast, Illumine co-founders Navneet Rastogi and Sourabh Agarwal share how they went from losing nearly 200 customers during COVID to building a global childcare SaaS business, competing with established US players and scaling sales…",
+      "tags": [],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "3fb4d028a772",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-22T01:51:43+00:00",
+      "summary": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and…",
+      "tags": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "21bd1d482ae2",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-21T23:56:28+00:00",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps…",
+      "tags": [
+        "graham-dumpleton",
+        "modwsgi",
+        "python",
+        "wsgi",
+        "ai",
+        "rust"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "3af165114c50",
+      "title": "Indian Startup IPO Tracker 2026",
+      "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-11-21T23:31:54+00:00",
+      "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
+      "tags": [
+        "In-Depth",
+        "Listicle"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
     {
       "id": "e968a93c431f",
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -95,6 +177,19 @@
       "region": "india"
     },
     {
+      "id": "a34f45a76f7c",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "raphlinus",
+      "published": "2026-11-21T21:17:53+00:00",
+      "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 114 # Comments: 26",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "a1abc1ba2744",
       "title": "A tale of two Nvidias",
       "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
@@ -156,7 +251,20 @@
       "source_id": "hacker_news",
       "author": "k__",
       "published": "2026-11-21T18:02:19+00:00",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 286 # Comments: 61",
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 396 # Comments: 99",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1c83a91ee04f",
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "valyala",
+      "published": "2026-11-21T17:08:04+00:00",
+      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 130 # Comments: 23",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -233,6 +341,19 @@
       "region": "global"
     },
     {
+      "id": "7a89070fb88a",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Bluestein",
+      "published": "2026-11-21T15:54:34+00:00",
+      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 106 # Comments: 38",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "fd986dd95e42",
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -240,7 +361,7 @@
       "source_id": "hacker_news",
       "author": "reverseblade2",
       "published": "2026-11-21T15:39:09+00:00",
-      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 110 # Comments: 84",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 142 # Comments: 102",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -292,7 +413,7 @@
       "source_id": "hacker_news",
       "author": "g-b-r",
       "published": "2026-11-21T14:36:45+00:00",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 699 # Comments: 554",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 905 # Comments: 766",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -356,7 +477,7 @@
       "source_id": "hacker_news",
       "author": "beginning_end",
       "published": "2026-11-21T13:23:14+00:00",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 461 # Comments: 305",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 568 # Comments: 370",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -456,7 +577,7 @@
       "source_id": "hacker_news",
       "author": "soheilpro",
       "published": "2026-11-21T10:36:32+00:00",
-      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 416 # Comments: 213",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 532 # Comments: 256",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -575,7 +696,7 @@
       "source_id": "hacker_news",
       "author": "gdgghhhhh",
       "published": "2026-11-21T08:32:58+00:00",
-      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 210 # Comments: 86",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 246 # Comments: 98",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -755,6 +876,19 @@
       "region": "global"
     },
     {
+      "id": "0165c931824a",
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jger15",
+      "published": "2026-11-20T22:11:05+00:00",
+      "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 197 # Comments: 65",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4d6c192ff862",
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
@@ -816,7 +950,7 @@
       "source_id": "hacker_news",
       "author": "rafaelc",
       "published": "2026-11-20T21:03:12+00:00",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 324 # Comments: 102",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 785 # Comments: 181",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -876,19 +1010,6 @@
         "artemis iv",
         "blue moon"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a0ebc9ee452b",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jasondavies",
-      "published": "2026-11-20T20:12:19+00:00",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1342 # Comments: 276",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1056,32 +1177,6 @@
       "region": "global"
     },
     {
-      "id": "04e4de985797",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jasondavies",
-      "published": "2026-11-20T18:33:14+00:00",
-      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2371 # Comments: 1150",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "e1a223b73868",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "QueensGambit",
-      "published": "2026-11-20T18:17:51+00:00",
-      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 570 # Comments: 306",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "583b7a1c7413",
       "title": "The most misunderstood graph in AI just got a major update",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -1132,32 +1227,6 @@
         "Elon Musk",
         "SpaceX"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "dc0a65e6fd6d",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "archon1410",
-      "published": "2026-11-20T17:21:36+00:00",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 531 # Comments: 236",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2f644affb903",
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "url": "https://klauria.tech/klauria-art/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "evakhoury",
-      "published": "2026-11-20T17:03:39+00:00",
-      "summary": "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 130 # Comments: 31",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1261,7 +1330,7 @@
       "source_id": "hacker_news",
       "author": "lapcat",
       "published": "2026-11-20T15:03:31+00:00",
-      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 430 # Comments: 244",
+      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 518 # Comments: 284",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1444,21 +1513,6 @@
       "region": "global"
     },
     {
-      "id": "f17d17c71dbd",
-      "title": "Supreme Court Upholds Karnataka HC Order Allowing Bike Taxis",
-      "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Zakariya Khan",
-      "published": "2026-11-20T13:04:13+00:00",
-      "summary": "In a major relief for ride-hailing platforms such as Rapido and Uber, the Supreme Court (SC) has dismissed the Karnataka…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "ff3559dcabff",
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
@@ -1586,17 +1640,17 @@
       "region": "india"
     },
     {
-      "id": "4f2f1bfd0b57",
-      "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
-      "url": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india",
-      "source": "YourStory",
-      "source_id": "yourstory",
-      "author": null,
-      "published": "2026-11-20T07:30:43+00:00",
-      "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack.",
+      "id": "fc2ead4af16e",
+      "title": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Alexander Primak",
+      "published": "2026-11-20T04:56:45+00:00",
+      "summary": "Free AI + human code review for open source & nonprofits Discussion | Link",
       "tags": [],
-      "tier": "india",
-      "region": "india"
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "df9181c0a615",
@@ -1607,6 +1661,19 @@
       "author": "Yuva Raja",
       "published": "2026-11-20T04:55:57+00:00",
       "summary": "A million virtual meters. A small pledge against hunger. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "78404a7da515",
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "阿怪",
+      "published": "2026-11-20T04:13:55+00:00",
+      "summary": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1816,6 +1883,19 @@
       "region": "global"
     },
     {
+      "id": "624293279e9c",
+      "title": "Veryfi Thinking Mode",
+      "url": "https://www.producthunt.com/products/veryfi",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Marianna Babayan",
+      "published": "2026-11-19T21:30:01+00:00",
+      "summary": "AI agents review and correct receipt and invoice data. Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "4ba1303d2ee2",
       "title": "PostgreSQL 19 Released",
       "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
@@ -1900,80 +1980,6 @@
         "AI"
       ],
       "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "d9b4345f8c6e",
-      "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-      "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-      "source": "MarkTechPost",
-      "source_id": "marktechpost",
-      "author": "Michal Sutter",
-      "published": "2026-11-19T17:47:00+00:00",
-      "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches…",
-      "tags": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "04da227b0cee",
-      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
-      "source": "The Pragmatic Engineer — Gergely Orosz",
-      "source_id": "pragmatic_engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-11-19T17:08:59+00:00",
-      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
-      "tags": [],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "2adef6bfeca0",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "source_id": "google_ai",
-      "author": null,
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "tags": [
-        "AI"
-      ],
-      "tier": "labs",
-      "region": "global"
-    },
-    {
-      "id": "f0f7276db4e7",
-      "title": "Stormi",
-      "url": "https://www.producthunt.com/products/stormi",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "ibrokhim abdivokhidov",
-      "published": "2026-11-19T12:24:03+00:00",
-      "summary": "An AI team on your iPhone that does real work Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "05b54248ba6a",
-      "title": "Tamekoshi",
-      "url": "https://www.producthunt.com/products/tamekoshi",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Daniel Kumanaya",
-      "published": "2026-11-19T11:38:06+00:00",
-      "summary": "A Tamagotchi-style AI companion that does real work Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     }
   ]
