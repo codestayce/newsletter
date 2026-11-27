@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-11-26T16:14:19.221981+00:00",
-  "sources_ok": 21,
+  "generated_at": "2026-11-27T01:24:54.203867+00:00",
+  "sources_ok": 20,
   "sources_failed": [
+    {
+      "source": "Import AI — Jack Clark",
+      "error": "HTTP 403"
+    },
     {
       "source": "Ben's Bites — Ben Tossell",
       "error": "HTTP 404"
@@ -18,8 +22,253 @@
   "item_count": 120,
   "items": [
     {
+      "id": "95208cab7261",
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Michal Sutter",
+      "published": "2026-11-26T22:06:40+00:00",
+      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on…",
+      "tags": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "19dd4641586d",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "jlelse",
+      "published": "2026-11-26T21:47:45+00:00",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 271 # Comments: 147",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "05302db4a78b",
+      "title": "Apple To Open Seventh India Store In Hyderabad’s Kukatpally",
+      "url": "https://inc42.com/buzz/apple-to-open-seventh-india-store-in-hyderabads-kukatpally/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Team Inc42",
+      "published": "2026-11-26T21:33:06+00:00",
+      "summary": "Apple continues to expand its retail footprint in India. The iPhone maker is all set to launch its seventh official…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "1f02c916626f",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dverlaeckt80",
+      "published": "2026-11-26T21:08:05+00:00",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 221 # Comments: 44",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f5d33aa576f3",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Webster",
+      "published": "2026-11-26T21:00:00+00:00",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It…",
+      "tags": [
+        "Entertainment",
+        "Netflix",
+        "Streaming",
+        "TV Show Reviews",
+        "TV Shows"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c881f1e71110",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Connie Loizos",
+      "published": "2026-11-26T20:03:54+00:00",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "tags": [
+        "AI"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "c772b97adf28",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Lucas Ropek",
+      "published": "2026-11-26T20:00:00+00:00",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "tags": [
+        "Hardware",
+        "Jensen Huang",
+        "Megaspeed",
+        "nvidia"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "2052fac71c2c",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "source": "Ars Technica",
+      "source_id": "ars_technica",
+      "author": "Jonathan M. Gitlin",
+      "published": "2026-11-26T18:00:29+00:00",
+      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "tags": [
+        "Cars",
+        "24 hours of le mans",
+        "Ford GT41"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "669406732a3f",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Bender",
+      "published": "2026-11-26T17:47:45+00:00",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 204 # Comments: 91",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "9ca28a7fecf2",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "iantongeorge",
+      "published": "2026-11-26T17:36:47+00:00",
+      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 255 # Comments: 323",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "1d45997e4997",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "julianlam",
+      "published": "2026-11-26T17:11:29+00:00",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 279 # Comments: 66",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "8ccf0b055634",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Brad Bourque",
+      "published": "2026-11-26T17:07:00+00:00",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with…",
+      "tags": [
+        "Apple",
+        "Black Friday",
+        "Cyber Monday",
+        "Deals",
+        "Gadgets",
+        "Tech"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "98bc69ca3f11",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "source_id": "techcrunch",
+      "author": "Sarah Perez",
+      "published": "2026-11-26T17:00:00+00:00",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "Apple",
+        "foldable smartphone",
+        "iPhone Duo"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "911459e7bdce",
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Verge Staff",
+      "published": "2026-11-26T16:55:00+00:00",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a…",
+      "tags": [
+        "Black Friday",
+        "Cyber Monday",
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "f15b7915f96a",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Andrew Liszewski",
+      "published": "2026-11-26T16:38:00+00:00",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its…",
+      "tags": [
+        "Entertainment",
+        "News",
+        "Policy",
+        "Streaming"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ec74e9ba2187",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch",
       "source_id": "techcrunch",
@@ -29,8 +278,8 @@
       "tags": [
         "AI",
         "Gaming",
-        "grand theft auto",
-        "Anthropic"
+        "Anthropic",
+        "grand theft auto"
       ],
       "tier": "startup_news",
       "region": "global"
@@ -85,6 +334,19 @@
       "region": "india"
     },
     {
+      "id": "4f1a543539f1",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "michidk",
+      "published": "2026-11-26T15:00:06+00:00",
+      "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 112 # Comments: 26",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "42e3f885d5c0",
       "title": "Why GTA VI’s version of Florida feels so real",
       "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
@@ -110,7 +372,7 @@
       "source_id": "hacker_news",
       "author": "ericmay",
       "published": "2026-11-26T14:26:54+00:00",
-      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 226 # Comments: 67",
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 591 # Comments: 135",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -164,19 +426,6 @@
       ],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "18cfa8107ce6",
-      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "magoghm",
-      "published": "2026-11-26T13:48:11+00:00",
-      "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 103 # Comments: 31",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "20a39262fd06",
@@ -354,32 +603,14 @@
       "region": "global"
     },
     {
-      "id": "295eeb3ef74e",
-      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew J. Hawkins",
-      "published": "2026-11-26T12:00:00+00:00",
-      "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a…",
-      "tags": [
-        "Autonomous Cars",
-        "Report",
-        "Transportation",
-        "Waymo"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "de9c79db32a5",
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "title": "Nextcloud Office Desktop app",
       "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "e12e",
       "published": "2026-11-26T11:50:49+00:00",
-      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 266 # Comments: 110",
+      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 396 # Comments: 203",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -411,32 +642,14 @@
       "region": "global"
     },
     {
-      "id": "e798971c8aa3",
-      "title": "X is finally getting its first parental controls",
-      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Tom Warren",
-      "published": "2026-11-26T10:45:50+00:00",
-      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits,…",
-      "tags": [
-        "News",
-        "Social Media",
-        "Tech",
-        "Twitter - X"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "91ef480232c5",
-      "title": "Intel One Mono font",
+      "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "saikatsg",
       "published": "2026-11-26T10:11:01+00:00",
-      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 291 # Comments: 177",
+      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 458 # Comments: 237",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -445,8 +658,8 @@
       "id": "d73563559186",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Terrence O’Brien",
       "published": "2026-11-26T09:54:40+00:00",
       "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private…",
@@ -456,6 +669,19 @@
         "News",
         "Policy"
       ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "6f6a6b07f17a",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "ritzaco",
+      "published": "2026-11-26T09:44:23+00:00",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 228 # Comments: 202",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -531,6 +757,19 @@
       "region": "global"
     },
     {
+      "id": "82a13b62ffcb",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "seizethecheese",
+      "published": "2026-11-26T07:33:12+00:00",
+      "summary": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/ Comments URL: https://news.ycombinator.com/item?id=50652527 Points: 266 # Comments: 253",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "62f468a8f0ad",
       "title": "Exclusive: Electronics Manufacturing Startup Elecbits To Raise Up To $15 Mn From Xponentia Capital",
       "url": "https://inc42.com/buzz/exclusive-electronics-manufacturing-startup-elecbits-to-raise-up-to-15-mn-from-xponentia-capital/",
@@ -589,13 +828,13 @@
     },
     {
       "id": "64a870b6a927",
-      "title": "Moat: Your OpenRouter Replacement",
+      "title": "Moat: OpenRouter replacement",
       "url": "https://commandcode.ai/moat",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "amanverasia",
       "published": "2026-11-26T06:32:48+00:00",
-      "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 154 # Comments: 99",
+      "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 246 # Comments: 141",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -663,7 +902,7 @@
       "source_id": "hacker_news",
       "author": "hecmmm",
       "published": "2026-11-26T05:37:51+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 120 # Comments: 32",
+      "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 207 # Comments: 71",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -695,19 +934,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "7c801712a80e",
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "joonehur",
-      "published": "2026-11-26T05:12:59+00:00",
-      "summary": "Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50651719 Points: 188 # Comments: 39",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "3809f14649e1",
@@ -754,19 +980,6 @@
       "region": "global"
     },
     {
-      "id": "971f7afa718c",
-      "title": "Unconditional Integer Factorization in Subexponential Time",
-      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "_alternator_",
-      "published": "2026-11-26T04:59:56+00:00",
-      "summary": "Article URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization Comments URL: https://news.ycombinator.com/item?id=50651627 Points: 107 # Comments: 14",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "97ea1a9f8ab5",
       "title": "Pax by Pydantic",
       "url": "https://www.producthunt.com/products/pydantic",
@@ -795,19 +1008,6 @@
       "region": "india"
     },
     {
-      "id": "244a3e8cb4f1",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "Herrera",
-      "published": "2026-11-26T03:36:58+00:00",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 405 # Comments: 224",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d9362acc90f1",
       "title": "AgentDE",
       "url": "https://www.producthunt.com/products/agentde",
@@ -816,19 +1016,6 @@
       "author": "Andrey Kurenkov",
       "published": "2026-11-26T03:15:08+00:00",
       "summary": "Put all your coding agents in one native Mac window Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "23df49456422",
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "url": "https://progrium.github.io/minipg/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "rguiscard",
-      "published": "2026-11-26T03:00:48+00:00",
-      "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 219 # Comments: 33",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -863,65 +1050,6 @@
       "region": "india"
     },
     {
-      "id": "6571f4f6b23a",
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dang",
-      "published": "2026-11-26T00:43:34+00:00",
-      "summary": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on…",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "136b27316001",
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "sohkamyung",
-      "published": "2026-11-26T00:40:00+00:00",
-      "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 325 # Comments: 60",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "831b1da23e06",
-      "title": "Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure",
-      "url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Anne Florentyna",
-      "published": "2026-11-26T00:30:23+00:00",
-      "summary": "Mumbai-based fintech startup Vegapay has raised $10 Mn (₹92.3 Cr) in a Series A funding round co-led by Vertex Ventures…",
-      "tags": [
-        "News"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "a03bb9586846",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Stevie Bonifield",
-      "published": "2026-11-26T00:04:34+00:00",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight…",
-      "tags": [
-        "Google",
-        "News",
-        "Smart Home",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "042b5f16218f",
       "title": "Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝",
       "url": "https://tldr.tech/ai/2026-11-26",
@@ -950,25 +1078,6 @@
       "region": "global"
     },
     {
-      "id": "3033f4be9f04",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Emma Roth",
-      "published": "2026-11-25T23:56:44+00:00",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor…",
-      "tags": [
-        "Amazon",
-        "News",
-        "Online Shopping",
-        "Policy",
-        "Tech"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "04a9805dfa55",
       "title": "Quoting Scott Aaronson",
       "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
@@ -987,20 +1096,17 @@
       "region": "global"
     },
     {
-      "id": "82b551504ca0",
-      "title": "IT Secy Defends Sarvam’s Token Factory Over Chinese LLM Debate",
-      "url": "https://inc42.com/buzz/it-secy-defends-sarvams-token-factory-over-chinese-llm-debate/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Team Inc42",
-      "published": "2026-11-25T22:49:02+00:00",
-      "summary": "Reacting to the ongoing controversy around Sarvam AI hosting Chinese AI models on its new inference service Token Factory, MeitY…",
-      "tags": [
-        "News",
-        "AI Economy"
-      ],
-      "tier": "india",
-      "region": "india"
+      "id": "8b8409ba931e",
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "MassPikeMike",
+      "published": "2026-11-25T23:15:52+00:00",
+      "summary": "Article URL: https://reclaimthenet.org/usaid-files Comments URL: https://news.ycombinator.com/item?id=50649040 Points: 119 # Comments: 123",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
     },
     {
       "id": "f27e0de9d097",
@@ -1017,32 +1123,6 @@
         "In Brief",
         "nvidia"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "a1356d98cece",
-      "title": "Bare Metal Qwen",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "miohtama",
-      "published": "2026-11-25T22:15:34+00:00",
-      "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 211 # Comments: 47",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "059e2e5ff050",
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "qzervaas",
-      "published": "2026-11-25T22:12:25+00:00",
-      "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/ Comments URL: https://news.ycombinator.com/item?id=50648323 Points: 137 # Comments: 18",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1077,19 +1157,6 @@
         "Tech"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "f63f4cad1468",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "nb-t",
-      "published": "2026-11-25T21:48:10+00:00",
-      "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 507 # Comments: 318",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1154,32 +1221,6 @@
         "FCC",
         "SpaceX"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "8816d170be85",
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "gslin",
-      "published": "2026-11-25T20:38:00+00:00",
-      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 365 # Comments: 214",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "0e01e5db69b9",
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dm",
-      "published": "2026-11-25T20:35:50+00:00",
-      "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 189 # Comments: 79",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1258,7 +1299,7 @@
       "source_id": "hacker_news",
       "author": "Kotlopou",
       "published": "2026-11-25T19:11:27+00:00",
-      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1810 # Comments: 1652",
+      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1981 # Comments: 1810",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1424,7 +1465,7 @@
       "source_id": "hacker_news",
       "author": "lxhrstn",
       "published": "2026-11-25T17:18:26+00:00",
-      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1574 # Comments: 676",
+      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1632 # Comments: 704",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -1567,22 +1608,6 @@
       "region": "global"
     },
     {
-      "id": "d47bb03c725f",
-      "title": "Kalyan Krishnamurthy’s Exit: How Walmart’s Kickback Probe, IPO Delay Shook Up Flipkart",
-      "url": "https://inc42.com/features/kalyan-krishnamurthy-exit-how-walmarts-kickback-probe-ipo-delay-shook-up-flipkart/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Bismah Malik",
-      "published": "2026-11-25T14:48:34+00:00",
-      "summary": "Walmart has asked Flipkart Group CEO Kalyan Krishnamurthy to step down, three sources aware of the development told Inc42 as…",
-      "tags": [
-        "In-Depth",
-        "Follow Up"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
       "id": "293dab117aa6",
       "title": "India, Australia deepen education ties with focus on skills and edtech",
       "url": "https://yourstory.com/2026/11/india-australia-deepen-education-ties-focus-on-skills-and-edtech",
@@ -1693,42 +1718,6 @@
       "region": "india"
     },
     {
-      "id": "1a84b825d634",
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Jagmeet Singh",
-      "published": "2026-11-25T13:08:19+00:00",
-      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-      "tags": [
-        "Commerce",
-        "Flipkart",
-        "Kalyan Krishnamurthy",
-        "Walmart"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9edbb62c9bcf",
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "source": "TechCrunch",
-      "source_id": "techcrunch",
-      "author": "Tim Fernholz",
-      "published": "2026-11-25T13:00:00+00:00",
-      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "Megaspeed",
-        "nvidia"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "a9ba02207a16",
       "title": "Has vibe coding made open source the new normal for synths?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
@@ -1827,6 +1816,32 @@
       "author": "yanhua wang",
       "published": "2026-11-25T08:25:07+00:00",
       "summary": "Make music from a prompt or a hum, right in your browser Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "60051584ee85",
+      "title": "Kagi Mail",
+      "url": "https://www.producthunt.com/products/kagi",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Justin Jincaid",
+      "published": "2026-11-25T07:24:38+00:00",
+      "summary": "Private email that puts people who need you first Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "13c40f38d226",
+      "title": "OpenEight",
+      "url": "https://www.producthunt.com/products/openeight",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Vasu Dokala",
+      "published": "2026-11-25T06:58:59+00:00",
+      "summary": "The deterministic control layer for AI agents Discussion | Link",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
