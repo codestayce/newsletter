@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:59:29.993986+00:00",
+  "generated_at": "2026-11-28T00:58:08.009683+00:00",
   "sources_ok": 20,
   "sources_failed": [
     {
@@ -19,17 +19,55 @@
       "error": "HTTP 404"
     }
   ],
-  "item_count": 120,
+  "item_count": 118,
   "items": [
     {
-      "id": "1b0bebf7f031",
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "id": "67a70eeda624",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
       "source": "The Verge",
       "source_id": "the_verge",
       "author": "Cameron Faulkner",
-      "published": "2026-11-27T15:15:28+00:00",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major…",
+      "published": "2026-11-28T00:30:00+00:00",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down…",
+      "tags": [
+        "Black Friday",
+        "Cyber Monday",
+        "Deals",
+        "Gadgets",
+        "Headphones",
+        "Verge Shopping"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "68cfb35a007a",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-27T23:57:17+00:00",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up…",
+      "tags": [
+        "datasette-charts",
+        "datasette",
+        "visualization",
+        "datasette-lite"
+      ],
+      "tier": "authors",
+      "region": "global"
+    },
+    {
+      "id": "f965d46eeeec",
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Sheena Vasani",
+      "published": "2026-11-27T23:53:19+00:00",
+      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when…",
       "tags": [
         "Black Friday",
         "Cyber Monday",
@@ -41,22 +79,166 @@
       "region": "global"
     },
     {
-      "id": "0580bce6f16a",
-      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "id": "c380ec0b0509",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
       "source": "The Verge",
       "source_id": "the_verge",
-      "author": "Antonio G. Di Benedetto",
-      "published": "2026-11-27T14:30:00+00:00",
-      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But…",
+      "author": "Sheena Vasani",
+      "published": "2026-11-27T23:32:17+00:00",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]",
       "tags": [
-        "Apple",
-        "Asus",
         "Black Friday",
         "Cyber Monday",
         "Deals",
-        "Dell"
+        "Gadgets",
+        "Verge Shopping"
       ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "516d4966a5b9",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Terrence O’Brien",
+      "published": "2026-11-27T23:30:32+00:00",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the…",
+      "tags": [
+        "Gaming",
+        "Microsoft",
+        "News",
+        "Tech",
+        "Xbox"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "0e83fd66cdf0",
+      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+      "source": "The Verge",
+      "source_id": "the_verge",
+      "author": "Cameron Faulkner",
+      "published": "2026-11-27T23:30:00+00:00",
+      "summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on…",
+      "tags": [
+        "Black Friday",
+        "Cyber Monday",
+        "Deals",
+        "Entertainment",
+        "Film",
+        "Gadgets"
+      ],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "fc6e6f61d470",
+      "title": "RBI Clubs 25 Card Payment Circulars Into A Single Framework",
+      "url": "https://inc42.com/buzz/rbi-clubs-25-card-payment-circulars-into-a-single-framework/",
+      "source": "Inc42",
+      "source_id": "inc42",
+      "author": "Gaurav Bagur",
+      "published": "2026-11-27T20:31:12+00:00",
+      "summary": "The Reserve Bank of India (RBI) has clubbed 25 existing circulars, governing debit, credit and prepaid card transactions, under a…",
+      "tags": [
+        "News"
+      ],
+      "tier": "india",
+      "region": "india"
+    },
+    {
+      "id": "fa8514337169",
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "Lio",
+      "published": "2026-11-27T20:25:15+00:00",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 139 # Comments: 65",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "aa5274859672",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "DeepLogin",
+      "published": "2026-11-27T19:42:25+00:00",
+      "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL:…",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "141216104711",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "brandonb",
+      "published": "2026-11-27T19:31:01+00:00",
+      "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 367 # Comments: 243",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e3fd524c3c50",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "MickyTheMouse",
+      "published": "2026-11-27T18:02:45+00:00",
+      "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 221 # Comments: 70",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "19cdc68774c9",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "scanr",
+      "published": "2026-11-27T15:40:31+00:00",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 412 # Comments: 211",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "e20b8c05499c",
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "_tk_",
+      "published": "2026-11-27T15:26:09+00:00",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 175 # Comments: 75",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "64f11cc42feb",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "mday404",
+      "published": "2026-11-27T15:01:50+00:00",
+      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds…",
+      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -64,8 +246,8 @@
       "id": "cc2646aaf051",
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-      "source": "The Verge",
-      "source_id": "the_verge",
+      "source": "The Verge — AI",
+      "source_id": "verge_ai",
       "author": "Allison Johnson",
       "published": "2026-11-27T14:00:00+00:00",
       "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
@@ -76,27 +258,7 @@
         "Google Pixel",
         "Tech"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "2870c7965a09",
-      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
-      "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Antonio G. Di Benedetto",
-      "published": "2026-11-27T14:00:00+00:00",
-      "summary": "When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike.\" Logitech's innovation with the Superstrike is using magnetic Hall effect switches for a user-adjustable mouse click depth,…",
-      "tags": [
-        "Accessory Reviews",
-        "Gaming",
-        "Hands-on",
-        "PC Gaming",
-        "Reviews",
-        "Tech"
-      ],
-      "tier": "startup_news",
+      "tier": "ai_news",
       "region": "global"
     },
     {
@@ -129,37 +291,6 @@
       "region": "india"
     },
     {
-      "id": "505bee124626",
-      "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
-      "url": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
-      "source": "The Verge",
-      "source_id": "the_verge",
-      "author": "Andrew Webster",
-      "published": "2026-11-27T13:00:00+00:00",
-      "summary": "In most Grand Theft Auto games, and most open-world games for that matter, the world is left open for you to explore once the credits roll. It could be Los Santos or a twisted take on Manhattan, but the idea is that the main story is just one part of the experience. After that's…",
-      "tags": [
-        "Analysis",
-        "Entertainment",
-        "Gaming",
-        "Report"
-      ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "3b8b3d993078",
-      "title": "US Air Force's cloud computing platform hacked",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "freakynit",
-      "published": "2026-11-27T12:54:11+00:00",
-      "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 126 # Comments: 67",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "280b9dc480de",
       "title": "What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths",
       "url": "https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths",
@@ -171,32 +302,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "31b137af76ab",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "yuvadam",
-      "published": "2026-11-27T12:08:51+00:00",
-      "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 149 # Comments: 67",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "4c2310f3b8e4",
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "theanonymousone",
-      "published": "2026-11-27T12:03:11+00:00",
-      "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 105 # Comments: 63",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "ebd19ed7bb0c",
@@ -370,7 +475,7 @@
       "source_id": "hacker_news",
       "author": "baobabKoodaa",
       "published": "2026-11-27T08:28:08+00:00",
-      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 195 # Comments: 111",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 587 # Comments: 283",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -392,19 +497,6 @@
       "region": "india"
     },
     {
-      "id": "74835a583675",
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "utiiiD",
-      "published": "2026-11-27T06:44:34+00:00",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 506 # Comments: 221",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "c0325dde2ca0",
       "title": "Meet the women creators who are making finance, science and farming easier for millions to follow",
       "url": "https://yourstory.com/2026/11/women-creators-making-finance-science-farming-easier",
@@ -416,19 +508,6 @@
       "tags": [],
       "tier": "india",
       "region": "india"
-    },
-    {
-      "id": "ae809884ee0d",
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "url": "https://www.buynothingday.co.uk/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "f_allwein",
-      "published": "2026-11-27T05:52:42+00:00",
-      "summary": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 246 # Comments: 77",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
     },
     {
       "id": "fd42cd455288",
@@ -525,6 +604,19 @@
       "region": "global"
     },
     {
+      "id": "b1b94dbaa25c",
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "o4c",
+      "published": "2026-11-27T03:10:19+00:00",
+      "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 128 # Comments: 45",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "ead2198569bb",
       "title": "D2C’s Red Alert, The Hidden Cost Of Compute & More",
       "url": "https://inc42.com/buzz/d2cs-red-alert-the-hidden-cost-of-compute-more/",
@@ -567,16 +659,19 @@
       "region": "india"
     },
     {
-      "id": "f809947e587d",
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "zdw",
-      "published": "2026-11-27T01:13:49+00:00",
-      "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 476 # Comments: 414",
-      "tags": [],
-      "tier": "startup_news",
+      "id": "a628d534a141",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "source": "Simon Willison's Weblog",
+      "source_id": "simon_willison",
+      "author": null,
+      "published": "2026-11-27T00:26:17+00:00",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "tags": [
+        "model-context-protocol",
+        "datasette"
+      ],
+      "tier": "authors",
       "region": "global"
     },
     {
@@ -628,19 +723,6 @@
       "region": "global"
     },
     {
-      "id": "19dd4641586d",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "jlelse",
-      "published": "2026-11-26T21:47:45+00:00",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 920 # Comments: 445",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "05302db4a78b",
       "title": "Apple To Open Seventh India Store In Hyderabad’s Kukatpally",
       "url": "https://inc42.com/buzz/apple-to-open-seventh-india-store-in-hyderabads-kukatpally/",
@@ -656,19 +738,6 @@
       "region": "india"
     },
     {
-      "id": "1f02c916626f",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "dverlaeckt80",
-      "published": "2026-11-26T21:08:05+00:00",
-      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 460 # Comments: 116",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "b27f4467ce93",
       "title": "Ploid",
       "url": "https://www.producthunt.com/products/ploid",
@@ -677,19 +746,6 @@
       "author": "Nico Lumma",
       "published": "2026-11-26T21:06:26+00:00",
       "summary": "People search for AI agents, across 2B+ profiles Discussion | Link",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "14a3cf224a96",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "liamg",
-      "published": "2026-11-26T20:49:49+00:00",
-      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 478 # Comments: 247",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -741,32 +797,6 @@
       "region": "global"
     },
     {
-      "id": "4aa3f3f05b82",
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "zerosegfaults",
-      "published": "2026-11-26T19:18:09+00:00",
-      "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 153 # Comments: 35",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "82bab66344c7",
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "chrhenning",
-      "published": "2026-11-26T19:04:50+00:00",
-      "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 121 # Comments: 11",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "2052fac71c2c",
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
       "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
@@ -784,40 +814,14 @@
       "region": "global"
     },
     {
-      "id": "669406732a3f",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "id": "fd249d673f59",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News (100+ points)",
       "source_id": "hacker_news",
       "author": "Bender",
-      "published": "2026-11-26T17:47:45+00:00",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 315 # Comments: 157",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "9ca28a7fecf2",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "iantongeorge",
-      "published": "2026-11-26T17:36:47+00:00",
-      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 478 # Comments: 559",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1d45997e4997",
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "julianlam",
-      "published": "2026-11-26T17:11:29+00:00",
-      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 411 # Comments: 100",
+      "published": "2026-11-26T17:24:37+00:00",
+      "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 184 # Comments: 55",
       "tags": [],
       "tier": "startup_news",
       "region": "global"
@@ -902,22 +906,6 @@
       "summary": "Samsung’s entry-level Galaxy A07 5G now costs ₹22,999, up ₹2,000 from ₹20,999, under revised prices that took effect on November…",
       "tags": [
         "In-Depth",
-        "Follow Up"
-      ],
-      "tier": "india",
-      "region": "india"
-    },
-    {
-      "id": "d20ffddf55f2",
-      "title": "IndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models",
-      "url": "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models/",
-      "source": "Inc42",
-      "source_id": "inc42",
-      "author": "Shraddha Goled",
-      "published": "2026-11-26T14:00:42+00:00",
-      "summary": "Chariot AI, a startup developing sovereign foundation model under IndiaAI Mission, has unveiled its Chariot-1 model suite. Launched at a…",
-      "tags": [
-        "News",
         "Follow Up"
       ],
       "tier": "india",
@@ -1050,19 +1038,6 @@
       "region": "global"
     },
     {
-      "id": "91ef480232c5",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "saikatsg",
-      "published": "2026-11-26T10:11:01+00:00",
-      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 557 # Comments: 265",
-      "tags": [],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
       "id": "d73563559186",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
@@ -1078,19 +1053,6 @@
         "Policy"
       ],
       "tier": "ai_news",
-      "region": "global"
-    },
-    {
-      "id": "6f6a6b07f17a",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "ritzaco",
-      "published": "2026-11-26T09:44:23+00:00",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 383 # Comments: 319",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1146,19 +1108,6 @@
         "sqlite"
       ],
       "tier": "authors",
-      "region": "global"
-    },
-    {
-      "id": "6cd17244579f",
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "source": "Hacker News (100+ points)",
-      "source_id": "hacker_news",
-      "author": "hecmmm",
-      "published": "2026-11-26T05:37:51+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 259 # Comments: 105",
-      "tags": [],
-      "tier": "startup_news",
       "region": "global"
     },
     {
@@ -1499,23 +1448,6 @@
       "region": "global"
     },
     {
-      "id": "9527dd371e58",
-      "title": "datasette-charts 0.3a0",
-      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
-      "source": "Simon Willison's Weblog",
-      "source_id": "simon_willison",
-      "author": null,
-      "published": "2026-11-25T18:16:50+00:00",
-      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite ,…",
-      "tags": [
-        "datasette",
-        "visualization",
-        "datasette-charts"
-      ],
-      "tier": "authors",
-      "region": "global"
-    },
-    {
       "id": "c2211ba4f6cd",
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
@@ -1699,6 +1631,19 @@
       "region": "global"
     },
     {
+      "id": "01cdd83d3c55",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News (100+ points)",
+      "source_id": "hacker_news",
+      "author": "dr_red_dog",
+      "published": "2026-11-25T15:16:53+00:00",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50643158 Points: 287 # Comments: 175",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
       "id": "82114f5345a3",
       "title": "Ottante",
       "url": "https://www.producthunt.com/products/ottante",
@@ -1766,19 +1711,6 @@
         "In Brief",
         "Meta"
       ],
-      "tier": "startup_news",
-      "region": "global"
-    },
-    {
-      "id": "1f5c9fd15039",
-      "title": "Monton",
-      "url": "https://www.producthunt.com/products/monton",
-      "source": "Product Hunt",
-      "source_id": "product_hunt",
-      "author": "Miguel Carruego",
-      "published": "2026-11-25T13:32:15+00:00",
-      "summary": "AI agents that do your agency's busywork Discussion | Link",
-      "tags": [],
       "tier": "startup_news",
       "region": "global"
     },
@@ -1853,6 +1785,68 @@
       "published": "2026-11-25T10:22:09+00:00",
       "summary": "",
       "tags": [],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "b0deea04c96b",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review (AI)",
+      "source_id": "mit_tech_review_ai",
+      "author": "Matthew King",
+      "published": "2026-11-25T10:00:00+00:00",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…",
+      "tags": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "tier": "ai_news",
+      "region": "global"
+    },
+    {
+      "id": "44c8b947a476",
+      "title": "Spark AI",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Garry Tan",
+      "published": "2026-11-25T07:30:40+00:00",
+      "summary": "AI-native permitting & diligence services for data centers Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "60051584ee85",
+      "title": "Kagi Mail",
+      "url": "https://www.producthunt.com/products/kagi",
+      "source": "Product Hunt",
+      "source_id": "product_hunt",
+      "author": "Justin Jincaid",
+      "published": "2026-11-25T07:24:38+00:00",
+      "summary": "Private email that puts people who need you first Discussion | Link",
+      "tags": [],
+      "tier": "startup_news",
+      "region": "global"
+    },
+    {
+      "id": "ab51e7b113ee",
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "source": "MarkTechPost",
+      "source_id": "marktechpost",
+      "author": "Asif Razzaq",
+      "published": "2026-11-25T05:42:05+00:00",
+      "summary": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified. The post ByteDance Researchers Open-Sources Laminar, an Async…",
+      "tags": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs"
+      ],
       "tier": "ai_news",
       "region": "global"
     }
